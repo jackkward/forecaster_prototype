@@ -48,8 +48,8 @@ forecaster_prototype/
 
 Each text file in the content/ directory should include:
 
-A summary enclosed in <SUMMARY> and </SUMMARY> tags.
-The full content enclosed in <CONTENT> and </CONTENT> tags.
+A summary enclosed in `<SUMMARY>` and `</SUMMARY>` tags.
+The full content enclosed in `<CONTENT>` and `</CONTENT>` tags.
 
 Example file (`article1.txt`):
 ```
