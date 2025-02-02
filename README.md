@@ -15,17 +15,6 @@
 
 ---
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Directory Structure](#directory-structure)
-- [Content File Format](#content-file-format)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Customization](#customization)
-
----
-
 ## Prerequisites
 
 - **Python Version:** Python 3.8 or later is recommended.
@@ -38,7 +27,7 @@
   pip install anthropic openai pydantic
 
 ---
-
+```
 forecaster_prototype/
 ├── forecast.py
 ├── system_prompts/
@@ -51,7 +40,8 @@ forecaster_prototype/
     └── syria/                         # Example scenario directory.
         ├── questions.txt              # File with one question per line.
         └── results/                   # Directory where answer files are saved.
-
+    └── ...
+```
 ---
 
 ## Content File Format
