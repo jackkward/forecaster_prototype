@@ -1,0 +1,267 @@
+<TITLE>The Role of the Middle East in the US-China Race to AI Supremacy</TITLE>
+<PUBLISHED_DATE>2024-11-19</PUBLISHED_DATE>
+<URL>https://www.mei.edu/publications/role-middle-east-us-china-race-ai-supremacy</URL>
+<AUTHOR></AUTHOR>
+
+<SUMMARY>
+This article argues that the US needs a better definition of "AI supremacy" to effectively compete with China in AI development.
+-  The report defines AI supremacy as the ability to manage the entire AI chain, from research to commercialization and geopolitical influence.
+-  The US is currently struggling with this definition, leading to inconsistent AI policy.
+-  The article highlights the Middle Eastern nations' involvement in the AI race, particularly the UAE and Saudi Arabia.
+-  The authors propose five recommendations to improve US AI strategy, including targeted funding for research and commercialization, enhanced STEM education, and a stronger global AI governance role.
+-  The central concern is that the lack of a clear definition of AI supremacy undermines the long-term US strategy in this critical technology race.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- 1 Leading the pack were tech giants like Tencent, Ping An Insurance, Baidu, and the Chinese Academy of Sciences.
+- While sheer patent volume does not guarantee actionable breakthroughs, 2 it does indicate China's distinct focus on commercialization and real-world applications of AI models.
+-   The AI race, however, is global.
+- States with both the intent and the resources to access computing equipment, talent, energy, and data can develop AI within their borders, to some extent.
+- Outside of our US-China benchmark, then, we find this combination of intent and resources emerging in the Middle East, where several states have entered the global AI race.
+
+</HIGHLIGHTS>
+<CONTENT>
+Artificial intelligence (AI) is a pivotal catalyst for global innovation, with the United States at the forefront of the development of this transformative technology amid its ongoing great power rivalry with China.
+
+However, a notable concern has emerged: the absence of an explicit conception of AI supremacy that threatens to undermine the US' long-term AI strategy.
+
+The notion of AI supremacy traditionally has been difficult to define, paralleling disputes about whether competition over AI is a “race.” This report thus aims to accomplish two objectives: first, to define AI supremacy and anchor this concept in the realities of the AI competition thus far; and second, to revise the US' AI strategy in accordance with a more comprehensive understanding of AI supremacy.
+
+
+ The AI race, unsurprisingly, has drawn in actors from the Middle East.
+
+The United Arab Emirates (UAE) and Saudi Arabia, especially, are pursuing the development of indigenous AI ecosystems, each seeking to attain the regional upper hand, throwing their capital behind their stated national AI aims.
+
+This report attempts to steer the conversation on the global AI race toward a comprehensive conception of AI supremacy that is anchored in the realities of international affairs and US-China great power competition.
+
+
+ Read the report as a PDF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Executive Summary 
+ The United States aims to maintain its supremacy in artificial intelligence (AI) as part of its great power competition with China.
+
+To this end, the US finds itself pulling the levers of its underlying technical, commercial, defense, political, and geopolitical forms of power.
+
+This manifests most prominently in the US’ export control regime on advanced computing technologies, allied cooperation and limitations therein, and China’s response amid its bid to achieve technological self-sufficiency.
+
+
+ However, a suitably comprehensive conception of AI supremacy eludes policymakers.
+
+Wranglings over whether AI competition can be usefully conceived as a “race” and what constitutes the endpoint toward which its participants are hurtling causes US AI policymaking vis-à-vis China to adopt a somewhat post-hoc character as innovations in AI proceed.
+
+
+ This report aims to remedy this in two ways.
+
+First, it provides a comprehensive account of AI supremacy, which is defined as the greatest relative ability of a state to manage the chain of progressive steps leading from basic AI research and development (R&amp;D) to commercialization of products at scale, and their dual-use defense applications, up to the level of politics and geopolitics in shaping cross-border AI interactions .
+
+Second, it offers five recommendations to improve the US strategy toward achieving AI supremacy.
+
+
+ The recommendations cover: (1) targeted federal funding for basic AI research; (2) federal support for STEM education and vocational training; (3) federal support for commercialization; (4) a proactive and multilateral export control regime; and (5) a leadership position for the US in global AI governance.
+
+
+ The Global AI Race 
+ Introduction 
+ Artificial intelligence (AI) is a pivotal catalyst for global innovation, with the United States at the forefront of the development of this transformative technology amid its ongoing great power rivalry with China.
+
+However, a notable concern has emerged: the absence of an explicit conception of AI supremacy threatens to undermine the US' long-term AI strategy.
+
+The notion of AI supremacy traditionally has been difficult to define, paralleling disputes about whether competition over AI is a “race.” This report thus aims to accomplish two objectives: first, to define AI supremacy and anchor this concept in the realities of the AI competition thus far; and second, to revise the US' AI strategy in accordance with a more comprehensive understanding of AI supremacy.
+
+
+ Chinese and US flags.
+
+Source: Teh Eng Koon/AFP via Getty Images.
+
+We argue that AI “supremacy” is an indispensable concept.
+
+We define it as the greatest relative ability of a state to manage the chain of events leading from basic AI research and development (R&amp;D) to commercialization of products at scale and their dual-use defense applications and up to the level of politics and geopolitics in shaping cross-border AI interactions.
+
+
+ The race for AI supremacy, then, is not just about R&amp;D.
+
+It is a complex interplay between groundbreaking innovation and the ability to translate those ideas into real-world applications, both commercially and militarily, and to do so at scale.
+
+AI supremacy is therefore undergirded by relevant forms of power, including technical, commercial, defense, political, and geopolitical power to which states have varying degrees of access.
+
+The US and China are cases in point.
+
+With its vibrant start-up culture and world-renowned research institutions, the US is a force to be reckoned with in the AI space.
+
+OpenAI made headlines in 2022 with the release of ChatGPT, a powerful chatbot that sparked the current frenzy surrounding large language models (LLMs).
+
+These models, powered by vast amounts of data and advanced computer processing, are at the forefront of generative AI, capable of producing human-quality text, code, and other creative formats.
+
+China, in contrast, boasts a staggering volume of AI patent filings.
+
+A 2023 report by the World Intellectual Property Organization (WIPO) revealed that Chinese companies and institutions filed over 38,000 generative AI patents between 2014 and 2023, dwarfing the US total of 6,276 during the same period.
+
+1 Leading the pack were tech giants like Tencent, Ping An Insurance, Baidu, and the Chinese Academy of Sciences.
+
+While sheer patent volume does not guarantee actionable breakthroughs, 2 it does indicate China's distinct focus on commercialization and real-world applications of AI models.
+
+
+ The AI race, however, is global.
+
+States with both the intent and the resources to access computing equipment, talent, energy, and data can develop AI within their borders, to some extent.
+
+Outside of our US-China benchmark, then, we find this combination of intent and resources emerging in the Middle East, where several states have entered the global AI race.
+
+The United Arab Emirates (UAE) and Saudi Arabia, especially, are pursuing the development of indigenous AI ecosystems, each seeking to attain the regional upper hand, throwing their capital behind their stated national AI aims.
+
+3 
+ Global AI 2020 Summit in Riyadh, Saudi Arabia, on Oct.
+
+21, 2020.
+
+Photo by Fayez Nureldine/AFP via Getty Images.
+
+
+ We survey the global race for AI supremacy thus far principally through the story of the US' export control regime on advanced computing technologies, allied cooperation and limitations therein, and China’s responses amid its effort to achieve technological self-reliance.
+
+These dynamics expose the underlying forms of power relevant to states’ pursuit of AI supremacy and how unresolved tensions between them hamper a state’s ability to harness them in tandem.
+
+This framing also allows us to explore a case that taps into the technical, commercial, defense, political, and geopolitical dimensions of AI supremacy: the partnership between American tech giant Microsoft and Abu Dhabi-based AI firm G42.
+
+This case is instructive for both its initial ambitions and its eventual parebacks, both of which we assess from the perspective of the US' pursuit of AI supremacy.
+
+It reveals a push-and-pull effect between American policymakers’ desire to manage the AI competition across international borders principally through export controls and to draw the UAE away from China’s technological orbit into the US' by cultivating cross-border commercial relationships — it is a crystallization of an effort to juggle AI supremacy’s underlying forms of power.
+
+
+ This report thus aims to steer the conversation on the global AI race toward a comprehensive conception of AI supremacy that is anchored in the realities of international affairs and US-China great power competition.
+
+In this way, we aim to provide strategic clarity for a technological competition that is simultaneously diffuse yet fought on shared terms: as Middle Eastern powers rapidly emerge as formidable contenders in the AI arena, it is imperative to consider their aspirations alongside those of the established great powers.
+
+To do this, a conception of AI supremacy that allows analysts and policymakers to switch their frames of reference from discussions of access to AI hardware or talent to the commercial and defense applications of AI models and to the political and geopolitical contours of the AI competition is necessary.
+
+A comprehensive notion of AI supremacy will shape the future of the AI competition, alliances, and the global technological order.
+
+We ultimately argue that to secure AI supremacy over the long run, the US must expedite the implementation of AI solutions while simultaneously addressing the critical task of defining and assessing AI supremacy — a learning curve that is still being traversed.
+
+We provide five recommendations to this end.
+
+
+ Server chip Yitian 710 developed by Alibaba’s in-house semiconductor unit on display during Aspara Conference 2021.
+
+Photo by Xu Kangping/VCG via Getty Images.
+
+
+ What Is AI Supremacy? 
+ According to the previously described definition of AI supremacy, in which we have identified the state as the key actor and the arena as international, this paper’s references to the global AI “race” refer to states’ efforts to become world leaders in their relative abilities to manage the entire spectrum of interactions related to the development and use of AI technology, both domestically and internationally.
+
+
+ We believe that defining AI supremacy this way avoids an over-intellectualizing of AI’s role in world affairs.
+
+Such over-intellectualization threatens to both distort the idea of leadership in AI and to reduce a much needed emphasis on a cohesive AI strategy by the US amid its great power competition with China.
+
+The key maneuver here is in recognizing that both proponents and opponents of the idea of an AI “race” hit upon vital points regarding states’ pursuits of AI that we adopt here, but tend to fall into two traps: they either abstract too far away from the practical realities of AI’s development and deployment or they attempt to reduce AI to the particularities of a state’s relative economic and political conditions, losing sight of the usefulness of the concepts of an AI race and AI supremacy.
+
+
+ The former position is represented by the Center for a New American Security’s Paul Scharre, who argues in his 2023 book, Four Battlegrounds: Power in the Age of Artificial Intelligence , that there are four key components relevant to AI and relative state power: data, compute (computing power), talent (AI expertise), and institutions (capable of harnessing AI models’ potential).
+
+4 Scharre also likens the competition over AI to the US-Soviet space race and its knock-on economic and national security benefits.
+
+5 In contrast, then-Center for Security &amp; Emerging Technology analyst Micah Musser, commenting on the relative disparity in 2023 in the pursuit by the US and China of generative AI, represents the latter view: while both states view AI as a strategic technology, different domestic needs and trajectories have led them to place different emphases on generative AI.
+
+China, for its part, has historically focused more on computer vision rather than natural language processing (NLP).
+
+Moreover, its economic reliance on manufacturing — in contrast to America’s reliance on professional business services — makes chatbots less impressive.
+
+Finally, the technology’s propensity to hallucinate interferes with China’s political governance and perceived social stability.
+
+6 Musser’s implication is that analysts should “stop calling it a race.” 7 
+ Both of these positions, represented at a general level here, offer something valuable.
+
+Scharre is correct to point out that data, compute, talent, and institutions are key factors for a state’s relative power in AI, whereas Musser is correct that these factors are leveraged in substantially different ways depending on the domestic conditions of the state in question.
+
+The emphasis on AI’s four key components, for their part — while vital — overshadows the need for a sufficiently robust framework through which to assess a state’s share of relative power over AI and allow the analyst to project into the future with confidence.
+
+8 In the absence of this framework, the risk of excessive analytic hedging on the future of technology and the utility of the choices states make in reference to it loom large.
+
+9 A more comprehensive conception of AI supremacy is needed.
+
+
+ The converse case illustrated by Musser, that there are state-specific conditions attached to the pursuit of AI, does not detract from both a competitive geopolitical landscape vis-à-vis AI (the race) and a meaningful leadership position that one state holds over another (AI supremacy).
+
+The proper goal of a geopolitical analyst, we argue, cannot be to dismiss the AI competition as merely the result of misguided threat perceptions of actors on the world stage; rather, their role is to construct a framework flexible enough to accommodate a litany of state-specific peculiarities pertinent to AI but robust enough to assess one state’s relative power over the technology in contrast to another state’s.
+
+
+ As a first stop, we believe exploring China’s ability to quickly deploy AI models commercially allows us to flesh out the value of our definition of AI supremacy.
+
+
+ Display at World Artificial Intelligence Conference in Shanghai on July 4, 2024.
+
+Photo by STR/AFP via Getty Images.
+
+
+ China's Quick AI Deployment and the Role of Government 
+ As noted, the ability to commercially deploy AI models at scale matters for AI supremacy as much as the ability to conduct basic AI research.
+
+One of China’s core strengths in the quest for AI supremacy is the quick deployment of AI models and the role of government in this endeavor.
+
+Indeed, the Chinese State Council’s 2017 “New Generation Artificial Intelligence Development Plan” — a high-level roadmap for the country’s approach to AI through 2030 — explicitly describes its three sets of strategic objectives (marking out objectives in 2020, 2025, and 2030) by linking AI theories and basic research with practical applications in fields like manufacturing, medicine, and defense, among others.
+
+10 China is manipulating the commercial dimension of AI supremacy by tapping into the country’s comparatively more nimble handle on the deployment of AI models, giving it an advantage in this link of the chain.
+
+
+ This point about deployment should not be lost amid the recognition that China lags in areas including access to technical resources — such as advanced chips used to train generative AI models — and the agenda-setting ability of American private-sector innovation.
+
+We have already noted one such example in the case of ChatGPT and subsequent generative AI enthusiasm.
+
+
+ Another particularly striking example of America’s ability to move up the chain from basic AI R&amp;D to dual-use defense applications is the employment of the machine learning model “Raven Sentry.” American intelligence analysts aiming to predict seemingly abrupt bursts of political violence in Afghanistan in the summer of 2020 contracted Silicon Valley-based experts to train a neural network to this end.
+
+The network was trained on historical data on violence with open-source material such as weather data, social media posts, news reports, and commercial satellite images.
+
+Within months, the model was capable of correctly judging an attack to be likely with the highest probability (80-90%) 70% of the time, on a par with human analysts, though at much greater speed.
+
+11 
+ Because Chinese technological progress is often associated with technology theft from other countries, including the US, its ability to move up this chain — from R&amp;D to execution — is sometimes underestimated.
+
+Its ability to similarly tap into a reservoir of private-sector AI talent and extract a mission-applicable AI solution of the kind embodied by Raven Sentry is not typically held in the same esteem by analysts as America’s.
+
+There is truth to this.
+
+Consider how even China’s “lukewarm” reception of generative AI (putting aside divergent economic reliance on this technology) notably followed America’ stage-setting AI innovation.
+
+
+ Not two years on from ChatGPT’s release, however, the situation has changed.
+
+Some Chinese companies have embraced open-source AI — the sharing of in-house technologies or the code governing AI models.
+
+This enabled internet company Kuaishou to build “Kling,” a Sora-like text-to-video generator, and release it to users.
+
+Shortly after, 01.AI, a startup founded by Kai-Fu Lee, released competitive generative AI chatbot technology.
+
+While US-led export controls on advanced computing equipment have a limiting impact, there is some evidence that this kind of research environment has a mutual (though as-yet heavily uneven) influence on Western AI researchers, leading to a partial reversal of the dynamic that typically flows unidirectionally from America to China.
+
+12 China’s ability to cultivate an AI research ecosystem that expands this bidirectionality will depend on its grip on lower-level aspects of the AI supremacy chain, namely access to technical resources such as hardware and talent.
+
+More than this, Chinese firms are now attempting to construct generative models by writing more efficient underlying code, thereby reducing the need for the most advanced AI chips.
+
+The emphasis on the specialized models for tailored purposes, rather than ever-larger models, is illustrated by Baidu Chief Executive Officer (CEO) Robin Li’s remark: “Without applications, having only foundational models, whether open source or closed source, is worthless.” 13 
+ In other areas, China’s hold on the commercialization of AI-enabled products is firmer and more assertive.
+
+China is leading the charge in smart cars, taking a mere 17 months to produce a batch of 10 million electric vehicles (EVs) after spending 26 years on the first batch of 10 million.
+
+EVs made in China are increasingly “AI-on-wheels.” 14 As Wendy Chang and Antonia Hmaidi note, the Chinese state’s guiding principle to have AI serve the “real economy” is pronounced in the growth-inducing EV industry, where Chinese-made AI-enabled autonomous driving softwares like XPeng compete with one another.
+
+15 (This comes amid new data that half of all vehicles sold in China in July 2024 were either pure electric vehicles or plug-in hybrid vehicles, a jump in sales of new energy vehicles of 37% from July 2023.
+
+16 ) Finally, Baidu’s deployment of 500 autonomous taxis available for consumers to hail in Wuhan made it, as of July 2024, the world’s largest self-driving car network, covering 2,000 square km more than that of US-based Waymo’s largest autonomous vehicle network in Arizona.
+
+17 
+ To be sure, the existing dynamism of advanced scientific and technological research in the US coupled with the near-term effects of US-led export controls on Chinese AI research means that China’s ability to build agenda-setting AI models lags.
+
+The point of our emphasis here on the fuller conception of AI supremacy, however, is China’s ability to both develop and deploy commercial AI models at scale even in considerably constrained internal conditions (political censorship) and external conditions (export controls).
+
+Hong Kong-based investor Jennifer Zhu Scott recently argued in this vein that China’s constraints do force its technology companies to accept limitations on their ability to build models that compare to the size of, say, OpenAI’s GPT-4, but these limitations enable a pragmatic approach to the development of AI models that allows China to “excel in execution: finding product-market fit, scale, and making applications highly affordable
+
+</CONTENT>

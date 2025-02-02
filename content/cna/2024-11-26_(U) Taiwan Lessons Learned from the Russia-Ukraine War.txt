@@ -1,0 +1,534 @@
+<TITLE>(U) Taiwan Lessons Learned from the Russia-Ukraine War</TITLE>
+<PUBLISHED_DATE>2024-11-26</PUBLISHED_DATE>
+<URL>https://www.cna.org/reports/2024/12/Taiwan-Lessons-Learned-from-the-Russia-Ukraine-War.pdf</URL>
+<AUTHOR>Kevin Pollpeter, Tsun-Kai Tsai, and April Herlevi</AUTHOR>
+
+<SUMMARY>
+This CNA report analyzes Taiwan's military adaptations following the 2022 Russian invasion of Ukraine.
+-  The report highlights a growing urgency in Taiwan regarding a potential PRC invasion,  leading to multifaceted military reforms.
+-  Key lessons learned include the need for a layered defense (like Ukraine's Territorial Defense Force), restructuring ground forces,  increasing conscript service terms,  and emphasizing uncrewed systems, satellite communications, and cognitive warfare defenses.
+-  Taiwan is actively reforming its warfighting concepts to create a credible deterrent force, transitioning from a system of only active and reserve forces to a four-pillar "all-out defense" strategy.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- materials from Taiwan, and nearly all were published reporting on those topics, using global news outlets specific lessons learned.
+- We outline areas in which that could be pursued.
+
+</HIGHLIGHTS>
+<CONTENT>
+DRM-2024-U-039153-1Rev © 2024 CNA Corporation
+NOVEMBER 2024
+Approved for public release: distribution unlimited.
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+Kevin Pollpeter, Tsun-Kai Tsai, and April Herlevi
+Abstract
+This report examines Taiwan’s lessons learned from the 2022 Russian invasion of Ukraine.
+
+Lessons learned by Taiwan
+are already influencing Taiwan’s defense strategy and have created a sense of urgency for government leaders.
+
+The
+possibility of an invasion by the People’s Republic of China has been an ever-present reality for Taiwan’s leaders, but
+the Russia-Ukraine conflict has provided an opportunity to learn from that experience and enact multifaceted reform
+with the goal of turning the Taiwan military into a credible deterrent and warfighting force.
+
+Taiwan has already begun
+to restructure its ground forces and lengthen the terms of service for conscripts.
+
+The Russia-Ukraine war has also
+highlighted the role of uncrewed autonomous systems, the need for satellite communications connectivity, and the
+importance of defending against cognitive warfare operations.
+This document contains the best opinion of CNA at the time of issue.
+
+The views, opinions, and findings contained in this
+report should not be construed as representing the official position of the Department of the Navy.
+Approved for public release: distribution unlimited.
+This work was funded internally by CNA.
+Cover image: Shutterstock.
+This document may contain materials protected by the Fair Use guidelines of Section 107 of the Copyright Act, for
+research purposes only.
+
+Any such content is copyrighted and not owned by CNA.
+
+All rights and credits go directly to
+content’s rightful owner.
+Approved by: November 2024
+Maryanne Kivlehan-Wise
+Program Director, China Studies Program
+China & Indo-Pacific Security Affairs Division
+© 2024 CNA Corporation
+Request additional copies of this document through inquiries@cna.org.
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org i
+EXECUTIVE SUMMARY
+“Ukraine today, Taiwan tomorrow” is now a
+commonly used phrase in Taiwan.
+
+For decades,
+Taiwan treated a potential invasion by the People’s
+Republic of China (PRC) as a remote possibility.
+However, the 2022 Russian invasion of Ukraine has
+made a PRC invasion of Taiwan appear more credible
+and generated a sense of urgency among some leaders
+in Taiwan.
+
+This report examines the lessons learned
+that Taiwan’s government and defense officials are
+extracting from Russia’s invasion of Ukraine.
+The Taiwan government and military have enacted
+multifaceted reform with the goal of turning the
+Taiwan military into a credible deterrent and
+warfighting force.
+
+Although some reform debates
+predate the Russia-Ukraine war, Taiwan government
+officials have taken lessons from Ukraine to guide
+restructuring of Taiwan’s military forces.
+
+Changes
+include lengthening the terms of service for
+conscripts and revising the military training cycle.
+The Russia-Ukraine war has also highlighted the
+role of uncrewed autonomous systems, emphasized
+the need for satellite communications connectivity,
+and reinforced the importance of defending against
+cognitive warfare operations.
+
+In this paper, we
+describe five key lessons learned that the Taiwan
+government is using to guide its efforts to turn
+the Taiwan military into a credible deterrent and
+warfighting force.
+Lesson #1: Force structure matters
+Ukraine’s Territorial Defense Force serves as a
+model for Taiwan military restructuring to create
+a defense in depth and improve deterrence by
+raising the potential costs of a Taiwan military
+invasion by the PRC.
+Taiwan’s military is in the process of changing its
+warfighting concept of operations.
+
+The previous
+system, composed of only active and reserve
+forces, has been replaced by the “all-out defense”
+system, which includes four pillars: (1) main forces,
+(2) garrison forces, (3) reserve forces, and (4) civil
+defense elements.
+
+Each pillar has its own missions
+and areas of responsibility.
+Drawing on Ukraine’s experience with its Territorial
+Defense Force, the main force will have better
+trained and equipped units.
+Garrison forces will be made up primarily of
+conscripts and will be responsible for homeland
+defense missions, such as protection of cities and
+key government and military facilities.
+In wartime, the reserve forces will be mobilized to
+provide support to main and garrison units.
+The civil defense system is intended to support
+military operations, including such tasks as providing
+medical assistance, performing rapid repair, offering
+shelter, and maintaining law and order.
+The creation of these additional systems is meant to
+create a defense in depth and improve deterrence
+by raising the potential costs of a Taiwan invasion.
+Despite changes to warfighting concepts, the
+role of the navy and air force appears relatively
+unchanged.
+Personnel changes, such as the length of service
+obligations of conscripts, pertain to all three branches
+of the Taiwan armed forces, but the all-out defense
+mobilization plans appear to be primarily directed at
+the Taiwan army.
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org ii
+The Republic of China Navy, according to the 2023
+National Defense Report, will continue to “meet its
+requirements for joint sea control missions,” and the
+Republic of China Air Force will be responsible for
+overall air defense operations.
+However, it is unclear how personnel and training
+changes initially focused on the army’s defense in
+depth will affect how the navy and air force operate,
+especially given the important role each service has
+during wartime to deny the ability of the People’s
+Liberation Army (PLA) to cross the Taiwan Strait and
+during peacetime to contest PRC gray zone operations.
+Lesson #2: Personnel are critical
+for all-out defense strategy
+Taiwan recognizes that well-trained personnel are
+key to any defense but has not adopted Ukraine’s
+popular resistance model.
+The Russia-Ukraine war demonstrates the
+importance of having sufficient numbers of welltrained personnel.
+
+Taiwan has made the politically
+unpopular decision to lengthen service commitments
+for conscripts from four months to one year.
+
+The
+decision to increase conscription service length
+is intended to increase the number of personnel
+available for Taiwan’s defense and to make those
+conscripts better trained.
+Despite important personnel changes for the military,
+the Taiwan government does not appear to support
+peacetime measures to promote popular resistance.
+The arming of private citizens runs counter to Taiwan’s
+strict gun laws, and the formation of private militias
+would likely raise command and control issues for the
+Taiwan government and military.
+
+Similarly, no source
+surveyed for this study advocated for the creation
+of an international volunteers unit such as Ukraine’s
+International Legion for the Defense of Ukraine.
+Lesson #3: Importance of
+uncrewed systems
+Uncrewed systems could increase costs for the
+PRC and limit the costs for Taiwan.
+Taiwan’s government and military have recognized
+the utility of drone warfare and embarked on an
+ambitious national drone program.
+
+Uncrewed aerial
+vehicles (UAVs) could potentially inflict costs on the
+PRC and PLA while limiting losses for Taiwan.
+
+The
+Taiwan military has committed to acquiring more
+than 700 military-grade UAVs and more than 7,000
+commercial grade UAVs by 2028.
+
+Considering the
+heavy attrition of drones in the Russia-Ukraine
+war, Taiwan may need to significantly expand its
+acquisition of uncrewed systems to meet wartime
+requirements.
+
+The Taiwan Ministry of National
+Defense has also sought to acquire counter-UAV
+systems as part of its larger effort to produce and
+acquire a variety of UAVs.
+Lesson #4: Necessity of
+connectivity
+Satellite communications plans promise
+to increase resilience and reduce Taiwan’s
+telecommunications vulnerability.
+In 2023, the Taiwan Ministry of Digital Affairs and
+Chunghwa Telecom both signed agreements
+with European companies to receive satellite
+communication services and access low Earth orbit
+networks.
+
+The Taiwan Space Agency has suggested
+that it may need 120 satellites for resilience, and
+the Taiwan government has committed to acquiring
+additional ground-based satellite communication
+terminals.
+
+However, the number of terminals is far
+below the amount used by Ukraine.
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org iii
+Lesson #5: Cognitive warfare
+concerns
+PRC cognitive warfare activities remain a critical
+issue for Taiwan.
+PRC cognitive warfare activities predate the 2022
+Russian invasion of Ukraine and remain a focus
+of concern for Taiwan authorities.
+
+In 2022, former
+president Tsai Ing-wen called information warfare
+operations the biggest challenge to Taiwan’s survival.
+Although Taiwan researchers have monitored the
+Russia-Ukraine war for trends in cognitive warfare,
+Taiwan’s efforts to counter PRC cognitive warfare
+operations largely draw upon its own experience.
+Taiwan government and academic documents do
+not discuss protracted warfare.
+Despite a strong focus on the concerns associated
+with cognitive warfare, discussions of the likelihood
+of protracted warfare are not prominent.
+
+Taiwan
+sources surveyed for this report discuss the deterrent
+and operational advantage of creating a defense
+in depth, but there is little discussion of Taiwan’s
+options if the conflict should turn into a stalemate.
+Analysts argue that one reason for a defense-indepth strategy is to buy time for the US military to
+actively become involved in defending Taiwan.
+
+As the
+Russia-Ukraine war continues, these observations
+may change.
+Indicators to watch
+Predicting national resistance or will to fight is
+incredibly difficult.
+
+However, this study found
+that Taiwan officials and researchers are taking
+lessons learned from the Russia-Ukraine war
+seriously.
+
+Indicators to watch to evaluate how Taiwan
+is applying its lessons learned include the following:
+• Progress on implementation of the current
+military training program
+• Additional changes to the length of service
+requirements for conscripts
+• Changes to civil defense systems
+• Acquisition and production of commercial
+and military-grade uncrewed systems
+• Increases in ground-based terminals
+necessary for resilient communications
+• Discussions of popular resistance plans,
+the potential effects of protracted war, or
+expansion of current mobilization systems
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org iv
+TABLE OF CONTENTS
+1.
+
+Introduction .................................................................................
+
+1
+Approach and organization ..................................................................................................
+
+2
+2.
+
+Structural Reform.........................................................................
+
+4
+2.1 A role for guerilla forces?................................................................................................
+
+6
+3.
+
+“All-Out Defense”.........................................................................
+
+8
+3.1 Conscription reform..........................................................................................................
+
+8
+3.1.1 Recruit training ............................................................................................................
+
+8
+3.1.2 Post-recruit training.................................................................................................11
+3.1.3 Pay and benefits........................................................................................................12
+3.2 Problems to resolve ........................................................................................................12
+3.2.1 Potential problems regarding reserve force mobilization........................12
+3.2.2 Reserve force logistics issues ...............................................................................14
+3.3 Civilian efforts....................................................................................................................15
+3.3.1 Civil defense system ................................................................................................15
+3.3.2 Private efforts .............................................................................................................15
+4.
+
+Uncrewed Systems ....................................................................
+
+17
+4.1 Taiwan assessments of uncrewed systems.............................................................17
+4.2 National Drone Team .....................................................................................................18
+4.3 Counter-drone warfare..................................................................................................19
+5.
+
+Satellite Communications...........................................................
+
+20
+6.
+
+Cognitive Warfare.......................................................................
+
+22
+6.1 Assessments of cognitive warfare operations in Russia-Ukraine war.........22
+6.2 Taiwan views of PRC cognitive warfare....................................................................23
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org v
+7.
+
+Conclusion.................................................................................
+
+25
+7.1 Force structure matters .................................................................................................25
+7.2 Personnel are critical for all-out defense................................................................26
+7.3 Importance of uncrewed systems .............................................................................27
+7.4 Necessity of connectivity ..............................................................................................27
+7.5 Cognitive warfare concerns .........................................................................................27
+Indicators to watch.................................................................................................................28
+Appendix: Sources.........................................................................
+
+30
+Figures ..........................................................................................
+
+31
+Abbreviations.................................................................................
+
+32
+Endnotes .......................................................................................
+
+33
+References ....................................................................................
+
+44
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org vi
+This page intentionally left blank.
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org 1
+1.
+
+INTRODUCTION
+“Ukraine today, Taiwan tomorrow” is now a
+commonly used phrase in Taiwan.1 For decades,
+Taiwan treated a potential invasion by the People’s
+Republic of China (PRC) as a remote possibility.
+However, the 2022 Russian invasion of Ukraine has
+made a PRC invasion of Taiwan appear more credible
+and generated a sense of urgency among some
+leaders in Taiwan.
+
+This report examines the lessons
+learned that Taiwan government and defense officials
+are extracting from Russia’s invasion of Ukraine.
+According to Taiwan’s 2023 National Defense Report,
+the Russia-Ukraine war has taught Taiwan that “a
+totalitarian regime can ignore international rules
+and kick off invasion for the sake of its own national
+interests or political assertions.”2
+The Taiwan government and military have
+enacted multifaceted reform with the goal
+of turning the Taiwan military into a credible
+deterrent and warfighting force.
+
+Although some
+reform debates predate the Russia-Ukraine war,
+Taiwan government officials have taken lessons from
+Ukraine to guide restructuring of Taiwan’s military
+forces.
+
+Changes include lengthening the terms of
+service for conscripts and revising the military training
+cycle.
+
+The Russia-Ukraine war also highlighted the
+role of uncrewed autonomous systems, emphasized
+the need for satellite communications connectivity,
+and reinforced the importance of defending against
+cognitive warfare operations.
+Based primarily on Taiwan government and military
+policy documents and Taiwan military analyst
+assessments of the Russia-Ukraine war, we argue
+that the Russia-Ukraine war has resulted in profound
+changes in Taiwan’s approach to its defense, in large
+part because of the increased sense of urgency.
+
+Based
+on these lessons learned, the Taiwan government and
+military are attempting to reform the Taiwan military
+into a credible deterrent and warfighting force.
+Similarities exist between Ukraine and Taiwan.
+Both are democracies threatened by the territorial
+ambitions of a larger and more powerful neighbor.
+Both have strong linguistic, cultural, and economic
+ties with their larger neighbor.
+
+Important differences
+also exist between Russia’s invasion of Ukraine and
+a potential PRC invasion of Taiwan, however.
+
+Most
+notably, Ukraine has land borders, and Taiwan is
+an island, which both benefits and disadvantages
+Taiwan.
+
+PRC efforts to invade Taiwan would be
+greatly complicated by the necessity to conduct an
+amphibious landing on Taiwan’s shores.
+
+In contrast,
+Ukraine’s land borders facilitate international support
+with the flow of people and supplies, whereas a
+blockade of Taiwan could cut off the island from
+material support.
+
+Although Ukraine’s sovereignty is
+supported by many countries, Taiwan’s unique status
+could limit its ability to garner international support.
+Based on study of the Russia-Ukraine conflict,
+the Taiwan Ministry of National Defense (MND)
+asserts that Taiwan’s commitment to democracy
+and freedom will generate support among the
+international community.
+
+According to the Taiwan
+MND, “the majority of countries have admitted
+that peace and stability across the Taiwan Strait are
+connected with peace, stability, and prosperity not
+only in the Indo-Pacific, but also in the international
+community.”3 The Taiwan MND also asserts that
+Taiwan must be able to defend itself for others to
+come to its aid.4
+Taiwan has begun to adjust how it will carry out
+its defense strategy of “effective deterrence,
+Taiwan Lessons Learned
+from the Russia-Ukraine War
+| www.cna.org 2
+resolute defense.”5 Greater attention is now being
+placed on creating a defense in depth intended
+to wear down the People’s Liberation Army (PLA)
+landing forces on the island if it gains and breaks out
+of a lodgment on Taiwan.6 To carry out this revised
+approach, Taiwan has restructured the way in which
+it conceptualizes warfighting by the army, increased
+service requirements for conscripts, and begun to
+revamp its training.
+
+The Taiwan government has
+also undertaken an ambitious program to develop
+uncrewed capabilities, strengthen efforts to combat
+PRC cognitive warfare operations, and make its
+command and control (C2) system more resilient
+through space-based communication systems.
+Although it is too soon to evaluate the effectiveness
+of these reforms, we identify the main reform efforts
+in order to outline a research agenda, and we discuss
+indicators to watch.
+
+Indicators include the acquisition
+of uncrewed and satellite communication systems,
+societal acceptance of changes to the conscription
+system, and the emphasis on reserve, garrison, and
+civil defense forces to support the military in the
+event of conflict.
+Approach and organization
+This CNA-initiated project conducted an initial
+review of Taiwan official and military writings related
+to analysis of the Russia-Ukraine war.
+
+At its core,
+our main research question was as follows: what
+lessons learned have Taiwan analysts gathered and
+assessed related to the Russia-Ukraine conflict?
+Initial research focused on vernacular primary source
+materials from Taiwan, including a survey of official
+government documents and military journals.
+
+We
+consulted materials on Taiwan’s general defense
+strategy, defense structure, drone warfare, cognitive
+and information warfare, use of reserve forces,
+satellite communications,
+
+</CONTENT>

@@ -1,0 +1,244 @@
+<TITLE>China Brief: Salt Typhoon Hack Stirs Panic in Washington</TITLE>
+<PUBLISHED_DATE>2025-01-07</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2025/01/07/china-salt-typhoon-hack-threat-panic-washington/</URL>
+<AUTHOR>James Palmer</AUTHOR>
+
+<SUMMARY>
+The "Salt Typhoon" hack, a Chinese government-linked cyberattack, has caused significant panic in Washington.
+-  U.S.
+- intelligence officials fear a widespread penetration of US telecommunications networks, potentially compromising sensitive data like phone records and private communications.
+-  Concerns center on China potentially exploiting backdoors in US government systems, authorized under the Foreign Intelligence Surveillance Act.
+-  While the full extent of the breach isn't yet known, reports suggest numerous affected providers and encouragements for personnel to use encrypted communication.
+-  US officials are now exhibiting a high degree of concern, moving away from previous downplaying of the threat, and taking more preventative measures.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- A delay between internal speeches and publication is normal—if they are published at all—and it is a form of signaling, especially at the start of the year.
+-   The speech is typically boring, full of repetition and cliche even by the standards of Chinese government rhetoric.
+- Apart from the usual emphasis on the party above all, what stands out is Xi restating the idea that “the East is rising while the West is in decline” and that the developing world is looking to China for leadership and order.
+-   That first idea was prevalent in China after the 2007-08 global financial crisis and amid the general boosterism of the so-called Asian century.
+- But it looks shakier now , given the state of the Chinese economy, and Xi’s emphasis on it may be more about trying to convince other leaders that all is going well than actual belief.
+- 
+
+</HIGHLIGHTS>
+<CONTENT>
+Welcome to Foreign Policy ’s China Brief.
+
+
+ The highlights this week: Panic grows in Washington about the Salt Typhoon hack of U.S.
+
+telecommunications, the Chinese Communist Party sends a signal by publishing an internal speech by Chinese President Xi Jinping on Jan.
+
+1, and the U.S.
+
+Defense Department places Chinese tech giant Tencent on a blacklist for military connections.
+
+
+ Welcome to Foreign Policy ’s China Brief.
+
+
+ The highlights this week: Panic grows in Washington about the Salt Typhoon hack of U.S.
+
+telecommunications, the Chinese Communist Party sends a signal by publishing an internal speech by Chinese President Xi Jinping on Jan.
+
+1, and the U.S.
+
+Defense Department places Chinese tech giant Tencent on a blacklist for military connections.
+
+
+ 
+ 
+ Sign up to receive China Brief in your inbox every Tuesday.
+
+
+ 
+ 
+ Sign up to receive China Brief in your inbox every Tuesday.
+
+
+ 
+ 
+ By submitting your email, you agree to the Privacy Policy and Terms of Use and to receive email correspondence from us.
+
+You may opt out at any time.
+
+
+ 
+ 
+ 
+ ✓ Signed Up 
+ 
+ 
+ U.S.
+
+intelligence and security officials are evincing a growing sense of crisis about the sweeping penetration of U.S.
+
+telecommunications networks carried out by the Chinese government-linked Salt Typhoon hacking group in recent years.
+
+
+ The full extent of Beijing’s success is not yet public, but there has been steady coverage about the number of affected providers and the extent of the breaches since reports about a severe Salt Typhoon cyberattack emerged last September.
+
+
+ Current and former U.S.
+
+officials, speaking on background, have described Washington as “screwed” and the situation as “devastating.” After initially downplaying the threat, the U.S.
+
+government is now encouraging personnel to switch to encrypted messaging apps.
+
+
+ At the core of this panic are concerns that China was able to get into backdoors set up by the U.S.
+
+government for domestic surveillance .
+
+Though not confirmed through reporting, some security analysts have publicly expressed a belief that Salt Typhoon penetrated systems authorized under the Foreign Intelligence Surveillance Act.
+
+
+ The Salt Typhoon breach has far-reaching implications.
+
+There is the question of what China was able to access, which could be phone records; recordings of private communications among U.S.
+
+politicians, diplomats, and security officials; or much more.
+
+
+ U.S.
+
+officials are supposed to be cautious about using nonsecure communications; you may recall this being front-page news in 2016 and back-page news in 2024.
+
+But in practice, people prefer convenience, best security practices are about what’s possible rather than what’s perfect, and confidential discussion has long taken place on nonsecure channels sometimes.
+
+
+ The bigger question might be what China is able to do with the information, which could provide limited comfort to U.S.
+
+officials.
+
+Specific penetrations of confidential U.S.
+
+channels in the past, such as covert CIA communications , have produced direct and actionable intelligence that allowed China to purge CIA assets and aid allies such as Iran and Russia.
+
+
+ Salt Typhoon may have produced data on a scale that is more difficult for China to process.
+
+Limited analytical capacity can hold up Chinese intelligence, especially since there are major obstacles to sharing information internally.
+
+In Beijing, people with English-language skills and cultural understanding of the United States are often shut out of sensitive government jobs.
+
+
+ Still, that would mean China is sitting on caches of data that contain key information about U.S.
+
+government actions that it hasn’t uncovered yet but could at any time.
+
+Salt Typhoon also managed to penetrate parts of the U.S.
+
+government that work directly on issues of major concern to Beijing, such as the U.S.
+
+Treasury’s sanctions department .
+
+
+ And there seems to be little that Washington can meaningfully do in response, other than work on the assumption of compromise.
+
+Repeated U.S.
+
+criminal indictments of Chinese cybersecurity actors are empty theater that have had little deterrent effect, as the Salt Typhoon operations show.
+
+
+ Salt Typhoon is hardening anti-China consensus in Washington at an already volatile time, as President-elect Donald Trump prepares to take office.
+
+It’s worth remembering that the United States also uses cyber-espionage against China; though Beijing has denied the hacking, its officials might also privately dismiss U.S.
+
+concerns as hypocritical.
+
+
+ But that doesn’t stop the anger in Washington from being real: There is little that infuriates politicians more than the idea of foreign intrusion into private lives, especially their own.
+
+
+ 
+ Xi’s big speech.
+
+On Jan.
+
+1, Chinese Communist Party (CCP) journal Qiushi published a long speech delivered by Chinese President Xi Jinping to an audience of top party leaders in early 2023 (helpfully translated here by Sinocism’s Bill Bishop).
+
+A delay between internal speeches and publication is normal—if they are published at all—and it is a form of signaling, especially at the start of the year.
+
+
+ The speech is typically boring, full of repetition and cliche even by the standards of Chinese government rhetoric.
+
+Apart from the usual emphasis on the party above all, what stands out is Xi restating the idea that “the East is rising while the West is in decline” and that the developing world is looking to China for leadership and order.
+
+
+ That first idea was prevalent in China after the 2007-08 global financial crisis and amid the general boosterism of the so-called Asian century.
+
+But it looks shakier now , given the state of the Chinese economy, and Xi’s emphasis on it may be more about trying to convince other leaders that all is going well than actual belief.
+
+
+ No letup to purges.
+
+In another speech this week, Xi called corruption the “ biggest threat ” to the CCP and promised that investigations would continue to be relentless.
+
+Xi has used anti-corruption as an excuse to purge political foes since he took power; this is easy in China, where corruption is virtually obligatory to participate in the higher levels of official life.
+
+
+ But this strategy is a double-edged sword.
+
+Fears that corruption threatened CCP rule were a major part of what led to Xi being g iven unusual authority to act in 2013 by a more collective party leadership.
+
+After more than a decade of campaigns, though, even allies may be asking why corruption is still the “biggest threat.” 
+ 
+ Tencent targeted.
+
+Chinese tech and gaming giant Tencent, which owns chunks of many other video game firms worldwide , was listed as a Chinese military-linked company along with a slew of other firms on a new U.S.
+
+Defense Department blacklist .
+
+The move caused Tencent shares to slide; the company has vigorously protested the move, saying that it has no contacts with the Chinese military.
+
+
+ It’s possible that the Shenzhen-based firm is essentially telling the truth.
+
+It is almost impossible for any Chinese firm of its scale not to have some dealings with the Chinese People’s Liberation Army, a vast organization with considerable economic holdings that touches many parts of Chinese life.
+
+But none of Tencent’s operations suggest immediate applicability to the battlefield.
+
+
+ Pandemic panics.
+
+News of increasing cases of HMPV—a respiratory virus that circulates regularly in the winter—has stirred fear online in China.
+
+But the outbreak is routine : China is a big country where SARS and COVID-19 first emerged, but it also provides a regularly rotating pool of non-dramatic seasonal illnesses.
+
+
+ Like the renewed attention to bird flu in the United States, the focus on HMPV is in part due to the trauma of the COVID-19 pandemic, which is now estimated to have killed more than 20 million people worldwide.
+
+But it’s also true that both the United States and China—where the rigid zero-COVID policy caused mass protest—are in worse positions now to tackle any pandemic outbreak than they were in late 2019.
+
+
+ 
+ 
+ 10 Conflicts to Watch in 2025 by Comfort Ero and Richard Atwood 
+ The Biggest Foreign-Policy Challenges Facing Trump in 2025 by FP Staff 
+ 8 Simmering Threats You Shouldn’t Ignore in 2025 by FP Contributors 
+ 
+ 
+ In his posthumously published novella narrated by a beaten-down official, 2010 , popular Chinese novelist Wang Xiaobo (1952-97) imagined a near future in which Beijing’s infamously smoggy skies would be replaced in pictures with mandatory technological assistance.
+
+
+ Though officials in the 2000s would regularly photoshop images, the reality proved a little more optimistic: Social media coverage of Beijing’s so-called smogpocalypse in the 2010s was an important factor in reducing pollution.— Brendan O’Kane, translator 
+ Excerpt From 2010 
+ By Wang Xiaobo 
+ In 2010, I lived in [the Beijing district of] Beidaihe, beneath a blanket of diesel exhaust.
+
+In winter, when the sun came out, all I could see was a sweeping vista of beige.
+
+You wouldn’t see this in photos or on TV: By then, every camera came with a blue lens filter attached.
+
+Orders from the top.
+
+
+ It was a sight for the naked eye alone—and if the order came down for everyone to wear blue-tinted glasses, it wouldn’t even be that.
+
+The sky would just be a bright last-century blue.
+
+It was entirely possible that leadership might issue such an order: It’d take care of all that pesky pollution.
+
+</CONTENT>

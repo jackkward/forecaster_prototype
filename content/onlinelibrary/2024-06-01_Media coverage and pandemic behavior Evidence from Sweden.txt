@@ -1,0 +1,623 @@
+<TITLE>Media coverage and pandemic behavior: Evidence from Sweden</TITLE>
+<PUBLISHED_DATE>2024-06-01</PUBLISHED_DATE>
+<URL>https://onlinelibrary.wiley.com/doi/10.1002/hec.4814</URL>
+<AUTHOR>Marcel Garz</AUTHOR>
+
+<SUMMARY>
+This study examines the impact of media coverage on individual behavior during the COVID-19 pandemic, specifically in Sweden, which did not impose lockdowns.
+-  Researchers analyzed nearly 200,000 Swedish newspaper articles about COVID-19 to find a correlation between news coverage and changes in mobility.
+-  They found that news mentions of COVID-19 led to fewer visits to workplaces and retail/recreation areas, and more time spent at home.
+-  Importantly, the effect was stronger when the news was locally relevant, visible, factual, and contained public health advice, particularly if from crisis managers.
+-  The research highlights the role of local media and public health communication in shaping pandemic behavior.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+-  We manually evaluate a random sample of 500 Covid-19 articles and find that the coverage is predominantly negative, consistent with the findings of Sacerdote et al.
+- ( 2020 ) for the United States.
+- In Appendix C we show a more detailed content analysis of the articles.
+-   Our main explanatory variable is the extent to which municipality m is exposed to Covid-19 news on day t .
+- To calculate exposure, we use municipality-level data on the number of annual subscriptions sold by each newspaper from MPRT.
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract 
+ We study the effect of media coverage on individual behavior during a public health crisis.
+
+For this purpose, we collect a unique dataset of 200,000 newspaper articles about the Covid-19 pandemic from Sweden—one of the few countries that did not impose lockdowns or curfews.
+
+We show that mentions of Covid-19 significantly lowered the number of visits to workplaces and retail and recreation areas, while increasing the duration of stays in residential locations.
+
+Using two different identification strategies, we show that these effects are causal.
+
+The impacts are largest when Covid-19 news stories are more locally relevant, more visible and more factual.
+
+We find larger behavioral effects for articles that reference crisis managers (as opposed to medical experts) and contain explicit public health advice.
+
+These results have wider implications for the design of public communications and the value of the local media.
+
+
+ 
+ 
+ 
+ 1 INTRODUCTION 
+ We investigate the effect of media coverage on compliance with public health recommendations during the Covid-19 pandemic in Sweden.
+
+Sweden is an important case to study as it is one of the few countries in the world that chose not to impose any lockdowns or curfews in response to the pandemic.
+
+Instead, the Swedish strategy relied on voluntary compliance with public health recommendations aimed at reducing mobility and encouraging social distancing.
+
+Despite criticisms for its strategy, Sweden saw similar declines in average mobility in 2020 compared to its Scandinavian neighbors with strict lockdowns.
+
+
+ We provide empirical evidence that news coverage of the pandemic could have played an important role in changing social norms and ultimately individuals' health-related actions.
+
+How the media covers the pandemic matters.
+
+We find that the largest impacts on mobility are due to locally-relevant and factual Covid-19 news stories, as well as those containing explicit public health advice.
+
+These results have wider implications for the design of public communications and the value of the local media.
+
+
+ We collect close to the entire universe of newspaper articles about Covid-19 in Swedish newspapers during the first year of the pandemic—resulting in approximately 200,000 individual articles.
+
+Newspapers remain a major source of information in Sweden, where close to two thirds of the population are regular newspaper readers.
+
+We analyze the full texts of articles to identify which aspects of news coverage have the largest impact on behavior.
+
+As our main outcome variable, we use data on the number (or duration) of visits to different locations within a municipality provided by Google.
+
+
+ Our main measure of exposure to Covid-19 news is the average number of Covid-19 articles in all newspapers that are subscribed to in a municipality in 2020.
+
+These newspaper subscriptions are annual and were decided before the start of the pandemic.
+
+Using newspaper subscriptions rather than readership means that our approach is not vulnerable to one of the main challenges in identifying the causal effect of media coverage, namely that audiences self-select into media outlets based on their prior views.
+
+It also ensures that our measure does not include endogenous demand responses, that is, individuals changing their newspaper in response to the pandemic.
+
+
+ We regress mobility on Covid-19 news exposure in a municipality-day panel model with both municipality and day fixed effects.
+
+As both mobility and media coverage are potentially driven by the spread of the pandemic, we include the latest-available excess death statistics at the municipality level as a proxy for local pandemic severity.
+
+We show that our results are robust to using other proxies, such as infection rates or total deaths, to different levels of geographical aggregation, such as county or commuting zone, and to different time lags.
+
+1 
+ To ensure a causal interpretation of our results, we also adopt an instrumental variable (IV) strategy, which exploits the fact that Swedish newspapers typically circulate in multiple municipalities.
+
+The key intuition underlying our identification strategy is that newspapers are more likely to respond to reader demand in municipalities that form a larger share of its subscription base.
+
+Our IV is the circulation-weighted excess mortality in a newspaper's distribution area, which is a strong predictor for the amount of Covid-19 coverage by that newspaper.
+
+As in the OLS regressions, we take into account the direct effect of the local pandemic severity on both mobility and news coverage by controlling for excess deaths in the municipality itself.
+
+We argue that the exclusion restrictions holds conditional on this direct effect.
+
+Importantly, we show the robustness of our results to spatial correlation in the severity of the pandemic across municipalities, as well as allowing for arbitrary spatial correlation in the error terms.
+
+As an additional identification check, we show that news coverage affects mobility in “peripheral” municipalities.
+
+These municipalities are a small percentage of any newspaper's subscriber base and thus unlikely to affect editorial decisions at newspapers, but a large share of households in these municipalities subscribe to these newspapers.
+
+
+ We find consistent evidence that news coverage of Covid-19 increases compliance with the main public health recommendation to work from home.
+
+Covid-19 articles that explicitly mention the affected municipality have a larger impact on mobility than, for instance, articles that only relate to developments abroad.
+
+Consistent with the interpretation that behavior responds most to personally relevant news, we also find larger impacts of more factual compared to more subjective reporting.
+
+
+ Adding to the recent public debates on trust in science and experts, we find that Covid-19 coverage that references medical experts has a smaller impact on individual behavior.
+
+This is likely due to the complexity of the language used in these articles.
+
+In contrast, articles that contain direct and explicit public health advice have a large impact on individual behavior.
+
+We also find a greater impact on individual behavior in response to more visible Covid-19 stories, such as articles on the front page or articles whose headlines mention the pandemic.
+
+These results are consistent with media coverage not just increasing the salience of the pandemic and reminding individuals to follow official guidelines, but also providing relevant information.
+
+
+ We contribute to several strands of literature.
+
+Our paper adds to the empirical literature on identifying the causal impact of media coverage on individual behavior (see, e.g., DellaVigna &amp; La Ferrara, 2015 ; DellaVigna &amp; Gentzkow, 2010 ; Prat and Strömberg, 2013 , for surveys of the literature).
+
+2 Complementing the findings of papers, such as Gentzkow, Shapiro and Sinkinson ( 2011 ); Snyder and Strömberg ( 2010 ); Zhuang ( 2022 ), which show the importance of local news on political outcomes, we document that local news coverage can affect a wider range of individual behaviors, such as compliance with government recommendations during a public health crisis.
+
+Our study adds an important dimension to the policy discussion about the decline of local news (e.g., Garz &amp; Rickardsson, 2022 ; Martin &amp; McCrain, 2019 ).
+
+We find that local news remains an important source of information during a public health crisis, and that compliance with public advice is greater when information is tailored to the local experience.
+
+A lack of trusted local media could adversely affect a range of other information campaigns, such as those encouraging the take-up of vaccines or adoption of more environmentally friendly behaviors.
+
+
+ A number of papers address the role of the news media during the pandemic, focusing mostly on the US experience.
+
+Among these, Kim et al.
+
+( 2020 ) also emphasize the importance of local news in the pandemic.
+
+They show that mobility is lower in rural counties in the US that are in the same media market as cities, that are more impacted by Covid-19, than in a matched sample of control counties.
+
+In our paper, we are able to study the placement and content of Covid-19 news coverage to more precisely identify the type of news that has the biggest impact during a crisis.
+
+We argue that our setting is particularly suited to investigating the effect of mass media on public health behavior, as Sweden is one of the few countries that has not implemented any lockdowns or curfews during the pandemic.
+
+This allows us to cleanly identify the role of the media, absent government intervention.
+
+Empirically, we use a panel spanning the first year of the pandemic instead of cross-sectional variation.
+
+
+ Our paper shows that media coverage of the pandemic in Sweden has positive effects in terms of voluntary adherence to public health measures.
+
+While this may reflect an average consumer's experience of the media during the pandemic, especially in more politically polarized environments, such as the US, some individual media outlets have engaged in more biased coverage of the Covid-19 pandemic.
+
+Misinformation during the pandemic has become the subject of much public debate and research.
+
+A number of papers identify the effects of being exposed to biased coverage on Fox News on mobility and other health-related outcomes (e.g., Ananyev et al., 2021 ; Ash et al., 2020 ; Bursztyn et al., 2020 ; Pinna et al., 2021 ; Simonov et al., 2020 ).
+
+
+ Our focus on understanding the different aspects of news coverage that are most effective in eliciting behavioral change complements several studies that use experimental variation in messages around Covid-19.
+
+For instance, in line with our own findings, Banerjee et al.
+
+( 2020 ) find a positive treatment effect of short and explicit messages containing public health advice on social distancing and hand washing in India.
+
+Alatas et al.
+
+( 2021 ) use a Twitter experiment to study the effects of celebrity messaging on vaccination in Indonesia.
+
+They find that celebrity endorsements that cite external medical sources have significantly fewer retweets and likes—similar to our own findings about the role of medical experts.
+
+
+ Finally, our study adds to research on mobility during the pandemic.
+
+While mobility itself is not a direct health outcome, it is a crucial feature of most epidemiological models of the pandemic and a number of studies find an empirical relationship between declines in mobility and reduced Covid-19 transmission (see, e.g.
+
+Fang et al., 2020 ; Glaeser et al., 2022 ; Nouvellet et al., 2021 ).
+
+Reducing mobility and increasing social distancing formed the key strategy in most governments' responses to the pandemic and this was communicated to the public directly and indirectly via the media.
+
+Previous studies have shown how mobility responds to lockdowns (e.g., Borri et al., 2021 ; Ciminelli &amp; Garcia-Mandicó, 2022 ; Orea &amp; Álvarez, 2022 ), weather (e.g., Shenoy et al., 2022 ; Wu et al., 2021 ), trust in government (e.g., Besley &amp; Dray, 2021 ), partisan evaluations (e.g., Allcott et al., 2020 ; Cornelson &amp; Miloucheva, 2022 ) and social and cultural factors (e.g., Durante et al., 2021 ; Egorov et al., 2021 ).
+
+
+ 
+ 
+ 2 BACKGROUND 
+ 
+ 2.1 Coronavirus, policy response, and public opinion in Sweden 
+ Sweden reported its first confirmed case of Covid-19 on January 31, 2020 and its first death on March 11, 2020.
+
+By the end of the year, the country registered 462,660 confirmed cases and 9816 Covid-19-related deaths (FOHM, 2021a ).
+
+Among high-income countries, Sweden ranks 15th in terms of excess mortality, with fewer deaths than the US and Italy, but more than its Nordic neighbors (Islam, 2021 ).
+
+
+ Sweden's policy response was atypical internationally, with no government-mandated lockdowns or curfews at any point during the pandemic.
+
+Daycare, primary schools, shops and restaurants remained open throughout (e.g., Claeson &amp; Hanson, 2021 ).
+
+At certain points, there were limited travel restrictions, bans on large gatherings and visits to elderly homes.
+
+The Public Health Agency of Sweden (‘Folkhälsomyndigheten’ or FOHM) and its chief epidemiologist Anders Tegnell played a central role in managing the pandemic.
+
+The public was encouraged to voluntarily follow public health recommendations by the FOHM, which included social distancing and from March 16, 2020 onward, working from home (FOHM, 2021b ).
+
+
+ 
+ 
+ 2.2 Newspapers in Sweden 
+ Newspapers play an important role in Sweden, where 64% of the population (aged 9–79) are regular newspaper readers (Nordicom, 2020 ).
+
+Newspapers are most commonly sold via annual print subscriptions at the end of the previous year.
+
+A national distribution system delivers newspapers directly to the home in the morning.
+
+
+ There were 123 subscription-based newspapers in Sweden in 2020, according to the Swedish Press and Broadcasting Authority (‘Myndigheten f’́or press, radio och tv’ or MPRT).
+
+3 Swedish newspapers typically circulate in a limited geographical area, serving on average seven municipalities.
+
+They tend to have a strong local focus, but also cover national and foreign news.
+
+Readers in an average municipality have the choice between two to three local newspapers.
+
+
+ Strong reader demand and generous government subsidies have slowed the decline of local newspapers in Sweden (Presstödsförordning, 1990 ).
+
+However, while the number of newspapers remains high, in Sweden, as in many other advanced economies, the ownership of media outlets has become highly concentrated.
+
+For instance, our data indicate that the three largest newspaper companies owned 60% of newspapers in 2020.
+
+Garz and Rickardsson ( 2022 ) show that 40% of the variation in political slant across Swedish newspapers can be explained by newspaper ownership.
+
+As our findings highlight the importance of locally-relevant media coverage, this concentration of ownership and resulting “copy journalism” threatens the ability of local media to function as an effective communication tool for crisis management and behavioral change.
+
+
+ 
+ 
+ 
+ 3 DATA AND VARIABLES 
+ We focus our empirical analysis on the period from March 16 (the date of FOHM's first guidelines about social distancing and working from home) and December 31, 2020.
+
+We only consider 2020 to alleviate potential selection concerns due to changes in subscriptions at the end of the year.
+
+Summary statistics are in Table 1 and a more detailed description of the data and variables is in Appendix B .
+
+
+ 
+ TABLE 1.
+ Summary statistics of main variables.
+
+
+ 
+ 
+ 
+ 
+ 
+ Mean 
+ SD 
+ Min.
+
+
+ Max.
+
+
+ N 
+ 
+ 
+ 
+ 
+ Google mobility (% change) 
+ 
+ 
+ -Retail and recreation 
+ −5.97 
+ 23.86 
+ −94.00 
+ 152.00 
+ 21,886 
+ 
+ 
+ -Grocery and pharmacy 
+ −2.22 
+ 15.07 
+ −87.00 
+ 117.00 
+ 21,551 
+ 
+ 
+ -Parks 
+ 37.51 
+ 58.97 
+ −79.00 
+ 369.00 
+ 3329 
+ 
+ 
+ -Transit 
+ −26.41 
+ 22.72 
+ −91.00 
+ 218.00 
+ 35,208 
+ 
+ 
+ -Work 
+ −26.81 
+ 19.73 
+ −100.00 
+ 54.00 
+ 55,995 
+ 
+ 
+ -Residential 
+ 7.77 
+ 4.89 
+ −10.00 
+ 32.00 
+ 22,849 
+ 
+ 
+ Circulation-weighted Covid-19 newspaper coverage 
+ 
+ 
+ -Number of articles 
+ 3.92 
+ 3.36 
+ 0.00 
+ 35.89 
+ 82,644 
+ 
+ 
+ -Number of front-page articles 
+ 0.17 
+ 0.27 
+ 0.00 
+ 2.96 
+ 82,644 
+ 
+ 
+ -Number of words 
+ 1642.18 
+ 1491.09 
+ 0.00 
+ 19,092.25 
+ 82,644 
+ 
+ 
+ -Number of words on front page 
+ 13.81 
+ 39.53 
+ 0.00 
+ 718.52 
+ 82,644 
+ 
+ 
+ -Number of headlines 
+ 0.27 
+ 0.36 
+ 0.00 
+ 3.54 
+ 82,644 
+ 
+ 
+ -Number of front-page headlines 
+ 0.04 
+ 0.11 
+ 0.00 
+ 1.41 
+ 82,644 
+ 
+ 
+ Circ.-weighted # of Covid-19 articles, split by geographical reference 
+ 
+ 
+ -Related to municipality in circ.
+
+Area 
+ 1.20 
+ 1.21 
+ 0.00 
+ 14.64 
+ 82,644 
+ 
+ 
+ -Related to county in circ.
+
+Area 
+ 0.24 
+ 0.39 
+ 0.00 
+ 4.91 
+ 82,644 
+ 
+ 
+ -Related to national level 
+ 1.93 
+ 1.77 
+ 0.00 
+ 23.78 
+ 82,644 
+ 
+ 
+ -Related to foreign countries 
+ 0.23 
+ 0.36 
+ 0.00 
+ 5.10 
+ 82,644 
+ 
+ 
+ -Without geo reference 
+ 0.32 
+ 0.44 
+ 0.00 
+ 8.01 
+ 82,644 
+ 
+ 
+ # of Covid-19 articles declared as opinion 
+ 0.12 
+ 0.22 
+ 0.00 
+ 2.70 
+ 82,644 
+ 
+ 
+ # of Covid-19 articles not declared as opinion 
+ 3.80 
+ 3.27 
+ 0.00 
+ 33.47 
+ 82,644 
+ 
+ 
+ # of Covid-19 articles mentioning working from home 
+ 0.10 
+ 0.22 
+ 0.00 
+ 3.27 
+ 82,644 
+ 
+ 
+ # of Covid-19 articles not mentioning working from home 
+ 3.82 
+ 3.26 
+ 0.00 
+ 35.89 
+ 82,644 
+ 
+ 
+ Circ.-weighted # of Covid-19 articles, split by share of instructive expressions 
+ 
+ 
+ p0–p95 
+ 3.72 
+ 3.21 
+ 0.00 
+ 35.27 
+ 82,644 
+ 
+ 
+ p95–p99 
+ 0.16 
+ 0.27 
+ 0.00 
+ 3.67 
+ 82,644 
+ 
+ 
+ p95–p100 
+ 0.04 
+ 0.13 
+ 0.00 
+ 1.78 
+ 82,644 
+ 
+ 
+ Circ.-weighted # of Covid-19 articles, split by references to key actors 
+ 
+ 
+ -Medical experts 
+ 0.21 
+ 0.35 
+ 0.00 
+ 5.30 
+ 82,644 
+ 
+ 
+ -Crisis managers 
+ 0.73 
+ 0.73 
+ 0.00 
+ 7.55 
+ 82,644 
+ 
+ 
+ -Without reference to key actors 
+ 2.98 
+ 2.67 
+ 0.00 
+ 30.95 
+ 82,644 
+ 
+ 
+ Total number of articles 
+ 29.43 
+ 17.06 
+ 0.00 
+ 123.52 
+ 82,644 
+ 
+ 
+ Newsp.
+
+Availability (share of households) 
+ 0.36 
+ 0.17 
+ 0.00 
+ 1.06 
+ 82,644 
+ 
+ 
+ Excess deaths in municipality 
+ 0.09 
+ 0.67 
+ −6.00 
+ 26.50 
+ 77,248 
+ 
+ 
+ Mean daily air temperature (degree C) 
+ 9.76 
+ 6.23 
+ −18.50 
+ 25.80 
+ 82,644 
+ 
+ 
+ Precipitation (mm per day) 
+ 1.87 
+ 4.22 
+ 0.00 
+ 107.70 
+ 82,644 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Note : The data refer to max.
+
+291 days between March 16 and December 31, 2020, and 284 municipalities.
+ 
+ 
+ 
+ 
+ Our sample includes 110 out of the 123 subscription newspapers in Sweden.
+
+We exclude 9 newspapers because their coverage is not consistently archived and 4 outlets due to a lack of municipality-level circulation data.
+
+The excluded newspapers account for less than 5% of all newspaper subscriptions, and they do not dominate any local market.
+
+We exclude six municipalities where more than 10% of the households subscribe to the excluded newspapers.
+
+4 
+ 
+ 3.1 Newspapers 
+ 
+ 3.1.1 Covid-19 coverage 
+ We use the newspaper archive “Retriever Mediearkivet” to identify and download individual articles related to the coronavirus pandemic.
+
+5 We follow the literature (e.g., Sacerdote et al., 2020 ) and search for articles containing the case-insensitive string “coronavirus* OR covid*”, where the asterisk is used as a wildcard.
+
+This search retrieves 209,259 articles, of which 190,978 were published between March 16 and December 31, 2020.
+
+
+ We construct different variables to capture the amount and intensity of Covid-19 coverage by newspaper and day: number of articles, total word count, number of front page articles, number of headlines referring to Covid-19, as well as more detailed breakdowns of article content.
+
+Figure 1 shows the average number of Covid-19 news articles over time.
+
+We also obtain the total number of articles published per newspaper per day to control for a newspaper's “thickness”.
+
+
+ 
+ 
+ Covid-19 coverage over time.
+
+The graph shows the number of articles including “coronavirus* OR covid*” of all articles on a given day, weighted by newspaper circulation.
+
+The raw data used to compile the graph consist of 103,944 observations.
+
+The gray solid lines are local polynomial smooths with 95% confidence intervals.
+
+Our estimation sample starts on March 16, 2020.
+
+
+ 
+ 
+ 
+ We manually evaluate a random sample of 500 Covid-19 articles and find that the coverage is predominantly negative, consistent with the findings of Sacerdote et al.
+
+( 2020 ) for the United States.
+
+In Appendix C we show a more detailed content analysis of the articles.
+
+
+ 
+ 
+ 3.1.2 Exposure to Covid-19 news 
+ Our main explanatory variable is the extent to which municipality m is exposed to Covid-19 news on day t .
+
+To calculate exposure, we use municipality-level data on the number of annual subscriptions sold by each newspaper from MPRT.
+
+By construction, as subscriptions were decided at the end of 2019 before any Swedish newspaper reported about Covid-19, this measure is immune to selection bias and does not include any endogenous changes to readership as a result of the pandemic.
+
+6 
+ We define exposure to Covid-19 coverage ( C 19 Expos
+
+</CONTENT>

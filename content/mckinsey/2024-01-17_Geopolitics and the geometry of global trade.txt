@@ -1,0 +1,360 @@
+<TITLE>Geopolitics and the geometry of global trade</TITLE>
+<PUBLISHED_DATE>2024-01-17</PUBLISHED_DATE>
+<URL>https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade?utm_source=substack&amp;utm_medium=email</URL>
+<AUTHOR>Jeongmin Seong, Olivia White, Michael Birshan, Lola Woetzel, Camillo Lamanna, Jeffrey Condon, Tiago Devesa</AUTHOR>
+
+<SUMMARY>
+Global trade is undergoing a significant reconfiguration, driven by geopolitical factors.
+-  Trade between distant economies, while substantial overall, is concentrated in specific products (like laptops and iron ore).
+-  Since 2017, several key economies have adjusted their trade relationships, reducing geopolitical distance in some cases, while diversifying in others.
+-  Significant investment shifts are occurring, notably toward developing economies in Africa and India, and away from China and Russia.
+-  This reconfiguration presents trade-offs; reducing geopolitical distance often leads to higher concentration of trade with a few partners.
+-  Ultimately, businesses need to adapt to this evolving landscape by developing insights, scenario planning, and diverse strategic responses.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- 4 The subtext of these terms is often geopolitical, which is increasingly a feature of talk about trade.
+- Average tariffs on goods trade between China and the United States have increased between three- and sixfold since 2017.
+- 5 Following Russia’s invasion of Ukraine, the European Union (EU), the United States, and many other players imposed sanctions.
+- A large majority of companies from Europe, Japan, and the United States withdrew or curtailed operations in Russia.
+- The rerouting of shipping lanes due to the Red Sea crisis that started in December 2023 not only incurs additional costs, delays, and security complexities but also has the potential to create far-reaching shock waves beyond the immediate locations affected.
+
+</HIGHLIGHTS>
+<CONTENT>
+At a glance 
+ 
+ Trade in concentrated products binds geopolitically distant economies.
+
+Trade between geopolitically distant economies accounts for nearly 20 percent of global goods trade but close to 40 percent of trade in globally concentrated products—products such as laptops and iron ore for which three or fewer economies provide at least 90 percent of global exports.
+
+
+ Trade reconfiguration is under way.
+
+Since 2017, China, Germany, the United Kingdom, and the United States have reduced the geopolitical distance of their trade by 4 to 10 percent each.
+
+The United States has also reduced the geographic distance and diversified the origins of its trade.
+
+Meanwhile, economies of the Association of Southeast Asian Nations, Brazil, and India are trading more both across the geopolitical spectrum and over longer distances.
+
+
+ Increased investment into a range of developing economies suggests further trade reconfiguration in coming years.
+
+While roughly 60 percent of greenfield investment has flowed to developing economies since 2010, its destination is shifting.
+
+The largest leaps in the past two years were in Africa and India, while announced investment into China and Russia fell by about 70 and 98 percent, respectively, compared with prepandemic averages.
+
+
+ The future of global trade will involve trade-offs—reducing geopolitical distance comes with increasing trade concentration, and vice versa.
+
+We explore two types of reconfiguration.
+
+In one, economies shift their trade to more geopolitically aligned partners.
+
+As a byproduct, average trade concentration increases by 13 percent and economic growth suffers.
+
+In the other, trade relationships diversify so that no economy is highly dependent on another, but as a consequence, the geopolitical distance of trade increases by 3 percent.
+
+The degree of trade-off varies significantly across individual economies.
+
+
+ Business leaders need to position their organizations for uncertainty.
+
+This positioning can involve cultivating an insights edge, anticipating and adapting with scenario planning, developing a portfolio of strategic actions, and building geopolitical muscle.
+
+Businesses can also embrace cooperation to contribute to, and help shape, the discourse on the evolution of global connections.
+
+
+ 
+ Trade reconfiguration has been making headlines.
+
+In 2023, Mexico became the United States’ largest goods trade partner.
+
+1 Vietnam’s trade with China and the United States has been surging.
+
+2 European economies’ energy imports shifted dramatically away from Russia, while imports of some products from China, such as electric vehicles, boomed.
+
+3 
+ Along with such headlines, a new lexicon has emerged among policy makers and business leaders.
+
+Use of terms such as “decoupling,” “derisking,” “reshoring,” “nearshoring,” and “friendshoring” in corporate presentations increased more than 20-fold between 2018 and 2022.
+
+4 The subtext of these terms is often geopolitical, which is increasingly a feature of talk about trade.
+
+Average tariffs on goods trade between China and the United States have increased between three- and sixfold since 2017.
+
+5 Following Russia’s invasion of Ukraine, the European Union (EU), the United States, and many other players imposed sanctions.
+
+A large majority of companies from Europe, Japan, and the United States withdrew or curtailed operations in Russia.
+
+The rerouting of shipping lanes due to the Red Sea crisis that started in December 2023 not only incurs additional costs, delays, and security complexities but also has the potential to create far-reaching shock waves beyond the immediate locations affected.
+
+More broadly, the number of new global trade restrictions each year has been steadily increasing, from about 650 new restrictions in 2017 to more than 3,000 in 2023.
+
+6 
+ How can we understand and calibrate these recent changes? Historically, value chains have shifted gradually, and recent years are no exception.
+
+No economy has gained or lost more than an annualized two-percentage-point share of global exports in any value chain since 1995.
+
+Despite increasing tariffs and restrictions in recent years, that has not changed.
+
+But, since 2017, the geometry of economies’ connections has been shifting.
+
+7 mckinsey.com/mgi/our-research/global-trade-explorer .
+
+We analyze the changing geometry of global goods trade using four measures, each of which has its own limitations: trade intensity, geographic distance, import concentration, and a new measure of “geopolitical distance.” This new measure is the geopolitical analog of geographic distance.
+
+It is an imperfect approximation of how geopolitical alignment relates to trade, constructed by looking at UN General Assembly voting records.
+
+
+ These measures in combination help us to calibrate the speed and direction of recent shifts.
+
+For example, between 2017 and 2023, US imports became 18 percent less concentrated in their origins.
+
+8 This is a rapid reversal of the trend prior to 2017 of gradually increasing concentration of US imports.
+
+China has been increasing its share of trade with developing economies around the world.
+
+9 This has driven a 7 percent increase in the average geographic distance of its trade since 2017, a slight acceleration of the preexisting trend.
+
+Germany experienced a 6 percent drop in the average geopolitical distance of its trade between 2017 and 2023, driven by a decline in trade with Russia.
+
+However, Germany’s trade with China increased.
+
+Meanwhile, the economies of the Association of Southeast Asian Nations (ASEAN), Brazil, and India are engaging in more extensive trade over longer distances and across the geopolitical spectrum.
+
+
+ How this geometry will develop is uncertain.
+
+Take Vietnam, which has increased its exports to the United States while deepening its upstream trade and investment links with China.
+
+For some observers, the US shift toward imports from Vietnam represents a rerouting of trade from China, with limited value added in Vietnam.
+
+In this telling, China and the United States remain interconnected, but supply chains have become longer and more opaque.
+
+10 Seen another way, this shift could be the first step in a journey toward Vietnam emerging as a major global supplier for some goods, adding substantial value across a value chain well beyond final assembly.
+
+
+ The future is not set.
+
+But what could further reconfiguration entail? Hoping to bracket a range of futures, we consider two illustrative trade reconfigurations and their potential implications.
+
+In one, global trade fragments and “deglobalizes” by shifting to being between more geopolitically aligned partners.
+
+In the second, trade becomes more diversified, without a geopolitical lens.
+
+Both illustrative types of reconfiguration may involve trade-offs.
+
+Trade fragmentation may lower geopolitical risks, but it raises trade concentration and comes at significant macroeconomic cost.
+
+Diversification may improve resilience to some shocks and offer opportunity for a range of partners, but it retains ties among geopolitically diverse trading partners.
+
+
+ This paper concludes by exploring how business leaders might consider positioning their organizations for shifts in the geometry of global trade.
+
+
+ The world is deeply interconnected.
+
+Recent McKinsey Global Institute (MGI) research found that every major region relies on imports for more than 25 percent of its consumption of at least one type of critical resource, manufactured good, or service.
+
+11 Global flows: The ties that bind in an interconnected world , McKinsey Global Institute, November 2022.
+
+MGI has also found that 10 percent of the value of today’s global goods trade is globally concentrated: three or fewer economies provide at least 90 percent of global exports.
+
+12 The complication of concentration in global trade , McKinsey Global Institute, January 2023.
+
+In that report and this one, we define concentration as supply concentration with a Herfindahl–Hirschman Index greater than 3,000.
+
+
+ Goods trade profiles vary substantially among economies 
+ Not all economies’ goods trade is alike, and the geometry of their connections matters (Exhibit 1).
+
+We have looked at the three largest trading economies in the world, China, the United States, and Germany, as well as the combined membership of ASEAN, which represents the fourth.
+
+We have also considered the United Kingdom, as the second-largest economy in Europe after Germany; India, the world’s second-largest developing economy (after China); and Brazil, the largest developing economy outside Asia.
+
+
+ Four indicators capture some of the contours of that geometry.
+
+Economies vary in how much they trade in comparison to their size; this is their trade intensity.
+
+Economies also vary in their patterns of trade partners, in both where they are, or geographic distance, and how aligned they are on global issues, or geopolitical distance.
+
+For geopolitical distance, we introduce an imperfect but quantitative measure based on UN General Assembly voting records between 2005 and 2022 (see sidebar “Measuring geopolitical distance and its limitations”).
+
+Finally, economies differ in how broad or narrow their network of supply relationships is, or their import concentration.
+
+
+ ASEAN economies and Germany are highly integrated regional manufacturing hubs 
+ The economies of ASEAN and Germany trade more in goods than many other large economies, measuring trade relative to their GDP.
+
+This is partly driven by their integration into regional manufacturing value chains that crisscross national borders.
+
+Correspondingly, Germany tends to trade over shorter geographic and geopolitical distances than do other major trading economies, because Europe is relatively compact and politically aligned.
+
+This integration between European economies also drives lower levels of import concentration due to extensive intra-EU trade.
+
+The United Kingdom is also integrated into regional trade networks, but its economy skews toward services, and it has lower goods trade intensity than Germany, for example.
+
+ASEAN economies, by contrast, trade intensively across Asia, which is farther flung geographically and includes countries that span a larger range on the geopolitical spectrum, from Australia to China.
+
+
+ The United States has more distant trade partners and lower trade intensity 
+ The trade intensity of the United States is lower than that of many other large economies for a range of reasons, including the size and endowments of its domestic economy, which enables it to source many products at home.
+
+The value of freight between US states was similar in 2022 to the country’s international goods trade.
+
+13 Geography plays a role, too.
+
+Less than 5 percent of global GDP is generated by economies within 5,000 kilometers of the United States, mainly Canada and Mexico.
+
+By contrast, 26 percent of global GDP is generated by more than 80 economies within this distance of Germany.
+
+Not having a dense network of neighboring large economies contributes to the relative concentration of US trade relations and its trade across longer distances than average.
+
+
+ China trades across the geopolitical spectrum 
+ China, the largest trading economy in the world, stands out for trading more with geopolitically distant partners than any other economy.
+
+It trades extensively across the globe, including with the EU, Japan, South Korea, and the United States, which in combination account for 40 percent of its total goods trade.
+
+As China’s economy has developed, it has come to consume more of what it produces, lowering trade intensity.
+
+Its total goods trade in 2022 was equivalent to 35 percent of its GDP, down from the peak of 64 percent in 2006.
+
+
+ Brazil’s trade travels farther than most, with significant volumes going to China 
+ Brazil’s trade travels farther geographically than that of many economies, reflecting intensive trade with faraway China.
+
+The strength of this connection also contributes to Brazil’s relatively higher import concentration.
+
+14 Moreover, its export mix skews toward commodities.
+
+Indeed, five commodities (from iron ore to coffee) represented half of its exports by value in 2022.
+
+Its largest export is soybeans, with a cultivated area the size of Bangladesh dedicated to meeting China’s demand.
+
+As a result, its trade intensity can swing in line with commodity cycles, with recent high prices driving an uptick.
+
+
+ India is near the global average in its trade geometry 
+ India sits toward the global average across dimensions.
+
+This reflects its broad trade relationships with Asia, Europe, and the United States, which also support relatively diversified import relationships.
+
+Its own position toward the center of the geopolitical spectrum—and its trade relationships across this spectrum—results in its trade traveling geopolitical distances that are similar to the global average.
+
+
+ Larger economies tend to trade over wider geopolitical distances 
+ It is a notable feature of today’s trade geometry that some of the largest trading economies in the world, including China, Japan, and the United States, do significant business with economies at the opposite end of the geopolitical spectrum.
+
+In 2021, the average geopolitical distance that goods traveled was about the distance between Chile and the United States or China and Nigeria: 3.4 units apart on a geopolitical distance scale running from zero to ten.
+
+The trade of many large trading economies travels farther, sometimes substantially so, than this average geopolitical distance—for example, Germany and Russia are about eight units apart (Exhibit 2).
+
+
+ 
+ Countries toward the middle of the geopolitical range, such as Brazil, India, and Mexico, also trade over geopolitical distances similar to the global average.
+
+Why? Because their trade is mostly with economies at either pole of the spectrum.
+
+Overall, only 8 percent of global goods trade flows among economies that sit between two and eight on the zero-to-ten scale.
+
+Europe is different; its political alignment and economic integration of individual economies give rise to trade over shorter geopolitical distances.
+
+But even Europe has historically relied on geopolitically distant partners for certain critical products, such as Russia for energy resources prior to 2022.
+
+
+ Trade with geopolitically distant partners can be perceived as a source of economic vulnerability.
+
+Some economies may rely on geopolitically distant partners’ demand for their exports.
+
+If trade frictions arise—as they did in recent years for Australia’s exports of coal, wine, and barley to China, for example—the exporting economy may lose access to key markets.
+
+Other economies may rely on geopolitically distant partners for their imports of key products.
+
+For instance, although Germany’s average geopolitical distance of trade was lower in 2021 than that of many other large economies, its reliance on Russia’s exports of energy products led to a substantial, and difficult, trade reconfiguration following Russia’s invasion of Ukraine.
+
+
+ Nearly 40 percent of trade in globally concentrated goods is between more geopolitically distant partners 
+ Concentrated trade between geopolitically distant partners may be a candidate for reconfiguration.
+
+Today, nearly 20 percent of global goods trade is between more geopolitically distant economies, defined here as more than eight units apart on the geopolitical distance scale (Exhibit 3).
+
+And that trade is skewed toward products that are highly concentrated in their sourcing—almost 40 percent of trade in globally concentrated products is between geopolitically distant economies.
+
+
+ 
+ Important examples of globally concentrated products traveling above-average geopolitical distances from exporters that are more geopolitically similar to the United States include iron ore, soybeans, and flat-panel-display manufacturing equipment.
+
+Iron ore is mainly exported by Australia, with more than 80 percent of its exports flowing to China.
+
+And China is the world’s largest soybean importer, with the majority of its imports sourced from the United States and Brazil.
+
+
+ Other products, such as laptops, cell phones, and computer monitors, travel above-average geopolitical distances, as they mainly flow from China to advanced economies such as Europe and the United States (Exhibits 4 and 5).
+
+This profile shows China’s role as a global processing hub—almost 20 percent of all flows of globally concentrated products go to China, often as imports of resources or capital goods.
+
+And a further 40 percent of all flows of globally concentrated products come out of China, typically in the form of manufactured goods.
+
+
+ 
+ Trade in some globally concentrated products is being scrutinized amid perceptions that it may pose higher risk.
+
+For example, the United States is looking carefully at its supply security for a type of permanent magnet made with neodymium (a rare earth metal).
+
+15 Germany, South Korea, and the United States all import more than 85 percent of the neodymium magnets they need from China.
+
+The magnets are used in a range of applications, from electric vehicle (EV) motors to industrial robots (see sidebar “Neodymium magnets”).
+
+As another example, China is exploring new sources for high-purity quartz.
+
+16 The United States is home to the world’s highest-purity quartz, which is required for manufacturing semiconductors.
+
+
+ Reconfiguring trade in globally concentrated products to avoid the risk of reliance on geopolitically distant partners would not be easy.
+
+Few alternative suppliers today are geopolitically closer for the importing economy.
+
+As such, globally concentrated products may represent a floor below which—at least in the near term—trade between geopolitically more distant partners cannot fall without leading to significant supply disruptions.
+
+They are both the ties that bind and arteries of vulnerability.
+
+
+ Historical shifts in the trade landscape have tended to be gradual.
+
+Since 1995, individual countries have gained or lost no more than 2 percentage points of annualized global export share in any given value chain.
+
+17 The ties that bind in an interconnected world , McKinsey Global Institute, November 2022.
+
+Note that the present analysis examines change in global export share, whereas the 2022 report examines change in global exported value added.
+
+At the global level, despite recent disruptions, shifts in global export share have not moved faster than this historical pace.
+
+Since 2017, no economy has gained or lost more than 1 percentage point of annualized global export share in any given value chain.
+
+
+ But has the geometry of these connections been changing? In our four dimensions of trade—trade intensity, geographic distance, geopolitical distance, and import concentration—several meaningful shifts have emerged recently (Exhibit 6).
+
+Since 2017, China, Germany, the United Kingdom, and the United States have reduced the geopolitical distance of their trade.
+
+The United States has also diversified trade and reduced its geographic distance.
+
+Meanwhile, trade intensity for these economies has remained relatively constant, suggesting that reshoring to reduce dependency on critical imports by increasing domestic production has not yet occurred at scale.
+
+18 These aggregate shifts are due to changing trade patterns across the four dimensions (Exhibit 7).
+
+ASEAN, Brazil, and India are trading more—across the geopolitical spectrum and over longer distances—growing their participation in global trade with a wide range of partners around the world.
+
+
+ 
+ Although nearshoring has been a prominent feature of recent debate, the United States is a relative outlier in shifting some of its trade toward geographically closer partners.
+
+Moreover, the extent of this shift is less pronounced than the shift toward geopolitically closer partners.
+
+The other economies we analyze show no substantial evidence of nearshoring of trade relations; rather, their trade has often been traveling farther on average.
+
+It is a similar story for diversification: while the United States
+
+</CONTENT>

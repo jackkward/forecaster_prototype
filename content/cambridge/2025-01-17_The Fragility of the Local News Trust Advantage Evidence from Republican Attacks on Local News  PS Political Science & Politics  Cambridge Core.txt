@@ -1,0 +1,269 @@
+<TITLE>The Fragility of the Local News Trust Advantage: Evidence from Republican Attacks on Local News | PS: Political Science & Politics | Cambridge Core</TITLE>
+<PUBLISHED_DATE>2025-01-17</PUBLISHED_DATE>
+<URL>https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/fragility-of-the-local-news-trust-advantage-evidence-from-republican-attacks-on-local-news/141701964C2AF059D027F1EC0DF7D61E</URL>
+<AUTHOR>Allison M. N. Archer Affiliation: University of Houston, USA</AUTHOR>
+
+<SUMMARY>
+This study investigated the impact of Republican politicians attacking local news outlets on public trust.
+-  A survey experiment found that exposure to such attacks significantly decreased public trust in local news, particularly among Republicans.
+-  Critically, this effect was not limited to Republicans; Democrats and Independents also exhibited negative reactions.
+-  The findings suggest that local news credibility hinges on the *absence* of elite criticism, rather than the ability to withstand it.
+-  The results parallel those observed regarding national media, highlighting the vulnerability of local news sources to political attacks.
+-  Overall, the study emphasizes the fragility of public trust in local news when confronted with political opposition.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- This attack is particularly effective among Republicans, although it also leads Democrats and Independents to negatively shift their views of the local newspaper.
+- Among those exposed to elite criticism of local news, overall trust and partisan divides between Republicans and Democrats resemble those for national media.
+- This shows that the credibility of local news depends on the absence of elite criticism rather than resilience to it.
+-  © The Author(s), 2025.
+- Published by Cambridge University Press on behalf of American Political Science Association
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract Today, few political news outlets receive universally favorable evaluations from the American public.
+
+In retaining broad public approval, local media remain a notable exception that is important to understand.
+
+We consider the durability of local news trust to criticism from politicians, focusing on Republican elites because they generally are more willing to attack the media than Democrats.
+
+In a survey experiment, we find that exposure to a Republican politician’s attack on a local newspaper dramatically reduces the public’s trust in and intent to use local news.
+
+This attack is particularly effective among Republicans, although it also leads Democrats and Independents to negatively shift their views of the local newspaper.
+
+Among those exposed to elite criticism of local news, overall trust and partisan divides between Republicans and Democrats resemble those for national media.
+
+This shows that the credibility of local news depends on the absence of elite criticism rather than resilience to it.
+
+
+Type
+ Article 
+Copyright
+ 
+© The Author(s), 2025.
+
+Published by Cambridge University Press on behalf of American Political Science Association
+ References Abramowitz , Alan I.
+
+, and Webster , Steven W.
+
+.
+
+2018 .
+
+“ Negative Partisanship: Why Americans Dislike Parties but Behave Like Rabid Partisans .” Political Psychology 39 : 119 –35.
+
+CrossRef Google Scholar Andrews , Talbot M.
+
+, Kim , Cana , and Kim , Jeong Hyun .
+
+2023 .
+
+“ News from Home: How Local Media Shapes Climate Change Attitudes .” Public Opinion Quarterly 87 ( 4 ): 863 –86.
+
+CrossRef Google Scholar Archer , Allison M.
+
+N.
+
+2020 .
+
+“ Attacking the Fourth Estate: The Nature and Effects of Political Leaders’ War with the Press .” In Leadership, Populism and Resistance , ed.
+
+Kristin , M.
+
+S.
+
+Bezio and Goethals , George R.
+
+, 129 –47.
+
+Cheltenham, UK : Edward Elgar .
+
+Google Scholar Archer , Allison M.
+
+N.
+
+2023 .
+
+“ The Effects of Elite Attacks on Copartisan Media: Evidence from Trump and Fox News .” Public Opinion Quarterly 87 ( 4 ): 887 – 910 .
+
+CrossRef Google Scholar Archer , Allison M.
+
+N.
+
+, and Peterson , Erik .
+
+2024 .
+
+“ Replication Data for ‘The Fragility of the Local News Trust Advantage: Evidence from Republican Attacks on Local News.’ ” PS : Political Science &amp; Politics Harvard Dataverse .
+
+https://doi.org/10.7910/DVN/JSICOQ .
+
+Google Scholar Cormack , Lindsey .
+
+2017 .
+
+“ DCinbox: Capturing Every Congressional Constituent E-Newsletter from 2009 Onwards .” The Legislative Scholar ( 2 ) 1 : 27 – 34 .
+
+Google Scholar Darr , Joshua , Hitt , Matthew , and Dunaway , Johanna .
+
+2021 .
+
+Home Style Opinion: How Local Newspapers Can Slow Polarization .
+
+Cambridge, UK : Cambridge University Press .
+
+CrossRef Google Scholar De Benedictis-Kessner , Justin , Baum , Matthew , Berinsky , Adam J.
+
+, and Yamamoto , Teppei .
+
+2019 .
+
+“ Persuading the Enemy .” American Political Science Review 113 ( 4 ): 902 –16.
+
+CrossRef Google Scholar Domke , David , Watts , Mark , Shah , Dhavan , and Fan , David .
+
+1999 .
+
+“ The Politics of Conservative Elites and the ‘Liberal Media’ Argument .” Journal of Communication 49 ( 4 ): 35 – 58 .
+
+CrossRef Google Scholar Druckman , James N.
+
+2001 .
+
+“ On the Limits of Framing Effects: Who Can Frame? ” Journal of Politics 63 ( 4 ): 1041 –66.
+
+CrossRef Google Scholar Druckman , James N.
+
+2005 .
+
+“ Media Matter: How Newspapers and Television News Cover Campaigns and Influence Voters .” Political Communication 22 ( 4 ): 463 –81.
+
+CrossRef Google Scholar Egelhofer , Jana , Boyer , Ming , Lecheler , Sophie , and Aaldering , Loes .
+
+2022 .
+
+“ Populist Attitudes and Politicians’ Disinformation Accusations: Effects on Perceptions of Media and Politicians .” Journal of Communication 72 ( 6 ): 619 –32.
+
+CrossRef Google Scholar Flynn , D.
+
+J.
+
+, Nyhan , Brendan , and Reifler , Jason .
+
+2017 .
+
+“ The Nature and Origins of Misperceptions .” Political Psychology 38 ( S1 ): 127 –50.
+
+CrossRef Google Scholar Grimmer , Justin , Messing , Solomon , and Westwood , Sean J.
+
+.
+
+2012 .
+
+“ How Words and Money Cultivate a Personal Vote: The Effect of Legislator Credit Claiming on Constituent Credit Allocation .” American Political Science Review 106 ( 4 ): 703 –19.
+
+CrossRef Google Scholar Hassell , Hans , Stiles , Matthew , and Reuning , Kevin .
+
+2022 .
+
+“ Does the Ideology of the Newsroom Affect the Provision of Media Slant? ” Political Communication 39 ( 2 ): 184 – 201 .
+
+CrossRef Google Scholar Hayes , Danny , and Lawless , Jennifer L.
+
+.
+
+2015 .
+
+“ As Local News Goes, So Goes Citizen Engagement .” Journal of Politics 77 ( 2 ): 447 –62.
+
+CrossRef Google Scholar Hopkins , Daniel J.
+
+, and Gorton , Tori .
+
+2024 .
+
+“ Unsubscribed and Undemanding: Partisanship and the Minimal Effects of a Field Experiment Encouraging Local News Consumption .” American Journal of Political Science 68 ( 4 ): 1217 –33.
+
+CrossRef Google Scholar Ladd , Jonathan .
+
+2010 .
+
+“ The Neglected Power of Elite Opinion Leadership to Produce Antipathy Towards the News Media .” Political Behavior 32 ( 1 ): 29 – 50 .
+
+CrossRef Google Scholar Ladd , Jonathan .
+
+2012 .
+
+Why Americans Hate the Media and How It Matters .
+
+Princeton, NJ : Princeton University Press .
+
+CrossRef Google Scholar Martin , Gregory J.
+
+, and McCrain , Joshua .
+
+2019 .
+
+“ Local News and National Politics .” American Political Science Review 113 ( 2 ): 372 –84.
+
+CrossRef Google Scholar Matthews , Nick .
+
+2022 .
+
+“ Life in a News Desert: The Perceived Impact of a Newspaper Closure on Community Members .” Journalism 23 ( 6 ): 1250 –65.
+
+CrossRef Google Scholar McCrain , Joshua , and Peterson , Erik .
+
+2023 .
+
+“Local Elections Do Not Increase Local News Demand.” Political Science Research and Methods.
+
+https://doi.org/10.1017/psrm.2023.59 .
+
+CrossRef Google Scholar Meeks , Lindsey .
+
+2020 .
+
+“ Defining the Enemy: How Donald Trump Frames the News Media .” Journalism and Mass Communication Quarterly 97 ( 1 ): 211 –34.
+
+CrossRef Google Scholar Miller , Joanne M.
+
+, and Krosnick , Jon A.
+
+.
+
+2000 .
+
+“ News Media Impact on the Ingredients of Presidential Evaluations .” American Journal of Political Science 44 ( 2 ): 301 –15.
+
+CrossRef Google Scholar Smith , Glen R.
+
+2010 .
+
+“ Politicians and the News Media: How Elite Attacks Influence Perceptions of Media Bias .” International Journal of Press/Politics 15 ( 3 ): 319 –43.
+
+CrossRef Google Scholar Stroud , Natalie .
+
+2011 .
+
+Niche News: The Politics of News Choice .
+
+Oxford, UK : Oxford University Press .
+
+CrossRef Google Scholar Watts , Mark D.
+
+, Domke , David , Shah , Dhavan V.
+
+, and Fan , David P.
+
+.
+
+1999 .
+
+“ Elite Cues and Media Bias in Presidential Campaigns: Explaining Public Perceptions of a Liberal Press .” Communication Research 26 : 144 –75.
+
+CrossRef Google Scholar
+
+</CONTENT>

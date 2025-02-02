@@ -1,0 +1,420 @@
+<TITLE></TITLE>
+<PUBLISHED_DATE>2024-11-01</PUBLISHED_DATE>
+<URL>https://v-dem.net/media/publications/WP_150.pdf</URL>
+<AUTHOR></AUTHOR>
+
+<SUMMARY>
+This V-Dem working paper details a machine-learning model for forecasting electoral violence globally.
+-  The model, trained on data including economic indicators, historical violence records, political instability, and digital vulnerability, predicts the risk of violence on a scale from none to severe.
+-  Results from combining multiple models for 2024-2025 elections show high predictive accuracy in discriminating between risk levels.
+-  The research aims to provide a data-driven tool for violence prevention, helping identify elections at risk.
+-  The study contributes to political violence prediction by offering a medium-term forecasting tool.
+-  The authors' data sources are extensive and include various indicators of potential electoral violence.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- These forecasts show an elevated risk for electoral violence primarily in countries with a history of electoral violence and countries with a mixed democratic record, but also in consolidated democracies such as the United States.
+- These forecasts suggest that this tool can provide valuable information for policymakers seeking to mitigate the risk of violence in future elections.
+
+</HIGHLIGHTS>
+<CONTENT>
+Forecasting Electoral Violence
+David Randahl, Maxine Leis, Tim Gåsste,
+Hanne Fjelde, Håvard Hegre, Staffan I.
+
+Lindberg,
+and Steven Wilson
+Working Paper
+SERIES 2024:150
+THE VARIETIES OF DEMOCRACY INSTITUTE
+November 2024
+Varieties of Democracy (V-Dem) is a unique approach to conceptualization and measurement
+of democracy.
+
+The headquarters – the V-Dem Institute – is based at the University of
+Gothenburg with 18 staff.
+
+The project includes a worldwide team with 5 Principal
+Investigators, 23 Project Managers, 26 Regional Managers, 134 Country Coordinators,
+Research Assistants, and 4,000 Country Experts.
+
+The V-Dem project is one of the largest
+ever social science research-oriented data collection programs.
+Please address comments and/or queries to:
+V-Dem Institute
+Department of Political Science
+University of Gothenburg
+Sprängkullsgatan 19, Box 711
+405 30 Gothenburg
+Sweden
+E-mail: contact@v-dem.net
+V-Dem Working Papers are available in electronic format at https://www.v-dem.net
+Copyright ©2024 by authors.
+
+All rights reserved.
+Forecasting Electoral Violence
+David Randahl∗1, Maxine Leis1, Tim G˚asste1, Hanne Fjelde1, H˚avard Hegre1,2,
+Staffan I.
+
+Lindberg3, and Steven Wilson4
+1Dep.
+
+of Peace and Conflict Research, Uppsala University
+2Peace Research Institute Oslo
+3V-Dem Institute, University of Gothenburg
+4Dep.
+
+of Politics, Brandeis University
+October 2024
+∗Corresponding author: David Randahl
+Abstract
+Electoral violence remains a significant challenge worldwide.
+
+It not only threatens to undermine
+the legitimacy and fairness of electoral outcomes, but often has serious repercussions on political stability more broadly.
+
+The ability to prevent electoral violence is critical for safeguarding
+democracy and ensuring peaceful transitions of political power.
+
+Predicting which elections are
+at risk of violence is an important step for effective prevention.
+
+In this study, we build and
+train a set of machine-learning models to forecast the likelihood of electoral violence on a global
+scale.
+
+Using a comprehensive set of data sources, with features including economic indicators,
+records of historical violence, political instability, and digital vulnerability, we predict the risk
+of electoral violence on a scale from no violence to severe violence.
+
+When combining a subset
+of these models to produce ensemble predictions of electoral violence for 2024-2025, our results
+show that our model effectively discriminates between the different levels of risk with a high
+degree of predictive accuracy.
+
+This research contributes to the field of political violence prediction by providing a medium-term data-driven forecasting tool for electoral violence.
+
+This
+knowledge may assist practitioners in the field of violence prevention by pinpointing elections
+at risk.
+Keywords: Electoral violence Forecasting Elections Machine learning Political violence
+1 Introduction
+Today, a vast majority of countries in the world hold some form of election in which citizens vote
+to fill the highest political offices of the state.
+
+Where elections are free and fair, they represent a
+cornerstone of democratic governance that can provide a peaceful mechanism for transferring power
+and holding governments accountable.1 Yet, electoral violence— i.e.
+
+violence seeking to purposefully
+influence the process or outcome of elections—represents a serious challenge to the integrity and
+legitimacy of electoral processes around the world (Birch, Daxecker, and H¨oglund, 2020).
+
+One in
+five national elections since 1946 has experienced significant levels of intimidation, harassment, and
+physical violence, often leading to civilian fatalities (Hyde and Marinov, 2012).
+
+In addition to the
+human suffering associated with all types of political violence, electoral violence risks undermining the
+legitimacy and fairness of the democratic process by influencing who stands for political office, who
+votes and whom they vote for, how votes are counted, and how electoral outcomes are enforced.
+
+The
+potentially far-reaching implications for political stability and social cohesion may even trigger broader
+political turmoil, including civil wars (Birch, Daxecker, and H¨oglund, 2020; Birch and Muchlinski,
+2018).
+
+Whereas the holding of elections in authoritarian and hybrid regimes has aggravated the
+challenge, the problem is not restricted to the Global South or to weakly consolidated democracies,
+as recent episodes of electoral violence in the United States, Brazil, Turkey, and Hungary remind us.
+Thus, the promotion of peaceful elections is high on the political agenda for domestic and international
+agencies alike (Birch and Muchlinski, 2018; Kleinfeld and Sedaca, 2024).
+More knowledge about when and where elections turn violent is in high demand across academic
+and policy-practitioners circles.
+
+This study responds to this demand.
+
+We build on recent methodological advances in the forecasting literature, along with the burgeoning literature on the causes of
+electoral violence to predict the likelihood of violence in upcoming elections on a global scale.
+
+In
+recent years, forecasting has gained traction as a complementary approach to understanding political violence and assessing its consequences (e.g.
+
+Hegre et al., 2019; Hegre et al., 2021; Vesco et al.,
+2022; Butcher et al., 2020).
+
+Prominent forecasting projects have focused on predicting various forms
+of political violence, such as the likelihood of future civil wars, fatalities in ongoing wars, and the
+likelihood of mass atrocities (for a review, see Rød, G˚asste, and Hegre (2024)).
+
+However, research on
+electoral violence has, thus far, primarily been studied through an explanatory framework aimed at
+1
+In many non-democratic settings, elections are also held to identify opposition strongholds, signal the
+strength of the incumbent, provide trappings of democracy, and ”divide and rule” tactics (Gandhi and LustOkar, 2009).
+2
+understanding the circumstances when it occurs and its consequences for democratic processes (e.g.
+Hafner-Burton, Hyde, and Jablonski, 2013; Fjelde and H¨oglund, 2014), rather than through a predictive framework that allows policymakers and stakeholders to take proactive steps to minimize its risk
+and consequences.
+
+This study aims to fill this gap by introducing a forecasting system that predicts
+electoral violence globally.
+
+The resulting forecasts can then be used to inform policy decisions and
+preventive measures to reduce the risk of electoral violence in the future.
+Our prediction system uses random forest classifiers trained on historical data on electoral
+violence alongside a comprehensive set of structural, political, and socioeconomic factors to predict
+electoral violence on a three-level ordinal scale: no violence, moderate violence, and severe violence.
+Our predictor features are grouped into thematic constituent models, which are combined for the final
+forecast using a genetic algorithm.
+
+Evaluating our final, weighted, prediction models on historical data
+between 2014-2023 shows that our model is able to correctly predict the level of electoral violence in
+417 and 421 out of the 502 elections in the period when forecasts are made one and two calendar year
+in ahead of the elections respectively.
+
+The models also perform well on other important evaluation
+metrics such as the Brier score and the AUPR and AUROC metrics.
+We then re-train our models using all of the data up until the end of 2023 to generate probabilistic global forecasts of electoral violence in national-level elections for the years 2024 and 2025.
+These forecasts show an elevated risk for electoral violence primarily in countries with a history of
+electoral violence and countries with a mixed democratic record, but also in consolidated democracies
+such as the United States.
+
+These forecasts suggest that this tool can provide valuable information for
+policymakers seeking to mitigate the risk of violence in future elections.
+2 Electoral Violence
+Electoral violence is a complex phenomenon that can take many forms, ranging from intimidation and
+harassment to outright violence and coercion (Birch, Daxecker, and H¨oglund, 2020).
+
+Our goal in this
+paper is to produce forecasts of electoral violence broadly defined, on a global scale.
+
+The prediction
+target must, therefore, satisfy three criteria.
+
+First, the target must encompass electoral violence
+perpetrated by different types of actors.
+
+This includes both government-affiliated and oppositionaligned groups.
+
+Second, the scope should cover different forms of electoral violence, both lethal and
+non-lethal physical violence (e.g., beatings, assaults), as well as forms of intimidation that may not
+3
+involve physical harm but aim to influence the behavior of voters, candidates, or election officials.
+Third, the target must be coded consistently on a global scale over a sufficiently long time period to
+allow for the training of machine learning models.
+To this end, we have chosen to work with two indicators from the Varieties of Democracy
+(V-DEM) project (Coppedge et al., 2024b; Pemstein et al., 2024).
+
+The first indicator is the Election
+Government Intimidation (v2elintim), measuring the extent to which the government uses intimidation
+and harassment to influence the outcome of elections.
+
+The second indicator is the Election other
+electoral violence (v2elpeace), measuring the extent to which actors other than the government use
+violence and coercion to influence the outcome of elections (Coppedge et al., 2024a).
+
+We have combined
+these two indicators into a single indicator of the level of electoral violence.
+Our indicator for the level of electoral violence is calculated by collapsing the original scale of
+the two indicators into three categories: no electoral violence, for elections where the indicator has the
+value 3 or higher; moderate electoral violence, for elections where the indicator is in the range 1.5-3,
+and severe electoral violence for elections where the indicator is smaller than 1.5.
+
+We then calculate
+the level of electoral violence as the maximum of the two indicators.
+
+This allows us to capture the
+full range of electoral violence, from no violence to severe violence, in a single indicator.
+
+If multiple
+national-level elections take place in a single country year, we take the level of electoral violence to be
+the maximum across all elections in the country year.
+2.1 Prediction target
+Based on the definition above, the target for our prediction system is the maximum level of electoral
+violence observed in each country-year seeing an election.
+
+In addition, we limit ourselves to countryyears with at least one national level election, such as a presidential election or an election to the
+legislative assembly, and thus exclude country-years which only feature regional elections, referendums, and/or international level elections (e.g.
+
+elections to the European parliament).
+
+We make this
+limitation for two main reasons.
+
+First, the coding of all election-level data across these types of elections is not complete (Coppedge et al., 2024b) and may vary across countries and contexts, potentially
+introducing bias in the forecasting system.
+
+Second, we believe that these types of elections may have
+different dynamics compared to the national-level elections, making them less comparable in terms of
+the drivers and manifestations of electoral violence.
+
+Including them in the same forecasting system
+4
+would thus risk conflating distinct political processes, which could lead to inaccurate predictions or
+misinterpretation of patterns of violence that are specific to national elections.
+To build our forecasting system, we extract data on the level of electoral violence for 1,683
+country-years with national-level elections in 172 countries between 1990 and 2023.
+
+This includes 779
+country-years without electoral violence, 644 with moderate violence and 260 with severe violence.
+All country-years without elections were excluded from the data set.
+
+Forecasts for the future are
+made at the country-year level, predicting electoral violence one and two years into the future for
+all countries, regardless of whether a national election is scheduled.
+
+This allows us to account for
+potential unscheduled or early elections, ensuring the model captures potential future risks even in
+off-cycle years.
+
+We trained the models twice, once for elections one year ahead and once for elections
+two years ahead from the latest available data.
+3 Methods
+Our forecasting system is built on a set of thematic constituent models, each of which is designed to
+capture different sets of features that may be relevant for predicting electoral violence.
+
+A subset of these
+models are then combined, using a genetic algorithm, into a weighted ensemble model which produces
+the final forecast of electoral violence.
+
+This approach is in line with the state-of-the-art in conflict
+forecasting (Hegre et al., 2019; Hegre et al., 2021).
+
+In total, we tested 33 different constituent models
+containing a variety of features, including the history of electoral violence, electoral characteristics, and
+a wide range of other political, economic, social, and geographic variables.
+
+The features are primarily
+drawn from the Varieties of Democracy (V-DEM) project (Coppedge et al., 2024b), the World Bank’s
+World Development Indicators (WDI) (WorldBank, 2023), and the Digital Society Project (Mechkova
+et al., 2024).
+
+A description of all 33 tested thematic constituent models, including the features included
+in each, is available in the Appendix (A1).
+Predictions were made as probabilities for the three different levels of electoral violence (no,
+moderate and severe).
+
+As our prediction algorithm, we use a standard Random Forest classifier with
+probability estimates.
+
+The Random Forest classifier is a machine learning method that fits a number
+of decision tree classifiers on random sub-samples of the training data and uses averaging to improve
+the predictive accuracy and control over-fitting.
+
+The Random Forest classifier is commonly used for
+5
+predicting political violence (Hegre et al., 2019; Hegre et al., 2021; Muchlinski et al., 2016), and has
+been shown to perform well in a variety of contexts.
+Unlike more complex machine learning models, such as deep learning models and gradientboosted models, the Random Forest model is relatively robust to overfitting and does not require
+extensive hyperparameter tuning.
+
+This makes it a good choice for our forecasting system, as the
+available training data is relatively limited which can pose a problem for hyperparameter tuning.
+Initial experiments using a gradient-boosted model showed a high degree of instability in the hyperparameters, making it difficult to obtain consistent results across different experimental runs.
+
+The
+gradient-boosted model also did not outperform the Random Forest model in terms of predictive performance, which further supported our decision to use the Random Forest model for our forecasting
+system.
+3.1 Training and Evaluation
+To properly evaluate the performance of any forecasting system, it is important to ensure that the
+evaluation is done on data that has not been used when training the model.
+
+There are several reasons
+for this, including the risk of overfitting, the risk of data leakage, and the need to ensure that the
+model is able to generalize to new data (Ying, 2019; Hern´andez-Orallo, Flach, and Ferri Ram´ırez,
+2012).
+Setting aside a holdout set of data for evaluation is, however, an expensive approach that
+requires large amounts of data, which may often not be available in practice.
+
+As our training data is
+limited, we instead use a rolling test window approach.
+
+In this approach, we iteratively train the model
+with data up until a certain point, make out-of-sample forecasts for the following time period, then
+move the training window forward, and repeat the process.
+
+This allows us to evaluate the performance
+of the model on out-of-sample data, while still maximizing the amount of data available for training
+the model.
+
+This evaluation strategy also mimics the real-world forecasting scenario, where the model
+can be re-trained as new data becomes available (Bergmeir and Ben´ıtez, 2012).
+Our goal is to make forecasts of electoral violence two years into the future.
+
+As the performance
+of the models may vary across different forecasting horizons, we train the models for the one-year and
+two-years forecasting horizons separately.
+
+We evaluate both horizons in a rolling test window for the
+period 2014-2023, where the models are trained on data up to one and two years before the forecasted
+6
+year, respectively.
+
+To make the final forecasts, we re-train our models using all available data up until
+2023, and make forecasts for 2024 and 2025.
+3.2 Performance metrics
+To evaluate the performance of the models in our rolling test window, we use four different performance
+metrics: accuracy, area under the receiver operating characteristic curve (AUROC), area under the
+precision-recall curve (AUPR), and the Brier score.
+Accuracy
+Accuracy measures the proportion of correctly classified instances, out of all instances in the test
+set.
+
+Accuracy is an intuitive metric that is easy to interpret, but can be misleading when classes
+are imbalanced, when costs of different types of errors are not equal, or when the difficulty of the
+classification task varies across different classes.
+AUROC
+The area under the receiver operating characteristic curve (AUROC) measures the trade-off between
+the true positive rate, i.e.
+
+the proportion of true positives classified as positives, and the false positive rate, i.e.
+
+the proportion of true negatives classified as positives, across different thresholds for
+classifying instances.
+
+The AUROC ranges from 0 to 1, where a value of 0.5 indicates that the model
+performs no better than random, and a value of 1 indicates perfect performance.
+
+The AUROC is a
+useful metric for evaluating the overall performance of a classification model, but can be misleading
+when the classes are imbalanced (Hern´andez-Orallo, Flach, and Ferri Ram´ırez, 2012).
+While the AUROC metric was originally designed for binary classification, it can be adapted for
+multi-class problems using the “one-vs-rest” approach.2 Here, each class is treated individually as the
+“positive” class, with the others as “negative.” We then average these scores to get the overall AUROC,
+allowing us to effectively evaluate our multi-class forecasting system (Hern´andez-Orallo, Flach, and
+Ferri Ram´ırez, 2012).
+2Other alternatives such as class-weighted average AUROC can also be computed.
+7
+AUPR
+The area under the precision-recall curve (AUPR), or average precision measures the trade-off between
+precision, i.e.
+
+the proportion of true positives among all instances classified as positives, and true
+positive rate (recall) across different thresholds for classifying instances.
+
+The AUPR ranges from 0
+to 1, where a value of 0 indicates that the model performs no better than random, and a value of
+1 indicates perfect performance.
+
+The AUPR is a useful metric for evaluating the performance of a
+classification model when classes are imbalanced, as it focuses on the positive class (Hern´andez-Orallo,
+Flach, and Ferri Ram´ırez, 2012).
+As with the AUROC metric, the AUPR metric was designed for binary classification problems,
+but can be extended to multi-class classification problems using the one-vs-rest approach.
+Brier score
+The Brier score is a proper scoring rule that measures the mean squared difference between the
+predicted probabilities and the actual outcomes.
+
+The Brier score ranges from 0 to 1, where a value
+of 0 indicates perfect performance.
+
+The Brier score is a useful metric for evaluating the calibration of
+a classification model, as it measures the accuracy of the predicted probabilities.
+
+The Brier score is
+particularly useful when the predicted probabilities are used to make decisions, as it directly measures
+the quality of the predictions (Hern´andez-Orallo, Flach, and F
+
+</CONTENT>

@@ -1,0 +1,270 @@
+<TITLE>Assessing US-China tech competition in the Global South</TITLE>
+<PUBLISHED_DATE>2024-11-20</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/content-series/strategic-insights-memos/assessing-us-china-tech-competition-in-the-global-south/</URL>
+<AUTHOR>swong</AUTHOR>
+
+<SUMMARY>
+A recent Atlantic Council workshop examined US-China competition in AI technology in the Global South.
+-  The workshop found that China is aggressively pursuing AI development in these regions, often through investments in infrastructure and technology provision (e.g., Digital Silk Road).
+-  China's initiatives include financial backing for projects like fiber optic cables and AI applications for public sectors.
+-  Conversely, the workshop highlighted the opportunity for the US to leverage its private sector leadership and diplomatic presence to aid developing countries in AI adoption while mitigating the digital divide.
+-  The US and China are not only vying for AI leadership but also promoting differing values in AI implementation globally.
+-  The workshop stressed the importance of US engagement and technology diplomacy with Global South nations.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+-  Given its advantages in AI infrastructure and applications, the United States currently has an opportunity to leverage its private-sector leadership and its diplomatic presence to help meet the needs of the developing world.
+- It is important, workshop participants emphasized, for the United States to utilize its tech diplomacy to build strong and sustained connections with countries in the Global South.
+- Moreover, participants emphasized that the United States must pursue policies and objectives that will help bridge the digital divide, not exacerbate it.
+-   Yet China’s ambitions and actions in the Global South introduce challenges.
+- The United States and China are competing not only for who will lead in AI innovation but also whose values will guide AI applications around the world.
+
+</HIGHLIGHTS>
+<CONTENT>
+November 20, 2024 
+ 
+ 
+ Hanna Dohmen 
+ 
+ TO: Policymakers and Technology Policy Strategists 
+ FROM: Hanna Dohmen 
+ DATE: November 20, 2024 
+ SUBJECT: Assessing US-China tech competition in the Global South 
+ In July 2024, the Atlantic Council’s Global China Hub and Scowcroft Center for Strategy and Security convened experts and policymakers in a private workshop held under the Chatham House rule to discuss US-China technology competition in the Global South.
+
+This memo draws from insights gathered during the workshop to give policymakers a deeper understanding of how China is attempting to gain influence through technology competition in artificial intelligence (AI) in the regions and countries of the Global South and the opportunities for the United States to engage with the Global South.
+
+
+ Strategic context 
+ AI presents significant economic development opportunities for countries in the Global South.
+
+Countries in Africa, Southeast Asia, Latin America, and elsewhere have already begun to capitalize on the opportunities presented by AI applications to help advance progress in critical industries like agriculture, education, and healthcare.
+
+A United Nations Economic Commission for Africa report projects that AI has the potential to expand Africa’s economy by USD 1.5 trillion.
+
+That figure is half of Africa’s gross domestic product (GDP) today and is projected to be realized if Africa can capture 10 percent of the global AI market by 2030.
+
+
+ Given its advantages in AI infrastructure and applications, the United States currently has an opportunity to leverage its private-sector leadership and its diplomatic presence to help meet the needs of the developing world.
+
+It is important, workshop participants emphasized, for the United States to utilize its tech diplomacy to build strong and sustained connections with countries in the Global South.
+
+Moreover, participants emphasized that the United States must pursue policies and objectives that will help bridge the digital divide, not exacerbate it.
+
+
+ Yet China’s ambitions and actions in the Global South introduce challenges.
+
+The United States and China are competing not only for who will lead in AI innovation but also whose values will guide AI applications around the world.
+
+In the AI context, China is using the same playbook that it has used in other technology areas.
+
+Namely, it is employing a multifaceted approach to promoting AI development in the Global South, ultimately to its own economic and diplomatic advantage.
+
+Through initiatives like the Digital Silk Road , China is providing substantial investments in technology and infrastructure projects.
+
+Chinese technology firms, such as Huawei, ZTE, and SenseTime, have provided tens to hundreds of millions of dollars in financing and investment for various digital infrastructure projects, including fiber optic cables, hardware equipment procurement, surveillance cameras, and AI applications for public-sector digitization.
+
+China is also promoting its AI governance model in international forums, including within the United Nations (UN), the Group of Seventy-Seven (G77) , and the BRICS grouping, in part to undermine Western approaches to digital governance.
+
+
+ Opportunities offered through AI in the Global South 
+ AI holds significant promise for the Global South, offering new solutions for challenges in a wide range of sectors.
+
+AI tools already are being adopted across industries in the Global South including agriculture, healthcare, and education.
+
+AI applications are addressing challenges such as identifying and detecting crop diseases , enhancing forest monitoring , combating antimicrobial resistance , and enhancing science education .
+
+
+ Scholars suggest that the excitement surrounding AI in the Global South exceeds that in the United States or Europe, primarily because AI is seen as a necessary tool to solve critical development challenges, not just a means of improving economic efficiency.
+
+AI’s broad applicability makes it particularly attractive for developing countries, many of which see it as a critical tool for achieving sustainable development goals (SDGs).
+
+
+ The Global South’s enthusiasm offers the United States an opportunity to collaborate on AI for development.
+
+Despite China’s growing presence in the AI space, the United States still has most of the world’s leading AI firms and AI applications, which emphasizes the critical need for private-sector investment in and collaboration with countries in the Global South.
+
+Moreover, the fact that US companies are leaders in AI differentiates the position that the United States finds itself in today compared with the 5G competition vis-à-vis China.
+
+In the 5G competition , China is the global leader, largely due to its aggressive state support, substantial investments in infrastructure, and rapid deployment capabilities that have outpaced US efforts.
+
+In the AI arena, the situation is much different.
+
+
+ Competing approaches 
+ There is a stark contrast between China’s approach to fostering AI development in the Global South and that of the United States.
+
+These distinctions highlight some key challenges for policymakers.
+
+
+ China’s narrative 
+ China has been actively promoting its vision of AI governance through multilateral institutions like the UN.
+
+One mechanism that China is relying on is the G77, the largest coalition of developing countries in the UN.
+
+China has been pushing its ideas of AI governance through the G77, BRICS, and other multistakeholder mechanisms—while it refuses to sign global agreements presented at other forums, such as the Seoul AI Safety Summit.
+
+
+ Beijing has sought to shift the focus of AI governance discussions toward capacity-building initiatives , sidelining more robust discussions on ethical standards.
+
+Workshop participants noted that China largely decouples the capacity-building conversation from the governance conversation, arguing that governance—as pursued by the West—is an obstacle to development in the Global South because it increases regulatory costs, imposes barriers to entry, and takes the focus away from capacity building.
+
+Participants highlighted that China’s approach undermines civil society and focuses too much on capacity building and too little on governance.
+
+Moreover, China is positioning itself to shape the global AI ecosystem according to its own terms, which risks undermining international norms and values on privacy, transparency, and accountability.
+
+
+ China is promoting its collaboration with Global South countries through other multilateral mechanisms and summits.
+
+For example, in September 2024, China, in collaboration with fifty-three African nations, adopted the Beijing Declaration on Jointly Building an All-Weather China-Africa Community with a Shared Future for the New Era , committing to accelerating technological development and innovation across the continent.
+
+This declaration highlights China’s strategy to embed its AI governance model within global dialogues.
+
+It outlines an agreement between African nations and China to together adopt measures that emphasize both the development and security of AI and form relevant international governance frameworks through the UN.
+
+
+ Other joint mechanisms promoted by Chinese government agencies have also called for increased cooperation with the Global South.
+
+For example, in April 2024, the Cyberspace Administration of China (CAC) pushed for the establishment of a China-Africa AI policy dialogue, making use of the UN to play a more central role in international AI governance, promoting talent exchanges, and increasing collaboration among universities and research institutions.
+
+
+ In addition to its diplomatic efforts, Chinese tech giants like Alibaba are deepening their footprint in countries like Mexico, Malaysia, Thailand, and the Philippines.
+
+By building the physical infrastructure and increasing its cloud services offerings, Alibaba aims to increase the adoption of its AI products and services by businesses and governments in these countries.
+
+US cloud service providers, such as Microsoft, Amazon, and Google, do the same: One of the questions raised by participants is whether these US companies can compete on price compared with their Chinese counterparts.
+
+
+ Moreover, as Chinese companies integrate telecommunications infrastructure with cloud computing infrastructure and AI applications, participants worry about whether US companies will effectively compete.
+
+For example, a Chinese company might control not just the data centers and telecommunications networks, but also the software and AI applications on top of that infrastructure.
+
+The concern is that Chinese companies could leverage their existing telecommunications infrastructure in the Global South to push countries to adopt their AI applications.
+
+Participants also noted that China is offering the model weights—the numerical values that determine how input data is transformed into predictions—to every country to allow those countries to have the ability to develop AI systems at the frontier on their own, without relying on the AI systems already developed by companies.
+
+
+ The US narrative 
+ Meanwhile, participants noted that while US infrastructure and hardware providers are at the cutting edges of AI application development now, factors such as governance requirements may hinder US competitiveness in the Global South.
+
+In contrast to China, the United States is not only offering countries in the Global South the infrastructure, hardware, and models but doing so while emphasizing responsible AI governance and the importance of ethical standards through multilateral stakeholder mechanisms.
+
+
+ The United States has spent a great deal of effort to build a global governance architecture that promotes the safe, secure, and responsible use of AI.
+
+The United States asserts that fostering digital sovereignty requires a robust governance framework that ensures safety and accountability in AI applications.
+
+As such, the United States has advocated for a governance model based on security and responsibility at international forums such as the G7, the Bletchley Park AI Safety Summit, and the AI Seoul Summit.
+
+Through these mechanisms, the United States and other allied nations have developed frameworks and guiding principles for developing safe, secure, and trustworthy AI systems worldwide that seek to prevent applications that undermine democratic values, facilitate terrorism, enable criminal misuse, or post other substantial risks.
+
+
+ Workshop participants also emphasized that while the United States disagrees with China’s approach to AI within the UN system, the US government continues to believe that the UN must play a consequential role in AI governance.
+
+Participants noted that China’s actions raise concerns because they promote a centralized regulatory framework that does not align with the values of the United States and its allies.
+
+Therefore, the United States promotes and supports multilateral ethical AI frameworks aligned with democratic values like the UN Educational, Scientific and Cultural Organization’s Recommendation on the Ethics of Artificial Intelligence and led and adopted a UN General Assembly resolution in March 2024 on “ seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development.
+
+” Participants also noted that the United States must be proactive in countering China’s growing influence in these global governance conversations, ensuring that AI standards reflect democratic values and respect for human rights.
+
+Leading the creation of AI standards with countries in the Global South will be essential for establishing a global framework that aligns with the values of the United States and its partners.
+
+
+ US firms such as Google and Microsoft are at the frontlines of bringing AI infrastructure, models, and applications to the Global South.
+
+For example, in May 2024, Microsoft, along with United Arab Emirates-based firm G42, announced a USD 1 billion investment in Kenya that aims to work with local partners to develop local-language AI model development and research and an East Africa Innovation Lab focused on AI skills training, and collaborate with the government of Kenya to support safe and secure services across East Africa.
+
+
+ Participants, however, also raised a concern that US national security objectives are at times at odds with US competitiveness.
+
+Specifically, US regulations focused on strengthening national security may inadvertently hinder the nation’s competitiveness in the Global South.
+
+For instance, proposed regulations requiring the disclosure of large AI model training using US Infrastructure-as-a-Service (IaaS) providers to the US government could raise privacy concerns and create disadvantages in competing in the Global South compared to China’s approach.
+
+
+ Participants highlighted that collaboration between the United States and the Global South should extend beyond mere technology transfer; it should also encompass the establishment of innovation ecosystems.
+
+This approach entails fostering research collaborations, nurturing local talent, and ensuring that AI tools are tailored to local contexts.
+
+Ensuring that AI models are culturally and contextually relevant will be crucial for fostering trust and long-term success in AI partnerships.
+
+For instance, only 11 percent of global datasets are sourced from Africa , with countries like Egypt contributing a disproportionate share.
+
+This lack of representation hampers AI development, as models built on predominantly Western datasets often fail to consider regional nuances and hinder effective integration of AI solutions.
+
+
+ The United States has an opportunity to play a critical role in aiding countries in the Global South to create more representative datasets, thereby enhancing the applicability and reliability of AI systems to local context and needs.
+
+By focusing on the individual needs and goals of countries in the Global South, the United States will be better positioned to build trust and long-term partnerships, which will be critical in US-China technology competition.
+
+
+ Metrics to measure competition 
+ One of the key questions discussed in the workshop is who is better positioned to lead in AI in the Global South—the United States or China? Key metrics to understand the state of competition might include: 
+ 
+ Investment trends: Analyzing the volume and value of transactions in AI, utilizing platforms like Crunchbase or PitchBook to assess who is investing where and how much.
+
+This approach has been used in the past by researchers to better understand China’s domestic and international initiatives to financially support its AI development.
+
+
+ Infrastructure development: Examining the nature and scope of infrastructure projects funded by both the United States and China, particularly in relation to the Digital Silk Road.
+
+
+ Data representation: Assessing the availability and utilization of local datasets for AI model training, especially in underrepresented regions.
+
+
+ Partnership agreements: Evaluating the number and scope of bilateral and multilateral agreements focused on AI between countries in the Global South and either the United States or China.
+
+This may include further examining the multilateral stakeholder agreements advocated for by both countries in the United Nations.
+
+
+ Public sentiment: Understanding how citizens in these countries perceive US versus Chinese technologies and what values they prioritize in their AI partnerships.
+
+
+ Pricing performance: Assessing the costs of AI development and deployment offered by both the United States and China.
+
+
+ 
+ Conclusion 
+ To effectively engage with the Global South in AI development, the United States should prioritize the creation of enduring partnerships that foster innovation and governance.
+
+This engagement must transcend mere transactional relationships and should not solely be viewed through the lens of geopolitical competition with China.
+
+Such partnerships should promote inclusive growth, ethical AI governance, and support for countries in harnessing AI for sustainable development.
+
+
+ Navigating the complex trade-offs between national security and competitiveness will be essential for the United States to ensure that its AI tools and standards remain attractive to countries in the Global South.
+
+Ultimately, success will hinge on the United States presenting a compelling vision for AI that resonates with the needs of developing nations while upholding values that ensure a fair and inclusive AI future.
+
+
+ 
+ 
+ About the author 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acknowledgements 
+ 
+ 
+ The Atlantic Council would like to thank its partner, Tides Foundation, for supporting the Council’s work on this publication.
+
+
+ 
+ 
+ Global China Hub 
+ The Global China Hub researches and devises allied solutions to the global challenges posed by China’s rise, leveraging and amplifying the Atlantic Council’s work on China across its fifteen other programs and centers.
+
+
+ 
+ Image: An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai, China.
+
+REUTERS/Aly Song
+
+</CONTENT>

@@ -1,0 +1,198 @@
+<TITLE>The sound of disinformation: TikTok, computational propaganda, and the invasion of Ukraine</TITLE>
+<PUBLISHED_DATE>2024-08-30</PUBLISHED_DATE>
+<URL>https://journals.sagepub.com/doi/10.1177/14614448241251804</URL>
+<AUTHOR>Tom  Divon</AUTHOR>
+
+<SUMMARY>
+This article examines the spread of misinformation on TikTok during the 2022 Ukrainian invasion.
+-  Videos using the #Ukraine hashtag garnered over 36.9 billion views in the initial three months, with individual videos reaching 88 million.
+-  The study analyzes how TikTok's audio features are exploited for disinformation campaigns, including reusing sounds, creating audio memes, and deleting original sounds to conceal orchestrators.
+-  The platform's algorithm and "For You" page play a key role in distributing this content, potentially exposing new users to disinformation within 40 minutes of signing up.
+-  The research suggests TikTok's infrastructure, particularly its audio-based content and recommendation system, facilitates the spread of both shallow misinformation and sophisticated disinformation campaigns.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- This has enabled audio manipulation, such as sirens and gunshots, to create a sense of presence in active combat zones and imminent danger.
+- The issue of anonymity is being addressed, as we have found that tapping on the sound and examining its overview page reveals the trustworthy source of many of these misleading videos, allowing for easy debunking.
+- It becomes apparent that these videos often use sounds taken from various sources on the internet.
+- Nonetheless, a concerning trend on TikTok is that perpetrators can easily disguise their rapidly scaling sound-based campaigns by deleting the original source video, while the sound can still be used and spread across the platform.
+- Ultimately, in the mid-volume information disorder category, all elements of computational propaganda, as outlined by Woolley and Howard (2019) , become evident.
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract TikTok has emerged as a powerful platform for the dissemination of mis- and disinformation about the war in Ukraine.
+
+During the initial three months after the Russian invasion in February 2022, videos under the hashtag #Ukraine garnered 36.9 billion views, with individual videos scaling up to 88 million views.
+
+Beyond the traditional methods of spreading misleading information through images and text, the medium of sound has emerged as a novel, platform-specific audiovisual technique.
+
+Our analysis distinguishes various war-related sounds utilized by both Ukraine and Russia and classifies them into a mis- and disinformation typology.
+
+We use computational propaganda features—automation, scalability, and anonymity—to explore how TikTok’s auditory practices are exploited to exacerbate information disorders in the context of ongoing war events.
+
+These practices include reusing sounds for coordinated campaigns, creating audio meme templates for rapid amplification and distribution, and deleting the original sounds to conceal the orchestrators’ identities.
+
+We conclude that TikTok’s recommendation system (the “for you” page) acts as a sound space where exposure is strategically navigated through users’ intervention, enabling semi-automated “soft” propaganda to thrive by leveraging its audio features.
+
+Introduction Wars have always been mediated, perceived, experienced, and remembered through a medium whose features shaped wartime realities ( Boichak and Hoskins, 2022 ; Merrin, 2018 ).
+
+The widespread adoption of social media platforms has revolutionized the way in which information is shared during times of conflict, affording users to rapidly and easily reshape and disseminate news to global audiences at an unprecedented speed and scale ( Vilmer et al., 2018 ).
+
+Since the outset of the war in Ukraine in February 2022, TikTok has emerged as an unexpected focal point for spreading audiovisual content about the conflict ( Divon and Eriksson Krutrök, 2023 ; Geboers and Pilipets, 2024 ).
+
+Videos with the hashtag #Ukraine were viewed 36.9 billion times in the first three months after the Russian invasion ( TikTok, 2022 ), and the short-form video platform, owned by the Chinese company ByteDance, has been found to serve as the harbinger of war while communicating high volumes of videos containing mis- and disinformation ( Kuźmiński, 2022 ).
+
+The unique infrastructural characteristics of TikTok, including the platform’s algorithmic distribution, emphasis on content over interpersonal connections, and culture of remixing and meme creation, make it vulnerable to the spread of mis- and disinformation.
+
+Accordingly, TikTok has proven to be a fertile ground for the propagation of mis- and disinformation, with instances of misleading information appearing in nearly 20% of videos discovered by the platform’s search engine.
+
+Additionally, TikTok’s recommendation system (the “for you” page) has been found to display disinformation about the war in Ukraine to new users within 40 minutes of signing up, as reported by Newsguard’s Misinformation Monitor (2022a, 2022b).
+
+The spread of mis- and disinformation on TikTok during the Ukrainian conflict involves a diverse range of actors, including state actors, individuals, and computational elements such as algorithms and features ( O’Connor, 2022 ).
+
+This multifaceted phenomenon spans from shallow misinformation to sophisticated disinformation campaigns, highlighting the need for continued investigation.
+
+This paper looks at the trajectory of mis- and disinformation being algorithmically and automatically curated, amplified, distributed, and consumed on the platform’s recommendation system via the popular sound feature, considered as TikTok’s backbone ( Richards, 2022 ).
+
+We argue that TikTok’s aural paradigm shift ( Abidin and Kaye, 2021 ) has refocused attention on the power of sound as a tool for disseminating mis- and disinformation in innovative and affective ways that exploit the platform’s vernacular ( Kaye et al., 2022 ).
+
+Gibbs et al.
+
+(2015) describe platform vernacular as the “genres of communication emerge from the affordances of particular social media platforms and the ways they are appropriated and performed in practice” (p.
+
+257).
+
+We suggest that TikTok’s vernacular is particularly impactful in disseminating semi-automated propaganda messages in what we term sound spaces .
+
+These are automation-based environments that facilitate various forms of affective attunement, where emotional expression and social bonding are encouraged by auditory practices, enabling persuasion and influence to thrive.
+
+Therefore, we first establish the notion of computational propaganda as our theoretical lens, understood as the “use of algorithms, automation, and human curation to purposefully manage and distribute misleading information” ( Woolley and Howard, 2019 : 3).
+
+Second, we define misleading information on TikTok, encompassing both mis- and disinformation, with the latter serving as the core of propaganda designed to deceive and harm ( Wardle, 2020 ), while the former often functions as an amplifying agent.
+
+Third, we examine sound as a potent instrument for computational propaganda, analyzing war-related sounds used in over 25,000 videos.
+
+We categorize these sounds into a typology of six types of audio-based mis- and disinformation ( Wardle, 2020 ), spanning from low (satire and parody content) to mid-level (false context and imposter content) and up to high volume (manipulated and fabricated content).
+
+By connecting these findings to the computational propaganda features: automation, scalability, and anonymity ( Woolley and Howard, 2019 ), we conclude that TikTok’s sound feature serves as the core element of multimodal campaigns utilizing video, images, audio, and text to facilitate extensive semi-automated “soft” propaganda campaigns, resulting in up to 80 billion individual views per campaign.
+
+From false information to computational propaganda While false information has been used for centuries to influence public opinion, the proliferation of digital communication technologies, social media, and other online platforms during the 2010s has created novel opportunities for spreading such information at an unprecedented scale and speed.
+
+Accordingly, the exploration of false information within propaganda studies ( Auerbach and Castronovo, 2013 ) has led to a nuanced understanding, distinguishing between “misinformation” and “disinformation”—distinct terms that categorize the various forms and intentions behind the dissemination of false information and its political sway ( Marwick and Lewis, 2017 ).
+
+The former is defined as inaccurate or incorrect information disseminated without the expressed intention of deceiving ( Jack, 2017 ), while the latter involves the deliberate dissemination of falsifiable statements intended to deceive and amplify deception ( Wardle and Derakhshan, 2017 ).
+
+Various scholars have been exploring the textual and visual traces of mis- and disinformation online in recent years.
+
+Current work by Peng et al.
+
+(2023) provides a framework for understanding how visual artifacts influence the credibility perceptions of misinformation, while Thomson et al.
+
+(2022) explored strategies to mitigate the impact of mis- and disinformation on journalistic work.
+
+Meanwhile, Hameleers et al.
+
+(2020) analyzed the credibility of textual versus visual disinformation, uncovering that the latter is often deemed more credible due to the ease with which visual information can be taken out of context to serve as ostensibly reliable “proof.” Emerging techniques for creating synthetic videos that are difficult to distinguish from genuine footage, commonly known as “deepfakes,” have spurred scrutiny into novel avenues for video-based disinformation, leading to the widespread belief that much of online content cannot be trusted ( Vaccari and Chadwick, 2020 ).
+
+With misleading content spanning technologies, platforms, and tools, Wardle (2020) argued that mis- and disinformation can be understood as a form of “pollution” in the digitally connected world, where irrelevant, redundant, inferior, and unwanted information is disseminated with a certain level of intent to deceive audiences.
+
+To account for the proliferation of technically advanced strategies, non-human factors, and platform infrastructures used to spread mis- and disinformation, Woolley and Howard (2019) introduced the term “Computational Propaganda.” They define computational propaganda as the “use of algorithms, automation, and human curation to purposefully manage and distribute misleading information” ( Woolley and Howard, 2019 : 3), where misleading information encompasses both mis- and disinformation.
+
+The features of computational propaganda are (1) automation: enabling propaganda campaigns to be scaled up efficiently, (2) scalability: permitting instant and colossal reach within content distribution, and (3) anonymity: enabling the perpetrators of such campaigns to evade detection and remain unknown ( Woolley and Howard, 2019 ).
+
+Computational propaganda has the capacity to be used for a multitude of purposes, including advertising and commercial marketing.
+
+However, its most profound impact is observed in the sphere of politics, particularly in the context of foreign information manipulation and interference ( Bolsover and Howard, 2017 ).
+
+Computational propaganda leverages automated infrastructures to disseminate misleading information, amplify messages or viewpoints, and manipulate public opinion.
+
+Such tactics can ultimately create patterns of behavior that pose a formidable threat to the core values, procedures, and political processes of democratic societies ( Borrell, 2022 ).
+
+In alignment with current scholarly trends in mis- and disinformation research, the scrutiny of computational propaganda has predominantly focused on visual and textual elements.
+
+Scholars have examined the significant influence of social bots on Facebook and WhatsApp during election times in Brazil in 2014 ( Arnaudo, 2017 ) and in the U.S.
+
+during the 2016 elections ( Woolley and Guilbeault, 2017 ), where they achieved measurable impact through verbatim tweets on Twitter.
+
+Sanovich (2017) focused on Russia’s sophisticated use of online propaganda and counter-propaganda tools on Facebook, including trolls masquerading as organic users and elaborately substantiating even their most patently false claims.
+
+Thus far, this scrutiny has overlooked the multimodal nature of audiovisual platforms such as TikTok, including its auditory components.
+
+TikTok and the spread of mis- and disinformation Since its international launch in 2018, TikTok has emerged as one of the most influential video-sharing platforms globally, amassing one billion unique users in 2021 ( Silberling, 2021 ).
+
+Despite its massive popularity, TikTok’s Chinese ownership and government connections, coupled with concerns over privacy and content moderation, have subjected the platform to heightened scrutiny ( Zeng and Kaye, 2022 ).
+
+Recent research indicates that TikTok has become a fertile and complex ground for both the dissemination and combating of mis- and disinformation ( Basch et al., 2021 ).
+
+Even users’ creative efforts to debunk such falsehoods inadvertently contribute to a proliferative cycle, where they propagate misleading content further ( Southerton and Clark, 2023 ).
+
+The proliferation of mis- and disinformation narratives on TikTok can be attributed to the platform’s content-centric approach, which emphasizes video consumption over following specific users, potentially diminishing users’ attentiveness to source evaluation and credibility.
+
+Content is prominently featured on the “for you” page, the platform’s default interface, delivering a personalized stream of videos that are algorithmically recommended based on users’ interests.
+
+TikTok has enhanced its mechanisms to combat mis- and disinformation narratives, especially amid events like the war in Gaza since October 7, 2023, by intensifying content moderation and engaging external fact-checkers to preserve the accuracy of shared information during crises ( TikTok Newsroom, 2023 ).
+
+Nonetheless, as evidence mounts of TikTok’s failure to protect users from misleading information about the Gaza war ( Dwoskin, 2023 ), the platform is seen within long-standing political contexts in which the dissemination and impact of mis- and disinformation have been explored.
+
+Bösch and Ricks (2021) , in their study of right-wing propaganda efforts, investigated the use of fake accounts that visually mimicked official institutions on TikTok ahead of the German federal election in 2021.
+
+In the times of the COVID-19 crisis, Shang et al.
+
+(2021) found that the most common types of mis- and disinformation were conspiracy theories, false cures, and false information about COVID-19 testing.
+
+Those types were amplified by the help of the platform core technique to sample, reuse, and remix content through “duetting”—to post your video side-by-side with a video from another creator—or “stitching”—users’ ability to clip scenes from another user’s video into their own ( Ebbrecht-Hartmann and Divon, 2022 ; Quick and Maddox, 2024 ).
+
+In the context of the Russian invasion of Ukraine in 2022, propaganda efforts were identified by Kuźmiński (2022) , who observed techniques such as the utilization of deep-faked videos on TikTok, where audiovisual propaganda content manifested in meme form.
+
+With a viral potential higher than YouTube ( Guinaudeau et al., 2022 ), TikTok’s memes are powerful vehicles for the intentional production and dissemination of mis- and disinformation content, often driven by what Zulli and Zulli (2022) refer to as “imitation publics.” Those are the collection of people whose “digital connectivity is constituted through the shared ritual of content imitation” (p.
+
+7).
+
+As TikTok’s algorithm privileges meme-based videos with accelerated exposure ( Divon, 2022 ; Ling et al., 2022 ), users who engage in mimesis effectively become part of the human force propagating mis- and disinformation content to wider audiences.
+
+TikTok’s popularity for news consumption and media criticism ( Literat et al., 2023 ) has led to a shift in how users disseminate information, relying more on relational and emotional resonance rather than traditional markers of authoritative endorsement.
+
+This trend is further reinforced by the platform’s unique blend of playfulness, performance, affective appeal, and intimacy, which greatly influences how users circulate and amplify information within its ecosystem ( Cervi and Divon, 2023 ; Grandinetti and Bruinsma, 2022 ).
+
+Central to this scrutiny, TikTok’s platform-specific feature of sound, often identified as its backbone ( Richards, 2022 ), has been notably overlooked “Use this sound” for computational propaganda on TikTok The utilization of sound as an influential tool for propaganda is a long-standing practice.
+
+Lasswell (1934) emphasizes that propaganda can take “spoken, written, pictorial or musical form” (p.
+
+521).
+
+The use of aural persuasion as propaganda gained traction in the era of mass media, particularly with the development of radio broadcasting in the late 1920s, as totalitarian regimes were harnessing audio to gain a monopoly ( David, 2018 ).
+
+However, the academic exploration of sound as a persuasive tool was then sidelined by the global dominance of video via the widespread distribution of television, computers, and smartphones ( Ramos Méndez and Ortega-Mohedano, 2017 ).
+
+TikTok has spurred an aural paradigm shift in research, driven by the popularity of audio memes ( Abidin and Kaye, 2021 ).
+
+An audio meme is a short sound clip that includes snippets from songs, movies, or other audio sources, gaining popularity online through its repeated use and variations, encapsulating trends, humor, emotions, and platform dialects in a shareable format ( Pilipets et al., 2023 ).
+
+When engaged in audio meme creation, users have access to extensive repositories of organized audio clips, which can be reused through the “use this sound” feature available in each video.
+
+Thus, audio memes have evolved into an interactive and collaborative experience on the platform ( Kaye, 2023 ), enabling users to enhance their videos with music, voiceovers, sound effects, or multiple audio layers, with each sound automatically linked to a “sound page,” aggregating all videos utilizing that specific audio.
+
+Furthermore, being an engagement booster, creators utilize audio memes as a visibility strategy by incorporating trending audio snippets, thus engineering their videos into popular audio meme streams ( Bhandari and Bimo, 2022 ).
+
+In this sound-centric ecosystem, TikTok’s automated indexing and amplification of videos, guided by auditory practices, enhances users’ discovery and engagement with shared human experiences on the platform.
+
+As a result, audio memes have transformed into a communal and cultural storytelling medium ( Ramati and Abeliovich, 2022 ), empowering users to express and amplify their voices, including narratives of diasporic identity ( Divon and Ebbrecht-Hartmann, 2022 ; Jaramillo-Dent et al., 2022 ), and cultivate a sense of belonging within their in-groups ( Vizcaíno-Verdú and Abidin, 2022 ).
+
+Thus, sound use on TikTok exemplifies secondary orality ( Venturini, 2022 ), as dispersed individuals engage with the ephemeral and participatory nature of memetic content, continuously recreating and sharing anew to resonate their collective sentiments.
+
+This networked infrastructure forms what we call sound spaces , which are automation-based environments in which persuasion and influence can thrive with the help of auditory practices, allowing users to echo their message with various forms of emotional expressions and social bonding.
+
+TikTok fosters bottom-up content creation by making the core components of music (such as hooks, riffs, and beats) easily accessible and discoverable.
+
+This enables users to effortlessly pick up, combine, and piece these elements into new, personalized assemblages.
+
+Thus, TikTok’s infrastructural setting and user culture make the platform susceptible to hosting and spreading recontextualized media like stolen YouTube videos, computer game footage, and other forms of viral mis- and disinformation ( Nilsen et al., 2022 ; Weikmann and Lecheler, 2022 ) and propaganda by state actors ( Rahmawati and Hadinata, 2022 ).
+
+However, the issue of automation around sound-based computational propaganda has been unresearched, with only O’Connor (2022) highlighting the role of automated sound mechanisms in spreading misleading COVID-19 content on TikTok, where videos containing vaccine misinformation generated 20,019,798 views due to the use of viral sounds.
+
+By foregrounding the memetic function of TikTok in a complex ecology of users’ imitation, affective attunement, and attention hijacking, we observe a polluted information ecosystem consisting of conspiracies, hoaxes, falsehoods, or manipulated media, as described by Wardle (2020) under “information disorder.” With the focus on TikTok’s audio functionalities as users’ “attention-grabbing techniques” ( Marwick, 2015 : 334), we apply a typology of mis- and disinformation ( Wardle and Derakhshan, 2017 ) ranging from low (satire and parody content) to high volume (fabricated content), creating a map of diverse memetic sound-based videos.
+
+By connecting these findings to the computational propaganda features and applying them to sound, we attempt to offer a unique analysis, asking: (Q1) Automation—which role does automation play in spreading mis- and disinformation? (Q2) Scalability—how effective is the use of sound in terms of its impact and reach, as indicated by metrics such as views? (Q3) Anonymity—how can we identify sound-based disinformation and trace it back to its perpetrators? Method Data collection, sample, and analysis To gain a comprehensive understanding of the computational elements involved in war-related
+
+</CONTENT>

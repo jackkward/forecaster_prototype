@@ -1,0 +1,320 @@
+<TITLE>Far from the front lines, a spy war rages over Russian weapons</TITLE>
+<PUBLISHED_DATE>2024-12-05</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/national-security/2024/12/05/russian-sanctions-weapons-ukraine-war/</URL>
+<AUTHOR>Joby Warrick, Serhiy Morgunov</AUTHOR>
+
+<SUMMARY>
+Western countries are waging a shadow war against Russia, aiming to deny Moscow access to high-tech components for modern weapons.
+-  Sanctions have forced Russia to use inferior components, like a Chinese-made steering motor in its Geran-2 drones, which are failing more often.
+-  This has resulted in a decrease in the quality of Russian weapons, but Russia continues to produce more drones, straining Ukrainian defenses, through sheer mass deployment.
+-  Intelligence agencies and Treasury officials are working to disrupt smuggling routes, but Russia is adapting by turning to China, Iran, and India for alternative parts.
+-  The effectiveness of sanctions in the war is debatable, as Russia still manages to obtain many critical components despite the efforts.
+-  While small victories exist, like the defective drones, the overall impact on the battlefield is muted.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The leaders of the two agencies rarely appear in public.
+- Yet when Konoshchenok received his hero’s welcome at the Moscow airport, standing next to Putin in the receiving line was Alexander Bortnikov, the FSB’s powerful chief.
+- Since the invasion, both the FSB and GRU have assumed greater responsibility for overseeing the procurement of foreign components, U.S.
+- officials say.
+- “At the highest levels, their intelligence services are giving direction” to sanctions-busting operations, Deputy Treasury Secretary Wally Adeyemo said in an interview.
+- “This is not being done by the private sector in Russia.
+
+</HIGHLIGHTS>
+<CONTENT>
+Early this year, Ukrainian air defense crews began noticing something odd about the one-way attack drones that Russia regularly launches against Ukrainian cities.
+
+The latest arrivals from Russia’s arms factories would swoop in, just as before.
+
+But then something would go wrong.
+
+The newest Geran-2 drones were more likely to spin out of control whenever they went into a sharp turn.
+
+Some would crash harmlessly.
+
+Others would level off, becoming easy prey for air defense batteries.
+
+And yet the drones kept coming — sometimes as many as 100 in a single day.
+
+The higher failure rate eventually was linked by Western and Ukrainian military analysts to inferior components, specifically a small steering motor not much bigger than a cigarette pack.
+
+Russia had recently switched to a Chinese motor after Western countries imposed sanctions to block Moscow’s access to Western technology.
+
+The defective drones marked a small win for Western countries in an ongoing shadow conflict — waged in part by spy agencies — to deny Moscow access to the high-tech components needed for modern weapons of war.
+
+And yet, such measurable victories are notable in part because they are rare, Western officials acknowledge.
+
+Three years of pressure from an unprecedented sanctions campaign has weakened the Kremlin’s war machine, forcing it to skimp on quality and use older and outdated equipment, U.S.
+
+officials say, while putting its long-term viability in serious doubt.
+
+But Russia still manages to obtain many critical Western weapons parts with help from covert operatives and criminal gangs, and it buys others from China.
+
+For now, its forces are steadily gaining ground through sheer numerical advantages, so that the impact of the sanctions on the battlefield is muted, if not erased.
+
+“There are so many of their drones that you can’t even lift your head,” retired Gen.
+
+Ihor Romanenko, former chief of the general staff of the Ukrainian army, said in an interview.
+
+“Despite the deterioration in the quality of Russian weapons, it doesn’t have a significant impact.
+
+They achieve results through sheer mass deployment.” Sanctions blocking Russia’s purchase of Western drone technology are among thousands of economic restrictions and trade embargoes enacted since Russia’s 2022 invasion.
+
+The earliest and most widely publicized efforts sought to cripple Russia’s economy, inflicting hammer-like blows on the country’s oil and banking sectors, ultimately with mixed results.
+
+Hundreds of other sanctions were aimed at stanching the flow of Western-made components needed by Russia to make weapons.
+
+Some were designed with scalpel-like precision to block Moscow from obtaining advanced avionics, specialized computer chips, and sensors used in drones, missiles and tanks.
+
+In practice, the effort has evolved into an ever-shifting struggle by intelligence agencies and Treasury Department officials to find and dismantle the smuggling routes and supply chains that feed Russia’s arms factories with high-quality Western parts.
+
+Success is measured in tanks and missiles that fail to hit their targets, Western analysts say, and drones that cannot fly.
+
+But the Kremlin is fighting back.
+
+Russia has deployed its own intelligence agencies, along with a cast of smugglers, corrupt bureaucrats and criminal gangs, to find creative ways to get around the sanctions, U.S.
+
+and European officials say.
+
+Moreover, Moscow is increasingly able to turn to China, Iran and India for imitation versions of the Western parts it can no longer get.
+
+Even as more Geran-2s fail to reach their targets, Russia’s arms factories are managing to produce more of them, and at higher rates.
+
+Top Ukrainian officials in November acknowledged that endless waves of drones from late summer through autumn had strained the capabilities of Kyiv’s defenders.
+
+Adding to the worries is the possibility that the incoming Trump administration will begin to cut down on Ukraine’s supply of air defense munitions that prevent Russia’s drones and missiles from getting through.
+
+U.S.
+
+officials, some of whom spoke on the condition of anonymity to discuss sensitive intelligence, say they believe sanctions are working, gradually undermining Russia’s arms production in ways that inexorably will hinder Moscow’s ability to achieve its battlefield objectives.
+
+Many independent experts agree that sanctions have degraded the quality of Russian equipment and made supply chains more brittle.
+
+Russia is losing more tanks and howitzers each month than its factories can make, and continued pressure could eventually force some assembly lines to shut down, U.S.
+
+officials and experts say.
+
+“Even if they are able to get around the sanctions, there are added costs,” said Max Bergmann, director of the Europe, Russia and Eurasia Program at the Center for Strategic and International Studies, a Washington, D.C.-based think tank.
+
+But Bergmann cautioned that Russia is betting that sheer numbers will offset any defects in its weapons systems.
+
+Russia continues to pour troops and weapons into Ukraine despite heavy losses, and Moscow has recently reinforced its ranks with troops from North Korea.
+
+“Quantity has its own quality,” Bergmann said.
+
+Other experts argue that, despite the impressive scale of the sanctions regime against Moscow, Western governments have failed to get Russia’s neighbors and trading partners to fully enforce the measures, opening the way for widespread cheating.
+
+In addition, NATO countries have been slow to identify and target some of the Russian defense industry’s vulnerabilities, including several obvious choke points.
+
+For example, while Russia is easily able to buy drone engines and computer chips from China, it still struggles to find adequate supplies of such basic items as high-performance lubricants needed to keep tanks running in cold weather or computerized machine tools essential for building airframes for drones and missiles, said Kristofer Harrison, president of DKP, a Virginia-based nonprofit that tracks illicit networks linked to Russia and other authoritarian regimes.
+
+U.S.
+
+officials only recently imposed restrictions on machine tool imports to Russia.
+
+“Russia lost almost all of its machine tool industry after the Cold War, and it can’t even make AK-47s without this technology,” Harrison said.
+
+“We don’t need to mollify Russia by sacrificing Ukrainians.
+
+We just need to deny them the technology to cut metal.” A spy vs.
+
+spy contest On Aug.
+
+1, after Moscow agreed to a historic prisoner exchange with the United States and four European nations, a plane landed in the capital’s Vnukovo International Airport carrying 10 Russian nationals newly freed from detention in the West.
+
+The group included alleged spies and a convicted hit man, and one man whose alleged crimes seemed trivial compared with others: Vadim Konoshchenok was accused of helping smuggle electronic circuits and a few cases of rifle ammunition into his native Russia.
+
+For this, the 50-year-old had been extradited from Estonia in 2023 and then jailed in a U.S.
+
+federal prison, where he remained until his release as part of the prisoner swap.
+
+After landing in Moscow, he was treated with a red-carpet homecoming that included a personal greeting — and literal pat on the back — from Russian President Vladimir Putin.
+
+U.S.
+
+officials say Konoshchenok was no ordinary smuggler, but was in fact an operative working for the FSB.
+
+A federal indictment describes him as part of a network of intelligence agents and helpers dispatched by Moscow to run a critical mission for Russia’s spy agencies: obtaining Western-made military hardware and components needed for its war against Ukraine.
+
+Citing sensitive intelligence collection efforts, U.S.
+
+officials have rarely identified alleged FSB operatives working inside Moscow’s sanctions evasion network.
+
+But Justice Department documents allege that the St.
+
+Petersburg native told associates that he was an FSB colonel and even shared a photo of himself in an FSB officer’s uniform.
+
+U.S.
+
+and Estonian officials later concluded that he had exaggerated his role but said a search of his electronics confirmed his connections with Russian intelligence.
+
+He was later granted a full U.S.
+
+pardon as part of the prisoner swap.
+
+A Russian citizen with a residency permit in Estonia, Konoshchenok was able to freely travel between the two countries, storing imported American goods in an Estonian warehouse and then carrying them across the border.
+
+When he was arrested by Estonian authorities in late 2022, investigators found 35 types of semiconductors and electronic circuits in his car, along with cases of American-made .338mm sniper bullets.
+
+Konoshchenok, reached by email and through his lawyer, said he never worked for Russian intelligence, directly or indirectly, and said Moscow did not request his return in the prisoner swap.
+
+He said the photo depicting him in an FSB uniform was made with photo-editing software as a joke for his friends, and the only FSB contacts on his phone were those of border control agencies that oversee import trade.
+
+“For years, I have had my own business, and I have no connection to the Russian military or the Russian defense agencies,” he said.
+
+U.S.
+
+investigators said the case reflected the clever tactics used by Russia to conceal its activity.
+
+“It’s very typical of the kinds of things that we see,” said a senior law enforcement official who spoke on the condition of anonymity to discuss an ongoing criminal case, with other defendants awaiting trial.
+
+“We see people setting up complicated shell structures, using third country transshipment points.
+
+We see the opacity of the networks and the bank accounts that they’re using — all of it making them more difficult to trace.” The FSB and its military intelligence counterpart, the GRU, are the unseen hand controlling the smuggling networks, U.S.
+
+intelligence officials say.
+
+The leaders of the two agencies rarely appear in public.
+
+Yet when Konoshchenok received his hero’s welcome at the Moscow airport, standing next to Putin in the receiving line was Alexander Bortnikov, the FSB’s powerful chief.
+
+Since the invasion, both the FSB and GRU have assumed greater responsibility for overseeing the procurement of foreign components, U.S.
+
+officials say.
+
+“At the highest levels, their intelligence services are giving direction” to sanctions-busting operations, Deputy Treasury Secretary Wally Adeyemo said in an interview.
+
+“This is not being done by the private sector in Russia.
+
+It’s being directed by the government to make sure they are acquiring the things they need to build the weapons they want.” Sanctions documents and legal filings offer a glimpse into how the schemes operate.
+
+Video shows Russian President Vladimir Putin greeting Vadim Konoshchenok on Aug.
+
+1 in Moscow, following a prisoner swap with the United States.
+
+(Video: Russian Pool) Charging documents in the Konoshchenok case describe a sprawling operation by a group known as the Serniya network, which sought to procure military parts and components using operatives and front companies across Europe and the United States.
+
+U.S.
+
+and European officials said Serniya Engineering, a Moscow-based company, was in fact an FSB contractor under orders to acquire equipment on behalf of three different departments.
+
+Among them is Military Unit 35533, one of the FSB’s main science and technology directorates, linked in court documents to multiple covert attempts to acquire U.S.
+
+microchips and other advanced electronics for weapons as far back as 2008.
+
+Serniya and its affiliates were “under the direction of Russian intelligence services,” the Justice Department said in a July 2023 statement, and they acted under explicit orders to acquire advanced electronics and testing equipment used in the development of “nuclear and hypersonic weapons, quantum computing and other military applications.” Putting sand in the gears Arrayed against the smugglers are Western intelligence analysts, investigators, Treasury officials and diplomats who seek to uncover and disrupt these illicit networks.
+
+With so many possible methods and routes for exporting banned goods — including in countries like China where cooperation with U.S.
+
+law enforcement is virtually nonexistent — it has proved impossible to block illicit trafficking completely, officials say.
+
+Increasingly, the goal is to force Russia to incur higher costs by inducing supply chain delays and shortages that erode Moscow’s ability to put quality weapons in the field.
+
+“Ultimately, what we’re trying to do is to put some friction in their illicit procurement networks,” said Adeyemo, the deputy treasury secretary.
+
+The effort began even before Russian troops invaded Ukraine on Feb.
+
+24, 2022.
+
+As early as late 2021, U.S.
+
+intelligence analysts at the CIA and Pentagon were drawing up lists and spreadsheets, trying to identify key foreign suppliers of Russian military technology, as well as points of vulnerability that could cause Moscow’s defense industry to seize up.
+
+After the war began, U.S.
+
+and Ukrainian military analysts were tasked with figuring out, in granular detail, how Russia’s weapons were made.
+
+Investigators stripped down stolen and salvaged Russian aircraft, missiles and tanks, and sought to trace each circuit board and microchip to its country of origin.
+
+The investigative effort is ongoing, U.S.
+
+officials say, yielding a continuous stream of sanctions as well as criminal indictments.
+
+In addition to the Serniya case, the Justice Department’s “KleptoCapture” task force has filed charges against more than 100 individuals and companies for sanctions evasion and money laundering in support of Russia’s war effort.
+
+Cases are moving through European courts as well.
+
+In November, a German court imposed a nearly seven-year prison sentence against Waldemar Weirich, a dual German-Russian citizen accused of delivering 120,000 Western-made sensors, high-frequency amplifiers and voltage regulators to Russian defense factories that produce surveillance drones.
+
+At the Treasury Department, a torrent of sanctions has imposed trade restrictions on thousands of firms and individuals.
+
+New ones are added almost every month as front companies pop up to replace those that have been deactivated or forced to close, officials said.
+
+Meanwhile, discreet warnings to banks and private companies in the United States and internationally have often been sufficient to scare them away from trade in “dual-use” goods — products that have both military and civilian applications.
+
+Western components are getting through anyway, along with growing numbers of Chinese substitutes.
+
+In independent studies based on captured Russian weapons, experts have repeatedly shown that Moscow continues to use Western electronic components in its aircraft, tanks and missiles.
+
+Similar investigations have confirmed China’s growing role as a supplier to Russian weapons factories.
+
+Trade records made public by Trap Aggressor, a Kyiv-based nonprofit that tracks smuggling networks, showed that Chinese companies supplied $28 million worth of drones and drone components to Russia from early 2023 through this past summer.
+
+Sanctions experts say there are other ways to squeeze Russia’s defense industry, beyond going after imports of tiny electronics that can be readily obtained by spies and smugglers.
+
+Moscow appears to face long-term challenges in manufacturing enough artillery ammunition , as well as in making durable, high-strength barrels for tanks and howitzers, analysts say.
+
+Russia is compensating by scavenging parts from old Soviet-era tanks and howitzers.
+
+But satellite photos of Russian motor pools and scrapyards show that reserves of old tanks are being rapidly depleted, said George Barros, Russia team leader at the Institute for the Study of War.
+
+“Given the current rate at which the Russians are burning these vehicles, come late 2025 the Russians are going to have a tank shortage,” Barros said, “and that’s going to have massive implications for war fighting at the front lines.” Other products crucial for modern armies remain difficult to obtain outside the West.
+
+U.S.
+
+and European firms dominate the global industry for computerized machine tools that make engines and air frames.
+
+And, while Russia possesses one of the world’s largest reserves of petroleum, Moscow is surprisingly limited in its ability to make certain refined petroleum products, such as high-performing lubricants used in most engines, including in tanks, said Andrew Fink, a senior Russia analyst for Exovera, a data and research firm based in Northern Virginia.
+
+The global industry for chemical precursors for lubricants is dominated by just four companies, all of them American or British.
+
+Russia now gets them from a few providers in Asia and Belarus.
+
+“Russia is a raw materials superpower, yet it has serious industrial weaknesses, and advanced machines tools and chemical precursors are two important ones,” Fink said.
+
+“With lubricant additives, I’m sure that some Russian PhDs with enough money can make these chemicals on their own in small quantities.
+
+But can they come up with thousands of tons a month? That requires a kind of capacity that Russia does not have.” Faulty drones … but more of them? True success in the sanctions war is notoriously hard to measure.
+
+It’s why U.S.
+
+officials are heartened by accounts of poorly performing Russian weapons, such as crashing Geran-2 drones.
+
+Cheap and rugged with long-range capability, the Geran-2 is a Russian version of Iran’s Shahed-136, which Tehran began delivering to Russia in the war’s early months to fill a crucial gap in the Kremlin’s military capability.
+
+With its eight-foot wingspan, it can travel hundreds of miles to deliver a warhead weighing as much as 200 pounds.
+
+Ukrainian air defense teams have learned to shoot down the UAVs and disable others with electronic jamming.
+
+Lately, those that survive appear to have more trouble maintaining stability in flight.
+
+The higher failure rate was documented by Ukrainian analysts and people at the U.K.-based think tank Royal United Services Institute, who also identified the probable cause: a small mechanical device known as a servomotor, which helps regulate the drone’s movements in flight.
+
+Late last year, the aircraft’s manufacturer began using a Chinese servomotor, a substitute for a South Korean product that Russia previously used but can no longer easily obtain.
+
+In other cases, evidence of the sanctions’ impact may be visible on the weapons themselves.
+
+The newest variants of Russia’s most advanced battle tank — the T-90M — are rolling off the assembly line without a muzzle reference sensor, a laser-guided device mounted on the barrels that helps the crew fire accurately.
+
+Beginning late last year, the sensors mysteriously disappeared, said Michael Gjerstad, a Berlin-based military analyst with the International Institute for Strategic Studies who was among the first to discover the trend.
+
+Why Russia stopped equipping its tanks with muzzle sensors is unclear, Gjerstad said.
+
+But without question, their absence is “to the detriment of the survivability of the crew,” he said.
+
+Jack Watling, a senior researcher at the Royal United Services Institute, said such examples are typical of the “attritional effect” that sanctions fundamentally have.
+
+Slowly, and over time, sanctions will collectively degrade Russian production capacity, Watling said.
+
+“But they haven’t had a decisive effect,” he said.
+
+“And they’re unlikely to have a decisive effect.” Indeed, Ukrainian officials say the higher failure rate for Geran-2 drones has faded in significance amid a surge of Russian drone attacks since the summer.
+
+Last month, Ukrainian President Volodymyr Zelensky complained that Moscow was ramping up its use of Geran-2 drones, launching more than 2,000 of them in October alone.
+
+Zelensky, in a post on the social media platform Telegram, said the drones still contain far too many Western components.
+
+“Such a massive number of [Geran-2s] requires over 170,000 individual components that 
+
+</CONTENT>

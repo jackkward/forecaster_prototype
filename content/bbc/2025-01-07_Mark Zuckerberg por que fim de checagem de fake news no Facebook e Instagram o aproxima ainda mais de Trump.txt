@@ -1,0 +1,90 @@
+<TITLE>Mark Zuckerberg: por que fim de checagem de fake news no Facebook e Instagram o aproxima ainda mais de Trump</TITLE>
+<PUBLISHED_DATE>2025-01-07</PUBLISHED_DATE>
+<URL>https://www.bbc.com/portuguese/articles/c4gzn410knvo</URL>
+<AUTHOR>Liv McMahon, Zoe Kleinman e Courtney Subramanian</AUTHOR>
+
+<SUMMARY>
+Meta, the parent company of Facebook and Instagram, is discontinuing independent fact-checking on its platforms, replacing it with user-generated "community notes."  Mark Zuckerberg, CEO of Meta, cited the alleged political bias of professional moderators as the reason for this change, arguing for a return to "freedom of expression."  This move mirrors the approach of Twitter's (now X) platform.
+-  Critics, including the Global Witness organization, suspect the change is strategically designed to appease Donald Trump, who is set to assume office again.
+-  Meta, however, defends the change as a way to address potential overreach in content moderation and improve the handling of legitimate political discussion.
+- The change is initially being tested in the US before a potential global rollout.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- 'Convite à extrema direita' No Brasil, o governo Lula reagiu à decisão por meio do secretário de Políticas Digitais da Secretaria de Comunicação Social da Presidência da República, João Brant, que criticou o fim da checagem profissional em um post no LinkedIn: "Significa um convite para o ativismo da extrema direita reforçar a utilização dessas redes como plataformas de sua ação política.
+- " "Facebook e Instagram vão se tornar plataformas que vão dar total peso à liberdade de expressão individual e deixar de proteger outros direitos individuais e coletivos", completou.
+- Ele também comentou sobre o fato de Zuckerberg ter feito referência, no vídeo em que postou detalhando as medidas, a "cortes secretas" na América Latina.
+- Para ele, o CEO da Meta fez tacitamente referência ao Supremo Tribunal Federal (STF).
+
+</HIGHLIGHTS>
+<CONTENT>
+Crédito, Getty Images Author, Liv McMahon, Zoe Kleinman e Courtney Subramanian Role, BBC News em Glasgow e Washington 7 janeiro 2025 A Meta anunciou que está abandonando o uso de checagem independente de fatos no Facebook e no Instagram, substituindo-os por "notas da comunidade", em um modelo semelhante ao do X, em que comentários sobre a precisão do conteúdo das postagens são deixados a cargo dos próprios usuários.
+
+Em um vídeo publicado no blog da empresa nesta terça-feira (7/1), o presidente-executivo da empresa, Mark Zuckerberg, disse que os moderadores profissionais são "muito tendenciosos politicamente" e que era "hora de voltar às nossas raízes, em torno da liberdade de expressão".
+
+Joel Kaplan, que substituiu Nick Clegg e é hoje o principal executivo de políticas da Meta, escreveu que a dependência da empresa de moderadores independentes era "bem intencionada", mas muitas vezes resultava na censura dos usuários.
+
+Ativistas contra o discurso de ódio na internet criticaram a medida — e sugeriram que a mudança é motivada pela intenção de Zuckerberg de se aproximar de Donald Trump, que toma posse no próximo dia 20 de janeiro.
+
+"O anúncio de Zuckerberg é uma tentativa flagrante de agradar a próxima administração Trump — com implicações prejudiciais", disse Ava Lee, do Global Witness, grupo que se descreve como dedicado a cobrar a responsabilização das grandes empresas de tecnologia por seus atos.
+
+Pule Matérias recomendadas e continue lendo Matérias recomendadas Fim do Matérias recomendadas "'Alegar evitar a 'censura' é uma manobra política para evitar assumir a responsabilidade pelo ódio e pela desinformação que as plataformas encorajam e facilitam", acrescentou.
+
+Em uma resposta a uma notificação extrajudicial da AGU (Advocacia Geral da União) do Brasil com pedido de esclarecimento sobre as mudanças, a Meta afirmou que, no momento, está encerrando seu programa de verificação de fatos independente apenas nos EUA.
+
+"A Meta está profundamente comprometida com a liberdade de expressão", afirmou a empresa.
+
+"Reconhecemos que formas abusivas do exercício deste direito podem causar danos.
+
+Nos últimos anos, desenvolvemos sistemas cada vez mais complexos para gerenciar conteúdo em nossas plataformas.
+
+Embora esses esforços tenham sido bem intencionados (...) eles se ampliaram a ponto de termos às vezes exagerado na aplicação de nossas regras, limitando debate político legítimo", diz a Meta na carta enviada à AGU.
+
+"As mudanças anunciadas recentemente pretendem enfrentar essa questão." No entanto, disse a empresa, o novo sistema só será aplicado nos EUA no momento, onde está "sendo testado" antes da "ampliação para outros países".
+
+Copiando o X Crédito, Getty Images Legenda da foto, Ao invés de checadores independentes, Facebook deverá ter notas, como na rede social X Pule Novo podcast investigativo: A Raposa e continue lendo Fim do Novo podcast investigativo: A Raposa O atual programa de verificação de fatos da Meta, criado em 2016, avalia publicações que parecem falsas ou enganosas por organizações independentes de checagem.
+
+Publicações sinalizadas como imprecisas podem ganhar rótulos com informações adicionais aos usuários e serem movidas para baixo nos feeds dos usuários.
+
+Isso agora será substituído, inicialmente nos Estados Unidos, pelo que é conhecido como "notas da comunidade", feitas pelos próprios usuários, que podem acrescentar contexto ou esclarecimentos a postagens que consideram incorretas ou imprecisas.
+
+A Meta diz que "não tem planos imediatos" para dispensar seus checadores de fatos terceirizados no Reino Unido ou na União Europeia.
+
+O novo sistema de notas da comunidade foi copiado do X , que o introduziu após ser adquirido e rebatizado por Elon Musk.
+
+A Fundação Molly Rose, do Reino Unido, descreveu o anúncio como uma "grande preocupação com a segurança online".
+
+"Estamos esclarecendo urgentemente o âmbito dessas medidas, incluindo se elas se aplicarão ao suicídio, à automutilação e ao conteúdo depressivo", disse o seu presidente, Ian Russell.
+
+"Essas medidas podem ter consequências terríveis para muitas crianças e jovens." A organização de checagem de fatos Full Fact — que participa do programa do Facebook para verificação de publicações na Europa — disse que "refuta as alegações de parcialidade" feitas pela empresa.
+
+O presidente-executivo do órgão, Chris Morris, descreveu a mudança como "decepcionante e um retrocesso que corre o risco de ter um efeito inibidor em todo o mundo".
+
+'Uma mudança radical' Crédito, Getty Images Legenda da foto, Zuckerberg jantou na casa de Trump na Flórida, em Mar-a-Lago, há dois meses A publicação no blog do Meta informa que também "reverteria o avanço da missão" na área de regras e políticas, destacando a remoção de restrições em assuntos como "imigração, gênero e identidade de gênero" e argumentando que o tema tem gerado discussões e debates políticos.
+
+"Não é certo que coisas possam ser ditas na TV ou no plenário do Congresso, mas não em nossas plataformas", diz o texto.
+
+Trump já foi um crítico voraz da Meta e de sua abordagem à moderação de conteúdo, chamando o Facebook de "um inimigo do povo" em março de 2024.
+
+Mas as relações entre ele e Zuckerberg melhoraram desde então: o CEO da Meta jantou na casa de Trump na Flórida, em Mar-a-Lago, no último mês de novembro e a empresa doou US$ 1 milhão (cerca de R$ 6,2 milhões) para um fundo para o evento de posse de Trump.
+
+Em mais um gesto de aproximação, Zuckerberg anunciou na segunda-feira (6/1) que Dana White, presidente-executivo do Ultimate Fighting Championship (UFC) e apoiador de longa data de Trump, passaria a fazer parte do conselho administrativo da Meta.
+
+"As eleições mais recentes parecem sinalizar um ponto de virada cultural para, mais uma vez, dar prioridade à liberdade de expressão", disse Zuckerberg no vídeo que publicou nesta terça-feira.
+
+A substituição de Nick Clegg — um liberal-democrata britânico — por Kaplan por como principal executivo de políticas da Meta também foi interpretada como um sinal da mudança da empresa em relação à moderação e de realinhamento de suas prioridades.
+
+Kate Klonick, professora associada da Faculdade de Direito da Universidade de St John, disse que as mudanças refletem uma tendência "que parecia inevitável nos últimos anos, especialmente desde a aquisição do X por Musk".
+
+"A gestão privada do discurso nestas plataformas tornou-se cada vez mais um ponto político", disse ela à BBC News.
+
+Enquanto, no passado recente, as empresas de tecnologia enfrentaram pressão para criar mecanismos de confiança e segurança para lidar com questões como assédio, discurso de ódio e desinformação, está agora em curso um "retrocesso radical na direção oposta", ela acrescenta.
+
+'Convite à extrema direita' No Brasil, o governo Lula reagiu à decisão por meio do secretário de Políticas Digitais da Secretaria de Comunicação Social da Presidência da República, João Brant, que criticou o fim da checagem profissional em um post no LinkedIn: "Significa um convite para o ativismo da extrema direita reforçar a utilização dessas redes como plataformas de sua ação política." "Facebook e Instagram vão se tornar plataformas que vão dar total peso à liberdade de expressão individual e deixar de proteger outros direitos individuais e coletivos", completou.
+
+Ele também comentou sobre o fato de Zuckerberg ter feito referência, no vídeo em que postou detalhando as medidas, a "cortes secretas" na América Latina.
+
+Para ele, o CEO da Meta fez tacitamente referência ao Supremo Tribunal Federal (STF).
+
+</CONTENT>

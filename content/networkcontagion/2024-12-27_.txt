@@ -1,0 +1,382 @@
+<TITLE></TITLE>
+<PUBLISHED_DATE>2024-12-27</PUBLISHED_DATE>
+<URL>https://networkcontagion.us/wp-content/uploads/Peer-Reviewed-Paper-in-Press_Dec.-2024.pdf</URL>
+<AUTHOR>Sean Mullen</AUTHOR>
+
+<SUMMARY>
+This research paper, "Information Manipulation on TikTok and its Relation to American Users’ Beliefs about China," examines how the Chinese-owned social media platform TikTok may be used to manipulate information related to China.
+-  Three studies explored this, finding that content critical of China on TikTok was significantly less available than similar content on Instagram and YouTube.
+-  Further, despite users engaging more with anti-CCP content, a disproportionately higher ratio of pro-CCP content existed on TikTok, suggesting potential propaganda.
+-  Finally, the study found that heavy TikTok users had more positive views of China's human rights record and expressed greater favorability toward traveling there, suggesting that the platform might influence public opinion.
+-  The research connects these findings to a broader context of authoritarian regimes' use of social media for propaganda.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- 50 Authoritarianism, defined by centralized control and suppression of dissent, whether of the 51 political right (e.g., Altemeyer, 1981, 1996; Yourman, 1939) or left (e.g., Costello et al., 2022; 52 Dikötter, 2016), has long relied on propaganda as a key instrument of power.
+- In the modern 53 digital era, this propaganda has evolved into a more covert and pervasive form of influence
+
+</HIGHLIGHTS>
+<CONTENT>
+Finkelstein, D., Yanovsky, S., Zucker, J., Jagdeep, A., Vasko, C., Jagdeep, A., Jussim, L., &
+Finkelstein, J.
+
+(In press).
+
+Information manipulation on TikTok and its relation to American users’
+beliefs about China.
+
+Frontiers in Social Psychology, 2.
+1 Information Manipulation on TikTok and its Relation to American Users’ Beliefs about
+2 China
+Danit Finkelstein1, Sonia Yanovsky1, Jacob Zucker2, Anisha Jagdeep2, Collin Vasko2 3 , Ankita
+Jagdeep2, Lee Jussim1*, Joel Finkelstein2 4
+1 5 Department of Psychology, Rutgers University–New Brunswick, Piscataway, NJ, USA
+2 6 Network Contagion Research Institute, USA
+7 Correspondence: Lee Jussim, leej12255@gmail.com
+8 Keywords: Authoritarian Foreign Influence, Information Manipulation, Propaganda, Chinese
+9 Communist Party, Social Media, TikTok
+10 This manuscript includes 12 tables and 3 figures.
+11 Word Count: 10,924 (includes references but not tables or figures)
+12 Supplementary materials, data, code and analyses: https://osf.io/zkarg/
+13 Acknowledgement: A preliminary report, using partially overlapping data, was published by the
+14 NCRI in August of 2024.
+2
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+15 Abstract
+16 Three studies explored how TikTok, a China-owned social media platform, may be manipulated
+17 to conceal content critical of China while amplifying narratives that align with Chinese
+18 Communist Party objectives.
+
+Study I employed a user journey methodology, wherein newly
+19 created accounts on TikTok, Instagram, and YouTube were used to assess the nature and
+20 prevalence of content related to sensitive Chinese Communist Party (CCP) issues, specifically
+21 Tibet, Tiananmen Square, Uyghur rights, and Xinjiang.
+
+The results revealed that content critical
+22 of China was made far less available than it was on Instagram and YouTube.
+
+Study II, an
+23 extension of Study I, investigated whether the prevalence of content that is pro- and anti-CCP on
+24 TikTok, Instagram, and YouTube aligned with user engagement metrics (likes and comments),
+25 which social media platforms typically use to amplify content.
+
+The results revealed a
+26 disproportionately high ratio of pro-CCP to anti-CCP content on TikTok, despite users engaging
+27 significantly more with anti-CCP content, suggesting propagandistic manipulation.
+
+Study III
+28 involved a survey administered to 1214 Americans that assessed their time spent on social media
+29 platforms and their perceptions of China.
+
+Results indicated that TikTok users, particularly heavy
+30 users, exhibited significantly more positive attitudes towards China’s human rights record and
+31 expressed greater favorability towards China as a travel destination.
+
+These results are discussed
+32 in context of a growing body of literature identifying a massive CCP propaganda bureaucracy
+33 devoted to controlling the flow of information in ways that threaten free speech and free inquiry.
+3
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+34 1 Introduction: Authoritarian Foreign Influence and Propaganda in Social Media
+35 In today’s digital landscape, the manipulation of information on social media platforms has
+36 emerged as a powerful tool for shaping global narratives, with authoritarian regimes like Russia,
+37 Iran, the Islamic State (ISIS), and the Chinese Communist Party (CCP) increasingly exploiting
+38 these channels to advance their strategic interests (Bradshaw & Howard, 2019; Elswah &
+39 Howard, 2020; Freedom House, 2023; King et al., 2017; Tschantret, 2018; Woolley & Howard,
+40 2018).
+
+Russia, for example, has been particularly aggressive at using disinformation through
+41 social media to advance its geopolitical goals, like interfering in the U.S.
+
+2016 presidential
+42 election and weakening alliances such as NATO and the European Union (Mejias & Vokuev,
+43 2017).
+
+China has developed sophisticated strategies to control narratives, influence public
+44 opinion, and maintain political control (Tsai, 2021).
+
+Likewise, across the Arab world,
+45 authoritarian regimes have responded to online dissent by monitoring and controlling digital
+46 discourse, leading to the arrest and imprisonment of bloggers, activists, and social media users, a
+47 trend that was particularly prominent during the Arab Spring (Kraidy, 2017; York, 2010).
+
+This
+48 growing trend raises critical concerns about the implications for international relations,
+49 democratic processes, and global security in the digital age (Benkler et al., 2018).
+50 Authoritarianism, defined by centralized control and suppression of dissent, whether of the
+51 political right (e.g., Altemeyer, 1981, 1996; Yourman, 1939) or left (e.g., Costello et al., 2022;
+52 Dikötter, 2016), has long relied on propaganda as a key instrument of power.
+
+In the modern
+53 digital era, this propaganda has evolved into a more covert and pervasive form of influence
+54 referred to as “networked authoritarianism” (e.g., Maréchal, 2017).
+
+State actors, through
+55 algorithmic manipulation and strategic content curation, subtly shape narratives on popular social
+56 media platforms (Gunitsky, 2015).
+
+Unlike traditional forms of propaganda, these digital tactics
+57 are often invisible to users, making them particularly effective in altering public perception and
+58 behavior without overt detection (Bradshaw & Howard, 2019).
+59 Propaganda on social media can promote an “informational autocracy” (Kreko, 2022) by
+60 controlling the flow of information in such a manner as to maintain false impressions of the
+61 competence, honesty, and effectiveness of an authoritarian regime, and to suppress dissenting
+62 voices and obscure narratives that challenge the status quo (Guriev & Treisman, 2020; Kalathil,
+63 2020; Maréchal, 2017).
+
+For example, the Chinese Communist Party (CCP) systematically
+64 fabricates social media content to distract and divert public attention from sensitive issues (King
+65 et al., 2017).
+
+By influencing the information flow on these platforms, the CCP can reshape
+66 narratives, alter global perceptions, and reinforce its strategic objectives (King et al., 2017),
+67 whether these involve curbing dissent, promoting nationalism, or maintaining domestic stability.
+68 According to previous work by the French Armed Forces’ Institute for Strategic Research
+(IRSEM), the CCP’s operations in the information environment1 69 strive to achieve two primary
+70 objectives: 1) “seduce and subjugate foreign audiences by painting China in a positive light,” and
+1
+“Operations in the information environment” is the term currently used by the U.S.
+
+government (Congressional
+Research Service, 2024) to refer to “the aggregate of social, cultural, linguistic, psychological, technical, and
+physical factors that affect how humans and automated systems derive meaning from, act upon, and are impacted by
+information, including the individuals, organizations, and systems that collect, process, disseminate, or use
+information.”
+4
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+71 2) “infiltrate and constrain – a ‘harsher’ category of operations that do not involve seducing its
+72 opponents but rather bending them” (Charon & Jeangène Vilmer, 2021, p.
+
+413).
+73 The threat posed by authoritarian foreign interference through operations in the information
+74 environment is increasingly recognized as a significant challenge to modern democracies
+75 (Benkler et al., 2018; Office of the Director of National Intelligence, 2021; Rosenbach &
+76 Mansted, 2018; United States Senate Select Committee on Intelligence, 2019).
+
+By infiltrating
+77 and manipulating social media platforms, authoritarian regimes can engage in propaganda
+78 operations that alter the attitudes and beliefs of foreign populations, often without their
+79 knowledge (Tufekci, 2017).
+
+These operations exploit the open nature of democratic societies
+80 (Woolley & Howard, 2018).
+
+Interference such as this can undermine public trust in media,
+81 weaken democratic institutions, and sow division within societies, all in service of expanding
+82 authoritarian influence (Benkler et al., 2018).
+83 Herman and Chomsky’s (1988) Manufacturing Consent posits that media systems in liberal
+84 democracies, while ostensibly free, often serve as instruments for elite-driven propaganda.
+
+While
+85 originally applied to traditional media, their “propaganda model” offers a prescient lens through
+86 which to understand TikTok’s role in possibly shaping perceptions of China among American
+87 users.
+
+Herman and Chomsky (1988) argued that media, operating under elite control, often serve
+88 to propagate narratives aligned with dominant political and economic interests.
+
+This model
+89 describes how mechanisms such as ownership, advertising reliance, and sourcing biases filter
+90 content to support state or corporate objectives.
+91 TikTok, a platform owned by the Chinese company ByteDance, may function as a digital
+92 analogue of the ideological machinery described in Manufacturing Consent.
+
+With 1 billion active
+93 users worldwide, TikTok holds a vast audience (Backlinko, 2024).
+
+Its sheer scale and reach
+94 make it a formidable vehicle for shaping public perception.
+
+By amplifying content that is
+95 favorable to the CCP and suppressing narratives critical of the CCP, TikTok can influence
+96 international discourse in ways that align with the CCP’s strategic interests.
+
+This platform’s
+97 ability to subtly curate content echoes the “invisible” manipulation mechanisms emphasized by
+98 Herman and Chomsky (1988), wherein propaganda is delivered not through overt censorship but
+99 by determining what content is readily accessible to users.
+100 Amplifying narratives favorable to CCP interests, or suppressing narratives that threaten CCP
+101 interests, stems from its broader goal of maintaining authoritarian political control domestically
+102 while cultivating a positive image internationally to advance its geopolitical objectives.
+
+In
+103 December 2023, the Network Contagion Research Institute (NCRI) published research that
+104 compared the number of hashtags between TikTok and Instagram for terms that are sensitive
+105 issues domestically and externally for the CCP.
+
+Although the study was preliminary, it found that
+106 the number of hashtags of CCP-critical topics on TikTok was substantially lower than the
+107 number of the same hashtags on Instagram, concluding that there exists “a strong possibility that
+108 TikTok systematically promotes or demotes content on the basis of whether it is aligned with or
+109 opposed to the interests of the Chinese Government” (NCRI, 2023).
+110 In this study we classified content into anti- or pro-CCP, which is a mere shorthand for more
+111 nuanced categories, which we describe here.
+
+Content that the CCP seeks to suppress – such as
+112 human rights abuses and political dissent – was coded as anti-CCP.
+
+Content that the CCP seeks
+5
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+113 to amplify – such as promotion of tourism by government-owned companies, idyllic portrayals
+114 of rural life, etc.
+
+– was coded as pro-CCP.
+
+Throughout the rest of this paper, we refer to content
+115 that is unfavorable to CCP interests or critical of the Chinese government as “anti-CCP,” and
+116 content that is supportive of the Chinese government or favorable to CCP interests as “pro117 CCP.”
+118 The current research builds on the foundation laid by King et al.
+
+(2017), IRSEM (Charon &
+119 Jeangène Vilmer, 2021), and NCRI (2023) to explore the broader implications of these
+120 operations in the information environment by examining the nature and prevalence of CCP121 sensitive content on TikTok, and evaluating how different platforms handle such content.
+122 Specifically, this research examines whether there is evidence that TikTok and other social
+123 media platforms are being used to advance the CCP’s propaganda objectives.
+124 Although it may be easier for the Chinese government to manipulate information on a Chinese125 owned social media company, manipulation of the content of other social media companies is
+126 also possible.
+
+One form of such manipulation is to create puppet accounts to promote
+127 propaganda and preferred narratives and to distract authentic users from information casting the
+128 Chinese government in a negative light.
+
+Thus, although our studies are focused primarily on
+129 evaluating biases on TikTok, they will also explore the possibility, as has been previously
+130 reported (Bond, 2023), that Chinese propaganda operations are occurring on other platforms.
+131 2 Overarching Research Questions
+132 The present research explored: (1) whether the amplification of narratives favorable to the
+133 CCP’s interests and suppression of critical content can be observed across multiple social media
+134 platforms, (2) whether the amplification of narratives favorable to the CCP’s interests and
+135 suppression of critical content are more pronounced on TikTok than on other platforms, and (3)
+136 whether users exposed to such content are more favorable toward China’s policies and actions.
+137 If a platform like TikTok is subtly advancing CCP interests, we would expect it to present more
+138 content favorable to CCP interests while suppressing or distracting users from content
+139 unfavorable to CCP interests.
+
+This could manifest as an increased prevalence of flattering
+140 content about China and a relative absence of critical narratives.
+
+Additionally, algorithms might
+141 divert users away from critical content by prioritizing irrelevant or neutral material, a tactic that
+142 could obscure sensitive topics such as the Uyghur genocide, Tibet, and the Tiananmen Square
+143 massacre.
+144 The following overarching research questions guided the three studies reported here:
+145 1.
+
+How does the content served on TikTok, Instagram, and YouTube differ in terms of pro146 and anti-CCP narratives, particularly concerning sensitive issues like Xinjiang, Tibet,
+147 Tiananmen Square, and the Uyghurs (Study I)?
+148 2.
+
+Is there any detectable evidence of content bias on TikTok, Instagram, and YouTube in
+149 amplifying irrelevant content and pro-CCP content while suppressing anti-CCP content
+150 (Study II)?
+151 3.
+
+To what extent do TikTok users exhibit more positive attitudes towards China compared
+152 to users of other platforms (Study III)?
+6
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+153 3 Study I: User Journeys and Prominence of Content on TikTok
+154 Study I addressed our first research question: How does the content served on TikTok,
+155 Instagram, and YouTube differ in terms of pro- and anti-CCP narratives? For example, do
+156 searches on TikTok yield a lower frequency of critical narratives related to sensitive issues such
+157 as the Uyghurs, Tibet, and the Tiananmen Square massacre, compared to searches on Instagram
+158 and YouTube? We focused on Instagram and YouTube as comparison platforms alongside
+159 TikTok due to their prominence as video-sharing platforms with massive global user bases.
+
+Like
+160 TikTok, both Instagram and YouTube rely heavily on algorithms to recommend and amplify
+161 content, making them ideal for assessing whether pro-CCP narratives are disproportionately
+162 promoted or anti-CCP narratives suppressed across multiple platforms.
+
+By examining Instagram
+163 and YouTube, we can determine if TikTok’s content moderation and amplification patterns are
+164 unique, or if similar biases exist in other widely used, video-centric social media environments.
+165 The Chinese government, through bot networks and hired influencers, can theoretically flood all
+166 platforms with pro-CCP, irrelevant, or neutral content to obscure critical narratives.
+
+Given that
+167 this is a possibility and they have been caught doing it before on Facebook (Bond, 2023), we
+168 expect to see high proportions of this content across the board.
+169 In contrast, anti-CCP content would not be as easily censored from platforms not owned by
+170 China, such as YouTube and Instagram, which may offer fewer opportunities for direct CCP
+171 censorship compared to TikTok.
+
+Thus, anti-CCP content may be more prominent on Instagram
+172 and YouTube, whereas TikTok might have mechanisms to suppress or limit the visibility of anti173 CCP content.
+174 This study implemented a user journey methodology, which simulates the on-platform
+175 experience of a newly created, organic user, to evaluate the type of content surfaced by the
+176 search algorithm.
+
+Importantly, while we cannot directly analyze TikTok’s algorithm, we can
+177 assess the prominence and frequency of different types of content (pro-CCP interests, anti-CCP
+178 interests, irrelevant, or neutral) appearing in search results.
+179 The user journey method has been previously employed by organizations like AI Forensics, a
+180 European non-profit, in partnership with Amnesty International, to examine how TikTok
+181 influences user engagement, particularly among vulnerable populations (Amnesty International,
+182 2023).
+
+If TikTok is being used as a vehicle for advancing CCP interests, we would expect to see
+183 certain patterns in the search results.
+
+Specifically, Study 1 tested the following hypotheses:
+184 1.
+
+Less anti-CCP content on TikTok (i.e., content critical of the Chinese government,
+185 particularly related to human rights abuses) compared to Instagram and YouTube.
+186 2.
+
+More pro-CCP content (i.e., content supportive of the Chinese government or
+187 promoting positive narratives about China) compared to anti-CCP content, across all
+188 platforms.
+189 3.
+
+More irrelevant or neutral content on TikTok than on the other platforms, a prediction
+190 that is explained next.
+7
+INFORMATION MANIPULATION ON TIKTOK AND BELIEFS ABOUT CHINA
+191 3.1 The Distraction Hypothesis
+192 One potential method of suppressing critical narratives is by distracting users with a flood of
+193 irrelevant or neutral content (King et al., 2017).
+
+This strategy could obscure or dilute sensitive
+194 topics, making it more difficult for users to encounter anti-CCP material.
+
+In this context,
+195 irrelevant content could include generic videos unrelated to politics (e.g., entertainment or
+196 lifestyle content), while neutral content might feature apolitical representations of Chinese
+197 culture, history, or geography.
+
+Thus, if TikTok is advancing Chinese state interests, searches for
+198 sensitive topics (like Uyghur genocide or Tiananmen Square) should produce a higher proportion
+199 of irrelevant and neutral content, compared to the same searches on the American-owned
+200 platforms, Instagram and YouTube.
+201 3.2 Methods
+202 3.2.1 Collection Methodology
+203 The methodological basis of Study I was the user journey (Amnesty International, 2023).
+
+A user
+204 journey refers to the process of simulating or tracking the steps a typical user would take while
+205 interacting with a system, platform, or network.
+
+In the context of Open Source Intelligence
+206 (OSINT), this involves recreating or following the pathways and interactions that users undergo
+207 on social media or other digital platforms to analyze how content is encountered, consumed, and
+208 disseminated.
+
+The goal is to replicate real-world user behavior to uncover patterns in content
+209 delivery, algorithmic bias, and manipulation strategies used by platforms or state actors
+210 (Endmann & Keßner, 2016; Rodrigues, 2021).
+211 Keywords to search through the new user accounts were selected given their importance in the
+212 CCP’s information warfare and propaganda doctrine, which enshrines projecting a positive
+213 image of China both inwards and outwards as a core pillar (King et al., 2017).
+214 Uyghur: The term “Uyghur” relates to the predominantly Muslim ethnic minority group
+215 in Xinjiang.
+
+The CCP has faced international condemnation for alleged human rights
+216 abuses, including mass detention camps (BBC, 2020; Sudworth, 2020; Ramzy &
+217 Buckley, 2019).
+218 Xinjiang: As the region where the Uyghur population resides
+
+</CONTENT>

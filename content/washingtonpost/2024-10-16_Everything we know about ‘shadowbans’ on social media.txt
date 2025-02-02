@@ -1,0 +1,40 @@
+<TITLE>Everything we know about ‘shadowbans’ on social media</TITLE>
+<PUBLISHED_DATE>2024-10-16</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/technology/2024/10/16/shadowban-social-media-algorithms-twitter-tiktok/?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=wp_main</URL>
+<AUTHOR>Tatum Hunter</AUTHOR>
+
+<SUMMARY>
+This article explores the phenomenon of "shadowbans" on social media, where users believe their posts are being suppressed by algorithms without explicit explanation.
+-  The article highlights the lack of transparency in social media algorithms and the difficulty users face in determining whether their content is being intentionally limited.
+-  While many users suspect their posts are being hidden from general feeds, few have concrete evidence.
+-  The article also touches on reasons why companies might limit content, potential types of content affected, and how to potentially identify algorithmic suppression.
+-  Ultimately, the article questions whether these limitations constitute censorship, content moderation, or another form of algorithmic control.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- We turn to social apps for news, political discussions and up-to-date information, but much of what we see is decided by sets of algorithms that try to prioritize the content we like while showing us ads at regular intervals.
+- How those algorithms make decisions is largely a black box , and critics have long called on social media companies to be more transparent.
+- Major political figures have accused the companies of using algorithms to censor speech, while regular users worry their posts are being suppressed based on biased criteria.
+- We asked Washington Post readers to share their stories about “shadowbans," the real or perceived suppression of a person’s posts, and many suspected that their posts were being shown to friends but hidden on feeds.
+- Few had proof this was happening.
+
+</HIGHLIGHTS>
+<CONTENT>
+Have you ever had a post fall flat — no likes, no comments — and wondered whether some all-seeing social media algorithm was punishing you? We turn to social apps for news, political discussions and up-to-date information, but much of what we see is decided by sets of algorithms that try to prioritize the content we like while showing us ads at regular intervals.
+
+How those algorithms make decisions is largely a black box , and critics have long called on social media companies to be more transparent.
+
+Major political figures have accused the companies of using algorithms to censor speech, while regular users worry their posts are being suppressed based on biased criteria.
+
+We asked Washington Post readers to share their stories about “shadowbans," the real or perceived suppression of a person’s posts, and many suspected that their posts were being shown to friends but hidden on feeds.
+
+Few had proof this was happening.
+
+“It feels like whack-a-mole,” said Leah Carey, a 50-year-old sex educator who said she’s constantly trying to infer what might get her posts kicked off Instagram’s main feed and Explore tab.
+
+“On any given day, what you did last week might no longer work.
+
+” Here’s what you need to know about shadowbanning What to know What is ‘shadowbanning,’ or ‘algorithmic suppression’? Why do companies limit some content? What types of content get limited? How do I know if my content is being limited? Is this censorship, content moderation or something else? Do social platforms penalize accounts if a piece of content gets limited?
+
+</CONTENT>

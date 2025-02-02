@@ -1,0 +1,256 @@
+<TITLE>Nate Silver's "On the Edge" Is Wrong About Gambling and Risk</TITLE>
+<PUBLISHED_DATE>2024-09-20</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2024/09/20/on-the-edge-book-review-nate-silver-risk/</URL>
+<AUTHOR>Dave Karpf</AUTHOR>
+
+<SUMMARY>
+Nate Silver's new book, "On the Edge," focuses on the mindset of risk-takers and gamblers, whom he labels "Riverians."  The book, a departure from Silver's previous work, explores the world of high-stakes gambling, using the poker term "river" to represent the moment of ultimate risk.
+-  The book details the staggering size of the US gambling industry, estimated at $1.3 trillion in 2022, with Americans losing $130 billion in casinos alone.
+-  Silver examines the strategies and tactics used by casinos to maximize profits, such as rewards programs and algorithms designed to keep gamblers engaged.
+-  Crucially, the article criticizes Silver's framing of the gambling world as a model for decision-making, highlighting the potential for problematic gambling behaviors to be catered to by profit-driven technologies.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- In the acknowledgements at the end of the book, Silver thanks ChatGPT, describing it as his “creative muse.” I’m not convinced the contribution was a positive one.
+-   Missing from the book is any notion of systemic risk.
+- Silver explains the growth of the gambling economy as evidence of a demand-side increase in risk-taking behavior among the post-pandemic public.
+- But this seems more likely to be a supply-side story.
+- The Supreme Court legalized sports betting in 2018.
+
+</HIGHLIGHTS>
+<CONTENT>
+Nate Silver’s first book, The Signal and the Noise , was published in 2012, at the peak of his career as America’s favorite election forecaster.
+
+The book was a 534-page bestseller.
+
+It set out to answer a perfectly Nate Silver-shaped question: What makes some people better than others at predicting future events? It provided a wide-ranging, deeply engaging introduction to concepts like Bayes’s Theorem, Isaiah Berlin’s The Hedgehog and the Fox , and Philip Tetlock’s work on superforecasting.
+
+
+ Twelve years later, Silver is back with a second book.
+
+It is titled On the Edge: The Art of Risking Everything .
+
+It is longer than the first one—576 pages, cover-to-cover.
+
+And yet it manages to be a much smaller book.
+
+
+ Silver is still in the business of prediction.
+
+But where the Silver of 2012 was contributing to the world of public intellectuals, journalists, academics, and policymakers —what he now terms “the Village”—the Silver of 2024 makes his home among the risk-takers and hustlers in Vegas, Wall Street, and Silicon Valley.
+
+On the Edge is an ode to the expected-value-maximizing gamblers’ mindset.
+
+He calls this the world of “the River.” These “Riverians” are his people.
+
+And, he tells us, they’re winning.
+
+He sets out to give his readers a tour of the River and distill some lessons that we ought to take from its inhabitants.
+
+
+ The “river” is a term borrowed from poker itself, a game defined by two forms of incomplete information: You don’t know the cards your opponent has been dealt, and you don’t know the cards that are yet to come.
+
+In Texas Hold ’em, the final round of betting is called the “river.” It is the moment when the information at your disposal is as complete as it will ever be 
+ Among poker players, this makes the river a rich metaphor.
+
+It’s Election Night, waiting for the votes to be tallied, as opposed to a convention or presidential debate, when the shape of the electorate is still undetermined.
+
+The best laid plans can be undone by an improbable river card.
+
+It’s the final score.
+
+The moment of truth.
+
+But when Silver talks about “Riverian” culture, he is not drawing upon or referring to any of this established imagery.
+
+Instead he deploys it as a catch-all term for embracing risk, identifying profitable edges, and wagering on your beliefs.
+
+It’s an odd and awkward writing choice.
+
+
+ The book starts out with a tour of the sheer scale of the literal gambling economy.
+
+In 2022 alone, Americans lost $130 billion in casinos, lotteries, and other gambling operations.
+
+That’s the amount lost , mind you.
+
+The amount wagered was approximately tenfold larger.
+
+Gambling in the United States is a $1.3 trillion dollar industry, and still growing.
+
+
+ Elsewhere in the book, he explains how casinos have developed rewards programs and programmed slot machines to keep people hooked.
+
+He also lays out the cat-and-mouse game between the online sportsbooks and profitable sports bettors.
+
+Much like with casinos and blackjack, if you are good enough at sports betting to reliably turn a profit, then the sportsbooks will stop accepting your bets.
+
+The house does not offer games that the house doesn’t win.
+
+And, in the United States today, it is very good to be the house.
+
+
+ 
+ People gather around a craps table at a casino.
+
+Slot machines are seen behind the table on a crowded casino floor.
+
+
+ Guests play craps at a casino in the southwestern Las Vegas valley on Dec.
+
+5, 2023.
+
+Travis P Ball/Sipa USA via Reuters 
+ In Chapter 6, Silver writes, “Here’s something I learned when writing this book: if you have a gambling problem, then somebody is going to come up with some product that touches your probabilistic funny bones.
+
+… And whichever product most appeals to your inner degen will be algorithmically tailored to reduce friction and get you to gamble even more.” 
+ Most of us would think this is a bad thing.
+
+But Silver stubbornly refuses to reflect on whether the unchecked growth of the gambling economy has any negative externalities.
+
+Chapter 3, on the casino industry, reads like a book on the opioid industry lauding the Sacklers for really figuring out how to develop product-market fit.
+
+
+ Structurally, the book is a bit disjointed.
+
+It is broken into two parts, with an interlude listing the “thirteen habits of highly successful risk-takers” in between.
+
+Part 1 glorifies the gambling industry.
+
+The interlude reads like a self-help book: “Successful risk-takers are cool under pressure … have courage … take shots … are prepared.” Part 2 meanders through Silicon Valley, discussing everything from the fall of Sam Bankman-Fried to Adam Neumann’s latest real estate start-up, along with an entire chapter explaining artificial intelligence through poker analogies.
+
+Silver clearly has a lot to say, but it doesn’t entirely hold together.
+
+In the acknowledgements at the end of the book, Silver thanks ChatGPT, describing it as his “creative muse.” I’m not convinced the contribution was a positive one.
+
+
+ Missing from the book is any notion of systemic risk.
+
+Silver explains the growth of the gambling economy as evidence of a demand-side increase in risk-taking behavior among the post-pandemic public.
+
+But this seems more likely to be a supply-side story.
+
+The Supreme Court legalized sports betting in 2018.
+
+DraftKings and FanDuel wasted no time in flooding the airwaves with enticing advertisements and can’t-lose introductory offers.
+
+Casinos—which used to be constrained to Las Vegas and Atlantic City—are now available in nearly every state.
+
+
+ Polymarket, a cryptocurrency-based online prediction marketplace that will let people place bets on essentially anything, went ahead and hired Silver to help promote the product.
+
+We legalized vice and removed most of the friction from the system.
+
+What’s good for the casinos and the sportsbooks is not necessarily good for society at large.
+
+
+ An increase in gambling addiction is a society-level problem, foisted on the very public officials that Silver derides as residents of “The Village.” Gambling, like cigarettes, should probably face more institutional friction, not less: If you want to waste your money betting on sports or gambling on cards, it ought to at least be moderately difficult to do so.
+
+
+ There’s an unintentionally revealing passage in Chapter 4.
+
+Silver devotes nearly four pages to Billy Walters, regaling us with stories of “the best sports bettor of all time.” And in the final paragraph of the section, he lets slip that Walters was sentenced to five years in prison for insider stock trading in 2018.
+
+In a footnote, we learn that Walters’s sentence was commuted by Donald Trump on his last day in office.
+
+Walters stubbornly maintains his innocence, while Silver notes that “sports bettors often take a cavalier attitude toward inside information in sports.
+
+… The Securities and Exchange Commission is much less likely to give you the benefit of the doubt if you’re betting on stocks.” 
+ It’s a crucial passage for two reasons: First, because much of what gives profitable sports bettors an “edge” is materially significant, non-public information.
+
+If you can develop sources that will inform you whether the star quarterback is returning from injury, you can use that information to beat the betting lines.
+
+The sportsbooks might eventually stop taking your bets if you win too much, but you won’t go to jail for it.
+
+
+ That edge rarely exists in finance, because of systemic risk.
+
+The United States has constructed a whole set of regulations and investor protections to mitigate the downside risk of all this “Riverian” gambling, and guard against crime.
+
+Poker players, sports bettors, and venture capitalists flourish in regulatory gray zones, where the rules are less well-defined and the edges are available if you’re smart and you’re willing to hustle.
+
+
+ But the second reason is that it invites us to ponder whether there’s any societal value to all this gambling.
+
+The stock market may essentially be gambling, but it is a type of gambling that produces valuable byproduct information.
+
+Through the activity of the stock market, we are able to gauge aggregate investor opinion on the state and worth of publicly traded companies.
+
+What is the social benefit of building an equivalent marketplace for establishing the betting line on NBA games? Sophisticated sports bettors may have a better read than DraftKings on whether the Washington Wizards should be 7.5- or 8-point underdogs in their season opener.
+
+But what value does that add to the quality of play, or the fan experience, or anything at all? Why incur and encourage all the systemic risk, when the societal value is effectively nil? 
+ 
+ Sam Bankman-Fried wearing a suit and tie walks behind a window.
+
+
+ Sam Bankman-Fried arrives at the U.S.
+
+federal courthouse in New York City on March 30, 2023.
+
+Ed Jones/AFP via Getty Images 
+ Silver asks and answers none of these questions himself.
+
+In the rare passages of the book where he offers some critique of Riverian excess, he makes sure to reassure the reader that he is “not a prude.” In Chapter 8, after mentioning that the sheer, absurd concentration of wealth among Silicon Valley figures like Sam Bankman-Fried might, just maybe, be a bad thing, Silver immediately backpedals, reminding his readers that he plays “poker with venture capitalists and hedge fund guys.
+
+I’m a capitalist.” 
+ I suspect this would be a better book if he had less to lose.
+
+I myself have been a “+EV” poker player for over 20 years, meaning I win quite a bit more than I lose.
+
+I don’t play for the same stakes as Silver, but my poker bankroll includes seven different currencies from four continents.
+
+And I can tell you that I would strongly consider committing a few misdemeanors to land a seat in one of those VC/hedge fund games.
+
+Silver doesn’t boast about his win rate, but he does let slip that the first time he was invited to play cards with Jason Calacanis and the other hosts of the All-In podcast, he “won enough money to buy a Tesla.” 
+ If I was in Silver’s shoes, I would be wary of writing a book that could get me uninvited from those pillow-soft high-stakes poker games.
+
+He can make more money, and have more fun, by offering a gentle exploration, critique, and defense of “the River” than he would by raising questions that would make the notoriously thin-skinned VC crowd uncomfortable.
+
+Silver manages to interview a lot of powerful people who rarely speak to journalists, but when they talk to him, they tell him nothing of note.
+
+
+ 
+ Nate Silver in a suit jacket and button-up shirt sits on stairs surrounded by gold railing holding a cell phone.
+
+
+ A portrait of Nate Silver, the founder of FiveThirtyEight, in Nov.
+
+9, 2012.
+
+Nam Y.
+
+Huh/AP 
+ It also is not clear whether most of the “Riverian” character traits are actually so unique.
+
+In the book’s later chapters, Silver rails against “The Village’s” public health response to the COVID-19 pandemic.
+
+Riverians, he tells us, would’ve handled the pandemic differently, because Riverians are expected-value maximizers who understand the fundamental importance of cost-benefit analysis.
+
+Hindsight does a lot of heavy lifting for him here, and the notion that public health officials are unfamiliar with cost-benefit analysis is painfully ridiculous.
+
+Cost-benefit analysis is not some arcane Riverian wisdom.
+
+It is intro-level textbook material.
+
+
+ Silver’s experience in the poker world has convinced him that the world should be more like poker.
+
+My own experience with poker has convinced me of the opposite.
+
+It is because I am skilled at the game that I think people ought to know what they’re getting into before sitting down at the table with me.
+
+
+ He’s right about one thing, though: The Riverians are indeed winning.
+
+The Wynn Casino, DraftKings.com, and Andreessen Horowitz are indeed all phenomenally profitable.
+
+The part that eludes him is the reason why.
+
+They are winning because we have constructed a system that they are well-positioned to exploit.
+
+There is a good book waiting to be written about how they have gamed the system, what it all adds up to, and what it costs the rest of us.
+
+But this book’s ambitions are much smaller than that.
+
+</CONTENT>

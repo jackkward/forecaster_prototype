@@ -1,0 +1,292 @@
+<TITLE>How Huawei brought on a Sputnik moment in world trade</TITLE>
+<PUBLISHED_DATE>2025-01-04</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/technology/2025/01/04/huawei-export-controls-us-china-trade-chips-telecommunications/</URL>
+<AUTHOR>Eva Dou</AUTHOR>
+
+<SUMMARY>
+In May 2019, the Trump administration declared Huawei, a Chinese telecommunications giant, a national security threat, imposing sanctions that restricted its access to US technology.
+-  This prompted Huawei to focus on its own chip development and innovation, as well as leverage China's 5G rollout.
+-  Despite the US sanctions, Huawei managed to survive and even thrive, becoming the world's top telecom equipment and smartphone vendor in certain periods.
+-  The article highlights Huawei's resilience in the face of US pressure, and the company's success within a worsening US-China cold war, challenging the conventional wisdom about globalization and authoritarian states' reliance on Western economies.
+-  The article draws from a book, "House of Huawei," offering a detailed account of the events surrounding Huawei and its response.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- When AT&amp;T conducted a survey of cybersecurity professionals in 2016, 64 percent said they did not expect to be able to have a private conversation on any device.
+- For Huawei, this means that concerns about its equipment being exploitable by China’s intelligence agencies are unlikely to abate — in the same way that China will continue to be wary of Western-made technologies.
+- “I think there is a genuine fear that there is a back door in Huawei equipment that the Chinese government can access if they want to get whatever information they need,” said Michael Joseph, founder of the Kenyan mobile operator Safaricom.
+- “You also don’t know what other governments are up to.
+- And all governments — can you trust any government?
+
+</HIGHLIGHTS>
+<CONTENT>
+This article is adapted from “House of Huawei: The Secret History of China’s Most Powerful Company,” which will be published Jan.
+
+14 by Portfolio.
+
+In May 2019, Donald Trump invoked a presidential power generally reserved for wars, terrorist attacks and pandemics: He declared Huawei, China’s flagship telecommunications equipment maker, a national emergency.
+
+The company, which, like all large Chinese corporations, operates under the close watch of the ruling Communist Party, had drawn concern in the United States that its internet networking gear and popular cellphones could help the Chinese government gain opportunities to listen in on conversations around the globe.
+
+Despite Huawei’s protests that it did not aid spying, Trump’s executive order directed relevant U.S.
+
+government agencies to take “all appropriate measures” to neutralize Huawei.
+
+The same day, the Commerce Department announced controls that would cut off Huawei broadly from purchasing U.S.
+
+technology, including critical chips and operating systems.
+
+The company relied on Qualcomm and Intel for chips, Google for its Android operating system for smartphones, and Microsoft Windows for laptops.
+
+Huawei’s executives cried foul at this fusillade of attacks.
+
+“Politicians in the U.S.
+
+are using the strength of an entire nation to come after a private company,” Huawei’s chief legal officer, Song Liuping, exclaimed to reporters.
+
+“...
+
+They want to put us out of business.” To rally his staff, Ren Zhengfei, Huawei’s then-74-year-old founder, circulated an old photograph of a World War II-era Soviet bomber jet that was somehow managing to stay aloft despite being riddled with bullets.
+
+Ren, a former Chinese army engineer who started the company in Shenzhen in 1987, told them that, like the plane, they would somehow keep flying.
+
+“Our years of blood, sweat, and tears have been cashed in overnight to help the company.” — Teresa He, president of Huawei's chip unit Teresa He, the reclusive head of Huawei’s chip unit, HiSilicon, also emerged to hearten staff through a rare public letter.
+
+If Huawei was really cut off from Qualcomm and Intel, its only hope would be HiSilicon.
+
+For years, the unit had worked building “spare tire” technology for such a moment.
+
+“Overnight, all the spare tires that we built have become the ‘main’ tires! Our years of blood, sweat, and tears have been cashed in overnight to help the company fulfill its commitment to keep serving customers,” she wrote.
+
+Indeed, a year into the sanctions, Huawei was still alive.
+
+By some measures, it was even curiously on the ascent.
+
+It was still the world’s No.
+
+1 vendor of telecom gear, aided by Beijing’s ambitions to construct the world’s earliest and largest 5G network.
+
+China was already rolling out 5G base stations across the country made by Huawei and another Chinese company, ZTE, even as most nations were still formulating their 5G plans.
+
+Huawei had also become the world’s No.
+
+1 smartphone vendor for the first time, in the second quarter of 2020, as rivals like Samsung saw sales plummet during the pandemic.
+
+Even as the subsequent U.S.
+
+administration attempted to squeeze the company harder, the company not only survived but also flourished.
+
+Concerns about Huawei’s rise despite harsh U.S.
+
+sanctions have helped fuel a shift in sentiment away from globalization, which was supposed to keep authoritarian governments in check by intertwining their economies with Western markets they needed.
+
+It also demonstrated the resilience of a company at the center of a worsening cold war between the United States and China.
+
+In early 2020, Trump signed into law a bill earmarking up to $1 billion for small rural U.S.
+
+carriers to “rip and replace” Huawei and ZTE gear.
+
+In May 2020, the Commerce Department tightened the sanctions on Huawei, preventing not only the direct sale of U.S.
+
+technology to the company but also the sale of any chips that were made using U.S.
+
+technology without a special license.
+
+This new rule was wonky, but its implications for Huawei were massive.
+
+While Huawei had been designing some of its chips in-house through HiSilicon, it relied on the Taiwan Semiconductor Manufacturing Company, or TSMC, to produce them.
+
+When it came to manufacturing the best chips, TSMC was the only game in town.
+
+And TSMC needed U.S.
+
+technology.
+
+Under the new rule, TSMC had to shut its doors to Huawei.
+
+Huawei’s only hope now was for China’s domestic chip foundry, the Semiconductor Manufacturing International Corporation, or SMIC, to learn how to produce advanced chips at lightning speeds.
+
+This was a real Hail Mary: SMIC had been endeavoring for two decades to advance its technologies but still lagged several generations behind global leaders in advanced chipmaking.
+
+This second round of U.S.
+
+sanctions cut deep.
+
+The Trump administration was also now touting a “Clean Network” of global telecom networks that did not use Huawei or ZTE.
+
+The term drew swift backlash from some foreign policy observers, who pointed out its place in the long racist tradition of suggesting that something foreign is “dirty.” Susan Ariel Aaronson, an international affairs professor at George Washington University, called the Trump administration’s use of the term “racist and paranoid.” Ren’s team was putting on a brave face, but Huawei’s business was floundering in the face of the Trump administration’s multipronged attack.
+
+Ren made the bitter decision to cut off some limbs.
+
+The first to go was the company’s undersea cable joint venture, Huawei Marine Systems Co., which has laid some 31,000 miles of undersea cable over 90 projects.
+
+But with all the geopolitical pressure, it was hard for Huawei Marine Systems to do business.
+
+Huawei announced that it was selling its 51 percent stake to a Chinese buyer.
+
+In November 2020, the company revealed that it was also selling off its cherished Honor smartphone line to a consortium.
+
+Aggressively priced, sleekly designed and promoted through viral marketing campaigns to tech-savvy young consumers, Huawei’s Honor phones had rocketed the company to No.
+
+1 in smartphone sales globally, dethroning Samsung and Apple.
+
+But the U.S.
+
+sanctions cut Honor smartphones off from their key components: Qualcomm processors and Google’s Android operating system.
+
+Ren decided that Honor’s hopes for survival depended on it striking out alone.
+
+“Become Huawei’s strongest global competitor, surpass Huawei, and even shout ‘Down with Huawei,’” Ren told the departing team.
+
+“Make this a motivational slogan for yourselves.” Behind closed doors, Huawei was racing with SMIC and others to figure out how to make the chips it needed.
+
+This was a sensitive project, with national significance, and the company kept a cone of silence around the endeavor in public.
+
+Rumors circulated of secret microchip factories.
+
+Ren appealed for help from the nation’s top scientific minds.
+
+“We as a company cannot do two things at once: make products and manufacture chips,” he told researchers from China’s elite Peking and Tsinghua universities.
+
+To the outside world, Ren no longer talked too much of defeating rivals or becoming the global leader.
+
+He said Huawei’s goal was simply to survive.
+
+Adding to the company’s cascading crisis in 2020, new details emerged late that year of Huawei’s participation in the Chinese government’s crackdown on Uyghurs, a Muslim ethnic minority in western China.
+
+A small Pennsylvania-based research outlet called IPVM published an internal report from Huawei outlining the company’s tests of a facial recognition system.
+
+“Huawei Confidential, No Circulation Without Permission,” it said across each page.
+
+Dated Jan.
+
+8, 2018, the seven-page PDF was an “interoperability” report outlining the test performance of a facial recognition tracking system built jointly by Huawei and a partner company, Megvii, one of China’s largest facial recognition providers.
+
+Huawei and Megvii engineers had put a “Uyghur alarm” feature into their facial recognition system to automatically flag faces that appeared to belong to members of the ethnic minority.
+
+The interoperability report was hard proof that Huawei knew that its technology was being used to track an ethnic group, and that executives were okay with it.
+
+Ren’s daughter Meng Wanzhou had returned as a hero to company headquarters in December 2022 after a prisoner swap ended her four-year house arrest in Canada on a U.S.
+
+warrant for alleged fraud.
+
+As she approached the end of her first half-year term at Huawei’s helm in August 2023, the company quietly launched a smartphone called the Mate 60 Pro.
+
+Huawei had skipped the usual fanfare and hadn’t even disclosed the phone’s specs.
+
+But people were whispering that Huawei had found a way around the U.S.
+
+sanctions.
+
+Rarely had so many people bought a brand-new phone just to crack it open and tear it to pieces.
+
+Analysts soon confirmed the rumors were right.
+
+Huawei had managed to produce a 5G processor through the Chinese foundry SMIC, despite both companies being under U.S.
+
+sanctions that were meant to stop them from manufacturing such an advanced chip.
+
+No one could say for sure how it had happened.
+
+Huawei and SMIC may have achieved the feat by violating sanctions, or they may have managed it by pushing less-advanced tools to the limit.
+
+“A country without its own program-controlled switches is like one without an army.” — Huawei founder Ren Zhengfei Huawei’s new phone created a ruckus in Washington and put the company back in the crosshairs.
+
+“The reports about Huawei are incredibly disturbing,” Commerce Secretary Gina Raimondo told U.S.
+
+lawmakers.
+
+She said the Commerce Department needed more resources for sanctions enforcement.
+
+Weeks after Huawei’s phone launch, the Biden administration tightened its ban on exporting advanced chipmaking tools to China.
+
+There had been hopes among Huawei’s executives that President Joe Biden would be softer on China than Trump, but they were quickly dispelled.
+
+The Biden administration was more careful in its rhetoric to avoid fanning anti-Chinese racism.
+
+It didn’t use terms such as “Clean Network” and “Clean Nations.” But, in many ways, it was only picking up where the Trump administration had left off and deepening the efforts to contain China.
+
+There was no indication that Washington would lift its sanctions against Huawei anytime soon.
+
+Huawei’s rise had been a Sputnik moment.
+
+It had changed the way that people around the world thought about innovation, trade, and their own pasts and futures.
+
+“A country without its own program-controlled switches is like one without an army,” Ren had told General Secretary Jiang Zemin back in 1994, as he argued for China’s central government to increase investment in telecommunications gear.
+
+Similar calls were now being made in nations worldwide — including in the United States.
+
+This wave of protectionism — Trump dubbed it “America First,” Beijing called it “Made in China 2025,” and other countries had their own terms — wasn’t a complete retreat from globalization.
+
+That was impossible.
+
+But it was an acknowledgment that stock prices and balance sheets could not fully capture the societal value of a nation’s technological competency — nor could they fully express the feeling of loss when that was gone.
+
+Over the years, foreign government officials and journalists had repeatedly asked Huawei’s executives whether they were willing to stand up against China’s government and refuse to help with overseas surveillance.
+
+In truth, it was an unanswerable question.
+
+Governments around the world, including in both China and the United States, do compel tech companies to assist in investigations, and they also compel them to keep silent about it.
+
+Google has notably criticized the frequency of court-issued “gag orders” that prevent it from disclosing government demands for user data.
+
+And while the practices are shrouded in secrecy, there has also been acknowledgment that governments not only hack into networking equipment but also use “direct access” to tap data from telecommunications networks without the network operators knowing the details.
+
+Industry executives acknowledge that networks are hacked and surveilled to a much greater degree than the general public may suspect.
+
+They also acknowledge the difficulty of ascertaining whether a back door exists in millions of lines of code.
+
+When AT&amp;T conducted a survey of cybersecurity professionals in 2016, 64 percent said they did not expect to be able to have a private conversation on any device.
+
+For Huawei, this means that concerns about its equipment being exploitable by China’s intelligence agencies are unlikely to abate — in the same way that China will continue to be wary of Western-made technologies.
+
+“I think there is a genuine fear that there is a back door in Huawei equipment that the Chinese government can access if they want to get whatever information they need,” said Michael Joseph, founder of the Kenyan mobile operator Safaricom.
+
+“You also don’t know what other governments are up to.
+
+And all governments — can you trust any government? — might be listening to your conversations and doing whatever they do.” The knowledge that such risks exist in telecommunications gear is not new.
+
+Policymakers have always known about these risks, and in the heyday years of globalization, they factored them into their considerations.
+
+What is new is the onset of a fresh cold war between the United States and China, which has changed calculations.
+
+Now the assumption on both sides is that the other nation sees the competition as a zero-sum game and believes that it will not act in good faith.
+
+It is in that context that the United States has worried about how aligned Huawei might be to the Chinese government.
+
+Every five years, a few dozen shareholders are officially anointed as “representatives,” giving them the power to make decisions in the name of all shareholders.
+
+These representatives pass judgment on major company decisions.
+
+They also pick Huawei’s board of directors, which in turn picks the CEO.
+
+The longtime party secretary, Zhou Daiqi, a liaison for the company with the Chinese Communist Party, had consistently been listed as a representative.
+
+There was also Sun Yafang, who had worked for the Ministry of State Security’s Communications Department before joining Huawei and rising to become the company’s chairwoman.
+
+After retiring from that role in 2018, she remained at Huawei but did not appear in other senior management lists.
+
+But in the 2023 representatives list, her name continues to come second, just after Ren’s and ahead of that belonging to the new chairman, Liang Hua.
+
+At Huawei, as in China, the collective governance model obscures who, exactly, is making decisions, and this is by design.
+
+Many times, it is the core leader making the decisions, due to his centralized power, but esteemed elders often wield considerable influence in the wings.
+
+It can even be possible for them to override the nominal leader on decisions.
+
+The party’s internal disciplinary mechanism — present for both the government and for Huawei — serves as a powerful stick to keep individual officials in line, as it allows the party to oust those who are ideologically out of step.
+
+Huawei’s goal, like the party’s, is to ensure its own long-term survival.
+
+Achieving this goal requires winning enough in from its workers.
+
+But maximizing shareholder value — or individuals’ well-being — is not the end in and of itself.
+
+Copyright 2025 by Eva Dou.
+
+Reprinted with permission from Portfolio.
+
+All rights reserved.
+
+</CONTENT>

@@ -1,0 +1,274 @@
+<TITLE>Analyzing digital propaganda and conflict rhetoric: a study on Russia’s bot-driven campaigns and counter-narratives during the Ukraine crisis</TITLE>
+<PUBLISHED_DATE>2024-08-23</PUBLISHED_DATE>
+<URL>https://link.springer.com/article/10.1007/s13278-024-01322-w?error=cookies_not_supported&code=3d6c0c08-4bc3-4a81-85af-a9037aeb5049</URL>
+<AUTHOR>Carley, Kathleen M.</AUTHOR>
+
+<SUMMARY>
+This article analyzes Russian digital propaganda tactics during the Ukraine crisis.
+-  Key findings show Russia utilizes bot networks and trolls to spread misinformation and pro-Russian narratives across social media platforms, aiming to destabilize Ukraine and justify its actions.
+-  The article cites instances like the Crimea crisis and Syria, where Russia employed similar disinformation campaigns.
+-  Russia's strategy, influenced by the "Gerasimov Doctrine," increasingly integrates disinformation into its military objectives.
+-  The authors argue that these campaigns aim to polarize communities and undermine democratic values.
+-  The study highlights Russia's use of social media and bot-driven strategies to achieve geopolitical aims.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- To remove these texts, we employed comprehensive data pre-processing methods to enhance the effectiveness of our study methodology.
+- As depicted in Fig.
+- 1 , our pipeline began with the use of a Bot Detector to ensure that only bot tweets were analyzed, emphasizing our focus on automated accounts which are a significant component in the spread of digital propaganda.
+- We then conducted a temporal analysis to understand bot behavior over three specific timeframes, which allowed us to track the evolution of narratives in sync with the development of the conflict.
+- Utilizing the NLTK library, Footnote 1 known for its text-handling features, was a critical step.
+
+</HIGHLIGHTS>
+<CONTENT>
+1 Introduction In today’s age of social media, state actors utilize digital propaganda and manipulation to shape narratives, and foster discord to push their geopolitical agendas.
+
+This form of propaganda is a calculated and coordinated process designed to disseminate and amplify deceptive content across multiple social media platforms (Jowett and O’Donnell 2012 ).
+
+The Russian state’s persistent efforts to create confusion and chaos within social media mediums to achieve their goal is a testament to the systematic manipulation that they employ (Council 2022 ).
+
+For instance, during the Crimea crisis in 2014, the Russian state employed an extensive network of bots and trolls to flood social media platforms with pro-Russian stances, spreading misinformation about the situation in Ukraine and creating a narrative that justified its annexation of Crimea (Helmus et al.
+
+2018 ).
+
+This strategy exemplifies the principles of social cybersecurity, which focuses on understanding and forecasting cyber-mediated changes in human behavior, as well as social, cultural, and political outcomes (Carley 2020 ).
+
+With diminishing international prestige, the Russian state employs a situational and diligence-driven approach, meticulously exploiting vulnerabilities to their advantage (Berls 2019 ).
+
+This approach is demonstrated by Russia’s Internet Research Agency (IRA), known for its role in online influence operations.
+
+The IRA carefully crafts messages that are tailored to specific audiences and use data analytics to maximize the impact of their campaigns (Robert S.
+
+Mueller 2019 ), a tactic that aligns with the methodologies used in social cybersecurity for analyzing digital fingerprints of state-led propaganda campaigns (Carley 2020 ).
+
+This is further shown in Syria where Russian forces used disinformation campaigns as a tool to weaken the opposition forces and shape international perception of the conflict, including spreading false narratives about the actions of the rebel groups and the humanitarian situation (Paul and Matthews 2016 ).
+
+Putin’s regime’s information operation campaigns against Ukraine are a significant development in their warfare strategy, with disinformation campaigns becoming an integral part of their military operations.
+
+The development of Russia’s “Gerasimov Doctrine,” which emphasizes the role of psychological warfare, cyber operations, and disinformation campaigns, marks this new shift in their military strategy (Fridmam 2019 ).
+
+This doctrine emphasizes the importance of non-military tactics, such as disinformation campaigns to achieve strategic military objectives.
+
+The Russian state has continuously increased the use of cyber warfare in its military objectives, utilizing social media platforms to spread its objectives through disinformation campaigns to curate public opinion.
+
+Through bot-driven strategies, the Russian state aims to polarize communities and nations, destabilizing political stability while undermining democratic values under a facade of disinformation operations (Schwartz 2017 ).
+
+The escalation of Russian disinformation operations following the February 2022 invasion of Ukraine was met with a robust Ukrainian response.
+
+Ukraine has strengthened its information and media resilience by establishing countermeasures against Russian narratives, including disseminating accurate information and regulating known Russian-affiliated media outlets (Paul and Matthews 2016 ).
+
+To understand the complexities of information warfare campaigns and counter-narratives to those campaigns, this research studies the impact of these bot-driven strategies on social media platforms.
+
+The study uses a blend of stance analysis, topic modeling, network dynamics, and information warfare analysis, integrated with principles of social cybersecurity, to understand the prominent themes, and influence that bot communities have on platforms like Twitter, while also exposing the most influential actors and communication patterns.
+
+Research Question: The central question of this investigation is: How have bot-driven strategies influenced the landscape of digital propaganda and counter-narratives? We follow up by inquiring, what are the implications of these strategies for Ukraine’s political and democratic landscape and the broader geopolitical arena.
+
+This paper seeks to understand the role that bot communities have in the propagation and amplification of these narratives that nation-states are pushing.
+
+By examining only bot-driven ecosystems and their effectiveness in promoting Russia’s political agenda through narrative manipulation, we aim to assess the global impact that these bot communities have in achieving their overall strategic objectives.
+
+It is important to note that when referring to ’Russia’ in this paper, we distinguish between the ’Russian state’, ’Putin’s regime’, and the broader population of Russia.
+
+The term ’Russian state’ refers to the governmental and institutional structures of Russia.
+
+’Putin’s regime’ specifically refers to the current administration and its policies under President Vladimir Putin.
+
+Meanwhile, ’Russia’ encompasses a diverse populace, many of whom may not align with Putin’s strategies or values but are unable to protest due to political repression.
+
+This distinction is crucial for understanding the multifaceted nature of Russian involvement in information warfare and the varied perspectives within the country.
+
+The study will expand this research to include an analysis of the counter-narrative of the overwhelming support for Ukraine, which has also been overwhelmingly exemplified within these bot communities.
+
+Utilizing BotHunter, a tool specifically designed to detect bot activity (Beskow and Carley 2018 ), this research will identify and analyze the bot networks that have been central to the propagation of this support.
+
+This counter-narrative, emerging from the data and shaped by bot-driven dialogues, represents a significant aspect of the overall response to the conflict.
+
+By integrating the following: the BEND framework to analyze information warfare strategies, TweetBERT’s domain-specific language modeling, and the moral compass provided by Moral Foundations Theory, with insights from social cybersecurity, this study aims to provide a comprehensive understanding of the strategic narratives and counter-narratives in the wake of the conflict.
+
+The goal is to contribute a detailed analysis of what these effects have on geopolitical stability and to delineate the methods by which narratives can be both a weapon of division and a shield of unity.
+
+2 Literature review Russian disinformation tactics The Russian state’s disinformation tactics have substantially evolved over the last several years, especially since the 2008 incursion into Georgia.
+
+Their tactics intensified during the 2014 annexation of Crimea and have continued vigorously throughout the ongoing conflicts in Ukraine and Syria.
+
+These tactics are not only a continuation of Cold War-era methods but also leverage the vast capabilities of modern technology and media (Paul and Matthews 2016 ).
+
+The digital landscape has become a fertile ground for Russia to deploy an array of propaganda tools, including the strategic use of bots, which create noise and spread disinformation at an unprecedented scale (Politico 2023 ).
+
+The modus operandi of Russian disinformation has been aptly termed “the firehose of falsehood,” characterized by high-volume and multichannel distribution (Paul and Matthews 2016 ).
+
+This approach capitalizes on the sheer quantity of messages and utilizes bots and paid trolls to amplify their reach, not only to disrupt the information space but also to pose a significant challenge to geopolitical stability (Paul and Matthews 2016 ).
+
+By flooding social media platforms with a barrage of narratives, the Russian state ensures that some of its messaging sticks, even if they are contradictory or lack a commitment to objective reality (Organisation for Economic Co-operation and Development 2023 ).
+
+This relentless stream of content is designed not just to persuade but to confuse and overpower the audience, making it difficult to discern fact from fiction, demonstrating how narratives can be weaponized to create division.
+
+Moreover, these tactics exploit the psychological foundations of belief and perception.
+
+The frequency with which a message is encountered increases its perceived credibility, regardless of factual accuracy (Paul and Matthews 2016 ).
+
+Russian bots contribute to this effect by continuously posting, re-posting, and amplifying content, thereby creating an illusion of consensus or support for viewpoints.
+
+This strategy has the potential to influence public opinion, thereby extending the reach of disinformation campaigns (Politico 2023 ).
+
+This demonstrates how narratives may undermine democratic values and geopolitical stability.
+
+Recent research has expanded on these findings, highlighting the sophisticated nature of bot-driven propaganda.
+
+Chen and Ferrara ( 2023 ) present a comprehensive dataset of tweets related to the Russia-Ukraine conflict, demonstrating how social media platforms like Twitter have become critical battlegrounds for influence campaigns (Chen and Ferrara 2023 ).
+
+Their work highlights the significant engagement with state-sponsored media and unreliable information sources, particularly in the early stages of the conflict, which saw spikes in activity coinciding with major events like the invasion and subsequent military escalations (Chen and Ferrara 2023 ).
+
+The use of bots in this military campaign is notable for their ability to operate around the clock, mimic human behavior, and engage with real users (Politico 2023 ).
+
+These bots are programmed to push Russian narratives, attack opposing viewpoints, and inflate the appearance of grassroots support (Paul and Matthews 2016 ).
+
+These bots are a key component in Russia’s strategy to structure public opinion and influence political outcomes.
+
+Note that we use the terms the “Russian state” and “Putin’s regime” in this article to indicate the group of people who align with the political values of the regime.
+
+Russian disinformation efforts have shown a lack of commitment to consistency, often broadcasting contradictory messages that may seem counter-intuitive to effective communication (Paul and Matthews 2016 ).
+
+However, this inconsistency can be a tactic, as it can lead to uncertainty and ambiguity, ultimately challenging trust in reliable information sources.
+
+By constantly shifting narratives, Russian propagandists keep their opponents off-balance and create a fog of war that masks the truth (Organisation for Economic Co-operation and Development 2023 ).
+
+This strategy emphasizes the dual role of narratives in geopolitical conflicts, serving as a shield of unity for one’s own political agenda whilst being a weapon of division against adversaries.
+
+The advancement of Russian disinformation tactics represents a complex blend of traditional influence strategies and the use of modern technological tools.
+
+Russia has crafted a formidable approach to push propaganda narratives by leveraging bots, social media platforms, and the vulnerabilities of human psychology (Alieva et al.
+
+2022 ).
+
+The international community, in seeking to counter these tactics needs to understand the threat that this poses and develop comprehensive strategies to defend against the flood of disinformation that undermines democratic processes and geopolitical stability (Organisation for Economic Co-operation and Development 2023 ).
+
+Information warfare analysis Information warfare in social media is the strategic use of social-cyber maneuvers to influence, manipulate, and control narratives and communities online (Blane 2023 ).
+
+It is used to manipulate public opinion, spread disinformation, and create divisive discourses.
+
+This form of warfare employs sophisticated strategies to exploit the interconnected nature of social networks and the tendencies of users to consume and share content that aligns with their existing beliefs (Prier 2017 ).
+
+The strategy of “commanding the trend” in social media involves leveraging algorithms to amplify specific messages or narratives (Prier 2017 ).
+
+This is achieved by tapping into existing online networks, utilizing bot accounts to create a trend or messaging, and then rapidly disseminating that narrative.
+
+This exploits the natural inclination towards homophily-the tendency of individuals to associate and bond with others over like topics (Prier 2017 ).
+
+Social media platforms enable this by creating echo chambers where like-minded users share and reinforce each other’s views.
+
+Consequently, when a narrative that is disinformation aligns with the user’s pre-existing beliefs, it is more likely accepted and propagated within these networks (Prier 2017 ).
+
+Peng ( 2023 ) adds to this understanding by conducting a cross-platform semantic analysis of the Russia-Ukraine war on Weibo and Twitter, showing how platform-specific factors and geopolitical contexts shape the discourse (Peng 2023 ).
+
+The study found that Weibo posts often reflect the Chinese government’s stance, portraying Russia more favorably and criticizing Western involvement, while Twitter hosts a more diverse range of opinions (Peng 2023 ).
+
+This comparative analysis highlights the role of different social media environments in influencing public perception and the spread of narratives, emphasizing the multifaceted nature of information warfare across platforms.
+
+The Russian state illustrates the effective use of social media in information warfare, where they have used it for social media propaganda, creating discourse and confusion, and manipulating both supporters and adversaries through targeted messaging (Brown 2023 ).
+
+The goal is to exploit existing social and political divisions, amplifying and spreading false narratives to manipulate public opinion and discredit established institutions and people (Alieva et al.
+
+2022 ).
+
+Social cybersecurity, integrating social and behavioral sciences research with cybersecurity, aims to understand and counteract these cyber-mediated threats, including the manipulation of information for nefarious purposes (National Academies of Sciences, Engineering, and Medicine (2019) ).
+
+The emergence of social cybersecurity science, focusing on the development of scientific methods and operational tools to enhance security in cyberspace, highlights the need for multidisciplinary approaches to identify and mitigate cyber threats effectively.
+
+There are many methods and frameworks to analyze information warfare strategies and techniques.
+
+One such is SCOTCH, a methodology for rapidly assessing influence operations (Blazek 2023 ).
+
+It comprises six elements: source, channel, objective, target, composition, and hook.
+
+Each plays a crucial role in the overall strategy of an influence campaign.
+
+Source identifies the originator of the campaign, Channel refers to the platforms and features used to spread the narrative, Objective is the goal of the operation, Target defines the intended audience, Composition is the specific language used, and Hook is the tactics utilized to exploit the technical mechanisms.
+
+While SCOTCH provides a structured approach to characterizing influence operations, focusing on the operational aspects of campaigns, the BEND framework offers a more nuanced interpretation of social-cyber maneuvers.
+
+BEND categorizes maneuvers into community and narrative types, each with positive and negative aspects, providing a comprehensive view of how online actors manipulate social networks and narratives (Blane 2023 ).
+
+This framework is particularly effective in analyzing the subtle dynamics of influence operations within social media networks, where the nature of communication is complex and multi-layered (Ng and Carley 2023b ).
+
+Therefore, when deliberating what framework to utilize, while SCOTCH excels in operational assessment, BEND offers greater insights into the social and narrative aspects of influence operations, making it more suitable for analyzing the elaborate nature of social media-based information warfare operations.
+
+Moral Realism Analysis Moral realism emphasizes the complex interplay between moral and political beliefs and suggests that political and propaganda narratives are not only policy tools but also reflect and shape societal moral beliefs (Kreutz 2021 ).
+
+This perspective suggests that the political narratives and propaganda disseminated by countries imply that moral justifications embedded in these narratives, both Russian and Ukrainian, are likely shaped by deeper political ideologies, influencing how these narratives are constructed and perceived on the global stage (Hatemi et al.
+
+2019 ).
+
+Similar findings can be seen where political ideologies significantly influenced the framing of vaccines for COVID-19, this understanding becomes essential in the geopolitical concept, particularly in the Russian-Ukraine conflict (Borghouts et al.
+
+2023 ).
+
+Developed by social psychologists, the Moral Foundations Theory delineates human moral reasoning into five foundational values: Care/Harm, Fairness/Cheating, Loyalty/Betrayal, Authority/Subversion, Sanctity/Degradation, and Liberty/Oppression (Theory 2023 ).
+
+This theory was applied and utilized to understand the moral reasoning of political narratives and public opinion.
+
+For instance, this theory helps to understand the moral reasoning behind major political movements and policy decisions, emphasizing how different groups may prioritize certain moral values over others (Kumankov 2023 ).
+
+Application of the theory in a study on attitudes towards the COVID-19 vaccine reveals that liberals and conservatives expressed different sets of moral values in their discourse (Borghouts et al.
+
+2023 ).
+
+In the context of the Russian-Ukraine War, moral realism is an essential method in understanding international politics.
+
+Russia’s narrative often emphasizes the protection of Russian speakers in Ukraine, which can be interpreted as an appeal to the Loyalty/Betrayal Foundation (Dill 2022 ).
+
+On the other hand, Ukraine’s emphasis on self-determination and resistance to aggression may resonate more with Care/Harm and Fairness/Cheating foundations (Polinder 2022 ).
+
+While moral realism hasn’t been directly applied to analyzing information warfare discourse, the COVID-19 case study shows the impact of understanding moral reasoning on political narratives (Kumankov 2023 ).
+
+Moral realism, in the context of information warfare for this conflict, provides a way to analyze the moral justifications and narratives used by Russia and Ukraine.
+
+We can then identify the ethical implications and the underlying values that they are trying to promote.
+
+By integrating moral realism, we can begin to understand the effectiveness that these narratives have in shaping public opinion and influencing international response to the Russian-Ukraine conflict.
+
+Topic Modeling Topic modeling is a machine learning technique used to discover hidden thematic structures within document collections, or “corpora” (Hong and Davison 2011 ).
+
+This technique allows researchers to extract and analyze dominant themes from large datasets, such as millions of tweets, to understand public discourse and the spread of propaganda or counter-propaganda narratives.
+
+It is particularly useful for examining social media data, where bots often attempt to control narratives (Hong and Davison 2011 ).
+
+The topic modeling process involves several steps: 
+ 
+ 1.
+
+
+ Data Collection Gathering tweets related to key events and statements.
+
+
+ 
+ 
+ 2.
+
+
+ Pre-processing Cleaning the data by removing noise, such as stop words, URLs, and user mentions, to focus on relevant content.
+
+
+ 
+ 
+ 3.
+
+
+ Vectorization Transforming the pre-processed text into a numerical form usable by statistical models (Ramage et al.
+
+2009 ).
+
+
+ 
+ 
+ 4.
+
+
+ Algorithm Application Using methods like Latent Dirichlet Allocation (LDA) to identify topics (Ramage et al.
+
+2009 ).
+
+
+
+</CONTENT>

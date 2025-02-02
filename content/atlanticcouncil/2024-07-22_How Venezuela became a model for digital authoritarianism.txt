@@ -1,0 +1,81 @@
+<TITLE>How Venezuela became a model for digital authoritarianism</TITLE>
+<PUBLISHED_DATE>2024-07-22</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/in-depth-research-reports/how-venezuela-became-a-model-for-digital-authoritarianism/</URL>
+<AUTHOR>mkaylward</AUTHOR>
+
+<SUMMARY>
+Venezuela, once a vibrant democracy in Latin America, has become a model for digital authoritarianism under Nicolás Maduro.
+-  The regime controls information through censorship of media, including government-run outlets and bans on coverage of opposition, corruption, and human rights abuses.
+-  This control is bolstered by surveillance and digital repression tactics.
+-  Independent journalists have migrated to smaller online platforms, and the overall media ecosystem has shrunk significantly due to economic collapse and government restrictions.
+-  The article, "Venezuela: A playbook for digital repression," examines how Venezuela's tactics could be adopted by other Latin American countries.
+-  The report was produced by the Atlantic Council's Digital Forensic Research Lab and funded by the Canadian government.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- In addition, censorship has caused the closure of many radio stations, leaving many areas without access to local or regional news.
+- The National Telecommunications Commission in Venezuela routinely censors the use of certain topics and words during programming, and also bans interviews with democratic opposition leaders.
+- It prohibits public coverage of corruption allegations or human rights violations attributed to state officials or their family members, coverage of citizen protests or demonstrations against the regime, and discussion of international courts and other human rights entities.
+-   In their new report, “Venezuela: A playbook for digital repression,” Iria Puyosa, Andrés Azpúrua, and Daniel Suárez Pérez dive deep into the state of media in Venezuela, the role it played in the country’s slide toward authoritarianism, and whether other Latin American countries will adopt Venezuela’s model of digital repression.
+-   Additional contributions by Marco Ruíz and Valentina Aguana 
+
+</HIGHLIGHTS>
+<CONTENT>
+July 22, 2024 
+ 
+ 
+ Iria Puyosa, Andrés Azpúrua, Daniel Suárez Pérez 
+ 
+ Once the most vigorous democracy in Latin America, Venezuela started down a slow path toward autocracy twenty-five years ago.
+
+It also became a model for digital authoritarianism and an exporter of democratic backsliding to the rest of the Americas.
+
+Control of the information space, widespread surveillance, and digital repression are significant pillars of the current regime’s survival.
+
+Incumbent Nicolás Maduro is counting on this, along with electoral manipulation and judicial control, to remain in power as Venezuela holds a presidential election on July 28.
+
+Nonetheless, a cohesive democratic coalition mobilizing the population across the country has a serious chance of making this election the starting point for a transition toward re-democratization.
+
+
+ The media landscape in Venezuela is fragmented and marked by censorship.
+
+The rise of government-run media and state control through ownership changes or censorship mechanisms led independent journalists to migrate to small internet outlets.
+
+Venezuela’s media ecosystem shrank further when the country’s economy collapsed after 2015.
+
+The aftermath of the 2017 cycle of protests saw another significant shift in the media landscape, with surviving newscasts characterized by censorship and heavily biased coverage in favor of the ruling party.
+
+In addition, censorship has caused the closure of many radio stations, leaving many areas without access to local or regional news.
+
+The National Telecommunications Commission in Venezuela routinely censors the use of certain topics and words during programming, and also bans interviews with democratic opposition leaders.
+
+It prohibits public coverage of corruption allegations or human rights violations attributed to state officials or their family members, coverage of citizen protests or demonstrations against the regime, and discussion of international courts and other human rights entities.
+
+
+ In their new report, “Venezuela: A playbook for digital repression,” Iria Puyosa, Andrés Azpúrua, and Daniel Suárez Pérez dive deep into the state of media in Venezuela, the role it played in the country’s slide toward authoritarianism, and whether other Latin American countries will adopt Venezuela’s model of digital repression.
+
+
+ Additional contributions by Marco Ruíz and Valentina Aguana 
+ Edited by Iain Robertson and Andy Carvin 
+ 
+ 
+ Related content 
+ 
+ 
+ 
+ The Atlantic Council’s Digital Forensic Research Lab (DFRLab) has operationalized the study of disinformation by exposing falsehoods and fake news, documenting human rights abuses, and building digital resilience worldwide.
+
+
+ 
+ 
+ This report was made possible with support from the government of Canada.
+
+
+ 
+ 
+ Image: An image showing the outline of Venezuela.
+
+Generated by the Digital Forensic Research Lab using Adobe Firefly
+
+</CONTENT>

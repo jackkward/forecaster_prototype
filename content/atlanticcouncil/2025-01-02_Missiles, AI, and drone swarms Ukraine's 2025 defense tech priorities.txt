@@ -1,0 +1,157 @@
+<TITLE>Missiles, AI, and drone swarms: Ukraine's 2025 defense tech priorities</TITLE>
+<PUBLISHED_DATE>2025-01-02</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/blogs/ukrainealert/missiles-ai-and-drone-swarms-ukraines-2025-defense-tech-priorities/</URL>
+<AUTHOR>Peter Dickinson</AUTHOR>
+
+<SUMMARY>
+Ukraine's 2025 defense tech priorities center on counteracting Russia's material advantages through innovation.
+-  Key areas include interceptor drones, developed in response to the large-scale drone war and now used in frontline conflicts.
+-  Ukrainian manufacturers are developing AI-driven drones to overcome Russian electronic warfare jamming.
+-  Domestic alternatives to Chinese drones are also being created to reduce reliance on imports.
+-  Long-range strike drones developed by Ukraine have brought the war home to Russia.
+-  Continued innovation and rapid deployment of new technologies are crucial for success in modern warfare.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- It is vital that this trend continues.
+-   As the world watches the Russian invasion of Ukraine unfold, UkraineAlert delivers the best Atlantic Council expert insight and analysis on Ukraine twice a week directly to your inbox.
+-   One particularly important category is interceptor drones.
+- The Russian invasion of Ukraine is widely acknowledged as the world’s first large-scale drone war.
+- Since February 2022, drone technologies have evolved at a remarkable rate.
+
+</HIGHLIGHTS>
+<CONTENT>
+The experience of the past three years has underlined the critical importance of technological innovation for the Ukrainian war effort as the country seeks to overcome the material advantages enjoyed by Russia in key areas including manpower, equipment, firepower, and funding.
+
+While this emphasis on innovation cannot completely even up the odds, defense tech solutions are helping Ukraine to minimize the impact of the enemy’s far greater resources.
+
+
+ During the coming year, Ukraine must remain one step ahead of Russia in the race to innovate.
+
+Much will depend on the rapidly expanding ecosystem of Ukrainian defense tech companies that has emerged since the onset of the full-scale invasion.
+
+The Russian army in Ukraine has already been confronted by numerous examples of game-changing tools developed by Ukrainian defense tech talent.
+
+It is vital that this trend continues.
+
+
+ 
+ 
+ Stay updated 
+ 
+ 
+ As the world watches the Russian invasion of Ukraine unfold, UkraineAlert delivers the best Atlantic Council expert insight and analysis on Ukraine twice a week directly to your inbox.
+
+
+ One particularly important category is interceptor drones.
+
+The Russian invasion of Ukraine is widely acknowledged as the world’s first large-scale drone war.
+
+Since February 2022, drone technologies have evolved at a remarkable rate.
+
+As attack and reconnaissance drones have become more and more ubiquitous above the battlefield, the need for effective interceptor drones has become increasingly apparent.
+
+
+ In April 2024, Ukraine launched a competition to identify the most effective interceptor drone solutions, with dozens of Ukrainian drone manufacturers participating.
+
+One of these models is already credited with around twenty confirmed hits on enemy spy drones and is now being used by Ukrainian drone units on the Kursk, Kharkiv, and Zaporizhzhia fronts.
+
+
+ Ukrainian drone producers have also managed to develop effective domestic alternatives to widely used Chinese drone models.
+
+This is a significant step forward.
+
+While Chinese drones have proved important workhorses of the drone war, their prominence has left Ukraine dangerously dependent on imports and vulnerable to possible disruption in supply chains.
+
+Domestically produced alternatives allow the Ukrainian military to reduce this reliance on China.
+
+
+ Ukraine’s efforts to integrate artificial intelligence (AI) technologies advanced in 2024, with the development of drones capable of locking onto targets identified by operators during the final phase of flight prior to impact.
+
+This helped neutralize Russian electronic warfare jamming technologies, which typically seek to disrupt the connection between drones and operators.
+
+Ukrainian developers are now working on the next stage in the evolution of AI-driven drones.
+
+The goal is to produce a new generation of drones that utilize artificial intelligence not only at the final targeting stage, but throughout their flight.
+
+
+ 2024 was also the year when Ukraine brought Putin’s invasion home to Russia and made the enemy realize that their domestic front was no longer safe from attack.
+
+This was made possible thanks to a growing arsenal of long-range strike drones developed by Ukrainian manufacturers with ranges in excess of one thousand kilometers.
+
+Further long-range drone innovations are expected in 2025.
+
+
+ 
+ 
+ Eurasia Center events 
+ 
+ 
+ 
+ 
+ 
+ 
+ The defense tech advances of the past year have had a significant impact on the Ukrainian war effort.
+
+However, it is important to underline that in modern warfare, the innovation contest is a constant struggle that requires a high degree of creativity, consistency, and coordination.
+
+With new technologies appearing on the battlefield on an almost daily basis, any delays in the chain from development to deployment can prove deadly.
+
+
+ Nobody can predict exactly what defense tech challenges may emerge during the coming months.
+
+Nevertheless, it is already possible to identify a number of strategic priorities for the Ukrainian military in 2025.
+
+
+ Ukraine’s domestic missile program gained pace in 2024 and is poised to play a far greater role in the war during the coming year.
+
+Producing missiles domestically allows Ukraine to attack targets inside Russia at a time when some of the country’s Western partners remain reluctant to authorize strikes for fear of escalation.
+
+Many of the breakthroughs achieved in this direction have already been made public.
+
+In 2025, Russia may be surprised to learn exactly how far Ukraine’s domestic missile production has advanced.
+
+
+ As the nature of drone warfare becomes ever more sophisticated, the tactics employed by drone forces are also evolving.
+
+Ukraine’s drone units are already beginning to move beyond the initial concept of “one drone, one operator,” and will be looking to transition toward more widespread use of drone swarm technologies in 2025.
+
+From a military perspective, it is critical for Ukraine to outpace the enemy in the deployment of this next generation technology.
+
+
+ Anti-drone defenses will also be a 2025 priority.
+
+Almost every single day, Ukraine is attacked by large numbers of Russian Shahed drones that frequently damage civilian targets including residential buildings and energy infrastructure.
+
+Russian drone production is rapidly increasing, with regular upgrades to drone design making these weapons difficult to counter.
+
+This will likely remain a major challenge for Ukrainian air defense teams and for the country’s defense tech industry throughout the coming year.
+
+
+ Nataliia Kushnerska is Head of Ukraine’s Brave1 defense tech cluster.
+
+
+ Further reading 
+ The views expressed in UkraineAlert are solely those of the authors and do not necessarily reflect the views of the Atlantic Council, its staff, or its supporters.
+
+
+ 
+ 
+ 
+ 
+ 
+ The Eurasia Center’s mission is to enhance transatlantic cooperation in promoting stability, democratic values and prosperity in Eurasia, from Eastern Europe and Turkey in the West to the Caucasus, Russia and Central Asia in the East.
+
+
+ 
+ 
+ 
+ Follow us on social media and support our work 
+ 
+ 
+ Image: Ukraine's President Volodymyr Zelenskyy visits an exhibition of new Ukrainian-made drone-missiles Peklo dedicated to the Day of Ukrainian Armed Forces, amid Russia's attack on Ukraine, in Kyiv, Ukraine December 6, 2024.
+
+(REUTERS/Valentyn Ogirenko)
+
+</CONTENT>

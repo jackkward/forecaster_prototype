@@ -1,0 +1,20 @@
+<TITLE>Coronavirus - The Washington Post</TITLE>
+<PUBLISHED_DATE>2024-09-26</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/coronavirus/?itid=lk_inline_manual_3</URL>
+<AUTHOR>By Fenit Nirappil</AUTHOR>
+
+<SUMMARY>
+This Washington Post page, focused on the coronavirus, appears to be an overview or a collection of articles.
+-  Unfortunately, the provided text only names two individuals, Luciana Borio and Scott Gottlieb, likely authors or contributors.
+-  Without the full article content, it's impossible to summarize key facts.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Luciana Borio and Scott Gottlieb
+
+</HIGHLIGHTS>
+<CONTENT>
+Luciana Borio and Scott Gottlieb
+
+</CONTENT>

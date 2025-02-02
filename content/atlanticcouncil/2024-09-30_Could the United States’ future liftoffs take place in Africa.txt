@@ -1,0 +1,190 @@
+<TITLE>Could the United States’ future liftoffs take place in Africa?</TITLE>
+<PUBLISHED_DATE>2024-09-30</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/blogs/africasource/could-the-united-states-future-liftoffs-take-place-in-africa/</URL>
+<AUTHOR>atripp</AUTHOR>
+
+<SUMMARY>
+The article discusses the potential for African launch sites for future US rocket launches.
+-  Recent incidents of rocket debris falling near populated areas in China highlight the safety concerns associated with current launch sites.
+-  Africa's remote locations, equatorial proximity, and large safety zones offer advantages for safer and more cost-effective launches.
+-  Turkey is exploring a launch site in Somalia, while Djibouti has partnered with a Hong Kong company for spaceport development.
+-  These developments indicate a growing global interest in African launch sites due to their advantages for space exploration.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- This summer, as France and China continued to mark their sixtieth anniversary of diplomatic relations, the Space Variable Objects Monitor—a satellite developed by the two countries—launched successfully into space from the Xichang Satellite Launch Center.
+- The China Aerospace Science and Technology Corporation, which developed the rocket that transported the satellite into space, said that the launch was a success and highlighted the satellite’s advanced abilities to observe gamma-ray bursts and provide insights about black holes, neutron stars, and the early universe, as well as test fundamental physics.
+-   However, not all news surrounding the launch was positive.
+- Shortly after liftoff, footage circulated appearing to show suspected toxic rocket debris had fallen over a populated area in Guizhou province, which lies next to the launch site’s province.
+- This was not an isolated incident.
+
+</HIGHLIGHTS>
+<CONTENT>
+This summer, as France and China continued to mark their sixtieth anniversary of diplomatic relations, the Space Variable Objects Monitor—a satellite developed by the two countries—launched successfully into space from the Xichang Satellite Launch Center.
+
+The China Aerospace Science and Technology Corporation, which developed the rocket that transported the satellite into space, said that the launch was a success and highlighted the satellite’s advanced abilities to observe gamma-ray bursts and provide insights about black holes, neutron stars, and the early universe, as well as test fundamental physics.
+
+
+ However, not all news surrounding the launch was positive.
+
+Shortly after liftoff, footage circulated appearing to show suspected toxic rocket debris had fallen over a populated area in Guizhou province, which lies next to the launch site’s province.
+
+This was not an isolated incident.
+
+In December 2023, footage emerged showing what appear to be rocket boosters falling to the ground in the Guangxi region, with one booster landing near a house following the launch of new satellites (via a Long March 3B rocket) from the same launch center.
+
+On June 30, Beijing Tianbing Technology Co.
+
+(also known as Space Pioneer) accidentally launched its Tianlong-3 rocket during a test, causing the first stage of the rocket to leave the launch pad and crash in a hilly area of Gongyi.
+
+The incident, which caused a local fire that was subsequently extinguished, was notable because it involved an unplanned flight and crash by a rocket that at the time was under development.
+
+These incidents show there are considerable safety concerns associated with rocket launches near populated areas.
+
+
+ The search for safer and geographically advantageous launch sites has turned global attention toward Africa.
+
+Launching rockets in remote areas minimizes the risk of explosions, falling debris, and environmental impacts such as pollution and wildlife disturbance.
+
+These remote sites provide clear flight paths, large safety zones, and the space for necessary infrastructure for safe and efficient operations, ensuring minimal risk to human life and property.
+
+Additionally, Africa’s proximity to the equator brings with it a “slingshot effect” for rockets, helping satellites reach geostationary transfer orbit (the optimal initial placement for geostationary satellites) with less fuel and costs, and prolonging the lifespan of the satellites.
+
+
+ The quest for African launch sites is creating new geopolitical dynamics.
+
+In February 2021, Turkey’s space program, which has plans for a moon landing by 2028, proposed building a rocket launch site in Somalia.
+
+This East African nation hosts Turkey’s largest overseas military base.
+
+The interest in Somalia isn’t new; for example, in the 1960s, France considered using the country as a spaceport due to Somalia’s equatorial location.
+
+
+ In January 2023, Djibouti signed a memorandum of understanding with Hong Kong Aerospace Technology Group Limited and the Shanghai-based Touchroad International Holdings Group, committing to jointly develop a spaceport in the northern Obock Region.
+
+This project, estimated to cost one billion dollars, is expected to take five years to complete, with Djibouti’s government providing at least ten square kilometers of land under a minimum thirty-five-year lease.
+
+This is not China’s first quest for dual-use infrastructure development in Djibouti.
+
+China operates a military base in Djibouti that opened in 2017 with goals of anti-piracy and freedom of navigation but has since expanded to logistics, supported by up to two brigades of the People’s Liberation Army (PLA).
+
+China’s expanded role in Djibouti, seen reflected in the spaceport project and the military base, is one example of China’s growing ambitions in space exploration and infrastructure development in Africa—and its larger strategy to grow its influence on the continent.
+
+
+ In 2021, Longshot Space Technologies Corporation (a hypersonic launch startup from California), in collaboration with the Viwanda Africa Group, commissioned a report on the viability of establishing a spaceport in Kenya.
+
+The authors of the report—engineers from a couple of Kenyan universities—concluded that building a spaceport in Marsabit County was “highly feasible” and listed other towns and counties as potential sites including Laikipia, Kilifi, Tana River, Isiolo, Turkana, and Narok.
+
+Kenya already hosts the Italian-owned Luigi Broglio Space Center, which was built in the 1960s by Sapienza University of Rome’s Aerospace Research Centre and the US National Aeronautics and Space Administration (NASA).
+
+In 2020, Kenya ratified a new deal allowing Italy and third parties to use the multi-billion-dollar facility for an annual fee.
+
+
+ Africa has held strategic importance for other critical space missions and infrastructure.
+
+In 2018, China and the Arab Information and Communication Technology Organization opened the China-Arab BeiDou Center in Tunisia, marking China’s first overseas center for its BeiDou Navigation Satellite System.
+
+In 2022, NASA renewed its lunar exploration partnership with the South African National Space Agency with a communication site in Matjiesfontein, South Africa, which will support NASA’s Artemis missions.
+
+In 2023, the Rwanda Space Agency partnered with ATLAS Space Operations (an American company) on a teleport, a type of facility used to connect to and communicate with satellites, in Rwanda.
+
+The teleport features a 9.3-meter antenna for lunar mission communications.
+
+Meanwhile, Russia handed over a space debris tracking system to Nigeria and commenced similar work in Tanzania.
+
+
+ While still developing, the African space sector has shown its potential as a partner in space missions.
+
+The continent’s geographical advantages and growing technological capabilities make it an attractive location for spaceport development.
+
+The establishment of spaceports in Africa could bring significant economic benefits, including technology transfer, increased investment, and job creation across various sectors, from construction to research and development to aerospace engineering.
+
+Those benefits make collaboration on space missions a compelling proposition for African nations.
+
+
+ Opportunities for the United States 
+ In 2023, the United States conducted 103 space-mission launches , up from seventy-six the previous year; two-thirds of these launches took place at Cape Canaveral in Florida, according to an American Enterprise Institute report , raising concerns about the site’s capacity to handle increased traffic without affecting support services from the US Space Force and regional air traffic.
+
+This surge led lawmakers to advocate for alternative launch sites to relieve pressure on heavily used spaceports in the United States.
+
+Lieutenant General Philip Garrant, the second commander of Space Systems Command, emphasized the need to upgrade existing infrastructure and explore new sites to enhance resilience and mitigate risks from adversaries and natural disasters.
+
+
+ The environmental impacts of US rocket launches are a growing concern.
+
+Conservation groups filed a lawsuit against the Federal Aviation Authority in May 2023 for its approval of SpaceX’s operations at a launch pad in the area of Boca Chica, Texas.
+
+The groups argued the operations were approved without adequate environmental review, citing debris and environmental impact incidents.
+
+These legal and ecological challenges underscore the pressing need for more strategically located launch sites.
+
+
+ If the United States works with African countries to establish rocket launch sites, that collaboration would offer substantial potential for advancing space ambitions—both for the United States and the partner country in Africa—and strengthen bilateral partnerships.
+
+African spaceports, strategically located and equipped with the necessary infrastructure, could also serve as hubs for international launches, enhancing efficiency and reducing the operational costs of global space missions.
+
+Joint investments in space infrastructure would be mutually beneficial, creating opportunities for US companies to access emerging markets and expand their global footprint.
+
+
+ Success in this collaboration, however, is not guaranteed: Regulatory cooperation is crucial, and the United States should work with African nations to harmonize regulatory frameworks, ensuring that all partner countries comply with international standards and foster a conducive environment for investment and innovation.
+
+This would facilitate the integration of African spaceports into the global space economy, attracting more international launches and partnerships.
+
+Environmental sustainability should also be a key consideration when developing new spaceports.
+
+Modern spaceport designs must minimize ecological impacts, such as those caused by pollution and debris.
+
+
+ The United States can benefit from Africa’s growing technological infrastructure and talent pool.
+
+African universities and research institutions increasingly produce skilled graduates who can contribute to the global space industry.
+
+In addition, there are now more than a dozen African countries with a national space agency.
+
+By partnering with these institutions, the United States can tap into a new source of talent and innovation.
+
+The potential for spaceport development in Africa also aligns with broader geopolitical strategies.
+
+As global competition in space intensifies, having launch sites in strategic locations such as Africa can enhance national security and geopolitical influence.
+
+For the United States, this means advancing its space capabilities and strengthening its alliances and partnerships in a region that is becoming increasingly important in the global landscape.
+
+
+ By working together on expanding the roster of rocket launch sites available to the United States, Washington and its African partners can set a global standard for responsible space exploration.
+
+
+ 
+ Temidayo Oniosun is the managing director of Space in Africa, an analytics and consulting company in the African Space and satellite industry.
+
+
+ 
+ The Africa Center works to promote dynamic geopolitical partnerships with African states and to redirect US and European policy priorities toward strengthening security and bolstering economic growth and prosperity on the continent.
+
+
+ 
+ Further reading 
+ 
+ 
+ 
+ 
+ Tue, Apr 2, 2024 
+ Why Africans hold the future of global democracy in their hands 
+ 
+ AfricaSource 
+ By 
+ Rama Yade 
+ 
+ 
+By the end of 2024, the face of political Africa will—theoretically—no longer be the same.
+
+With nineteen elections scheduled this year, the continent will see presidents leave who were elected more than ten years ago (in Senegal and Ghana), uncertain civilian transitions (in Chad, Mali, and Burkina Faso), high-stakes elections (as in South Africa), and strongmen hanging on (in Tunisia and Rwanda).
+
+
+ 
+ 
+ Image: A SpaceX Falcon 9 rocket launches carrying a Qatari communications satellite, which will provide connectivity to Qatar and neighbouring parts of the Middle East, North Africa, and Europe, from historic Launch Pad 39A at the Kennedy Space Center in Cape Canaveral, Florida on November 15, 2018.
+
+Photo via REUTERS/Joe Skipper.
+
+</CONTENT>

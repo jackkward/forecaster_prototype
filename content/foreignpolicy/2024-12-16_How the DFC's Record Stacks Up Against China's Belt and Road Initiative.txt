@@ -1,0 +1,306 @@
+<TITLE>How the DFC's Record Stacks Up Against China's Belt and Road Initiative</TITLE>
+<PUBLISHED_DATE>2024-12-16</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2024/12/16/dfc-investment-africa-china-bri-lobito-corridor-infrastructure-development/</URL>
+<AUTHOR>Lili Pike, Christina Lu</AUTHOR>
+
+<SUMMARY>
+The US is increasing its investment in African infrastructure, particularly in the Lobito Corridor, with a $4 billion commitment to refurbish and expand rail lines.
+-  The International Development Finance Corporation (DFC), a US development bank created in 2018, is a key part of this strategy.
+-  The DFC aims to counter China's Belt and Road Initiative by offering a more robust alternative to state-directed investments, particularly in reducing dependence on China's critical supply chains.
+-  President Biden's recent trip to Africa highlighted these investments, focusing on rail projects from Angola to Zambia and the DRC.
+-  While the DFC has made significant progress in its first five years, the article emphasizes that the US presence in these projects is a relatively recent development.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+-  U.S.
+- involvement in large-scale infrastructure projects in Africa, where China has been dominating headlines and balance sheets for decades, represents a notable shift.
+- That change has been facilitated, in large part, by a new U.S.
+- development bank: the International Development Finance Corporation (DFC).
+-   Speaking at the DFC’s fifth-anniversary conference last week, National Security Advisor Jake Sullivan described the impetus for the bank’s creation: “[W]e were entering this new era of geopolitics, one defined by strategic competition.
+- Ad hoc investments, grants, and loans were not going to cut it.
+- The old way of doing business was not going to cut it.” 
+
+</HIGHLIGHTS>
+<CONTENT>
+U.S.
+
+President Joe Biden combined two of his passions during his much-delayed trip to Africa last week: U.S.
+
+foreign policy and trains.
+
+At the Lobito port on the Angolan coast, “ Amtrak Joe ” surveyed new train cars on an 800-mile railway that his administration has touted as its flagship project in Africa and as a symbol of the United States’ new international development model.
+
+
+ “We’re building railroad lines from Angola to the Port of Lobito, in Zambia and the [Democratic Republic of the Congo] DRC, and, ultimately, all the way to the Atlantic—from the Atlantic Ocean to the Indian Ocean.
+
+It’ll be the first trans-continental railroad in Africa and the biggest American rail investment outside of America,” Biden said in a speech during his trip.
+
+
+ The reality is slightly less grandiose than the speech: Currently, a U.S.
+
+loan is helping to refurbish an existing rail line from the DRC border to the Lobito port, reducing shipping time to the United States.
+
+Separately, the Africa Finance Corporation, a Nigeria-based development bank, is backing a new rail line from Zambia to Angola, which is expected to break ground in 2026 .
+
+A final leg to the Indian Ocean is still on the drawing board .
+
+In total, though, the United States has now invested a significant sum, $4 billion, in the Lobito Corridor.
+
+
+ U.S.
+
+involvement in large-scale infrastructure projects in Africa, where China has been dominating headlines and balance sheets for decades, represents a notable shift.
+
+That change has been facilitated, in large part, by a new U.S.
+
+development bank: the International Development Finance Corporation (DFC).
+
+
+ Speaking at the DFC’s fifth-anniversary conference last week, National Security Advisor Jake Sullivan described the impetus for the bank’s creation: “[W]e were entering this new era of geopolitics, one defined by strategic competition.
+
+Ad hoc investments, grants, and loans were not going to cut it.
+
+The old way of doing business was not going to cut it.” 
+ As an answer to that challenge, Congress established the DFC in 2018, combining existing agencies into one bigger bank.
+
+Central to the bank’s mission: countering China.
+
+Congress directed the bank to follow the playbook of Beijing’s Belt and Road Initiative —using development finance to further U.S.
+
+foreign-policy goals, including reducing dependence on China in critical supply chains, and, as the 2018 bill put it, to “provide countries a robust alternative to state-directed investments by authoritarian governments and United States strategic competitors.” 
+ “I think part of the reason DFC was created was a recognition that we’ve been a little bit absent from the playing field in many of these countries,” Scott Nathan, CEO of DFC, told Foreign Policy.
+
+
+ That has started to change.
+
+In its first five years, the bank has built a nearly $50 billion portfolio across 114 countries.
+
+But competing with China—a behemoth state-led economy that has specialized in overseas infrastructure development for more than two decades—is no easy task.
+
+
+ As the DFC seeks reauthorization from Congress next year, is it meeting its mission? 
+ 
+ U.S.
+
+officials say that outspending China isn’t the yardstick for measuring the DFC’s performance, but it’s certainly on their minds.
+
+At the DFC’s anniversary conference, United States Agency for International Development (USAID) administrator Samantha Power, who is also on the bank’s board, compared its $12 billion in new commitments in 2024 to the decline in lending from China’s two main development banks to $3.7 billion in 2021.
+
+
+ The DFC and Chinese development banks do seem to be on inverse trajectories—with DFC lending more than doubling since 2020 .
+
+
+ But comparing the DFC with Chinese development finance is like comparing “apples to oranges,” Rebecca Ray, a senior academic researcher at Boston University’s Global Development Policy Center, said.
+
+For one, the DFC focuses on lending to the private sector, while Chinese development banks often lend directly to governments and state-run banks—or China’s own state-owned enterprises operating overseas.
+
+
+ More fundamentally, China’s BRI spending is something of a black box, rendering comparisons difficult.
+
+Of all of China’s different types of overseas lending, researchers have the best grasp of the scale of China’s sovereign lending because recipient governments often have to publicly report their debt.
+
+Boston University’s latest numbers indeed show that China’s lending in that category has fallen significantly from its peak of $87 billion in 2016 to less than $4 billion in 2021 (the last year for which data is available).
+
+
+ However, Ray notes that those numbers don’t account for the loans these banks provide to Chinese firms doing business overseas, which remain opaque.
+
+
+ Derek Scissors, a senior fellow at the American Enterprise Institute, offers a window into the volume of that business through his tracking of China’s overseas construction—the heart of Belt and Road.
+
+In a recent report , he found that construction activity had jumped 40 percent in the first half of 2024 after a pandemic slump—with $35 billion in contracts recorded so far this year.
+
+
+ The hand-in-glove relationship between Chinese state-owned banks and construction firms is a key factor in how China has become such a giant in global development.
+
+
+ “The ability to build infrastructure in Chinese firms is unparalleled.
+
+… [U.S.
+
+firms] have short-term profit motivations, and infrastructure tends to pay off over a very long horizon,” Ray said.
+
+The DFC can lend to non-U.S.
+
+companies from partner countries, too, but ultimately, without a fleet of state-owned companies that have mastered the art of bulldozing on every continent, the United States is at a disadvantage when it comes to its global presence.
+
+
+ Even as the DFC creates a more streamlined process for U.S.
+
+companies to take advantage of, they face “all kinds of other impediments,” including labor, safety, and environmental standards that Chinese competitors aren’t bound by, said Cameron Hudson, a senior fellow in the Africa Program at the Center for Strategic and International Studies (CSIS).
+
+Many African markets are also seen as risky environments to operate in, he added.
+
+“I think it’s still a hard sell to make to U.S.
+
+companies, and this is what the DFC is struggling to do,” he said.
+
+
+ “Unlike the Chinese, we can’t direct U.S.
+
+companies to go into these markets,” he added.
+
+“It’s sort of like you can lead the horse to water, but you can’t make it drink.” 
+ 
+ Even if the United States can’t match China dollar for dollar, digger for digger, U.S.
+
+officials say the DFC has proved its value in the strategic competition with China, particularly in the effort to derisk essential supply chains.
+
+
+ China has long used its development banks to access mineral resources across the world.
+
+Through the DFC, the United States has started to do the same.
+
+
+ Take the Lobito rail line, a key pillar of Washington’s effort to secure new supply chains for critical minerals such as copper and cobalt that underpin the world’s clean energy technologies and advanced weapons systems.
+
+The project is strategically situated in a region rich in the coveted minerals: Zambia is known for its aptly named Copperbelt , while the DRC produces some 70 percent of the world’s cobalt .
+
+
+ That push has taken on new urgency in recent months as China, which overwhelmingly commands the supply chains of many of the world’s critical minerals, has used its dominance against Washington.
+
+Last week, Beijing tightened its grip on its exports of gallium and germanium, two key chipmaking inputs, as well as antimony, with new export bans in retaliation against U.S.
+
+export controls targeting the Chinese semiconductor industry.
+
+
+ If all goes according to plan, the Lobito Corridor will help Washington plug those vulnerabilities, all while advancing U.S.
+
+strategic interests in the region.
+
+
+ “The Chinese have created impact over 20 years of investment, large and small, and we’re coming in and we’re trying to play catch up in a very short period of time with this very big project,” said Hudson, the CSIS expert.
+
+
+ Since the U.S.-backed consortium of European companies took over the Lobito Atlantic Railway last year , the first U.S.-bound shipments of DRC copper were loaded onto the railway in August —and Washington hopes that’s just the beginning.
+
+
+ With the DFC’s new $553 million loan to the project, the bank aims to further expand the railway line’s capacity, a DFC spokesperson told Foreign Policy .
+
+The DFC has also awarded U.K.-based Pensana a $3.4 million grant to conduct feasibility studies for a rare-earth mine in the Lobito Corridor.
+
+Meanwhile, U.S.
+
+company KoBold Metals has agreed to be the anchor client of the next phase of the Lobito rail line in Zambia, shipping copper from its mine in the country.
+
+
+ In neighboring Tanzania, the DFC has also expressed interest in the Kabanga Nickel Project, which would provide a new key source of the mineral—used in electric car batteries—outside of Indonesia, where the mines are dominated by Chinese companies .
+
+A nickel mine in Brazil is also on the bank’s potential-projects list for early next year.
+
+
+ And it’s not just critical mineral supply chains that the bank is focused on—the DFC has also supported clean energy manufacturing, which China currently dominates.
+
+In one recent case, the DFC provided a U.S.
+
+company with a $500 million loan to build a solar panel factory in India.
+
+
+ 
+ U.S.
+
+officials have also wielded the DFC in a global reputational battle with China.
+
+They point out that the bank’s focus on the private sector means its projects don’t add to a country’s sovereign debt, in contrast with the significant debt burden many countries face from Chinese projects—debt bombs that exploded during the pandemic .
+
+The DFC has also focused on ensuring projects meet environmental and social standards, which has not been a priority for Chinese banks (although it is worth noting that climate advocates have also criticized the DFC’s support for fossil fuel projects).
+
+
+ “We’re not asking countries to renounce any ties they have.
+
+…We’re very specifically not doing that.
+
+And when I travel or speak to foreign leaders, I think there’s a real hunger for choice, for having an alternative, ” Nathan, DFC’s CEO, told Foreign Policy .
+
+“We’re offering what we offer.
+
+We’re not competing dollar for dollar.
+
+And I think many of the projects that [China does] are ones that we don’t think are appropriate for the countries where they operate.” 
+ That kind of framing may strike a chord in Angola, which has been one of the biggest recipients of Chinese loans in Africa in recent decades.
+
+Over a 20-year period, the country has been the destination of a whopping one-third of all Chinese lending to the continent, borrowing some $45 billion from Chinese creditors in exchange for oil.
+
+
+ Angola is still struggling to pay off those bills.
+
+Today, Luanda owes Chinese creditors an estimated $17 billion, or nearly 40 percent of the country’s external debt—a staggering figure that has fueled frustration and unease in the country.
+
+
+ “The Chinese have a big footprint here in Angola,” said Florindo Chivucute, the founder and executive director of Friends of Angola, an advocacy organization.
+
+“It almost doesn’t matter where you turn.” 
+ It’s against this backdrop that Angolan President João Lourenço has welcomed, and even courted, Washington’s recent investment in the country.
+
+Since taking office in 2017, Lourenço has spent much of his presidency deepening ties with the United States and in 2022 spurned a Chinese bid to revive the railway in favor of a U.S.-backed European consortium.
+
+Asked by the New York Times in November about the debt his country owes China, he said, “We are paying off the debt.
+
+If you would ask me now if I had to take a new loan under the same conditions, I would say no.” 
+ At the same time, Lourenço has publicly balked at the notion that Angola must choose between Washington and Beijing, a framing that is often used by policymakers and commentators.
+
+“The way they put it, is like either you are with the one or with the other.
+
+If you choose one, you have to preclude the other one,” Lourenço told the New York Times .
+
+“That’s not the case.
+
+That’s not how we see it.” 
+ Chivucute said that he welcomed the U.S.
+
+investment effort in Angola and hoped to see more transparency with U.S.
+
+lending.
+
+That’s “something that we haven’t seen with the Chinese investment in Angola, and so that’s the biggest hope, because the corruption is a big issue,” he said.
+
+
+ In Tanzania—where the DFC recently announced a $320 million loan to the country’s largest commercial bank to support small businesses in both Tanzania and Burundi, with a focus on those run by women—officials are similarly weighing how to best balance U.S.
+
+and Chinese investment.
+
+“As these geopolitical tensions can increase, it makes us a bit more nervous about limiting ourselves to one side of the equation,” Elsie Kanza, the Tanzanian ambassador to the United States, told Foreign Policy .
+
+Tanzania is looking for partners that meet the country’s standards, she said, as well as investment in projects that aren’t solely focused on extracting the country’s natural resources.
+
+
+ “We don’t want to have any exclusivity, because that is detrimental to national security,” Kanza said.
+
+
+ 
+ As the U.S.-China competition continues, the United States’ pacing challenge may not be as significant as it once seemed.
+
+The future of Chinese overseas lending is murky.
+
+China’s domestic economic slowdown has contributed to the documented decrease in overseas lending by its development banks, which also have to support domestic projects.
+
+But it has also contributed to Chinese firms seeking business in hotter markets abroad .
+
+
+ On the U.S.
+
+side, when Trump takes office in January, backed by a new Republican-held Congress, a big question looms: Will the DFC even stay in the game? 
+ The DFC was created under the first Trump administration with Republican backing and was seen by Republicans in Congress as a more palatable alternative to foreign aid.
+
+
+ But when asked about reauthorization prospects, Democratic Sen.
+
+Chris Coons, one of the original co-sponsors of the bill that established the bank, told the DFC conference this week, “It’s impossible to get anything good done in Congress these days, so let’s just presume a stumbling block.
+
+I think not allowing the perfect to be the enemy of the good and coming to a relatively swift resolution early next year, when there’s a new majority in the Senate and some changes in the House—getting moving quickly, I think, is important.” 
+ If all goes according to plan, the bank is hoping that its investment cap will be doubled to $120 billion so it can take on more projects.
+
+That’s money observers of the bank in developing countries say is needed for it to make a clearer impact.
+
+“The DFC is going to have to provide much more money to different kinds of projects in Africa and elsewhere in the global south to be really perceived as a tool that can compete with what the [Belt and Road Initiative] has been able to do all over the world,” said C.
+
+Géraud Neema Byamungu, an expert in China-Africa relations at the China-Global South Project.
+
+
+ Trump and the Republican Congress share the current administration’s appetite for competition with China, so the DFC may get that chance.
+
+“It would be a real shame to take all of the good work that’s happened over the last five years and fail to be reauthorized and have to put pencils down.
+
+I think that would hurt our reputation, both DFC’s and the United States’,” said Nathan.
+
+</CONTENT>

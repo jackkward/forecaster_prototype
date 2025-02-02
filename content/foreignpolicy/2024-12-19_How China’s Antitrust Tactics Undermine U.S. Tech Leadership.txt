@@ -1,0 +1,232 @@
+<TITLE>How China’s Antitrust Tactics Undermine U.S. Tech Leadership</TITLE>
+<PUBLISHED_DATE>2024-12-19</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2024/12/19/china-antitrust-nvidia-tech-competition/</URL>
+<AUTHOR>Ruby Scanlon</AUTHOR>
+
+<SUMMARY>
+China launched an antitrust probe into Nvidia, a US chipmaker, on December 9th,  in response to US chip export controls.
+-  This action, seen as a strategic move in the escalating US-China tech war,  highlights China's weaponization of antitrust policies for retaliation.
+-  Unlike the US approach, which prioritizes consumer welfare and competition, China's actions are driven by geopolitical considerations.
+-  The probe threatens substantial fines and disruptions to Nvidia's operations in China.
+-  This incident underscores the increasing use of antitrust as a tool in the trade dispute, despite China's dependence on US chip technology.
+- The article suggests that countering China's tactics should be a priority for the incoming US administration.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- By the end of the day that China announced the probe, Nvidia’s shares had fallen 4 percent.
+- Far from a routine regulatory action, this move underscores China’s growing reliance on its competition authorities in the intensifying U.S.-China tech war.
+- As the incoming Trump administration confronts this escalating rivalry, countering Beijing’s weaponization of antitrust should be a priority.
+-   Antitrust law in the United States is guided by two foundational principles: protecting consumer welfare and promoting competition.
+- China has a much different approach.
+
+</HIGHLIGHTS>
+<CONTENT>
+Less than a week after Washington ratcheted up its chip export controls, Beijing responded with a pointed escalation on Dec.
+
+9: an antitrust probe into Nvidia, the United States’ leading chipmaker and a linchpin in artificial intelligence hardware.
+
+The investigation threatens to impose steep fines and disrupt Nvidia’s operations in China.
+
+By the end of the day that China announced the probe, Nvidia’s shares had fallen 4 percent.
+
+Far from a routine regulatory action, this move underscores China’s growing reliance on its competition authorities in the intensifying U.S.-China tech war.
+
+As the incoming Trump administration confronts this escalating rivalry, countering Beijing’s weaponization of antitrust should be a priority.
+
+
+ Antitrust law in the United States is guided by two foundational principles: protecting consumer welfare and promoting competition.
+
+China has a much different approach.
+
+While American antitrust doctrine is rooted in a strong rule-of-law tradition, China’s approach is driven by geopolitics.
+
+Under the pretense of fostering market competition, Beijing has increasingly weaponized antitrust policy to retaliate against U.S.
+
+trade actions .
+
+This trend has become particularly evident in response to U.S.
+
+semiconductor restrictions.
+
+Although China’s ability to counter these measures is constrained by its dependence on U.S.
+
+chip-making technology, Beijing has turned to its antitrust regulators as a means of striking back.
+
+
+ Less than a week after Washington ratcheted up its chip export controls, Beijing responded with a pointed escalation on Dec.
+
+9: an antitrust probe into Nvidia, the United States’ leading chipmaker and a linchpin in artificial intelligence hardware.
+
+The investigation threatens to impose steep fines and disrupt Nvidia’s operations in China.
+
+By the end of the day that China announced the probe, Nvidia’s shares had fallen 4 percent.
+
+Far from a routine regulatory action, this move underscores China’s growing reliance on its competition authorities in the intensifying U.S.-China tech war.
+
+As the incoming Trump administration confronts this escalating rivalry, countering Beijing’s weaponization of antitrust should be a priority.
+
+
+ Antitrust law in the United States is guided by two foundational principles: protecting consumer welfare and promoting competition.
+
+China has a much different approach.
+
+While American antitrust doctrine is rooted in a strong rule-of-law tradition, China’s approach is driven by geopolitics.
+
+Under the pretense of fostering market competition, Beijing has increasingly weaponized antitrust policy to retaliate against U.S.
+
+trade actions .
+
+This trend has become particularly evident in response to U.S.
+
+semiconductor restrictions.
+
+Although China’s ability to counter these measures is constrained by its dependence on U.S.
+
+chip-making technology, Beijing has turned to its antitrust regulators as a means of striking back.
+
+
+ For the United States, the stakes could not be higher.
+
+Semiconductors are the foundation of modern technology, from frontier AI systems to advanced weaponry.
+
+If Chinese regulatory actions unfairly hinder American firms, the consequences for U.S.
+
+technology leadership could be severe.
+
+When deals fall through in China, they often collapse entirely, preventing American firms from conducting business as usual and undermining their growth and global competitiveness.
+
+
+ While the United States has countered other nefarious Chinese trade practices like IP theft and forced technology transfers, it largely overlooks China’s weaponization of antitrust, risking both U.S.
+
+tech leadership and the stability of global semiconductor supply chains.
+
+China’s weaponized enforcement in the semiconductor industry operates through two primary means: obstructing foreign mergers and acquisitions, and imposing conditions on U.S.
+
+firms that compel collaboration with Chinese companies.
+
+Left unchecked, both tactics threaten U.S.
+
+national and economic security.
+
+
+ 
+ Chinese regulators increasingly delay or block high-profile mergers and acquisitions involving U.S.
+
+and allied firms, often under the murky pretext of protecting market competition.
+
+
+ For example, Qualcomm, a leading U.S.-based semiconductor company, made a $44 billion bid to acquire the Netherlands’ NXP Semiconductors.
+
+This acquisition, which would have significantly expanded Qualcomm’s global portfolio in automotive and Internet-of-Things technologies, faced protracted delays from China’s State Administration for Market Regulation.
+
+Specific information on approvals are not typically made public, but deals are approved when they are deemed not to substantially minimize market competition.
+
+Despite gaining approval from regulators in eight other jurisdictions, including the United States and European Union, Qualcomm ultimately abandoned the deal due to delayed approvals from Beijing—a move widely interpreted by trade experts as retaliation for the Trump administration’s 2018 tariffs on Chinese goods.
+
+As a result, Qualcomm was obligated to pay NXP $2 billion as termination compensation.
+
+Beijing’s failure to approve was particularly symbolic given Qualcomm’s 5G leadership and as the United States was actively working to block Huawei’s global 5G expansion.
+
+
+ In a similar case in 2018, Chinese regulators dragged their feet on U.S.-based investment firm Bain Capital’s $18 billion acquisition of Toshiba Memory.
+
+At the time, Toshiba was the world’s second-largest producer of NAND flash memory, a type of chip used to enhance data storage.
+
+Though the deal eventually closed, the prolonged review and placement of approval status “at risk” raised questions about Beijing’s decision-making.
+
+Unlike Qualcomm’s blocked bid for NXP, this approval might have reflected Toshiba’s importance to Japan’s semiconductor industry, making it politically advantageous for China to avoid antagonizing a key trade partner like Japan.
+
+
+ Similar to Qualcomm’s circumstances, these delays occurred during a highly contentious trade environment, driven by escalating tit-for-tat tariffs and heightened scrutiny of cross-border investments.
+
+Beijing’s regulatory actions underscore its readiness to wield antitrust processes as leverage to disadvantage U.S.
+
+companies, exposing the retaliatory nature of its decision-making when broader geopolitical stakes are involved.
+
+
+ More recently, Intel was forced to abandon its $5.4 billion acquisition of Israeli chipmaker Tower Semiconductor after Chinese authorities failed to approve the deal within the agreed timeframe.
+
+This was a particularly bitter pill for Intel, which invests heavily in China and operates multiple facilities in the country.
+
+The deal’s collapse not only disrupted Intel’s plans to expand its foundry business but also sent a clear message that no company is immune from Beijing’s regulatory reach.
+
+
+ China’s antitrust authorities also wield behavioral remedies during merger reviews to compel foreign companies to act in ways that benefit Chinese firms.
+
+These remedies often go far beyond the norms seen in other jurisdictions, such as the United States or the EU.
+
+
+ Consider the case of II-VI, a U.S.-based optoelectronics manufacturer, which sought to acquire laser supplier Coherent in 2022.
+
+II-VI and Coherent had to agree to several stringent conditions to secure approval from Chinese authorities, such as maintaining existing supply contracts with Chinese customers, continuing to source critical components from Chinese suppliers, and capping prices within the Chinese market.
+
+
+ Such conditions may appear benign on the surface, but they serve a calculated purpose.
+
+By forcing U.S.
+
+firms to guarantee supply chains and market access for Chinese companies, Beijing insulates its domestic industry from potential trade disruptions.
+
+In a broader sense, these remedies undermine the autonomy of foreign firms and create dependencies that could be exploited in future trade disputes.
+
+
+ 
+ The Biden administration has made significant strides in countering China’s ambitions in the semiconductor industry through the CHIPS and Science Act, tightened export controls, and friendshoring with semiconductor-producing allies.
+
+U.S.
+
+antitrust policy, however, is not one of the United States’ tools.
+
+Unlike China, U.S.
+
+antitrust enforcement operates independent of politics, guided by a standard judicial process that prioritizes economic welfare over national preferences.
+
+Investigations into mergers or market practices are grounded in established economic models that consider consumer welfare, market concentration data, and competitive dynamics—not geopolitics.
+
+Antitrust veteran Gail Slater, President-elect Donald Trump’s nominee to head the Justice Department’s Antitrust Division, is unlikely to diverge from this time-honored approach to enforcement.
+
+
+ This contrast creates a critical vulnerability.
+
+While President Joe Biden has acted decisively to shield the United States from other unfair Chinese trade practices, it has not addressed Beijing’s misuse of antitrust regulations.
+
+To effectively counter China’s regulatory tactics, the United States must adopt a multipronged strategy that integrates domestic reforms with robust international collaboration.
+
+
+ A larger team with better resources would enable a more proactive response to Beijing’s tactics and provide affected companies with timely guidance and the support needed to navigate increasingly complex regulatory environments.
+
+The Justice Department’s Antitrust Division should expand its capacity for detailed monitoring and deeper analysis of Chinese antitrust actions that disproportionately target U.S.
+
+and foreign firms.
+
+As of 2023, the Antitrust Division’s had just one staff member dedicated to China.
+
+
+ Multilateral platforms like the G-7 and the Organization for Economic Cooperation and Development could also be tools for the United States to establish and promote global norms for antitrust enforcement.
+
+By highlighting China’s deviations from established norms, the United States can build international consensus against the use of competition law as a geopolitical weapon.
+
+Collaborating with allies who have faced similar weaponization of antitrust policies, such as the EU and Japan, can provide a united front to address shared challenges.
+
+These forums should also explore mechanisms for collective responses to regulatory overreach, such as coordinated diplomatic pressure or joint trade policies.
+
+
+ Finally, to reduce vulnerabilities from future Chinese regulatory disruptions, the United States must fast-track efforts to diversify supply chains in critical sectors like semiconductors.
+
+Initiatives should focus on continuing to strengthen production at home and in allied markets such as Japan, South Korea, and Taiwan, while investing in emerging hubs like Vietnam, India, and Mexico.
+
+Emerging markets are hungry for a piece of the semiconductor manufacturing supply chain.
+
+The United States should leverage its strategic investing authorities, like the Defense Department’s Office of Strategic Capital and the U.S.
+
+International Development Finance Corporation, to support financing of necessary infrastructure and labor upskilling for semiconductor production.
+
+
+ By obstructing foreign mergers and imposing punitive remedies, Chinese regulators are not merely enforcing competition law—they are bending global technology markets to Beijing’s interests.
+
+If the United States fails to address this threat, it risks not just losing ground in the technology race, but ceding control over the rules that govern it.
+
+To protect its innovation edge, Washington must see antitrust as a key lever in geostrategic competition—and act accordingly.
+
+</CONTENT>

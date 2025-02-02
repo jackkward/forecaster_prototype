@@ -1,0 +1,283 @@
+<TITLE>The Political Twittersphere as a Breeding Ground for Populist Ideas: The Case of Israel</TITLE>
+<PUBLISHED_DATE>2024-08-12</PUBLISHED_DATE>
+<URL>https://journals.sagepub.com/doi/10.1177/20563051241265863</URL>
+<AUTHOR>Steven Lloyd  Wilson</AUTHOR>
+
+<SUMMARY>
+This study analyzes Israeli political Twitter activity from 2013 to 2022 to track populist ideas.
+-  It finds a significant increase in the frequency and concentration of populist rhetoric, particularly among religious-nationalist lawmakers.
+-  The analysis highlights a correlation between legal proceedings against the prime minister and increased political discussion,  culminating in a distinct Manichean discourse among the center-left and a populist cosmology among the right by 2022.
+-  The research demonstrates how social media can be used to track the evolution of populist ideas, and further suggests a potential link between these trends and the challenges facing Israeli democracy.
+-  The study employed a neural network approach to analyze a dataset of Twitter activity by Israeli lawmakers.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- We identify anti-elite/establishment tweets as those that portray elites/institutions/establishment as the antithesis of the people, as an enemy, where they are described as corrupt, exploitative, immoral, unaccountable or treacherous.
+- Below are examples of tweets that include anti-elitist subframes: (1) This morning, the court in Egypt decided to outlaw the Hamas movement.
+- Meanwhile, representatives of Hamas still sit in the Knesset.
+- (2) You may not be able to hear me, but I am screaming!!! When will the courts’ rule of shadows stop?!
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract This study employs a neural network approach to investigate the dissemination and content of populist ideas within the Israeli political Twittersphere.
+
+By analyzing a data set of Twitter activity by Israeli lawmakers from 2013 to 2022, the study reveals a consistent increase in the frequency and concentration of populist ideas, particularly among legislators from religious-nationalist parties.
+
+The analysis of the topical content of populist ideas spread on Twitter highlights the significant impact of legal proceedings against the Prime Minister on political discussions.
+
+It delineates the development of a Manichean discourse among the center-left and a complete populist cosmology among the right, reaching its peak in 2022.
+
+The study demonstrates the utility of such approaches in understanding the evolution and dissemination of populist ideas, as well as the challenges faced by the backsliding Israeli democracy.
+
+Introduction The idea of populism—mainly, but not exclusively in its radical-right form, is having its day, with many parties from the so-called mainstream “accommodating” by adopting populist ideas ( Wagner &amp; Meyer, 2017 ).
+
+These trends call for a comprehensive characterization of the types of populist ideas in political systems, and how they evolve.
+
+Because populism is an idea that can attach itself to various political ideologies ( Mudde, 2004 ), research has moved beyond the “usual suspects” approach and has begun to examine comprehensive corpora of leaders’ speeches or party manifestos.
+
+This has led to important methodological developments and a deeper understanding of populism at the party level ( Di Cocco &amp; Monechi, 2022 ; Jenne et al., 2021 ).
+
+However, such research has thus far provided snapshots—rather than a dynamic, contextual view—of populist ideas.
+
+Furthermore, it has ignored the flow and penetration of populist ideas among parties’ rank and file members.
+
+Consequentially, we lack an understanding of the actors likely to distribute them, the timing of their distribution, their concentration within parties, and the dynamic structure and development of such ideas.
+
+Because the adoption of social media among politicians in established democracies is very high ( Haman &amp; Školník, 2021 ), it can be analyzed to attain such a dynamic, detailed perspective on populist ideas.
+
+However, most studies use data clustered around events such as elections or crises ( Hameleers et al., 2020 ; Lacatus, 2019 ; Schmuck &amp; Hameleers, 2020 ), and neglect to inspect intra-party dynamics.
+
+Our research takes a different approach: following studies using large-scale social media data to inspect the political and societal impact of such platforms ( Barberá, 2015 ; Castanho Silva &amp; Proksch, 2022 ; Theocharis et al., 2020 ), we analyze the evolution of the topical content and the distribution of populist ideas among Israeli parliamentarians (Members of Knesset, MKs) in the 2013–2022 period and their level of penetration into parties’ communications.
+
+We investigate the Israeli political Twittersphere because Israel is an important, yet understudied, case for the examination of populist ideas.
+
+For decades, scholars have been pointing to radicalization of Israel’s nationalist and clerical right-wing parties ( Pedahzur, 2001 ; Perliger &amp; Pedahzur, 2018 ) as well as the transformation of Likud—Israel’s largest party—toward populism ( Ben Porat &amp; Filc, 2022 ; Filc &amp; Pardo, 2021 ).
+
+However, the recent surge of authoritarian populism underscores the critical need for a thorough, systematic examination of the dynamics of this radicalization.
+
+1 Early cross-platform research questioned the utility of Twitter for studying populism ( Engesser et al., 2017 ; Schmuck &amp; Hameleers, 2020 ).
+
+However, recent research, both comparative and Israel-focused, has analyzed data collected after Twitter’s switch to a longer tweet format in November 2017, and has demonstrated its effectiveness for studying populism ( Jacobs et al., 2020 ; Lavie-Dinur et al., 2022 ).
+
+Especially given Trump’s effective style on Twitter ( Bucy et al., 2020 ), we view it as an invaluable platform for the study of such ideas.
+
+We employ a supervised learning approach that combines hand-coding with a neural network to detect populist ideas—communicated via subframes that express closeness to or admiration of the people , antagonism toward the elite , and exclusion of outgroups —in a comprehensive data set of tweets posted by Israeli legislators.
+
+2 Using this framework, we identify a notable increase in the prevalence of populist ideas within the political Twittersphere, particularly, but not exclusively, among legislators from right-wing and religious-nationalist parties.
+
+Furthermore, we report that, within parties, populism is no longer limited to specific factions or legislators.
+
+The analysis reveals that legal proceedings against the Prime Minister played a pivotal role in the development and crystallization of populist ideas among political parties.
+
+Overall, the communicational processes unraveled here are comparable with phenomena transforming politics in Europe, as exclusionary and anti-elite views move from the fringe to the mainstream, formerly center-right mainstream parties radicalize and embrace populism, and aggressive anti-elitist ideas penetrate centrist parties.
+
+When these trends occur simultaneously in one polity, they present challenging conditions for the resilience of democratic, and in particular, counter majoritarian institutions and norms.
+
+Indeed, as the ideational changes analyzed here preceded the rise of an extreme right-wing government in Israel that has attempted to curb the power of the judiciary, this research highlights the utility of social media data for mapping political ideas which might eventually threaten liberal democracy.
+
+Theoretical Approaches and the Israeli Case Our research relies on two approaches for the study of populism.
+
+The first is ideational ( Hawkins &amp; Kaltwasser, 2017 ; Mudde, 2017 ): it argues that populists view politics as a Manichean battle between the pure people and the corrupt elite who oppose their interests.
+
+This antagonistic view is often extended toward the “establishment/system.” Furthermore, populism can be inclusionary or exclusionary ( Mudde &amp; Kaltwasser, 2013 ).
+
+Inclusionary populism calls for the incorporation of marginalized communities into the political community, while exclusionary populism—characteristic of radical-right populist parties in Europe—creates the “people” by differentiating it from a threatening enemy within, an “outgroup.” Exclusionary ideas are commonly ethnic/nativist ( Art, 2011 ), but internal enemies can be ideological, cultural or economic ( Mudde, 2007 , p.
+
+65–69).
+
+In the second approach we use, populism is conceived as a communication style and is manifested by the presence of specific discursive elements ( Aalberg et al., 2017 ).
+
+Social media communications has provided a rich data source for communication style scholars: it has been argued that such communications enable political outsiders—backbenchers, opposition members, and extremists—to bypass other means of communication ( Castanho Silva &amp; Proksch, 2022 ; Hong et al., 2019 ).
+
+Populist actors, who invariably portray themselves as outsiders, prefer social media over other communication channels ( Ernst et al., 2019 ).
+
+Gerbaudo (2014) suggested that populism has an “elective affinity” with social media, possibly because it enables an informal “vote” on ideas, echoing the populist notion of people-sovereignty, and creating non-hierarchical online communities ( Hameleers et al., 2020 ).
+
+Influential communication style studies have characterized the distribution of populist messages across political actors: in their cross-national analysis of parties’ posts on Twitter and Facebook, Ernst and Engesser (2017) and Ernst et al.
+
+(2017) have found that populist communication is more prevalent at the ideological extremes, echoing previous results from Belgium ( Jagers &amp; Walgrave, 2007 ).
+
+Another strand showed that all actors, but more so extreme parties, increase populist communication during elections ( Schmuck &amp; Hameleers, 2020 ), and that these messages lead to additional user engagement ( Bobba et al., 2018 ).
+
+Work on Israeli populism has mainly engaged with variants of the ideational approach.
+
+Thus, for example, Filc (2010) pointed to Likud party’s historical use of inclusionary ideas to mobilize Mizrachi Jews by calling for their symbolic, economic, and political incorporation.
+
+He also argued that 20 years later, the Ultra-Orthodox Sephardic Torah Guardians party combined inclusive populism, anti-establishment rhetoric with ethnocentric, exclusionary ideas.
+
+Further research has focused on the transformation of Likud under Benjamin Netanyahu from an inclusive populist movement, to a radical right exclusionary one ( Filc, 2018 ), and recent work points to Likud’s embrace of anti-elitist, conspiratorial ideas ( Navot &amp; Goldshmidt, 2022 ).
+
+In the same vein, a recent expert survey—which relies on an ideational framework—rates Likud as maximally populist ( Norris, 2019 ).
+
+Levi and Agmon (2020) use the ideational approach to highlight anti-elitist inclinations by the religious-nationalist Jewish Home, which has targeted civil society organizations as well as judicial and legal oversight systems.
+
+Perhaps the only study using the communication style approach in the Israeli context was done by Weiss Yaniv and Tenenboim-Weinblatt (2016) .
+
+While echoing findings by ideational scholars, their work also points to centrist populism.
+
+Specifically, they argue that the There is a Future centrist party use of anti-corruption, and anti-elitist ideas resembles communications used by centrist/valence populist parties in Central and Eastern Europe ( Zulianello &amp; Larsen, 2021 ).
+
+Finally, research on the use of social media by Israeli politicians had found that it provides challengers and outsiders an effective way to engage with voters ( Samuel-Azran et al., 2015 ) and that they use it to communicate with journalists in order to impact the overall issue agenda ( Lavie-Dinur et al., 2022 ).
+
+Coding Populism, Data, and Validation Our conceptualization and measurement of populist ideas in posts follows directly from the ideational and communication style approaches.
+
+Specifically, we combine the actor-oriented ideational approach with the view that populism can be measured by examining its communication style across all political actors ( Vreese et al., 2018 ).
+
+The ideational approach offers a clear and concise conceptual framework for identifying populism’s core ideas, and work within the communication style approach (e.g., Jagers &amp; Walgrave, 2007 ) provides a practical way to measure it in political discourse.
+
+Specifically, we build on the insight that populism can be measured along three dimensions/subframes: reference to the people (people-centrism), a rejection of the elite/establishment (anti-elitism), and a demarcation between the people and an enemy within (outgroup exclusion).
+
+Therefore, our classification of tweets relies on identifying these subframes, as outlined below.
+
+3 People-Centrism and People-Sovereignty A necessary component of any populist communication is “the people.” We follow the communication-style approach in coding messages that explicitly feature a monolithic, virtuous political community, and to which the communicator shows closeness as people-centric ( Ernst &amp; Engesser, 2017 ).
+
+The community can be based on national, religious, ethnic, political, or class-based criteria.
+
+References to it can be, for example, “(the) people,” “(the) public,” “(the) citizen(s),” and “(the) voters.” Furthermore, much like Bracciale and Martella (2017) , we view references to people sovereignty, which embody a majoritarian, non-compromising vision in which the will of the sovereign should be adhered to ( Urbinati, 2019 ), as people-enteric.
+
+Below are excerpts of tweets that include a people-centric subframe: (1) The people decide, they are the sovereign .
+
+.
+
+.
+
+while maintaining their unique Jewish state, the Jewish majority, Jewish Zionism, and the decisions of the majority.
+
+(2) Praying together with all the great people of Israel for a long period of peace and security! Shabbat Shalom and only good news.
+
+Anti-Elite/Establishment Populism’s core idea is a Manichean struggle between the people and the elite ( Hawkins &amp; Kaltwasser, 2017 ).
+
+Elites are viewed as having disproportionate power, illegitimately thwarting the implementation of the will of the people ( Mudde, 2004 ).
+
+Populism is also a profoundly anti-establishment idea.
+
+Therefore, there are attacks on political institutions and the establishment for being corrupt and/or defective.
+
+Elites in this subframe can be specific or more diffuse political-institutional actors; they can be cultural, judicial, bureaucratic, ideological, or economic.
+
+We identify anti-elite/establishment tweets as those that portray elites/institutions/establishment as the antithesis of the people, as an enemy, where they are described as corrupt, exploitative, immoral, unaccountable or treacherous.
+
+Below are examples of tweets that include anti-elitist subframes: (1) This morning, the court in Egypt decided to outlaw the Hamas movement.
+
+Meanwhile, representatives of Hamas still sit in the Knesset.
+
+(2) You may not be able to hear me, but I am screaming!!! When will the courts’ rule of shadows stop?! Outgroup Exclusion For outgroup exclusion, we build on the conceptualization of the people as separated not only vertically—from elites—but horizontally as well, from an internal, dangerous, socio-political group ( Hameleers et al., 2017 ).
+
+Much like in anti-elitism, this subframe contrasts the homogeneous “people” with an enemy that is responsible for the injustice it has been facing.
+
+As opposed to the elite, the outgroup is the enemy within, a fifth column.
+
+Below are examples of tweets coded as including an outgroup exclusion subframe: (1) Israeli Arabs turn the funeral of terrorists into a demonstration of support for terror against their own country.
+
+(2) You also learned to spread lies like your leftist friends .
+
+.
+
+.
+
+Druze are loyal and love the country.
+
+Not like your friends.
+
+The three subframes of populism enable us to create a simple classification schema for populist tweets, which builds upon the distinction between the people and their rivals.
+
+As mentioned, a necessary condition for any populist message is a reference to “the people.” This demotic subframe is a starting point; in Jagers and Walgrave’s (2007) , a reference of a people is considered as a preselector for fully developed, thicker , populist ideas.
+
+Thus, for a post to be coded as populist, it is should be more than demotic ( March, 2017 ); we require that it reflects the populist ontology by referring also to the people’s rivals: the elite, or the outgroup.
+
+Thus, tweets are coded as populist if and only if an enemy from above (elites/institutions) or from within (an outgroup) is also mentioned.
+
+In other words, a tweet will be classified as populist in cases where it includes 1.
+
+A people-centrist and/or people-sovereignty subframe, and 2.
+
+Either an anti-elite or an outgroup subframe (or both).
+
+Classification Our data set consists of all tweets posted by members of the Knesset, from the period of January 1, 2013 to July 14, 2022.
+
+To construct it, we compiled a list of Israeli politicians who have served as MKs, identifying each of their official Twitter accounts.
+
+We used the Twitter Academic API to download the timelines of these accounts.
+
+Since the initial scraping in April of 2021, we have been downloading new tweets for each account on a daily basis.
+
+The resultant data set is 831,429 tweets, from 221 distinct Twitter accounts.
+
+In order to label these posts for populist rhetoric we employed a supervised learning approach, leveraging a human-labeled sample to train a multi-layer convolutional neural network.
+
+From our data set of tweets, we extracted a sample of 5,586 tweets.
+
+4 To ensure a sufficient number of tweets would include populist ideas, and because the frequency of such ideas in political communications tends to be relatively low ( Hawkins, 2009 ), we selected half of our training tweets at random, and half based on concise lists of search-words: 1.
+
+People-centric/people-sovereignty : The people of Israel, sovereign, the public, rule of the people, will of the people, Jew, Mizrahi, Ashkenazi.
+
+2.
+
+Anti-elite/establishment : Supreme Court, corrupt, detached, traitor, media, NGO, Attorney general, hegemony, rule, academia.
+
+3.
+
+Outgroup exclusion : Arab, Islamist, terror, immigrants, asylum-seekers, Bedouin, enemy, Left, radical.
+
+The lists use terms that map directly onto the broad underlying concepts.
+
+However, because populism is invariably context specific ( Gründl, 2020 ), we have added some Israeli-specific terms.
+
+For people-centrism, we added the stem Jew* , because of the centrality and politization of the Jewish religion in Israel ( Talshir, 2022 ).
+
+Second, in the outgroup exclusion group we have included groups that are targeted by radical-right populists in Europe, such as immigrants and asylum seekers, as well as terms specific to the Israeli case given the delegitimation of Arab Israelis’ ( Perliger &amp; Pedahzur, 2018 ).
+
+Relatedly, we included the stem left .
+
+This is because work on Israeli populism has pointed to a “chain-of-equivalences,” whereby ISIS is like Iran, Iran is like Hezbollah, Hezbollah is like Hamas, Hamas is like .
+
+.
+
+.
+
+the Palestinians, the Palestinians .
+
+.
+
+.
+
+are like the Israeli Arabs, and they are like the Israeli left, their loyalty of to the state and nation suspected.
+
+( Ben Porat &amp; Filc, 2022 , p.
+
+74) The process of hand coding—performed by two research assistants who were advanced Israeli political science students 5 —entailed reading the sampled posts and labeling them as matching any or all of these elements of populism.
+
+The coding was done with the supervision of one of the authors, who also served as an arbitrator in cases of disagreement.
+
+Table 1 summarizes the proportion of posts that received each label, as well as their inter-coder reliability.
+
+Table 1 .
+
+Populism Categories in Training Data.
+
+Populism category No.
+
+of labeled % Labeled Cohen’s k People-centric (pc) 1,771 31.7% 0.81 Anti-elite (ae) 2,312 41.4% 0.82 outgroup exclusion (oe) 649 11.7% 0.76 People-sovereignty (ps) 198 3.5% 0.87 After the human coding stage was complete, from the set of labeled tweets, we randomly selected 80% for training a neural net, 10% for testing it internally, and 10% for out-of-sample evaluation of the neural net’s performance.
+
+We then constructed a multi-layer convolutional neural network.
+
+The first layer was the HeBERT pre-trained Hebrew language model based on Google’s BERT (bidirectional encoder representations from transformers) architecture ( Chriqui &amp; Yahav, 2022 ; Devlin et al., 2019 ).
+
+This neural network model was trained initially on a pair of large corpora of the Hebrew language: the OSCAR ( Abadji et al., 2021 ) text corpus of 21 million Hebrew sentences, and the complete Hebrew language content of Wikipedia (3.8 million sentences).
+
+This layer is intended to train the neural network on what the structure of Hebrew in terms of the interrelation of words.
+
+The second layer was our set of hand-labeled tweets.
+
+The two layers function together to iteratively derive patterns in how both the labeled tweets vary from each other categorically, and how they vary from the Hebrew language in general.
+
+Four neural networks were trained using this framework, one for each of the categories labeled.
+
+We did so by breaking the tweets into 10 equally sized, but randomly assigned bins.
+
+We trained each neural net 10 times: one using each of the bins as an out of sample test, with the balance of the other 90% of tweets used as the training data.
+
+This allo
+
+</CONTENT>

@@ -1,0 +1,132 @@
+<TITLE>Pentagon to blacklist China’s largest EV battery and tech firms</TITLE>
+<PUBLISHED_DATE>2025-01-06</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/national-security/2025/01/06/pentagon-blacklist-china-technology-ev/</URL>
+<AUTHOR>Ellen Nakashima, Cate Cadell</AUTHOR>
+
+<SUMMARY>
+The Pentagon is blacklisting China's largest EV battery manufacturer (CATL) and tech giant Tencent, effective June 2026, barring them from Defense Department contracts.
+-  This action, mandated by Congress, adds these firms to the "1260H list,"  which identifies entities deemed to be working for or on behalf of the Chinese military.
+-  CATL's inclusion is particularly significant due to its potential for data collection and control over EV charging infrastructure in the US, creating vulnerabilities.
+-  The blacklisting is part of a broader effort to curb China's military and technological ambitions, raising concerns about the potential for exploitation of American companies and infrastructure.
+-  Other companies, like China's top commercial jet maker and a DNA-sequencing firm, are also on the list.
+-  This move reflects bipartisan concern regarding China's military-civil fusion strategy and growing US dependence on Chinese tech.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- A spokesman for the Chinese Embassy said the list represented an “unreasonable suppression of Chinese companies” that “undermines the confidence of foreign companies investing in the United States.” The spokesman, Liu Pengyu, urged Washington “to immediately correct the above discriminatory practices.” The Shenzhen-based Tencent oversees the popular social media site WeChat and is a leader in online payments, e-commerce and gaming.
+- It holds a large stake in Epic Games, the North Carolina-based maker of the popular game “Fortnite,” and has invested in U.S.
+- entertainment groups Warner Music and Universal Music Group.
+- Valued at more than $480 billion, Tencent saw its stock drop by almost 10 percent Monday following the announcement.
+- “Tencent’s inclusion on this list is clearly a mistake,” the company said in a statement.
+- “We are not a military company or supplier.
+
+</HIGHLIGHTS>
+<CONTENT>
+The Pentagon will blacklist China’s largest EV battery manufacturer and its largest tech firm beginning in June 2026, barring them from Defense Department contracts and sending a powerful signal to American firms about the potential risks of doing business with them.
+
+In a notice in the Federal Register on Monday , the Defense Department published a list of firms that it deems to be operating in the United States for, or on behalf of, the Chinese military or that contribute to China’s military buildup.
+
+The “1260H list,” mandated annually by Congress since 2021, now includes CATL, the world’s largest electric-vehicle battery-maker, which supplies Tesla, the EV manufacturer owned by President-elect Donald Trump’s ally Elon Musk.
+
+It also lists the social media giant Tencent, China’s most valuable technology company.
+
+Other firms of note added to the list are China’s top commercial-jet-maker, a DNA-sequencing firm with U.S.
+
+ties and two companies at the heart of China’s surveillance-technology boom.
+
+“When the Pentagon affirms you are a Chinese military company, it’s an official scarlet letter that can impact everything from the risk perception of working with a company that might affect its share price to its long-term viability in the U.S.
+
+market,” said Eric Sayers, a nonresident fellow at the American Enterprise Institute and a former aide to the top U.S.
+
+military commander in the Pacific.
+
+Some of the designated firms are already included on a Treasury Department list of Chinese military-industrial-complex companies, subjecting them to investment restrictions because of their assessed military ties.
+
+That includes the AI firm SenseTime Group and subsidiaries of the state-owned military contractor, Aviation Industry Corporation of China.
+
+Others — such as Tencent and CATL — have not faced sanctions but have come under increasing scrutiny from U.S.
+
+lawmakers in recent years as they expand their American operations.
+
+The Pentagon blacklisting is among actions taken by Congress, and the Biden and first Trump administrations, to curb China’s aggressive military and tech ambitions and the expansion of its surveillance state.
+
+The issue is largely seen as bipartisan, though the political ascendance of tech mogul Musk — who has significant business interests in China — may complicate the policy picture under the incoming administration.
+
+The Trump transition team did not reply to a request for comment.
+
+Pentagon spokeswoman Selena Rodts called the new list “an important step in securing our supply chains and removing entities that support” China’s military-civil fusion strategy.
+
+CATL’s listing is significant, said Craig Singleton, senior China fellow at the Foundation for the Defense of Democracies, because its control over the data collected by EV charging stations and battery management systems might enable Chinese government spying.
+
+Chinese law requires CATL to provide the Chinese government with access to any and all of its proprietary and customer data — no questions asked, he said.
+
+Moreover, Singleton said, CATL’s integration into the U.S.
+
+electrical grid, through its collaboration with American energy firms — along with what is likely to be increasing U.S.
+
+dependence on CATL’s charging infrastructure — creates potential vulnerabilities that could be exploited to disrupt essential services, similar to concerns raised about the deep integration of Chinese tech giant Huawei into global telecom networks.
+
+Trump’s pick for secretary of State, Marco Rubio, has led efforts to block a $3.5 billion EV battery plant partnership between CATL and Ford in Michigan.
+
+As the Senate Intelligence Committee’s top Republican, Rubio in 2023 introduced legislation to prevent CATL from receiving U.S.
+
+climate subsidies and called for a national security review of the deal, citing concerns over reliance on China.
+
+In a statement to The Washington Post, CATL called the designation a “mistake” and said the company had never engaged in any military-related business.
+
+“We will proactively engage with DOD to address the false designation, including legal action if necessary,” it said.
+
+A spokesman for the Chinese Embassy said the list represented an “unreasonable suppression of Chinese companies” that “undermines the confidence of foreign companies investing in the United States.” The spokesman, Liu Pengyu, urged Washington “to immediately correct the above discriminatory practices.” The Shenzhen-based Tencent oversees the popular social media site WeChat and is a leader in online payments, e-commerce and gaming.
+
+It holds a large stake in Epic Games, the North Carolina-based maker of the popular game “Fortnite,” and has invested in U.S.
+
+entertainment groups Warner Music and Universal Music Group.
+
+Valued at more than $480 billion, Tencent saw its stock drop by almost 10 percent Monday following the announcement.
+
+“Tencent’s inclusion on this list is clearly a mistake,” the company said in a statement.
+
+“We are not a military company or supplier.
+
+We will nonetheless work with the Department of Defense to address any misunderstanding.” Though the ban does not go into effect until 2026, the Pentagon blacklisting could provide momentum to other U.S.
+
+agencies conducting investigations into the firms.
+
+It probably will also alert U.S.
+
+companies and others that sell or provide services to the Defense Department that these firms are deemed to support the Chinese defense-industrial base, which has reputational risk implications, said Ann Kowalewski, a former aide on the Senate Foreign Relations and House Foreign Affairs committees who is now a senior fellow at the Project 2049 Institute.
+
+The list’s publication comes after China’s Commerce Ministry last week added 10 U.S.
+
+companies to its “unreliable entities list,” imposing export controls in response to U.S.
+
+sanctions on Chinese firms.
+
+The timing is probably coincidental, Kowalewski said, as the Defense Department is required to issue the list annually, and did so last year at the same time.
+
+The impact of China’s entities list is largely symbolic, she said: “It’s a way to lodge their complaints about us selling weapons to Taiwan and to our export controls.” Several firms on the Chinese Commerce Ministry’s list are major U.S.
+
+defense contractors that are barred by law anyway from exporting weaponry and defense services to China, analysts said.
+
+A notable addition to the Pentagon list is the Commercial Aircraft Corporation of China Limited, or COMAC, China’s top commercial-aircraft-maker, which launched China’s first passenger jet in 2017.
+
+The list also added ChangXin Memory Technologies, China’s leading memory chip firm, and genomics giant BGI Genomic’s DNA sequencing unit, MGI Tech, which has a San Jose-based subsidiary called Complete Genomics.
+
+It also designated the facial recognition firm Xiamen Meiya Zhongmin Electronic Technology, whose technology, along with SenseTime’s, the U.S.
+
+government has said is used by China’s security apparatus to repress domestic ethnic minorities.
+
+“This decision by the U.S.
+
+Department of Defense has no factual basis, and we firmly disagree with it.
+
+… SenseTime remains firmly committed to working collaboratively with the relevant stakeholders to address this matter,” the company said in a statement provided to The Post.
+
+Though the list published Monday does not include Hesai, a company whose lidar system is used in autonomous vehicles and robotics, a Pentagon official said it will be in the final list issued Tuesday, subject to the same procurement bar in June 2026.
+
+ChangXin Memory Technologies and MGI did not respond to requests for comment.
+
+COMAC and Xiamen Meiya Zhongmin Electronic Technology could not be immediately reached for comment.
+
+</CONTENT>

@@ -1,0 +1,245 @@
+<TITLE>Civil Organizing in War: Evidence from Syrian Facebook Communities | Perspectives on Politics | Cambridge Core</TITLE>
+<PUBLISHED_DATE>2025-01-19</PUBLISHED_DATE>
+<URL>https://www.cambridge.org/core/journals/perspectives-on-politics/article/civil-organizing-in-war-evidence-from-syrian-facebook-communities/A909237DA2AB7446FD62EEB8F19DDFC7</URL>
+<AUTHOR>Rana B. Khoury and Alexandra A. Siegel</AUTHOR>
+
+<SUMMARY>
+This article investigates civil organizing within the Syrian conflict, using a combination of social media analysis and qualitative fieldwork.
+-  Researchers analyzed eight million Facebook posts from Syrian organizations inside and outside the country, revealing that civil organizing persists despite violence and displacement.
+-  Key findings show that this organizing transcends geographic boundaries, increasing in border states over time, and shifting from immediate survival needs to more complex governance issues over time.
+-  Qualitative case studies of Syrian organizations in Turkey and Jordan explored how changing political opportunities and resources influenced organizing tactics and goals.
+- The study contributes to understanding how civilian nonviolent action endures in wartime, highlighting the role of translocal collaboration and the evolution of organizational goals.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- We collected all posts still available across our pages as of September 2020, going back to the first post on each page.
+- This yielded a dataset of almost eight million posts from across the 1,215 pages for which we were able to collect data.
+-   We analyze post volume across time and space to understand the “where” and “when” of civil organizing.
+- We analyze the content of those posts primarily across three categories to capture the “why,” or goals, of civil organizations, related to survival and protection, governance, and contentious politics.
+- To identify posts that reference these topics in our data, we use a word2vec model (Mikolov et al.
+
+</HIGHLIGHTS>
+<CONTENT>
+During war, civilians exert agency for their survival and self-protection.
+
+But even in the face of violence and displacement, civilians also participate in diverse forms of nonviolent action.
+
+From mobilizing protests to providing services, civilians are often proactive, organized, and involved.
+
+Yet the scope of this civil organizing during war is underexplored.
+
+Where, when, and why do civilians organize during war? 
+ To answer these questions, we propose a research agenda of civil organizing during conflict.
+
+First, we contend that civil organizations are key wartime actors that are not merely reactive to violence and immediate safety concerns, but also work to achieve long-term social and political goals.
+
+Second, we expand the scope of civil organizing to include not only civilians inside war zones, but also refugees, members of the diaspora, and collaborations between these actors.
+
+Third, we identify three mechanisms—shifting political opportunity structures, tactical adaptation, and access to resources—that shape the emergence and evolution of civil organizing during conflict.
+
+
+ We present original evidence on civil organizing during the Syrian war to document where, when, and why civilians organize.
+
+We combine large-scale analysis of social media data and in-depth qualitative fieldwork to offer rich empirical descriptions of civil organizing during conflict.
+
+First, we use computational text analysis to capture the breadth and variation of civil organizing, drawing on eight million public Facebook posts produced by Syrian organizations located inside and outside Syria.
+
+Specifically, we analyze how activity varies by organization location, how it changes over time, and how organizations’ attention to survival and humanitarian needs, governance, and contentious politics varies spatially and temporally (Khoury and Siegel Reference Khoury and Siegel 2024 ).
+
+Our analysis of millions of Facebook posts highlights how civil organizing persists in the face of ongoing violence and displacement.
+
+It also demonstrates the importance of translocal organizing, or collaboration between civilians inside and outside the country in conflict, as well as how civil organizing increases in border states over time.
+
+Finally, our analysis suggests that organizing is not limited to immediate concerns of survival, but also focuses on contentious politics, especially in the early days of the conflict, and increasingly emphasizes issues of governance over time.
+
+
+ Second, we use qualitative case studies of two Syrian organizations—based on 10 months of immersive and interview-based field research in Turkey and Jordan—to explore how our proposed mechanisms explain the spatial, temporal, and substantive variation that we show in our quantitative analysis.
+
+Specifically, we identify opportunity structures and resources that facilitated translocal organizing, why organizers adapted their tactics as the nature of the conflict changed over time, and the ways their motivations and goals intertwined as they sought to protect, govern, and contend on behalf of their communities.
+
+
+ Together, this work offers several contributions to literatures on conflict processes and contentious politics.
+
+By centering organizations as key actors in war (Parkinson and Zaks Reference Parkinson and Zaks 2018 ), we demonstrate how collective civilian nonviolent action persists in the face of violence and displacement (Avant et al.
+
+Reference Avant, Berry, Chenoweth, Hendrix, Kaplan and Sisk 2019 ; Barter Reference Barter 2012 ; Reference Barter 2014 ; Jose and Medie Reference Jose and Medie 2015 ; J.
+
+Krause, Masullo, and Paddon Rhoads Reference Krause, Masullo, Rhoads, Krause, Masullo, Rhoads and Welsh 2023 ; Kreft Reference Kreft 2019 ; Orjuela Reference Orjuela 2005 ; Yadav Reference Yadav 2020 ).
+
+We also show that civil organizing is not only focused on immediate concerns of survival and protection (Arjona Reference Arjona 2017 ; Finkel Reference Finkel 2017 ; Kaplan Reference Kaplan 2017 ; J.
+
+Krause Reference Krause 2018 ; Masullo Reference Masullo 2021 ; Milliff Reference Milliff 2023 ; Schon Reference Schon 2020 ); it exists simultaneously in the conflict zone, in border states where refugees continue to engage actively, and among the diaspora (Betts and Jones Reference Betts and Jones 2016 ; Bradley, Milner, and Peruniak Reference Bradley, Milner and Peruniak 2019 ; Fiddian-Qasmiyeh Reference Fiddian-Qasmiyeh 2016 ; Hamdan Reference Hamdan 2020 ; Jacobsen Reference Jacobsen, Bradley, Milner and Peruniak 2019 ; Khoury Reference Khoury 2017 ; Moss Reference Moss 2020 ; Van Hear Reference Van Hear 2006 ).
+
+Additionally, this work contributes to a growing body of literature on online activism and transnational activism (Bennett and Segerberg Reference Bennett and Segerberg 2012 ; Esberg and Siegel Reference Esberg and Siegel 2023 ; Lewis, Gray, and Meierhenrich Reference Lewis, Gray and Meierhenrich 2014 ; Nugent and Siegel, Reference Nugent and Siegel forthcoming ).
+
+Finally, this project centers the voices of Syrians—both through large-scale analysis of the content they produce on social media and through ethnographic evidence from interviews—to describe how civilians in Syria, refugees in border states, and members of the diaspora jointly engage in organized nonviolent action.
+
+
+ 
+ Civil Organizing in War 
+ Organizations are central to conflict dynamics (Asal, Brown, and Dalton Reference Asal, Brown and Dalton 2012 ; Bakke, Cunningham, and Seymour Reference Bakke, Cunningham and Lee 2012 ; Braithwaite and Cunningham Reference Braithwaite and Cunningham 2020 ; P.
+
+Krause Reference Krause 2014 ; Parkinson Reference Parkinson 2013 ; Pearlman Reference Pearlman 2011 ; Staniland Reference Staniland 2012 ; Weinstein Reference Weinstein 2007 ).
+
+As Parkinson and Zaks ( Reference Parkinson and Zaks 2018 , Reference Parkinson and Zaks 271 ) describe, “Dynamics that produce patterns of violence, nonviolent strategy adoption, long-term resilience, and postconflict transformation—to name just a few—all occur at the organizational level.” We make the case for attention to what we call civil organizing.
+
+By “civil,” we mean action that is nonviolent and carried out by civilians, including those who have crossed international borders.
+
+Footnote 
+ 1 By “organizing,” we refer to “groups of individuals who allocate tasks between themselves to contribute to a common goal” (Fowler Reference Fowler 1997 , Reference Fowler 20 ).
+
+Organizations need not be formal or legally registered to fit this definition (20).
+
+Civil organizing, therefore, refers to collective efforts undertaken, without the use of arms, by civilians inside and outside the conflict state to achieve one or more goals.
+
+
+ Conflict scholars have paid increasing attention to civil action during war, and observers of forced displacement have identified the agency of refugees despite their victimhood.
+
+Literature on diaspora mobilization has pointed to the role of transnational politics in local conflict dynamics, and studies of rebel governance have emphasized how armed actors forge institutions and social orders during war.
+
+However, these distinct literatures are rarely in dialogue with one another, and we have lacked a comprehensive framework for understanding the scope of civil organizing.
+
+We propose a research agenda that bridges these literatures to highlight understudied forms of civil organizing, such as that between refugees and civilians in borderlands.
+
+Focusing on the “where,” “when,” and “why” of civil organizing, we demonstrate this dynamic scope and identify mechanisms related to political opportunity structures, tactical adaptation, and access to resources that may explain this variation.
+
+
+ 
+ Where 
+ First, we consider the geography of civil organizing.
+
+As Arjona ( Reference Arjona 2014 , 1362) has established, we should focus “on the locality because war often segments territory, making localities the key locus of choice.” As she asserted, “new forms of order” arise in these spaces (1362).
+
+Does civil organizing occur under these new “orders” that emerge during conflict? We argue that it does, particularly where rebels allow for, benefit from, or cannot fully control civilian participation.
+
+Civilians respond to opportunity structures; they organize where it is conducive or possible to do so (McAdam Reference McAdam, McAdam, McCarthy and Zald 1996 ; Meyer Reference Meyer 2004 ; Tarrow Reference Tarrow 2011 ; Tilly Reference Tilly 1978 ).
+
+Whether concerned with humanitarianism, governance, advocacy, politics, or other goals, a range of actors from women to Islamist activists have organized under rebel rule around the world (e.g., Barter Reference Barter, Arjona, Kasfir and Mampilly 2015 ; Brockett Reference Brockett 2005 ; Kreft Reference Kreft 2019 ).
+
+
+ But limiting our lens to territory inside the civil war state obscures our view of civil organizing.
+
+Rather than assume that civilian agency dissolves during a border crossing, we expect opportunity structures to shape civilian behavior beyond the conflict zone as they do in rebel-held territory.
+
+Adopting Kalyvas’s ( Reference Kalyvas 2003 ) conception of the “locus of agency” in civil war, where local and supralocal identities and actions mix in complex and ambiguous ways, we consider interactions among civilians, refugees, and diaspora networks.
+
+
+ It is commonly accepted that diasporas engage with politics in their home state (Østergaard-Nielsen Reference Østergaard-Nielsen 2006 ).
+
+Diaspora networks and exiles often enjoy resources and open political opportunity structures in the Global North (Adamson Reference Adamson and Checkel 2013 ; Esberg and Siegel Reference Esberg and Siegel 2023 ; Wayland Reference Wayland 2004 ).
+
+Refugees in the Global South may also enjoy resources and political opportunities, though these are likely to differ qualitatively (Betts and Jones Reference Betts and Jones 2016 ; Brees Reference Brees 2010 ; Van Hear and Cohen Reference Van Hear and Cohen 2017 ).
+
+Refugees’ displacement destinations are often proximate to salient divisions in territorial control in the conflict state, such as border regions controlled by rebels from where refugees originate and with whom refugees may sympathize (Lichtenheld Reference Lichtenheld 2020 ; Steele Reference Steele 2019 ).
+
+Refugee host states can facilitate civil organizing by permitting refugees’ mobility, employment, and cross-border passage (Khoury Reference Khoury 2017 ).
+
+This permissiveness may be motivated by sympathy with a coethnic displaced population, geopolitical interests (especially rivalry) toward the conflict state, or even a strategic indifference that gives latitude to international aid organizations engaging in conflict response (Abdelaaty Reference Abdelaaty 2021 ; Moss Reference Moss 2020 ; Norman Reference Norman 2020 ).
+
+Those international aid actors bring with them resources, infrastructure, and reliance on ground-level actors to provide emergency relief or in pursuit of other objectives (Autesserre Reference Autesserre 2021 ; Fiddian-Qasmiyeh Reference Fiddian-Qasmiyeh 2018 ; Hamdan Reference Hamdan 2020 ; Khoury and Scott Reference Khoury and Emily 2024 ; Mukhopadhyay and Howe Reference Mukhopadhyay and Howe 2023 ; Scott Reference Scott 2022 ; Yadav Reference Yadav 2020 ).
+
+
+ We expect that civil organizing may emerge in rebel-held territory, in border states, in the broader diaspora, and in combinations thereof.
+
+We also expect that civil organizing in border states will grow over the course of the conflict as displacement escalates and refugees take advantage of opportunities to organize in their new host countries.
+
+Border regions may even constitute subsystems of nonviolent action where local, refugee, regional, and international actors enact political, diplomatic, humanitarian, development, and other objectives.
+
+In this way, civil organizing may be jointly produced by supralocal and local actors (Kalyvas Reference Kalyvas 2003 ; Schneckener Reference Schneckener 2011 ).
+
+Such subsystems have emerged in borderlands that include those in southern Sudan and Kenya (Riehl Reference Riehl 2001 ), Tunisia and Libya (Moss Reference Moss 2021 ), and most recently Ukraine and Poland (Barbarani Reference Barbarani 2022 ).
+
+This may facilitate the early emergence and persistence of translocal civil organizing as civilians connect with refugee populations and the broader diaspora.
+
+
+ 
+ 
+ When 
+ Next, we consider the temporality of civil organizing in war.
+
+A common popular and scholarly view suggests that violence overwhelms nonviolent actors.
+
+In social movement theory, the idea of protest cycles conveys that movements come in waves or heightened moments of intensity, followed by periods of quiet or stability (Beissinger Reference Beissinger 2002 ; Della Porta Reference della Porta, Snow, della Porta, McAdam and Klandermans 2013 ).
+
+Movements eventually demobilize due to sheer exhaustion, or through factionalism wherein some “radicals” take up violence and other “moderates” institutionalize (Tarrow Reference Tarrow 2011 ).
+
+These may indeed be common pathways for social movements, including those that transform into civil war participants (McAdam, Tarrow, and Tilly Reference McAdam, Tarrow and Tilly 2001 ).
+
+In the face of protracted repression or violence, individual activists may disengage due to exhaustion, disillusionment, or simply from concern for their professional and familial needs.
+
+If individual disengagements aggregate, whole movements will demobilize (Fillieule Reference Fillieule, della Porta and Diani 2015 ).
+
+
+ But we might also expect civil organizing to persist despite violence.
+
+Advances in the study of civilian agency and protection suggest that civil action can manifest during war (Avant et al.
+
+Reference Avant, Berry, Chenoweth, Hendrix, Kaplan and Sisk 2019 ; Barter Reference Barter 2012 ; Reference Barter 2014 ; Howe Reference Howe, Krause, Masullo, Rhoads and Welsh 2023 ; Jose and Medie Reference Jose and Medie 2015 ; J.
+
+Krause, Masullo, and Paddon Rhoads Reference Krause, Masullo, Rhoads, Krause, Masullo, Rhoads and Welsh 2023 ; Kreft Reference Kreft 2019 ; Orjuela Reference Orjuela 2005 ; Yadav Reference Yadav 2020 ).
+
+With the passage of time—and the associated compounding of needs, deepening political divisions, physical and security threats, and quotidian demands on civilians to make a living—civil organizing is likely to change to address exactly these kinds of shifts.
+
+We expect civil organizing to adapt its tactics (McAdam Reference McAdam 1983 ) to patterns of violence, displacement, territorial control, international response, and border-country politics, among other things.
+
+
+ Indeed, scholars have argued that war transforms social processes over the longue durée (Wood Reference Wood 2008 ).
+
+Nordstrom ( Reference Nordstrom 1997 ) describes how individual coping strategies to deal with uncertainty and violence can accumulate to the societal level.
+
+Such strategies may be reactions to violence (Arjona Reference Arjona 2017 ; Finkel Reference Finkel 2017 ; Kaplan Reference Kaplan 2017 ; J.
+
+Krause Reference Krause 2018 ; Masullo Reference Masullo 2021 ; Milliff Reference Milliff 2023 ; Schon Reference Schon 2020 ), but they also can constitute choices that enable the pursuit of social agendas and life projects (Lubkemann Reference Lubkemann 2008 ).
+
+This can include political mobilization, a kind of macrotransformation that can characterize the aftermath of even the most severe types of conflict (Berry Reference Berry 2018 ).
+
+
+ Thus, while we might expect engagement to shift away from large-scale collective action as violence takes hold, we also expect smaller-scale civil organizing to persist over time as civilians adapt and take advantage of new opportunities and resources within rebel-held territory, in border states, and across the diaspora.
+
+
+ 
+ 
+ Why 
+ Finally, we examine how the goals of civil organizing during war may shift across time and space.
+
+Goals describe “organizational aims and end games,” and motivate organizational behavior (Parkinson and Zaks Reference Parkinson and Zaks 2018 , Reference Parkinson and Zaks 275 ).
+
+In practice, civil organizations may pursue goals related to survival and protection, governance, and contentious politics simultaneously.
+
+Yet our framework demonstrates that each can be a rich area of action.
+
+
+ First, we consider the saliency of survival and protection issues.
+
+A burgeoning literature on civilian agency has largely focused on individual actions and civilian responses to armed actors, ranging from defection and resistance to adaptation and cooperation, among other forms of survival and self-protection (Arjona Reference Arjona 2017 ; Finkel Reference Finkel 2017 ; Masullo Reference Masullo 2021 ; Milliff Reference Milliff 2023 ; Schon Reference Schon 2020 ).
+
+However, some have considered these interactions with armed actors to be more proactive, social, or collective in nature (Avant et al.
+
+Reference Avant, Berry, Chenoweth, Hendrix, Kaplan and Sisk 2019 ; Jose and Medie Reference Jose and Medie 2015 ; Kaplan Reference Kaplan 2017 ; J.
+
+Krause Reference Krause 2018 ; Parkinson Reference Parkinson 2023 ; Rubin Reference Rubin 2020 ).
+
+A few scholars have widened the analytical lens to consider civilian protection efforts that mitigate threats that are directly and indirectly related to the conflict or physical presence of armed groups.
+
+This includes “disruptions to livelihoods, inadequate access to healthcare, food, shelter, and water … and social instability” (Paddon Rhoads and Sutton Reference Emily and Sutton 2020 , Reference Emily and Sutton 372 ; see also Howe Reference Howe, Krause, Masullo, Rhoads and Welsh 2023 ).
+
+Like scholarship on civilian protective agency, work in refugee studies has also highlighted the efforts displaced people take on behalf of their communities’ needs (Pincock, Betts, and Easton-Calabria Reference Pincock, Betts and Easton-Calabria 2020 ).
+
+We expect that civil organizers in both rebel-held territory and in refuge, and combinations thereof, would be concerned with matters like emergency relief, humanitarian aid, and the provision of food, shelter, and medical care.
+
+We also expect to see this increase over time as a conflict escalates and greater needs arise.
+
+
+ Second, we consider civil organizers’ attention to issues of governance, which scholars of rebel governance define as “the administration of civilian affairs” (Arjona, Kasfir, and Mampilly Reference Arjona, Kasfir, Mampilly, Arjona, Kasfir and Mampilly 2015 , Reference Arjona, Kasfir, Mampilly, Arjona, Kasfir and Mampilly 2 ).
+
+We draw on conceptions of wartime governance that have recognized a role for civilians in such administration (Hyyppä Reference Hyyppä 2023 ), which Kasfir ( Reference Kasfir, Arjona, Kasfir and Mampilly 2015 , Reference Kasfir, Arjona, Kasfir and Mampilly 34 ) has observed can “flow through formal or informal rebel-sanctioned structures, either those that rebels create or civilian structures that they accept in territory they control.” Refugee organizers have also engaged in what Jacobsen ( Reference Jacobsen, Bradley, Milner and Peruniak 2019 ) has called “self-governance,” establishing institutions for political action from exile.
+
+We expect civil organizers to focus increasingly on governance, local administrative councils, courts, and long-term service provision—including education and economic development—as new opportunities and resources for governance arise in both rebel-held territory and across the borders in refugee-receiving states.
+
+
+ Third, we assess civil organizers’ concern with contentious political issues.
+
+Scholars have found that nonviolent contention can cycle in and out during war rather than demobilize altogether, and that unarmed and armed groups often overlap or have ties between them (Brenner Reference Brenner 2018 ; Brockett Reference Brockett 2005 ; Parkinson Reference Parkinson 2023 ; Van Baalen Referen
+
+</CONTENT>

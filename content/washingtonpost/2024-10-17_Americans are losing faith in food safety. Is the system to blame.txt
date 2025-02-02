@@ -1,0 +1,205 @@
+<TITLE>Americans are losing faith in food safety. Is the system to blame?</TITLE>
+<PUBLISHED_DATE>2024-10-17</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/food/2024/10/17/food-safety-confidence-science/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzI5OTE1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzMxMzAxMTk5LCJpYXQiOjE3Mjk5MTUyMDAsImp0aSI6Ijk0YTVmZGM5LTFhMjctNDAxNC1iYTkxLWRiZjgxZmM4NGVlNSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9mb29kLzIwMjQvMTAvMTcvZm9vZC1zYWZldHktY29uZmlkZW5jZS1zY2llbmNlLyJ9.ZwrpVLnoqD-4VsgJ1gmx1coAgsrN2A54ub92--A_g5Q&amp;utm_campaign=db6771bf97-EMAIL_CAMPAIGN_2023_06_26_02_47_COPY_06&amp;utm_medium=email&amp;utm_source=Ambrook+Research+Newsletter</URL>
+<AUTHOR>Tim Carman</AUTHOR>
+
+<SUMMARY>
+Americans' trust in the government's ability to protect the food supply is at an all-time low, according to a recent Gallup poll.
+-  This decline, particularly steep among Republicans (27 points) and independents (11 points) since 2019,  is linked to a broader distrust in government, science, and expertise.
+-  Experts point to a history of food safety issues like recalls and instances of sickness, as well as the underfunding of the FDA.
+-  However,  the pervasive distrust of institutions, exacerbated by the pandemic and amplified by social media echo chambers, is a key contributor to the declining confidence.
+-  A parallel decline in trust in other institutions is also evident.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- “The way these platforms have worked, they have allowed these echo chambers to form.
+- And it’s hard for people to get to the truth.” The public’s declining trust in the government to protect the food supply parallels a downward spiral in the country’s faith in institutions in general.
+- A Gallup poll from last year asked respondents about their confidence in 16 societal institutions.
+- The majority of Americans had a great deal or quite a lot of confidence in only two: small business (65 percent) and the military (60 percent).
+- Eleven institutions — including the presidency, big tech companies, newspapers, Congress and the U.S.
+- Supreme Court — all polled under 30 percent.
+
+</HIGHLIGHTS>
+<CONTENT>
+Public confidence in the U.S.
+
+government’s ability to protect the food supply is at an all-time low, according to a recent Gallup poll.
+
+That part is clear.
+
+What’s not as clear, say experts in food safety, are the factors driving this particular American pessimism.
+
+One expert might mention the constant drumbeat of recalls or the high-profile stories about the sickness and death linked to infant formula.
+
+Another might point to the underfunded Food and Drug Administration, which has historically prioritized drugs and medicine over food safety .
+
+But they all largely agree that one factor has eroded public faith in the agencies that regulate and monitor the food supply: a general distrust of government, science and expertise — a downward spiral that began during the pandemic and hasn’t eased up.
+
+Benjamin Chapman is a food safety extension specialist at North Carolina State University.
+
+He reviewed the results of the Gallup poll (conducted in July, just as the deadly Boar’s Head listeria outbreak was coming to the public’s attention) and noticed a major mood swing: From 2008 to 2019, the percentage of Americans who had a great deal or fair amount of trust in federal agencies to keep their food safe remained relatively steady, dipping three points in 11 years.
+
+But from 2019 to this summer, public confidence dropped 11 points.
+
+The results were even more dramatic among Republicans during this five-year period: Their trust plummeted 27 points.
+
+Trust among independents declined by 11 percentage points during the same time frame.
+
+Democrats, by contrast, grew more optimistic: Their trust rose nine points.
+
+In his quarter-century in the industry, Chapman says he has never seen food safety and public health this politicized.
+
+Frank Yiannas, former FDA deputy commissioner for food policy and response, has noticed a similar pattern.
+
+He has a phrase for it: “a global trust bust,” fueled not just by misinformation, he says, but also by a genuine sense that people have been let down by the institutions designed to serve them.
+
+A microbiologist by training, Yiannas initially thought the pandemic might strengthen the public’s trust in science, as millions of Americans relied on Centers for Disease Control and Prevention guidance to protect them from the deadly coronavirus .
+
+In the end, however, Yiannas concluded that the pandemic was hurtful to his field, as the public retreated to their preferred sources of information, some with little to no connection to the scientific world.
+
+“In this day and age of social media, where everybody can be a reporter and convey information, whether it’s right or wrong, it’s challenging,” Yiannas says.
+
+“The way these platforms have worked, they have allowed these echo chambers to form.
+
+And it’s hard for people to get to the truth.” The public’s declining trust in the government to protect the food supply parallels a downward spiral in the country’s faith in institutions in general.
+
+A Gallup poll from last year asked respondents about their confidence in 16 societal institutions.
+
+The majority of Americans had a great deal or quite a lot of confidence in only two: small business (65 percent) and the military (60 percent).
+
+Eleven institutions — including the presidency, big tech companies, newspapers, Congress and the U.S.
+
+Supreme Court — all polled under 30 percent.
+
+“During the pandemic, a lot of the trust in science and in government and the FDA in particular got tied into trust around covid and vaccines,” says Katherine Ognyanova, an associate professor at Rutgers University who has conducted polling on public trust of institutions.
+
+“The question of vaccines became very politicized, and trust became very polarized, more so than usual for agencies like FDA and CDC.” As multiple experts point out, Americans are largely unaware of the complex system that works to ensure the safety of the food supply.
+
+It includes not just the U.S.
+
+Agriculture Department (which oversees meat, poultry, catfish and processed egg products) and the FDA (which handles most everything else, including fruits, vegetables, seafood, dairy products, food additives and more), but also academic researchers and the food industry itself, including a supply chain of farmers, manufacturers and chemical companies.
+
+The Gallup survey essentially asked about just one part of the system — government regulators — though the poll did question respondents about their faith in the nation’s grocery stores, which is also dropping.
+
+“Based on our studies over the years, most Americans have no idea what the government does with respect to food safety,” says William Hallman, a Rutgers professor who is an expert on consumer perceptions of food safety.
+
+“They have a vague sense that there are inspections,” Hallman adds.
+
+“They know that there are recalls.
+
+But most Americans don’t know, for example, that the FDA and the USDA both have a role in food safety.” Statistics and experts offer differing perspectives on whether public opinion reflects a deeply flawed food safety system.
+
+The number of food products recalled by the FDA has not dramatically increased in recent years: In 2019, the agency logged 1,899 product recalls , according to its database.
+
+In 2023, the last full reporting year, the number rose to 2,066, an almost nine percent jump.
+
+So far this year, the agency has catalogued 1,143 food recalls.
+
+The reasons behind a recall can vary widely.
+
+Some products may be mislabeled or contain an allergen not listed on the packaging; others may be contaminated with a known pathogen.
+
+The Food Safety and Inspection Service, the USDA agency responsible for the meat, egg, catfish and poultry supply, has seen a drop in food recalls and public health alerts.
+
+In 2019, the agency catalogued 131 recalls and health alerts, according to its database .
+
+That number dropped to 89 last year, and so far this year, the agency has logged 44 recalls and health alerts.
+
+The last figure includes the Boar’s Head July recall of more than 70 products as part of a nationwide listeria outbreak that has resulted in 10 deaths, 59 hospitalizations and the indefinite closure of the company’s southern Virginia plant , which had a history of health and safety violations.
+
+Bill Marler, a Seattle-based attorney who has represented food-borne-illness victims for more than 30 years, says recalls are not necessarily a sign of a weak food safety net, regardless of how the public views them.
+
+“The more recalls there are, frankly, the safer our food supply is,” he says.
+
+Marler and his firm have filed lawsuits in some of the deadliest food-borne outbreaks in U.S.
+
+history, including an E.
+
+coli outbreak tied to undercooked hamburgers at Jack in the Box in the early 1990s.
+
+One of Marler’s clients was a 9-year-old girl who developed hemolytic-uremic syndrome after eating a burger at the chain.
+
+She survived the incident but had permanent brain damage, asthma and diabetes .
+
+Marler got a $15.6 million settlement for the child.
+
+The case left a mark on the attorney, too: He still won’t eat a medium-rare burger.
+
+Perhaps because he has seen the worst that food-borne illness can do, Marler understands why Americans are uncomfortable with the state of the nation’s food supply.
+
+“They should be uncomfortable,” he says.
+
+“It’s a system that’s designed to fail.” Among Marler’s concerns are the frequency of FDA inspections.
+
+The Food Safety Modernization Act, which President Barack Obama signed into law in 2011, mandates an inspection at least once every three years for high-risk facilities.
+
+Marler would like more.
+
+He would also like more action taken on leafy greens, which have been tied repeatedly to E.
+
+coli outbreaks .
+
+FDA policy focuses on risk assessments for the water used to grow produce, but Marler would like to see testing of irrigation water, as well as land-use regulations that keep cattle feedlots away from lettuce growers.
+
+A recent FDA study in Yuma Valley, Ariz.
+
+— a major lettuce-growing region — suggested dust from nearby concentrated cattle-feeding operations may play a role in contaminating irrigation waters.
+
+(The National Cattlemen’s Beef Association pushed back on the study .) Timothy Lytton, a regents’ professor at Georgia State University College of Law, notes that the industry is making a concerted effort to improve the safety of lettuces, through such tools as the California Leafy Greens Marketing Agreement .
+
+The problem, he says, is that it’s virtually impossible to determine whether these interventions have any discernible effect on public health.
+
+Reliable data is hard to come by, Lytton says, whether it’s data on water samples, on the rate of E.
+
+coli transference from water to crops, or on the level of illness among the public.
+
+“One of the things that’s most, I think, striking about the U.S.
+
+food safety system is that we pour an enormous amount of resources into a system that we don’t know whether or not those resources are working,” says Lytton, author of “ Outbreak: Foodborne Illness and the Struggle for Food Safety .” But those connected to the food safety system are more optimistic.
+
+Chapman, with North Carolina State University, has worked with both regulators (the FDA) and the industry (the National Restaurant Association, among others) to help build more robust food safety programs.
+
+Unlike in years past, when the relationship between regulators and the industry could be combative, the groups understand the benefits of collaboration, he says.
+
+But developing new protocols and standards, Chapman notes, is a deliberative, science-based process.
+
+“It takes time to do this, but I have a lot of confidence that the world of food safety is doing a better job than it was 30 years ago,” Chapman says.
+
+“The science is better.
+
+The approach is better.
+
+It’s much more collaborative than it was, and people are employing better technology.” Chapman is also bullish about the reorganization of the FDA, which went into effect on Oct.
+
+1.
+
+The agency has been restructured to break down the silos that have been blamed for its slow response to the infant formula crisis .
+
+The new unified Human Foods Program brings together functions from several offices with the promise of greater enforcement of the Food Safety Modernization Act, among other things.
+
+An FDA spokeswoman says the agency is considering the results of the Gallup poll as it moves forward with the reorganization.
+
+“As we continue to work towards building more robust food safety systems, it is the agency’s hope that we also continue building consumer confidence in the U.S.
+
+food supply,” the agency said in a statement to The Washington Post.
+
+To Yiannas, the former FDA deputy commissioner, any celebration of the agency’s reorganization is premature.
+
+“Yeah, it was needed,” he says, “but, again, where’s the evidence of the outcomes?” To get an idea of how well the United States’ food safety system works, Yiannas says, you should look at the pathogen surveillance data that the CDC has collected over two-plus decades .
+
+The agency tracks the number of infections per 100,000 people, covering such pathogens as salmonella, listeria and shigella.
+
+The charts, as Yiannas points out, have remained “fairly flat” for years.
+
+Take, for example, salmonella: In 2002, the CDC noted that there were 16.24 cases per 100,000 people.
+
+In 2022, the latest year available, the number was 16.3 per 100,000.
+
+Which is why Yiannas says it’s time for the country to rethink its system of food safety.
+
+“If we can’t bend that curve of food-borne illness so that we start seeing reductions, then the activities don’t mean much.
+
+It’s outcomes that really matter.”
+
+</CONTENT>

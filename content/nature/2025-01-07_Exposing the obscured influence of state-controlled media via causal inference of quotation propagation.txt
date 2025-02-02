@@ -1,0 +1,406 @@
+<TITLE>Exposing the obscured influence of state-controlled media via causal inference of quotation propagation</TITLE>
+<PUBLISHED_DATE>2025-01-07</PUBLISHED_DATE>
+<URL>https://www.nature.com/articles/s41598-024-78586-x?error=cookies_not_supported&code=a800a8da-70d1-4739-b923-71049005ba85</URL>
+<AUTHOR>Kao, Edward</AUTHOR>
+
+<SUMMARY>
+This study investigates how state-controlled media subtly influences other news outlets.
+-  It argues that analyzing quoted sources, rather than article topics, provides a more granular and less noisy measure of influence.
+-  The research uses a network causal inference framework to identify the causal effects of one outlet's quoting another on subsequent coverage.
+-  The authors posit that quoting certain sources, such as US officials versus Russian officials, significantly shapes public perception.
+-  Their method aims to expose the obscured influence of state-affiliated outlets on the broader information environment,  specifically focusing on how they influence the agenda-setting of other mainstream news outlets.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- To understand the underlying content and sentiments in each news article, we extract all quotations and label each quotation with who the quoted speaker is, a label of the topic based on a discrete set of geopolitical issues, and a label of the sentiment of that quote toward a particular entity.
+- For example, a quote might be labeled with speaker Vladimir Putin, topic “discussing Economic Sanctions,” and sentiment-to-entity “negative to U.S.” The coding was conducted by a team of nine analysts.
+- Sentiment was assigned based on the analysts’ informed insight on the topic at hand and familiarity with the public and political discourse at the time to interpret whether the quote shared criticism of the entity in question or revealed information that is unfavorable to the goals, status, or conditions of the entity in question.
+- The same quote used across different articles had the same sentiment assigned unless outlets truncated or elongated the quote they published in a way that could alter the sentiment.
+- We also append information about the date of the article, the country of media origin, any geographic references in the quotation, and the outlet where the quote and article appeared.
+
+</HIGHLIGHTS>
+<CONTENT>
+Introduction News coverage helps shape public opinion by “setting the agenda,” or affecting what issues the public considers 1 .
+
+The characteristics and effects of news propagation across social networks has important implications and has thus been the subject of considerable research 2 , 3 .
+
+As state actors fund and control international media outlets and attempt to influence topics to further their political agenda, the ability to detect and analyze such effects becomes increasingly important 4 , 5 .
+
+Though much attention has been given to government actors’ propaganda efforts, particularly in the case of Russia, the often-subtle ways in which state-affiliated outlets set the agenda for other mainstream news coverage remains obscured 6 , 7 , 8 .
+
+Media outlets—including print, television, radio, and internet—continually influence each other.
+
+An influential outlet can affect how other outlets and the broader information environment treat a particular topic, determining the amount of coverage a topic receives and the sentiment in subsequent coverage.
+
+This inter-outlet influence is commonly referred to as intermedia agenda setting .
+
+An approach that measures the comparative influence of specific outlets over others can quantify how agendas are pushed across this information ecosystem and ultimately to the general public.
+
+Previous studies have taken a variety of approaches to measuring intermedia agenda setting.
+
+Some rely on instances where an article directly references a different outlet’s coverage 9 .
+
+Most studies rely on common article topics as the basic unit of analysis 10 , 11 , 12 , 13 , 14 .
+
+Nearly all of these studies use time series analysis of article topic volume to measure influence 15 .
+
+We improve upon previous work by using common quotes as our instrument for influence, which we argue provide more granularity and less noise compared to article topics.
+
+Moreover, we use a network causal inference framework to determine inter-outlet causal effects 16 .
+
+Quotations play an important role in news articles.
+
+When an outlet features a quotation within an article, a decision is made by the authors to feature this particular voice.
+
+For instance, if a media outlet decided to predominately quote U.S.
+
+officials regarding the war in Ukraine, rather than Russian officials, that outlet would present a very different account to its audience than an outlet that relied solely on Russian official sourcing.
+
+The decisions made of whom to quote and how to frame those quotations form the core components of an outlet’s coverage of a news item or topic.
+
+Outlets generally rely on other outlets’ coverage, to include their use of quotes, in line with the cascading network activation model 17 , 18 .
+
+The cascading network activation model is described as one where “media outlets ...
+
+create cascades of information among themselves, from, for example, more prestigious to less prestigious outlets” 19 .
+
+For example, news wires such as Reuters , Agence France Presse , and TASS have greater resources and access to sources than many other outlets, who often cite such wire services in their reporting.
+
+A common quote may indicate a cascade of information.
+
+Though it is possible that two outlets will share a quotation if both had journalists present at the same press conference, considering temporal differences in a quote’s appearance in coverage provides a good proxy for establishing the relationship between outlets.
+
+Furthermore, we can control for general newsworthiness by discounting quotes that are used by multiple outlets.
+
+Instances where only two outlets use a particular quote represent the greatest “signal” of potential influence.
+
+Though such instances may occasionally be coincidental, repeated instances of shared quotes over time are unlikely to be explained by coincidence alone.
+
+We propose a novel quantitative approach to measure the effects in intermedia agenda setting and framing based on shared quotations within articles by different outlets.
+
+Using instances of quote following , where one outlet uses a quote in an article after another outlet, we can construct an influence network that reflects the baseline relationships between various outlets.
+
+Then, we can apply a network causal inference framework that measures outlets’ impacts on specific topics and sentiments 16 , 20 .
+
+For a more detailed explanation of the methodology, please refer to the Supplemental Materials.
+
+For this analysis, we examine influence patterns across a wide variety of geopolitical topics in European media with a particular focus on quotes that take a pro-Russia or pro-U.S.
+
+stance.
+
+We also demonstrate a case study on one particular topic: the Intermediate-Range Nuclear Forces (INF) Treaty.
+
+Applied to European and Russian media, our approach reveals the implicit ways that Russian state-controlled outlets influence other outlets.
+
+Though the state-controlled media exercise no direct authority over other outlets, they exert influence over which topics to report on and whom to quote on those topics 5 , 6 .
+
+The following results demonstrate our approach on a large, annotated dataset comprised of labeled quotes from a wide selection European and Russian public news media, containing 618,328 quotations from 123,396 articles published between May 2018 and October 2019.
+
+More information on the dataset can be found in the Supplemental Materials.
+
+Further, a partially-sanitized version of the dataset that is sufficient for replication can be found at the Mendeley Repository .
+
+Fig.
+
+1 Constructed influence network of European media outlets.
+
+Edges represent past patterns of quote following with saliency weighting.
+
+Node locations were determined by a force-directed graph drawing algorithm 21 .
+
+A node’s shape and color each correspond to that news outlet’s country.
+
+Full size image Results Focusing our analysis on the impact of state-controlled outlets on the overall media landscape, we analyze Russian state-controlled media and how it shapes media sentiment towards its competition with the U.S.
+
+Specifically, we process the quote data with either a pro-Russia (i.e.
+
+positive to Russia or negative to the U.S.) or a pro-U.S.
+
+(i.e.
+
+positive to the U.S.
+
+or negative to Russia) sentiment.
+
+For each media outlet, we estimate its causal impact with both pro-Russia and pro-U.S.
+
+quotes.
+
+Total impact represents the sum of pro-Russia and pro-U.S.
+
+impacts.
+
+In this paper, we define impact slant as the difference between an outlet’s pro-U.S.
+
+and pro-Russia impact scores, so a pro-Russia slant is negative and a pro-U.S.
+
+slant is positive.
+
+Figure 1 depicts the baseline influence network constructed using quotes from all topics and sentiments.
+
+The influence network reveals distinctive geopolitical communities that emerge based on each outlets’ weighted edges.
+
+We have labeled the outlets based on their respective origin to emphasize this geopolitical structure within the influence network.
+
+These communities are primarily connected to each other by wire services like Agence France Presse , UNIAN , Daily Sabah , and Sputnik News Service , which straddle geographic boundaries.
+
+Although not a wire service, the English-language version of the Russian outlet RT (referred to as RT English in the network) is also located along the spine connecting the eastern Europe media environment to the Western media environment.
+
+There are some exceptions to strict geographic clustering, which can be explained by language and outlet orientation.
+
+For example, The Moscow Times , an English-language, independent media outlet, is separate from the main Russian community.
+
+The Russian outlet, Radio Echo Moscow , is removed from the main cluster of Russian media outlets due to its liberal orientation but nevertheless is closer to the cluster than The Moscow Times given its Russian-language reporting.
+
+Average outlet impact and slant In an analysis of the impact slant of outlets, we find that Western sources skew pro-U.S.
+
+while Russian sources skew pro-Russia.
+
+Figure 2 summarizes each outlet’s average total impact and impact slant across all topics.
+
+The majority of outlets are neutral overall.
+
+A few outlets, like Baltic News Service , UNIAN , and Khartiya97 , exhibited only pro-U.S.
+
+impact, which suggests they almost exclusively publish quotes favorable to the U.S.
+
+and any outlets quoting from their articles are sharing pro-U.S.
+
+quotes.
+
+Most of the high impact outlets have a mixture of pro-Russia and pro-U.S.
+
+impact reflecting more balanced coverage.
+
+Fig.
+
+2 Media outlet impact slant versus total impact across all topics.
+
+For visual emphasis, outlets are also sized by total impact and colored by impact slant.
+
+Total impact represents the sum of pro-Russia and pro-U.S.
+
+impacts.
+
+Impact slant is the difference between an outlet’s pro-U.S.
+
+and pro-Russia impact scores, so a pro-Russia slant is negative, or red, and a pro-U.S.
+
+slant is positive, or green.
+
+Neutral outlets are white.
+
+The grey dotted lines indicate values where all impact came in either the pro-U.S.
+
+or pro-Russia slant.
+
+Full size image Wire outlets like Sputnik News Service , TASS , Reuters News , and Agence France Presse have the highest impact level, which is consistent with their network centrality.
+
+It is also consistent with their increased article volume and role in “breaking” news stories.
+
+While impact slants largely match intuition, there are some surprises in the neutrality, and even slightly pro-U.S.
+
+slant, of certain Russian outlets.
+
+RT Russian , for example, skews slightly pro-U.S.
+
+We investigate some of these specific outlets in the following section.
+
+Examining individual outlet impacts Our methodology enables us to examine the impact of each outlet on other specific outlets.
+
+Figure 3 displays impacts as edges on the impact network, while Figure 4 summarizes the pairwise impacts of the most impactful outlets.
+
+Evident in the network community structure of the estimated causal impact between outlets, outlets typically influence others within their own geopolitical media ecosystem.
+
+This makes sense given language barriers between countries and the saliency of topics within a given country.
+
+Wire outlets, like Reuters , AFP , Sputnik and TASS , break this trend with significant impact reaching outside of their respective countries’ media environments.
+
+These news wires also have the greatest total impact across U.S.
+
+and European media environments.
+
+As the bridges of the estimated causal impact network, these wire outlets play the role of connecting the media ecosystems of different countries.
+
+Nearly all the pro-Russia impact is between Russian outlets and Turkish outlets; outside of Russia and Turkey, net impact is largely pro-U.S.
+
+Moreover, the imbalance in the directionality of the impact slant shows that outlets selectively follow quotes.
+
+For example, Western outlets follow the pro-U.S.
+
+quotes from Russian outlets, while Russian outlets follow the pro-Russia quotes from Western outlets.
+
+Fig.
+
+3 Impact network across all topics.
+
+Edges are sized according to total impact and colored according to impact slant.
+
+Red indicates pro-Russia impact slant, green indicates pro-U.S.
+
+impact slant, and grey indicates neutral impact.
+
+Node locations were determined by a force-directed graph drawing algorithm 21 .
+
+A node’s shape corresponds to that news outlet’s country.
+
+Full size image Figure 3 and Figure 4 reveal a Russian echo chamber in which Russian state media outlets extensively borrow quotes from each other.
+
+Much of the net pro-Russia sentiment across European outlets comes from a few Russian outlets ( TASS , Sputnik , RT ).
+
+The volume of quote following among these outlets is much higher than any other outlet pairs.
+
+This may signify attempts by Russian state media to promote their narratives to the Russian audiences by boosting the messages of similarly state-controlled outlets.
+
+Figure 4 also sheds light on RT Russian and Izvestia ’s neutrality in impact slant.
+
+Compared to the other large Russian sources like Sputnik and TASS , RT Russian and Izvestia have much smaller impact scores.
+
+They do not seem to be as engaged in the Russian state media echo chamber.
+
+Izvestia and RT Russian even exert pro-U.S.
+
+net influences on each other, which can be attributed to the quotation of U.S.
+
+officials.
+
+Many of the most impactful quotes published by RT Russian are from U.S.
+
+officials criticizing Russia.
+
+Due to the editorial context surrounding the extracted quotes, these U.S.
+
+statements that are classified as “negative to Russia” often reflect negatively on the U.S.
+
+to the audiences of Russian media within the context of the whole article.
+
+For instance, when RT Russian quotes former U.S.
+
+Secretary of State Mike Pompeo saying that Russian violated the INF Treaty, commentary or a quote from the Kremlin follows, claiming the U.S.
+
+in fact violated the INF Treaty.
+
+Thus, as Russian media introduces some amount of U.S.
+
+statements for context setting purposes, audiences of Russian media may be conditioned to perceive U.S.
+
+statements as duplicitous or hypocritical.
+
+RT Russian ’s overall pro-U.S.
+
+impact in fact indicates that the outlet is a common source of U.S.
+
+official statements for other Russian outlets.
+
+This finding is supported by the fact that RT has a well-established English-language service with access to press conferences or other English-language sources of U.S.
+
+official statements.
+
+Fig.
+
+4 Impact slant (top) and total impact (bottom) of the 18 highest impact outlets.
+
+Refer to Figure 2 for more detailed definitions.
+
+The row represents the source outlet and column represents the impacted outlet.
+
+In the top table, cells are colored according to their slant, with pro-Russia being red and negative, neutral white and around zero, and pro-U.S.
+
+green and positive.
+
+In the bottom table, cells are shaded according to the magnitude of total impact.
+
+Full size image State-affiliated media impacts In the following section, we introduce two new concepts to our analysis.
+
+First, we work with the followings classifications of a media outlet: state-controlled, state-agenda, and independent.
+
+These classifications reflect to what extent the outlet’s state of origin controls the content being published in an outlet.
+
+State-agenda outlets, for instance, are categorized as not being directly controlled by the state, but as advancing the state agenda due to ownership or political ties to the state.
+
+Second, we present causal impact scores normalized by their potential outcomes, which allow us to compare impacts between outlets with different article outputs.
+
+For example, a normalized causal impact of 50% from Sputnik to Izvestia states we estimate that 50% of the instances Izvestia “follows” a quote from Sputnik are caused by Sputnik using the quote.
+
+Obscured Russian state-affiliated media influence Our analysis reveals an obscured level of Russian influence, which would be of interest to any researchers of influence operations.
+
+As shown in Figure 5 a, Russian state-controlled media have an average causal impact on 24.2% on all other Russian outlets.
+
+This is important to know because while an outlet may be independent, they nevertheless report on the same topics and use the same sources as Russian state media.
+
+Radio Echo Moscow exemplifies this condition with 24.7% of its quote following impacted by Russian state media.
+
+This outlet has previously been noted for its independence from the Russian state and often reports in liberal and pro-Western terms 22 .
+
+However, as shown in Figure 5 a, state-controlled media frequently cause Radio Echo Moscow to use its quotes in its reporting.
+
+In other words, while Radio Echo Moscow is free from reporting in pro-Russian terms, the outlet is not free from reporting the agenda Russian state-controlled media has set.
+
+Fig.
+
+5 Impacts of Russian state media.
+
+Full size image Media independence as a limit on Russian state media influence By dividing media outlets in each European country into state-affiliated (e.g.
+
+state-controlled and state-agenda) and independent, one can see in Figure 5 b that on average Russian state media has greater influence on state-affiliated media than on independent media in all eight European countries in our dataset for which there were both state and independent outlets.
+
+This is possibly a result of countries without well-funded wire news services relying on the packaged reporting from news wires like Russian state-controlled TASS .
+
+These results may also indicate Russian political dominance, where state-controlled media of various countries are following Russian topics of interest with particular attention to official Russian sources.
+
+Regardless of the possible causes, the results of our analysis suggest media independence may decrease the impact that Russian state media has on the European media environment.
+
+The impact of U.S.
+
+and Russian government-sponsored media in Europe Comparing the reach of two state-sponsored media outlets across all countries with outlets represented in our dataset, the Russia-sponsored Sputnik has greater overall impact on European media than does the U.S.-sponsored RFE/RL , as shown in Figure 6 .
+
+RFE/RL nevertheless has an advantage in the media of the following countries: Bulgaria, Kosovo, Germany, Latvia, Romania, France, and Cyprus.
+
+Russian information and influence campaigns are more commonly referenced in the Baltics, the Balkans, and in Eastern Europe.
+
+These findings provide a quantifiable measure of one aspect of Russian influence in those regions.
+
+Fig.
+
+6 Comparison of RFE/RL and Sputnik News Service impact in the media environments of various European countries.
+
+Full size image Case study: the end of the intermediate-range nuclear forces treaty in 2019 One advantage of our approach is we can quantify impacts over any specific topics or range of sentiments.
+
+We have already demonstrated the sentiment-based result generation of pro-Russia versus pro-U.S.
+
+in the above results based on all topics.
+
+Below, we analyze a specific topic: the end of the Intermediate-Range Nuclear Forces (INF) Treaty.
+
+In late 2018 and early 2019, we observed Russian state-aligned outlets voicing a consistent messaging narrative on the topic of nuclear treaties: the United States is breaking existing treaties without cause.
+
+Russian officials made such statements, and Russian state-affiliated outlets propagated these statements by quoting the officials prolifically to create a narrative of the United States’ destabilizing behavior 23 , 24 , 25 , 26 , 27 , 28 .
+
+Conversely, the U.S.
+
+position was that Russia designed and deployed weapons that broke the treaty in the previous several years and that the INF was out of date and irrelevant for current security challenges 29 , 30 .
+
+Our network-based approach to estimating influence allows us to understand how certain outlets influence other outlets, thereby propagating narratives voiced in both positions.
+
+To avoid unnecessary confounding correlation between the network and the quote outcomes, we construct the influence network using all quotes except those on the nuclear treaty topic.
+
+Note, the estimated impact in this case study has higher uncertainty because we have fewer quotes to analyze after restricting our dataset to a single topic.
+
+From the overall results on the nuclear treaty topic (Figure 7 ), one can see that Rossiiskaya Gazeta and TASS English had the most pro-Russia impact on other outlets.
+
+TASS Russian had the highest total impact on the topic, meaning it was the most significant determiner of coverage.
+
+Strikingly, TASS Russian’s impact was rather neutral, which, upon further examination, is a result of other outlets sourcing from TASS Russian for U.S.
+
+official statements on the nuclear treaty with Russia.
+
+One strength of our approach is it allows us to investigate the individual quotes that were influential.
+
+If we inspect Kommersant’s top followed quotes, for example, we see that they are mostly pro-U.S.
+
+Kommersant had three times as much pro-U.S.
+
+outcome as pro-Russia outcome despite pu
+
+</CONTENT>

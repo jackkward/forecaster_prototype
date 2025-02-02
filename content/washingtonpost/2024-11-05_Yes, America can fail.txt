@@ -1,0 +1,103 @@
+<TITLE>Yes, America can fail</TITLE>
+<PUBLISHED_DATE>2024-11-05</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/opinions/2024/11/05/acemoglu-future-democracy-trump-harris/</URL>
+<AUTHOR>Eduardo Porter</AUTHOR>
+
+<SUMMARY>
+The article argues that America's prosperity, despite its high standards of living, is fragile and vulnerable to political instability.
+-  The author warns that a Trump presidency, with policies like deportations and tariffs, could lead to a severe economic downturn, possibly even a depression.
+-  Economist Daron Acemoglu emphasizes that strong institutions, including the rule of law, independent judiciaries, and freedom of the press, are crucial for sustained prosperity.
+-  The article cites research linking populist leaders to economic decline, highlighting how policies favoring specific interests can undermine competition and long-term growth.
+-  The potential for regulatory uncertainty and special treatment for certain businesses, exemplified by Elon Musk, under a Trump administration further illustrates the risks.
+-  The overall message is that current political choices threaten American economic stability.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Follow Eduardo Porter Unfortunately, Trump is itching to undermine all these institutions.
+- As Acemoglu put it to me, “There are many different ways in which the United States can be hurt really badly.” Economic weakness is a general feature of autocratic populism.
+- One study of the economic fallout from 51 cases of populist presidents from 1900 to 2020 concluded that gross domestic product per capita fell by 10 percent over 15 years after countries embraced populism compared to similar nations where populism failed to take root.
+- This is largely due to macroeconomic instability and the erosion of institutions, as populist leaders muck about with the rules to stay in power and “serve the people.” Imagine, suggested Acemoglu, that Elon Musk gets a special place in a second Trump administration.
+- Tesla and SpaceX benefit from a range of special deals at the expense of, say, Volkswagen or … Blue Origin.
+
+</HIGHLIGHTS>
+<CONTENT>
+The United States is immensely prosperous.
+
+The spending power of the typical American is eight times the global average, over five times that of the income of the median Chinese, 15 percent higher than that of the typical German and 30 percent above that of the median Japanese.
+
+And America’s unparalleled capacity for technological innovation is widening many of those gaps even further.
+
+But Americans shouldn’t take these things for granted.
+
+Waiting in line at their polling place to cast their vote for either Donald Trump or Kamala Harris , they probably should come to terms with the fragility of the institutions upon which American prosperity rests.
+
+The MAGA crowd hoping to burn down the house might also want to think hard about the path they’re headed down.
+
+A couple of weeks ago, I wrote about the economic disaster that would befall us were incoming President Trump to enact his most cherished plans to deport immigrants at scale and raise tariffs against imports from everywhere.
+
+Grim though this forecast might be — the risks, according to one economist, include “a depression” — it does not capture what’s fully at stake for America.
+
+I recently spoke with Daron Acemoglu from the Massachusetts Institute of Technology.
+
+Acemoglu won the 2024 Nobel Prize in economics, along with colleagues James Robinson and Simon Johnson, for research on the institutional underpinning of prosperity.
+
+Their core idea, memorably captured in Acemoglu and Robinson’s book, “Why Nations Fail: The Origins of Power, Prosperity, and Poverty,” is that the difference between winners and losers depends on the institutions they build.
+
+Economic prosperity requires institutions that foster risk-taking and innovation: secure property rights that ensure people can enjoy benefits from their investment; predictable enforcement of contracts; free and fair elections that allow citizens to keep a tab on their leaders and replace them when needed.
+
+These things, in turn, require the rule of law, independent judiciaries and freedom of the press.
+
+Follow Eduardo Porter Unfortunately, Trump is itching to undermine all these institutions.
+
+As Acemoglu put it to me, “There are many different ways in which the United States can be hurt really badly.” Economic weakness is a general feature of autocratic populism.
+
+One study of the economic fallout from 51 cases of populist presidents from 1900 to 2020 concluded that gross domestic product per capita fell by 10 percent over 15 years after countries embraced populism compared to similar nations where populism failed to take root.
+
+This is largely due to macroeconomic instability and the erosion of institutions, as populist leaders muck about with the rules to stay in power and “serve the people.” Imagine, suggested Acemoglu, that Elon Musk gets a special place in a second Trump administration.
+
+Tesla and SpaceX benefit from a range of special deals at the expense of, say, Volkswagen or … Blue Origin.
+
+A flurry of investment by Musk may give the economy a temporary boost.
+
+But, over time, the arrangement would undermine competition and discourage new entrants into the market, ushering in higher prices and lower quality.
+
+Or consider the kind of regulatory uncertainty that would come about in the administration of a president who has threatened to deploy regulation as a weapon in his political vendettas.
+
+This could put a freeze on business investment across the board.
+
+The American economy may not implode and become Zimbabwe upon the election of Trump — “it won’t be an overnight thing,” Acemoglu told me.
+
+While democracy may be troubled in the United States , the nation’s institutions are still broadly democratic.
+
+Institutions take time to erode; economies will chug along on past momentum for some time.
+
+Still, stagnation sets in as institutions weaken.
+
+Acemoglu brings up the example of Egypt under Hosni Mubarak.
+
+Egypt remained somewhat stable but failed to develop for years, trundling along under a leadership clique intent on enriching itself.
+
+There is an even better example closer to home.
+
+Acemoglu and Robinson write it up at the very opening of “Why Nations Fail”: Nogales .
+
+There are two Nogales, the product of one city being cut in half by a fence.
+
+One is in Arizona, the other across the border in the Mexican state of Sonora.
+
+They share physical geography and climate.
+
+They have similar ancestry and culture.
+
+People across the border eat the same sort of food and listen to the same sort of music.
+
+Sonora’s Nogales, however, is much poorer.
+
+It sits on a common path for poor Mexican migrants seeking a better life in the United States.
+
+Why the difference? As Acemoglu and Robinson put it , “It is because of the very different institutions on the two sides of the border, which create very different incentives for the inhabitants of Nogales, Arizona, versus Nogales, Sonora.” Voters waiting in line across the United States to vote for either Kamala Harris or Donald Trump might want to take this under consideration.
+
+They are making an immensely consequential decision.
+
+</CONTENT>

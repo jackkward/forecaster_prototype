@@ -1,0 +1,62 @@
+<TITLE>FBI issues warning over two fake election videos</TITLE>
+<PUBLISHED_DATE>2024-11-02</PUBLISHED_DATE>
+<URL>https://www.bbc.com/news/articles/cly2qjel083o</URL>
+<AUTHOR>Olga Robinson, Shayan Sardarizadeh and Mike Wendling</AUTHOR>
+
+<SUMMARY>
+The FBI issued warnings about two fake election videos circulating online, claiming to be from the FBI and spreading false rumors about ballot fraud and Vice President Harris's husband.
+-  Analysis by BBC Verify and other organizations links these videos to a larger Russia-based operation producing hundreds of similar fakes targeting the US election.
+-  The videos use convincing graphics and text mimicking US government agencies and news outlets.
+-  Investigation traced the operation back to a Russian marketing agency and Russian IP address, with the videos also circulating widely on Russian-language Telegram channels.
+-  The Russian embassy denies any involvement.
+-  These videos, despite potentially reaching tens of thousands of views, show signs of being amplified by fake accounts.
+-  This incident highlights ongoing Russian attempts to influence US elections through misinformation.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- CheckFirst found that the style, messages and themes of the videos align with other operations connected to the Kremlin, an assessment backed up by BBC Verify research.
+- It is unclear, however, who is running the operation and whether it is being funded by the Russian government.
+- The Russian embassy in Washington has said in a statement that allegations of election interference by the country are “baseless”.
+- “All insinuations about 'Russian machinations' are malicious slander, invented for use in the internal political struggles in the United States.” According to X’s metrics, the clips have been viewed tens of thousands of times, but are posted by accounts with few followers, and attract very few comments – tell-tale signs that the view count is being amplified by fake “bot” accounts.
+- The FBI declined to comment on the operation, but along with agencies the bureau has issued two other warnings in recent days about Russia-linked influence networks.
+
+</HIGHLIGHTS>
+<CONTENT>
+The Federal Bureau of Investigation (FBI) has warned of two fake videos circulating online that aim to cast doubt around the US presidential election - the latest in a series of alerts by top officials.
+
+BBC Verify found evidence linking the videos to a much larger, Russia-based operation that has produced hundreds of fakes directed at the election in recent months.
+
+In a post on X on Saturday, the FBI said the two videos were spreading rumours about ballot fraud and about Doug Emhoff, the husband of Democrat candidate Vice-President Kamala Harris.
+
+The fake videos, which purport to be from the FBI and include the bureau’s logo, did not receive a large amount of views from real people on X.
+
+“These videos are not authentic, are not from the FBI, and the content they depict is false,” the FBI statement said .
+
+“Attempts to deceive the public with false content about FBI operations undermines our democratic process and aims to erode trust in the electoral system.” Election polls - is Harris or Trump ahead? The contents of the clips as described by the FBI exactly match videos that are part of a batch of more than 300 that BBC Verify has found since the start of the year, as part of an investigation conducted with online research firm Logically.
+
+The videos use convincing graphics and text to look like content from US government agencies as well as more than 50 news organisations – including the BBC, France 24 and Fox News.
+
+The videos have been posted online nearly every day for months and have recently focused on the US election, including clips promoting false claims about Harris and messages about unrest and “civil war”.
+
+CheckFirst - an online analytics company based in Finland that independently investigated the network behind the videos - traced them to a Russian marketing agency and a Russian IP address.
+
+"We can link the operation to Russia thanks to some assets that we know were produced by a Russian company," said Guillaume Kuster, CheckFirst’s chief executive.
+
+"The other source of evidence is a data set we got access to that proves that one of the machines that was used to send emails [by the group] was located in Russia." In addition, videos produced by the operation have circulated widely on Russian-language Telegram channels.
+
+CheckFirst found that the style, messages and themes of the videos align with other operations connected to the Kremlin, an assessment backed up by BBC Verify research.
+
+It is unclear, however, who is running the operation and whether it is being funded by the Russian government.
+
+The Russian embassy in Washington has said in a statement that allegations of election interference by the country are “baseless”.
+
+“All insinuations about 'Russian machinations' are malicious slander, invented for use in the internal political struggles in the United States.” According to X’s metrics, the clips have been viewed tens of thousands of times, but are posted by accounts with few followers, and attract very few comments – tell-tale signs that the view count is being amplified by fake “bot” accounts.
+
+The FBI declined to comment on the operation, but along with agencies the bureau has issued two other warnings in recent days about Russia-linked influence networks.
+
+On Friday, three US agencies including the FBI, the Office of the Director of National Intelligence and the Cybersecurity and Infrastructure Security Agency stated that a viral video that "falsely depicted individuals claiming to be from Haiti" voting was made by "Russian influence actors" .
+
+Last week intelligence agencies said a video purporting to show a poll worker destroying mail-in ballots marked for Donald Trump in Pennsylvania was "manufactured and amplified" by Russians.
+
+</CONTENT>

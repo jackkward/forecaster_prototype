@@ -1,0 +1,124 @@
+<TITLE>Meta’s ‘tipping point’ is about aligning with power</TITLE>
+<PUBLISHED_DATE>2025-01-08</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/politics/2025/01/08/zuckerberg-trump-fact-checks-meta-analysis/</URL>
+<AUTHOR>Will Oremus, Andrea Jiménez</AUTHOR>
+
+<SUMMARY>
+Meta's recent decision to relax content moderation policies, including ceasing fact-checking and easing restrictions on hate speech, is driven by a calculated alignment with the current political power structure.
+-  Mark Zuckerberg, in a video announcement, attributed this shift to a "cultural tipping point," prioritizing free speech.
+-  Crucially, this move comes as the Republican Party controls the White House, Congress, and the Supreme Court, making it less risky for Meta to offend conservatives than liberals or marginalized groups.
+-  Prior to this shift, Meta had faced criticism and legal challenges from Republicans, particularly concerning moderation of Trump's content.
+-  While Zuckerberg initially championed free expression, Meta's policies have historically fluctuated with political winds.
+-  The company's recent actions demonstrate a strategic shift to avoid potential conflicts with the current powerful political forces.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- But it largely exempted Trump from those policies, a stance Zuckerberg defended in a high-minded speech at Georgetown University in 2019 with an appeal to American values of free expression.
+- Trump’s impunity from Facebook’s rules lasted less than 24 hours after Joe Biden was confirmed as president.
+- On Jan.
+- 7, 2021, Facebook joined other tech giants in suspending his account for his role in the Jan.
+- 6 attack on the U.S.
+- Capitol.
+- And during Biden’s term, with regulatory threats looming, the company worked to tamp down hoaxes and conspiracy theories, especially around the covid pandemic and the safety and efficacy of vaccines.
+- Those efforts were costly, both in terms of the resources required for effective moderation and the company’s standing on the right.
+
+</HIGHLIGHTS>
+<CONTENT>
+Happy Wednesday! After Trump renames the Gulf of Mexico , maybe he can look into a new name for french fries .
+
+Send news tips and patriotic snacks to: will.oremus@washpost.com .
+
+Meta’s “tipping point” is about aligning with power.
+
+Mark Zuckerberg never relished the business of policing Facebook users’ politics.
+
+Donald Trump ’s election has given him an opening to get out of it.
+
+In a video on Tuesday explaining Meta’s decision to stop fact-checking posts in the United States, roll back restrictions on hateful language and lift limitations on political discourse across its social networks, the Meta CEO said the “recent elections” feel like a “ cultural tipping point toward once again prioritizing speech.” He welcomed a “new era” in which the company can get “back to our roots” and “focus on restoring free expression” rather than trying to reduce false, harmful or offensive content.
+
+Meta’s fact-checking program was never particularly successful in tamping down falsehoods on its platforms, in part because it was fighting an uphill battle against algorithms designed to rapidly spread sensational content, including lies and hoaxes.
+
+Still, the move sends a powerful signal, especially coupled with the speech policy changes: that the company is tired of assuming responsibility for its role in spreading bigotry or misinformation.
+
+Barely veiled by the lofty ideals is a cold business calculation: With Trump’s Republican Party controlling the White House and Capitol Hill and a sympathetic supermajority ensconced at the Supreme Court, Meta has more to lose by offending conservatives than by offending liberals or marginalized groups.
+
+While Zuckerberg says he started Facebook to “give people a voice,” the company’s speech policies over the years have shifted with the prevailing political winds.
+
+In 2017, the company responded to bipartisan anger over Russian election interference and political misinformation by hiring thousands of content moderators and launching a fact-checking program.
+
+But it largely exempted Trump from those policies, a stance Zuckerberg defended in a high-minded speech at Georgetown University in 2019 with an appeal to American values of free expression.
+
+Trump’s impunity from Facebook’s rules lasted less than 24 hours after Joe Biden was confirmed as president.
+
+On Jan.
+
+7, 2021, Facebook joined other tech giants in suspending his account for his role in the Jan.
+
+6 attack on the U.S.
+
+Capitol.
+
+And during Biden’s term, with regulatory threats looming, the company worked to tamp down hoaxes and conspiracy theories, especially around the covid pandemic and the safety and efficacy of vaccines.
+
+Those efforts were costly, both in terms of the resources required for effective moderation and the company’s standing on the right.
+
+Congressional Republicans launched investigations into Big Tech “censorship,” and Republican state attorneys general sued the Biden administration, alleging collusion with Facebook and others to suppress conservative views.
+
+In January 2023, with Republicans taking control of the House of Representatives and Trump eyeing another run for president, Facebook and other tech platforms reinstated him.
+
+Now that Trump is returning to power, Zuckerberg is scrambling to get on the good side of a leader who takes politics personally — and has shown no qualms about using the office to go after companies that cross him.
+
+In his first term, Trump twice tried to roll back Section 230 , the liability shield that helps make social media profitable, and his Federal Trade Commission filed an antitrust suit against Facebook that is still in court.
+
+Outgoing FTC Chair Lina Khan suggested on Tuesday that Meta and fellow tech giant Amazon may be cozying up to Trump in hopes of a “ sweetheart deal ” in their respective antitrust cases.
+
+(Amazon founder Jeff Bezos owns The Washington Post.) Meanwhile, Trump is urging the Supreme Court to delay a ban on TikTok so that Trump can personally decide the fate of Meta’s leading competitor.
+
+And his pick to lead the Federal Communications Commission, Brendan Carr , sent Meta and other tech giants a letter in November implying that overzealous fact-checking could cost them Section 230 protections under his watch.
+
+That is why there’s no need to postulate some ideological awakening or ambient cultural vibe shift to explain why Meta is back on the “free speech” bandwagon.
+
+More likely, it’s the same reason Zuckerberg dined with Trump in Mar-a-Lago in November and Meta donated $1 million to his inauguration in December, installed a Republican lobbyist as its global affairs chief last week and appointed a Trump ally to its board on Monday: to align with power.
+
+In this instance, aligning with Trump carries the additional appeal of potentially saving Meta a pile of money and hassle.
+
+For Meta, building software that connects its users more or less seamlessly and keeps them hooked on each other’s content is the easy part.
+
+A single product can serve billions of people, which is what makes internet giants so much more profitable than, say, media companies that pay professionals to produce their content.
+
+What gets messy, and pricey, is when an internet giant starts taking a measure of responsibility for all that user-generated content.
+
+Moderating the worst of it requires wading into thorny legal and moral questions, the answers to which will inevitably anger some people even when done well.
+
+And doing it well, on a global scale, would be wildly expensive.
+
+A far cheaper strategy is to do it selectively, shoddily or not at all, and call the result “free speech.” Meta has taken Trump’s election as license to do just that, at least in the United States.
+
+(Abroad, fact checks will continue .) A laissez-faire approach comes with its own risks, both for Meta and its users.
+
+Zuckerberg sharply criticized his company’s own content moderation practices, echoing Republican talking points by calling its fact-checkers “biased” and decrying the resultant “censorship.” But he glossed over why the company came up with those policies in the first place.
+
+While it’s true that users don’t like having their posts taken down, especially by blunt moderation systems, users also really don’t like being called slurs, having their identity or humanity debated, or spending time on social networks whose algorithms elevate hateful and divisive posts and personalities.
+
+Most advertisers want no proximity to any of that either.
+
+If social networks don’t work to contain those sorts of things, they proliferate, as users of Elon Musk ’s X have witnessed .
+
+By loosening its rules on “hateful conduct” to allow users to call homosexuality a disease, refer to transgender people as “it” and characterize women as property, Meta risks alienating some users and advertisers, not to mention further degrading online discourse.
+
+That can have real-world consequences for vulnerable groups.
+
+Now that Trump is back in power, it seems that’s a sacrifice Meta is willing to make.
+
+Government scanner Inside the industry Competition watch Privacy monitor Trending Mentions Josh Arnold , a longtime Republican political strategist who was most recently executive vice president of Targeted Victory, is joining the venture capital firm a16z as Government Affairs Partner in its D.C.
+
+office.
+
+Daybook The Brookings Institution hosts a fireside chat with the FTC Chair Lina Khan , Wednesday at 2 p.m.
+
+Before you log off That’s all for today — thank you so much for joining us! Make sure to tell others to subscribe to the Tech Brief .
+
+Get in touch with Cristiano (via email or social media ) and Will (via email or social media ) for tips, feedback or greetings!
+
+</CONTENT>

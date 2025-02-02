@@ -1,0 +1,387 @@
+<TITLE>The Rise and Fall of Economic Statecraft: Overreach and Incoherence Hobble America’s Most Powerful Weapon</TITLE>
+<PUBLISHED_DATE>2025-01-06</PUBLISHED_DATE>
+<URL>https://www.foreignaffairs.com/reviews/rise-and-fall-economic-statecraft</URL>
+<AUTHOR>Henry Farrell</AUTHOR>
+
+<SUMMARY>
+The article discusses the future of US economic statecraft under President Trump's return.
+-  The US wields significant financial power through sanctions and export controls, but the effectiveness of these tools is questioned due to potential incoherence and disagreements within the administration.
+-  Trump's past inconsistencies on sanctions, coupled with conflicting viewpoints among advisors like Senator Rubio and former Secretary Mnuchin, could lead to policy disputes.
+-  The article argues that the US needs a more coherent and strategic approach to economic security, rather than a haphazard application of sanctions and export controls.
+-  Two recent books, *Dollars and Dominion* and *Chokepoints*, analyze the historical and recent use of economic coercion by the US.
+-  The article concludes that Trump's return may worsen existing coordination issues within the economic security state.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- When Donald Trump returns to the White House in late January, he’ll hold the levers of U.S.
+- economic power.
+- The ubiquity of the dollar as a currency of exchange, coupled with the centrality of U.S.
+- financial institutions and networks, gives Washington an unparalleled ability to make it hard for adversaries to do business.
+- Since 9/11, the United States has wielded financial sanctions at an increasing scale and scope, targeting individuals, governments, and nonstate actors.
+- It has even turned export controls for technologies into a makeshift alternative for sanctions.
+- The future of these tools—some of the most consequential the United States possesses—now resides with a mercurial president.
+
+</HIGHLIGHTS>
+<CONTENT>
+When Donald Trump returns to the White House in late January, he’ll hold the levers of U.S.
+
+economic power.
+
+The ubiquity of the dollar as a currency of exchange, coupled with the centrality of U.S.
+
+financial institutions and networks, gives Washington an unparalleled ability to make it hard for adversaries to do business.
+
+Since 9/11, the United States has wielded financial sanctions at an increasing scale and scope, targeting individuals, governments, and nonstate actors.
+
+It has even turned export controls for technologies into a makeshift alternative for sanctions.
+
+The future of these tools—some of the most consequential the United States possesses—now resides with a mercurial president.
+
+On the campaign trail, Trump insisted that sanctions were a poor tool compared with tariffs: he vowed to use them “as little as possible” for fear that they would kill the dollar as a world currency—an outcome as bad as losing a war, he claimed.
+
+That professed skepticism clashed with his record in office.
+
+In his first term, he was happy to slap sanctions on North Korea and deploy them in an effort to exert “maximum pressure” on Iran.
+
+Trump’s flip-flopping on sanctions is likely to spark disagreements in his next term.
+
+Many of the figures he is bringing into his administration, such as Senator Marco Rubio, the nominee for secretary of state, are proponents of sanctions.
+
+They will certainly want to train this major weapon of U.S.
+
+economic statecraft on their enemies.
+
+Others may be nervous about overusing sanctions, as Steven Mnuchin, the treasury secretary in Trump’s first administration, was.
+
+Some may even be actively hostile to the power of the U.S.
+
+dollar.
+
+Discord may reign.
+
+Washington’s ability to surveil vast troves of financial data and keep money and technology out of the hands of its rivals could be hamstrung by infighting and by Trump’s tendency to change his mind on a whim.
+
+U.S.
+
+economic security policy is primed to become a battleground in which China hawks, tariff warriors, Wall Streeters, and Bitcoin bros compete to sway a president who comes up with policy based on the advice of whoever he last talked to.
+
+The likely consequences of that discord are made clear by two new books that tell the story of how Washington came to master the art of economic coercion, and consider how that mastery might fare in the future.
+
+In Dollars and Dominion , Mary Bridges, a business journalist turned historian, lays out the century-old beginnings of the United States’ financial empire.
+
+In Chokepoints , Edward Fishman, who worked at the Treasury and State Departments, celebrates the “sanctions technocrats” who have built up this mastery over the last two decades.
+
+Given that Trump regards technocratic expertise as the fetters of the “deep state,” Bridges’s account may prove more relevant in the near future, as Trump returns to an earlier and more primitive approach to American economic power.
+
+Today, as in the early twentieth century, that power stems from a hodgepodge of sources.
+
+Over the past two decades, the United States has built economic enforcement muscle at the expense of figuring out how best to use it.
+
+The different parts of what might be called “the economic security state,” such as the Treasury’s Office of Foreign Assets Control and the Commerce Department’s Bureau of Industry and Security, sometimes struggle to coordinate their work and have a shockingly hard time gathering information or crafting long-term strategy.
+
+There is still no blueprint for how all the components ought to fit together.
+
+Trump’s return will only make these problems worse.
+
+The economic security state needs more coherence and planning, not less.
+
+Sanctions and export controls are some of the most powerful weapons in the U.S.
+
+arsenal, but they are administered by a bureaucratic machine held together by spit and duct tape.
+
+There is no equivalent of the Pentagon—a headquarters that brings the efforts of the U.S.
+
+government under one roof—for economic security.
+
+If Trump follows through on his promised sidelining of civil servants, there will be nothing to restrain his appetite for chaos.
+
+In all likelihood, the new administration will lurch unpredictably between wildly incompatible policies: replacing sanctions and export controls with tariffs, deploying sanctions at scale (even possibly against allies), and protecting financial institutions and cryptocurrencies from U.S.
+
+regulatory power.
+
+That will be a mess in the short run and will weaken U.S.
+
+power in the long run, as other countries insulate themselves from the chaos by avoiding the American economic system as much as they can.
+
+GROWING PAINS Since 9/11 , Democratic and Republican administrations have capitalized on the ubiquity of the U.S.
+
+dollar to turn financial sanctions into an all-purpose weapon.
+
+International banks need access to the dollar clearing system, which is controlled by U.S.
+
+regulators, to transfer funds to one another.
+
+That obliges banks, even those based overseas, to comply with U.S.
+
+financial sanctions and reporting requirements.
+
+The results are powerful.
+
+When the Trump administration sanctioned Carrie Lam, the pro-Beijing chief executive of Hong Kong, for human rights violations in 2020, even Chinese banks refused to do business with her.
+
+She had to keep piles of cash around her mansion to pay her bills.
+
+When, in 2024, the Biden administration sanctioned extremist Israeli settlers for attacking or dispossessing Palestinians, Israeli banks had no choice but to cut them off, to the fury and consternation of Israel’s far-right finance minister.
+
+The force of U.S.
+
+sanctions reaches deep into the internal financial arrangements of allies and adversaries alike.
+
+Washington has cobbled together other means of economic coercion, too.
+
+In Trump’s first term, officials expanded the United States’ reach into global supply chains by turning export controls, measures that were originally designed to keep U.S.
+
+technologies out of the hands of enemy militaries, into ersatz sanctions—another way to hurt an adversary’s economy.
+
+U.S.
+
+President Joe Biden used the same mechanism to restrict the entire Chinese and Russian economies from accessing certain semiconductors.
+
+U.S.
+
+economic tools have lost their bite.
+
+Export controls have been less effective than U.S.
+
+officials had hoped because supply chains are murky and therefore hard to control.
+
+Nonetheless, they and other innovations have fostered a growing, albeit disorganized, economic security state within the U.S.
+
+federal government.
+
+By managing and administering sanctions, export controls, and investment screening, Washington can often prevent money and certain technology from falling into the hands of its rivals.
+
+Other parts of the U.S.
+
+regulatory state help, too, even when they don’t have formal ties to national security.
+
+For example, the Securities and Exchange Commission’s efforts to regulate cryptocurrencies helped the Treasury and Justice Departments bring an anarchic financial realm into compliance with U.S.
+
+law.
+
+As a result, terrorists and rogue states now have a harder time circumventing conventional financial controls.
+
+But the rapid growth of the U.S.
+
+economic security state has come at the cost of coherence.
+
+U.S.
+
+officials have few guidelines on when to employ particular economic weapons and few ways to ensure that they don’t interfere with each other.
+
+Sanctions, export controls, and other economic tools have lost some of their bite because they have been used to do ever more things.
+
+Now is an especially bad time for their degradation.
+
+The United States has embarked on a great reorientation of its relationship to the global economy.
+
+Washington once promoted economic interdependence but now openly weaponizes it.
+
+Domestic and international regulations are increasingly intertwined and essential to national security.
+
+If the United States cannot shape markets at home, it will be in no position to do so abroad.
+
+There are even bigger worries.
+
+In a world of rapid technological change, the United States cannot take its economic dominance for granted or rest on its primacy.
+
+Its advantages in the field of artificial intelligence may not compensate for losing the race for the clean energy technologies that AI server centers and everyday electronics will come to depend on.
+
+Tackling these problems will require an enormous increase in state capacity.
+
+The United States needs to become more adaptive by getting much better at gathering information, taking big policy risks, and adjusting policy depending on which bets pay off—a tall order for any administration.
+
+It will be spectacularly challenging for Trump, given his difficulty with sticking to any long-term objectives and his hostility to experts and the so-called deep state.
+
+POWER OF THE PAPER PUSHERS Fishman’s thoroughgoing book is all about expertise, lionizing the bureaucratic virtues that the new administration detests.
+
+It is a 500-page tribute to the sanctions technocrats, the oft-disregarded officials who built up Washington’s coercive might.
+
+After 9/11, the United States discovered that economic globalization had created security vulnerabilities.
+
+Terrorists and other malign actors could organize on the Internet and send and receive money across borders without being tracked.
+
+Over the next two decades, successive Republican and Democratic administrations reasserted influence over the world by controlling choke points in the networks that make up the global financial system.
+
+For example, through the SWIFT network, a communications platform for banks, U.S.
+
+officials can see who is sending money to whom.
+
+The first Trump administration expanded the reach of export controls by applying the foreign direct product rule, under which the U.S.
+
+government can stop the sale not only of U.S.
+
+products but also of many products made with U.S.
+
+equipment, technology, and know-how, including sophisticated semiconductors.
+
+That rule was first used to target Huawei, a Chinese telecommunications firm, and then to regulate the sale of a wide variety of goods to Russia.
+
+Eventually, it was used to block the export of certain high-end semiconductors to China.
+
+Fishman adds previously unknown details to this story, ranging from the trivial (how an EU official stuffed his office with toy airplanes and trains) to the substantial (how Treasury Secretary Janet Yellen was persuaded to embrace measures preventing Russia’s central bank from accessing its foreign reserves).
+
+He has a knack for talking to the sometimes obscure people responsible for “writing the memo,” a practice he shares with one of his bureaucratic heroes.
+
+Chokepoints claims that the wisdom and foresight of these sanctions technocrats created the “blueprints” for a new kind of world order led by the United States and its allies.
+
+Fishman writes that the first Trump administration provides both a “cautionary tale” of how unilateralism can go too far and an example of how to take the threat of China seriously.
+
+He finds that U.S.
+
+financial and technological primacy enabled “little-known American and European bureaucrats” to restructure “relationships between world powers.” The challenge for the United States and its allies is to manage these choke points wisely, using economic warfare to maintain this order and avoid shooting wars as long as possible.
+
+Already, Chokepoints reads less like a prescription for the future than a celebration of the past.
+
+The first Trump administration turned out to be not a cautionary tale but a prototype for the world to come.
+
+There won’t be a new technocratic order.
+
+Instead of operating in a predictable cosmos, global politics will be reshaped by the internal chaos of a new Trump administration, which will feed the chaos of the world outside, as businesses and governments alike try to respond to an unpredictable superpower.
+
+MAN PLANS, GOD LAUGHS If Fishman praises the technocrats of empire, Bridges explains the limits of their vision.
+
+Her indispensable account of the prehistory of the U.S.
+
+economic security state argues that elite strategies of domination are only half the story, if that.
+
+As she points out, global systems of power have “rarely conformed to the blueprints of distant designers.” It is impossible to understand unwieldy economic systems by focusing on the officials who planned them.
+
+Rather, one must also pay attention to the strategies of the businesses and foreigners subject to the plans.
+
+Bridges sketches the haphazard process through which U.S.
+
+dollar dominance came into being.
+
+In the early twentieth century, the United States worried about its companies using the existing financial system, which was dominated by the United Kingdom.
+
+Politicians and businesses feared that foreign banks would share sensitive information with their competitors, a concern that led to the creation of the United States’ first broadly multinational bank, the International Banking Corporation.
+
+The effort to stand up the International Banking Corporation was born less out of a coherent strategy than an ad hoc construction, she finds.
+
+Business leaders and bankers assembled a loose infrastructure to allow U.S.
+
+colonies and dependencies to use the U.S.
+
+dollar, rather than the British pound, in their transactions.
+
+The International Banking Corporation itself was funded by private firms that had an interest in U.S.
+
+dominance.
+
+It was bumbling, chaotic, and self-centered; more interested in helping itself than in helping Uncle Sam.
+
+Through chance as much as intent, this “group of bewildered U.S.
+
+bankers,” as Bridges puts it, helped cement U.S.
+
+global financial power, turning obscure financial instruments into an infrastructure for dollar exchange.
+
+A cryptocurrency exchange in Hong Kong, December 2024 Tyrone Siu / Reuters In Bridges’s view, the current age is also one of flux, with one empire dwindling and another looking to expand.
+
+Just as the United States resented the United Kingdom’s grasp on global finance in the early twentieth century, China resents U.S.
+
+power today and is trying to build its own alternative systems.
+
+The very nature of finance is shifting, as new technologies such as cryptocurrencies and central bank digital currencies emerge.
+
+It is possible that the United States may lose its technological primacy, perhaps through losing the clean energy race.
+
+Chinese leader Xi Jinping is doubling down on physical technologies such as advanced batteries, betting that the ability to create abundant and secure energy is right around the corner.
+
+Xi’s approach may win the support of foreign governments.
+
+Whereas the United States uses choke points to slow the progress of its adversaries, China is advancing in clean energy technologies that it can sell cheaply to other countries.
+
+Yet China’s attempt to reorient the world economy around itself is sometimes as bumbling as the United States’ was a century ago.
+
+China’s Belt and Road Initiative is less an organized plan for world domination than a machine for shoveling contracts to well-connected construction companies.
+
+If this helps build a world economy with Chinese characteristics, it will be half by accident.
+
+Bridges’s book reveals a chaotic and unpredictable world, in which other countries and seemingly minor players can undermine the grand designs of imperial planners.
+
+U.S.
+
+economic coercion rests not only on the primacy of the dollar or control over semiconductors but also on a vast interconnected system of banking, business, and law, one that is becoming ever more complex.
+
+The tools preferred by the sanctions technocrats are becoming less useful as businesses and adversaries find ways to circumvent U.S.-controlled choke points and adversaries, such as China, build their own.
+
+Oligarchs, arms dealers, and terrorists evade sanctions through cryptocurrencies.
+
+In 2023, almost as much money flowed through Tether, a cryptocurrency stablecoin pegged to the U.S.
+
+dollar, as did through Visa cards, powering a shadow economy that is mostly outside the reach of the U.S.
+
+government.
+
+Washington is starting to feel its power falter.
+
+Export controls, even when supercharged by the foreign direct product rule, are far less straightforward to apply than the Biden administration hoped.
+
+There is no equivalent to SWIFT that can provide U.S.
+
+officials with data on supply chains, and U.S.
+
+semiconductor businesses have been willing to walk right up to the edge of what is allowable to maintain access to the Chinese market.
+
+Toward the end of Biden’s term, U.S.
+
+officials began reverting to financial sanctions as they discovered how hard it was to enforce export controls on products with complex supply chains.
+
+Such problems would be tough enough to handle if the sanctions technocrats were still in charge.
+
+But if there is one person who has no technocratic inclination at all, it is Trump.
+
+THE COMING CHAOS The first Trump administration’s economic security policy was a crazy ride, in which people who were connected to finance and Wall Street, such as Mnuchin, battled with China hawks, such as National Security Adviser John Bolton, and tariff enthusiasts, such as U.S.
+
+Trade Representative Robert Lighthizer.
+
+Things happened—or didn’t happen—depending on who had the ear of the president at any moment and who had mastered the dark arts of bureaucratic warfare.
+
+But in this sea of chaos, some islands of stability remained.
+
+Deeper layers of government worked much as they had in previous Republican administrations.
+
+Midlevel economic security officials did their jobs as best as they could.
+
+They lived in fear that an out-of-the-blue presidential tweet might completely remake the policies they were supposed to administer, but many areas of policy were too boring and technical for Trump to care about.
+
+The second Trump administration will be different.
+
+There are new factions in the game, and the chaos may penetrate even those levels of government that escaped Trump’s first term relatively unscathed.
+
+The crypto venture capitalists and entrepreneurs who backed Trump now want to collect their reward.
+
+Some of them have startling political beliefs.
+
+Balaji Srinivasan, for example, who was floated as a potential head of Trump’s Food and Drug Administration, is the author of a self-published book attacking the supposed nexus of U.S.
+
+dollar power and New York Times “wokeism,” which he sees as the products of a decadent intellectual elite.
+
+Srinivasan wants the U.S.-led world order—which he sees as “declining”—to be swept away by a “Pax Bitcoinica.” Less philosophical crypto enthusiasts just want to block government regulations that would stop them from making money.
+
+Both the true believers and the opportunists were outraged when Biden’s Treasury officials used sanctions to isolate a cryptocurrency mixer service—an entity that makes it harder to tell whose money goes where—for laundering billions of dollars for North Korea and other malefactors.
+
+Now, conservative judges have blocked these sanctions, and Trump plans to appoint crypto-friendly officials who will surely try to deregulate cryptocurrency finance.
+
+Should they succeed, the United States’ economic security will be degraded as it becomes easier for people to skirt the dollar.
+
+The crypto venture capitalists who backed Trump now want to collect their reward.
+
+The internal battles will not be limited to financial deregulation.
+
+Traditional national security hawks will want to double down on sanctions and export controls, without any clear sense of where to stop.
+
+Fans of tariffs—a group that currently includes Trump—will apply them to remedy economic insecurity and all else that ails the United States.
+
+They will eventually discover the limits and costs of tariffs, but probably not soon enough.
+
+Well-connected firms will call for more traditional, business-friendly measures, combined with sweetheart deals and carve-outs for themselves and their friends.
+
+Fraught alliances, palace politics, knifings in the dark, and Trump’s whims will send economic security policy reeling.
+
+The one area in which Trump shows unwavering de
+
+</CONTENT>

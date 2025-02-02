@@ -1,0 +1,226 @@
+<TITLE>Russia's War Economy Is Hitting Its Limits</TITLE>
+<PUBLISHED_DATE>2024-11-14</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2024/11/14/russia-war-putin-economy-weapons-production-labor-shortage-demographics/</URL>
+<AUTHOR>Marc R. DeVore, Alexander Mertens</AUTHOR>
+
+<SUMMARY>
+Russia's war economy, despite seemingly strong GDP growth (3.6% in 2023, projected 3.9% in 2024) and low unemployment (2.4% in September), is facing limits.
+-  Sanction evasion and loopholes allow continued exports of oil, gas, and other commodities.
+-  Clever macroeconomic management, notably by Elvira Nabiullina, has kept the Russian financial system relatively healthy.
+- However,  expansion of armed forces and defense production, including tripling artillery shell production, is straining resources, and evidence suggests the official data masks underlying economic weaknesses.
+- The article concludes that Russia's war economy is likely reaching an impasse, despite superficial appearances of strength.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+-  Despite these accomplishments, Russia’s war economy is heading toward an impasse .
+- Signs that the official data masks severe economic strains brought on by both war and sanctions have become increasingly apparent .
+- No matter how many workers it tries to shift to the defense industry, the Kremlin cannot expand production fast enough to replace weapons at the rate they are being lost on the battlefield.
+- Already, around half of all artillery shells used by Russia in Ukraine are from North Korean stocks.
+- At some point in the second half of 2025 , Russia will face severe shortages in several categories of weapons.
+- 
+
+</HIGHLIGHTS>
+<CONTENT>
+Now that Donald Trump is returning to a second term as U.S.
+
+president, ascertaining the true state of Russia’s war economy is more important than ever.
+
+Trump’s advisors believe that Ukraine must settle for peace by whatever means necessary “ to stop the killing .” Implicit in this argument is the view that Russia has the ability to sustain the war for many years to come.
+
+On close examination of the evidence, however, the narrative that Russia has the resources to prevail if it so chooses does not hold.
+
+
+ The apparent resilience of the Russian economy has confounded many strategists who expected Western sanctions to paralyze Moscow’s war effort against Ukraine.
+
+Russia continues to export vast quantities of oil, gas, and other commodities—the result of sanctions evasion and loopholes deliberately designed by Western policymakers to keep Russian resources on world markets.
+
+So far, clever macroeconomic management, particularly by Russian Central Bank Governor Elvira Nabiullina, has enabled the Kremlin to keep the Russian financial system in relative health.
+
+
+ Now that Donald Trump is returning to a second term as U.S.
+
+president, ascertaining the true state of Russia’s war economy is more important than ever.
+
+Trump’s advisors believe that Ukraine must settle for peace by whatever means necessary “ to stop the killing .” Implicit in this argument is the view that Russia has the ability to sustain the war for many years to come.
+
+On close examination of the evidence, however, the narrative that Russia has the resources to prevail if it so chooses does not hold.
+
+
+ The apparent resilience of the Russian economy has confounded many strategists who expected Western sanctions to paralyze Moscow’s war effort against Ukraine.
+
+Russia continues to export vast quantities of oil, gas, and other commodities—the result of sanctions evasion and loopholes deliberately designed by Western policymakers to keep Russian resources on world markets.
+
+So far, clever macroeconomic management, particularly by Russian Central Bank Governor Elvira Nabiullina, has enabled the Kremlin to keep the Russian financial system in relative health.
+
+
+ At first glance, the numbers look surprisingly strong.
+
+In 2023, GDP grew by 3.6 percent and is expected to rise by 3.9 percent in 2024.
+
+Unemployment has fallen from around 4.4 percent before the war to 2.4 percent in September.
+
+Moscow has expanded its armed forces and defense production, adding more than 500,000 workers to the defense industry, approximately 180,000 to the armed forces , and many thousands more to paramilitary and private military organizations.
+
+Russia has reportedly tripled its production of artillery shells to 3 million per year and is manufacturing glide bombs and drones at scale.
+
+
+ Despite these accomplishments, Russia’s war economy is heading toward an impasse .
+
+Signs that the official data masks severe economic strains brought on by both war and sanctions have become increasingly apparent .
+
+No matter how many workers it tries to shift to the defense industry, the Kremlin cannot expand production fast enough to replace weapons at the rate they are being lost on the battlefield.
+
+Already, around half of all artillery shells used by Russia in Ukraine are from North Korean stocks.
+
+At some point in the second half of 2025 , Russia will face severe shortages in several categories of weapons.
+
+
+ Perhaps foremost among Russia’s arms bottlenecks is its inability to replace large-caliber cannons.
+
+According to open-source researchers using video documentation, Russia has been losing more than 100 tanks and roughly 220 artillery pieces per month on average.
+
+Producing tank and artillery barrels requires rotary forges—massive pieces of engineering weighing 20 to 30 tons each—that can each produce only about 10 barrels a month.
+
+Russia only possesses two such forges .
+
+
+ In other words, Russia is losing around 320 tank and artillery cannon barrels a month and producing only 20.
+
+The Russian engineering industry lacks the skills to build rotary forges; in fact, the world market is dominated by a single Austrian company, GFM .
+
+Russia is unlikely to acquire more forges and increase its production rate, and neither North Korea nor Iran have significant stockpiles of suitable replacement barrels .
+
+Only a decision by China to provide barrels from its own stockpiles could stave off Russia’s barrel crisis.
+
+
+ To resupply its forces, Russia has been stripping tank and artillery barrels from the vast stockpiles it inherited from the Soviet Union.
+
+But these stockpiles have withered since the start of the war.
+
+Combining current rates of battlefield loss, recycling from stockpiles, and production, Russia looks set to run out of cannon barrels some time in 2025 .
+
+
+ Russia is consuming other weapons, too, at rates far faster than its ability to produce them.
+
+Open-source researchers have counted the loss of at least 4,955 infantry fighting vehicles since the war’s onset, which comes out to an average of 155 per month .
+
+Russian defense contractors can produce an estimated 200 per year, or about 17 per month , to offset these losses.
+
+Likewise, even Russia’s expanded production of 3 million artillery shells per year pales in comparison to the various estimates for current consumption at the front.
+
+While those estimates are lower than the 12 million rounds Russian forces fired in 2022, they are much higher than what Russian industry can produce.
+
+
+ We do not know when Russia will hit the end of the road with each equipment type.
+
+But there is little the Kremlin can do to stave off that day.
+
+With the Russian economy essentially at full employment, Russian defense companies now struggle to attract workers.
+
+To make matters worse, these companies are competing for the same personnel as the Russian armed forces, which need to recruit 30,000 fresh troops each month to replace casualties.
+
+To this end, the military is offering lavish signing bonuses and greatly increased pay.
+
+Defense producers, in turn, have had to increase wages fivefold, contributing to an inflation rate that reached 8.68 percent in October.
+
+
+ Paradoxically, the same factors that are converging to restrict Russia’s ability to wage war also mean that it cannot easily make peace.
+
+
+ Russia’s economic performance—marked by low unemployment and rising wages—is a product of military Keynesianism.
+
+In other words: Vast military expenditures, which are unsustainable in the long term, are artificially boosting employment and growth.
+
+Almost all the new jobs are related to the military and produce little of value to the civilian economy, where most sectors have great difficulty finding workers.
+
+
+ Defense spending has officially jumped to 7 percent of Russia’s GDP and is projected to consume more than 41 percent of the state budget next year.
+
+The true magnitude of military expenditures is significantly higher.
+
+Russia’s nearly 560,000 armed internal security troops , many of which have been deployed to occupied Ukraine, are funded outside the defense budget—as are the private military companies that have sprouted across Russia.
+
+
+ Paring back these massive defense expenditures, however, will inevitably produce an economic downturn.
+
+If the Kremlin draws down the armed forces to a sustainable level, large numbers of traumatized veterans and well-paid defense workers will find themselves redundant.
+
+The experience of other societies—in particular, European states after World War I—suggests that hordes of demobilized soldiers and jobless defense workers are a recipe for political instability.
+
+
+ The magnitude of the post-war Russian recession will be all the worse because Russia’s civilian economy—particularly small- and medium-sized firms—has shrunk due to the war.
+
+In a phenomenon familiar to economists, high defense expenditures have bid up salaries and attracted labor away from nondefense firms.
+
+The Russian Central Bank’s policy of raising interest rates, which currently stand at 21 percent, has made it much more difficult for nondefense companies to raise capital through loans.
+
+In post-war Russia, a shrunken civilian sector will not be able to absorb the soldiers and workers cast off by the military and defense sector.
+
+
+ Therefore, Russia’s leaders face an unenviable set of dilemmas entirely of their own making.
+
+Russia cannot continue waging the current war beyond late 2025, when it will begin running out of key weapons systems.
+
+
+ Concluding a peace agreement, however, poses a different set of problems, as the Kremlin needs to choose between three unpalatable options.
+
+If it draws down the armed forces and defense industries, it will spark a recession that could threaten the regime.
+
+If Russian policymakers instead maintain high levels of defense spending and a bloated peacetime military, it will asphyxiate the Russian economy, crowding out civilian industry, and stifle growth.
+
+Having experienced the Soviet Union’s decline and fall for similar economic reasons, Russian leaders will probably seek to avoid this fate.
+
+
+ A third option, however, is available and likely beguiling: Rather than demobilizing or bankrupting themselves, Russian leaders could instead use their military to obtain the economic resources needed to sustain it—in other words, using conquest and the threat thereof to pay for the military.
+
+
+ Plenty of precedents exist.
+
+In 1803, French Emperor Napoleon Bonaparte ended 14 months of peace in Europe because he could not afford to fund his military based on French revenues alone—and he also refused to demobilize it.
+
+In 1990, Iraqi leader Saddam Hussein similarly invaded oil-rich Kuwait because he could not afford to pay the million-man army that he refused to downsize.
+
+In both cases, the mirage of conquest seemed attractive for sustaining overly large defense establishments without having to pay for them.
+
+
+ Russia could likewise exploit its expanded military to extract rents from other states.
+
+Even though Russia is running out of key weapons systems for its all-out war on Ukraine, its forces will still be capable of punctual acts of aggression.
+
+Indeed, it’s easy to imagine how Russia might pursue such a policy.
+
+
+ Substantial offshore gas reserves have been discovered in the Black Sea within Ukraine’s and Georgia’s internationally recognized exclusive economic zones (EEZs).
+
+Whenever Western states are distracted by other priorities, Russia could also renew its aggression against Ukraine in order to gain control of its agricultural , gas , and rare-earth resources.
+
+Finally, Russia might use threats of force rather than actually fighting in order to coerce European states to withdraw sanctions, unfreeze Russian assets, or reopen gas and oil pipelines.
+
+
+ Some important lessons emerge.
+
+First, Russia’s economy cannot indefinitely sustain its war against Ukraine.
+
+Labor and production bottlenecks will condemn Russia to defeat as long as Ukraine’s allies sustain it beyond the second half of 2025.
+
+Contrary to the myth of infinite Russian resources, the Kremlin’s armies are far from unbeatable.
+
+But Russia’s defeat demands a level of Western patience and commitment that a combination of vacillating Western leaders and volatile domestic politics renders questionable.
+
+
+ Second, the cessation of full-scale fighting in Ukraine will not end the West’s problems with Russia.
+
+Russia’s supersized military sector incentivizes the Kremlin to use its military to extract rents from neighboring states.
+
+The alternatives—demobilizing and incurring a recession or indefinitely funding a bloated military and defense industry—pose existential threats to Putin’s regime.
+
+
+ However Russia ends its current war, the country’s economic realities alone will generate new forms of insecurity for Europe.
+
+Far-sighted policymakers should focus on mitigating these future threats, even as they focus on how the current round of fighting in Ukraine will end.
+
+
+ Oleksiy Zagorodnyuk contributed to this article.
+
+</CONTENT>

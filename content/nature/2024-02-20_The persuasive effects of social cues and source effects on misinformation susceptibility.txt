@@ -1,0 +1,237 @@
+<TITLE>The persuasive effects of social cues and source effects on misinformation susceptibility</TITLE>
+<PUBLISHED_DATE>2024-02-20</PUBLISHED_DATE>
+<URL>https://www.nature.com/articles/s41598-024-54030-y?error=cookies_not_supported&code=d4e9bf09-c1ad-4e83-a881-ece9a83dc49e</URL>
+<AUTHOR>van der Linden, Sander</AUTHOR>
+
+<SUMMARY>
+This research article examines how social cues and source effects influence susceptibility to misinformation.
+-  Existing studies on misinformation susceptibility often ignore social contexts, yet individuals frequently consume news within social settings.
+-  The study highlights a lack of theoretical frameworks for understanding information in social contexts.
+-  The authors propose that social cues (like "social proof") and source credibility affect misinformation susceptibility, but the impact varies depending on circumstances.
+-  Critically, no prior research has explored *how* these cues affect susceptibility through underlying cognitive mechanisms.
+-  The current study seeks to address this gap by investigating the cognitive processes involved.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- This indicates that if news consumers know that a news source lacks credibility and journalistic principles, they do not fall for misinformation from that source simply because it is politically similar.
+- The finding that news consumers are less critical of information from sources they believe are credible can in some respects be seen as a positive finding, as it suggests that individuals prioritise adherence to principles of truthfulness and accuracy.
+- Lay people and crowds may, on average, be good at assessing the credibility of news outlets 56 , 57 .
+- However, this ‘wisdom of crowds’ effect can be undermined by the fact that crowds tend to challenge only the credibility of the those who they politically disagree with 58 .
+- Indeed, as previous research has found that credibility judgements can be subjective 26 , this can also be problematic, for instance, if one deems sources such as Breitbart—a source that researchers have identified as one playing a significant role in misinformation spread 50 —as credible.
+
+</HIGHLIGHTS>
+<CONTENT>
+Introduction Although social networking sites were initially created to facilitate interpersonal communication and social interactions between users, these platforms have also become one of the main facilitators of misinformation 1 , 2 , 3 , 4 .
+
+Unfortunately, as countless studies and reports have documented, misinformation can have dire consequences for the political and social wellbeing of societies around the globe 5 , 6 , 7 , 8 .
+
+While researchers studying misinformation have made insightful contributions to our understanding of who is most susceptible to misinformation 9 , 10 , 11 , seminal papers have made conclusions about what makes people susceptible by studying misinformation mostly in a social vacuum, when in reality, individuals often consume news in social settings.
+
+Social information represents a ubiquitous and virtually ineluctable part of the internet, with news consumers consistently being exposed to contextual cues accompanying news 12 , 13 , 14 , 15 , and most news consumers (including half of US adults) 16 get at least some—if not an increasing share—of their news from social media 17 , 18 , 19 .
+
+As Jaeger and Burnett 20 pointed out: “Theoretical frameworks for understanding information within a social context are frustratingly rare” ( p.
+
+4), and we posit that this remains the case today.
+
+When consuming news, there are two main contextual elements individuals may be exposed to while they make judgements about headline veracity: Firstly, the source of the information, and secondly, the surrounding social cues (see Fig.
+
+1 ).
+
+Although some studies have sought to examine whether both contextual cues impact misinformation susceptibility, results are highly mixed 12 , 21 , 22 , 23 , 24 .
+
+That is, in some circumstances, social cues (or ‘social proof’ 25 ) seem to influence individual susceptibility to misinformation, while at other times they do not.
+
+Under some circumstances, source effects have been found to play a role in misinformation susceptibility 24 , 26 , whereas in other contexts they have not 27 .
+
+More importantly however, to the best of our knowledge, no previous research has examined how , that is, through which underlying cognitive mechanisms social and source cues impact susceptibility.
+
+In this work we specifically ask: what are the cognitive processes through which individual misinformation susceptibility is impacted via social and source cues? Under which circumstances do social cues impact individual misinformation susceptibility? When do sources bias news consumer judgements of misinformation? Below, we expand on previous research and propose the mechanisms through which this influence may occur.
+
+Figure 1 The social context of misinformation.
+
+( 1 ) Misinformation content originates from a source for which source cues are present.
+
+( 2 ) Surrounding social cues may be present in the form of social proof (e.g., ‘likes’ or comments) or social consensus cues (e.g., explicit judgements of others).
+
+Full size image Social cues and misinformation susceptibility As social media sites represent ecosystems of social information where users can explicitly indicate agreement with or interest in information, express their opinions regarding news, and share information with other users 20 , some of these social cues may signal to other users that interest or support for the given information is high.
+
+Previous research has found that social or group consensus, defined as “the proportion of a population who support a particular attitudinal position” 28 ( p.
+
+1 ) can have a powerful influence on individual attitudes, and has been named one of the most important factors in determining whether people conform to others 28 , 29 , 30 .
+
+For example, social consensus has been found to influence attitudes towards the legalisation of voluntary euthanasia 28 , and to mediate attitudes towards climate change 31 .
+
+Furthermore, estimates of social consensus (which we in this paper refer to as ‘perceived consensus’) predict scientific beliefs, and the presentation of public consensus information influences scientific beliefs 32 .
+
+Previous research has also distinguished between implicit and explicit consensus, referring to implicit consensus as beliefs about what others would do if they were present, and explicit consensus as the actual behaviour of others (Kassin, 1979, p 1967 ), showing that both these two forms of consensus influence individual level beliefs 33 , 34 .
+
+In the context of misinformation, social engagement cues on social networking sites such as ‘likes’ have in some research been found to increase the perceived credibility of misinformation 13 , 23 , whereas other research found no effect of such cues on perceived message credibility 21 .
+
+Moreover, previous credibility ratings have been found to have no effect on perceived news credibility, but negatively valenced comments calling out misinformation made it less believable than when no comments were present 35 .
+
+As such, while previous research has sought to uncover whether or not certain social cues influence misinformation susceptibility, results are mixed.
+
+Moreover, it is currently unknown through which mechanism this influence occurs.
+
+Why do social cues influence perceived reliability of misinformation in some instances but not others? Some researchers have speculated that social cues such as ‘likes’ may lack a negative social interpretation 22 ; and therefore do not serve as any meaningful representation of perceived social consensus.
+
+That is, because ‘likes’ on platforms such as X (previously Twitter ) and Facebook are not contrasted with a ‘dislike’ button, news consumers may not see these engagement cues as representing a direction-related sentiment (e.g., belief in or agreement with a certain social media post).
+
+In this paper we investigate the underlying mechanism of perceived consensus, testing whether social cues impact perceptions of wider societal consensus and subsequent individual-level judgements.
+
+We firstly ask whether social engagement cues such as ‘likes’ impact individual judgements, but more importantly, we ask whether these cues are seen as representative of larger societal consensus.
+
+We further investigate whether individuals are influenced by both exposure to implicit group consensus information (e.g., comments which simply imply endorsement of a headline’s veracity, such as through reacting with concern to a news headline), and explicit group consensus, that is, information which explicitly details the judgements of a group 29 .
+
+Finally, we examine whether these implicit and explicit ‘local’ group cues impact perceptions of wider public consensus, and whether public consensus beliefs influence individual-level judgements.
+
+Source cues and misinformation susceptibility A second way in which consuming news in a social context, such as on social media, may influence the individual is through source cues 36 , 37 , 38 .
+
+Early work on social influence has demonstrated that politically similar sources are more influential than dissimilar sources when it comes to persuasive messages 39 , and we are more likely to be persuaded by 40 and accept advice 41 from similar or like-minded others.
+
+This similarity can be inferred via group identity cues such as political ideology, or cues that indicate other forms of attitudinal similarity 42 , 43 .
+
+There is already some evidence that source cues on social media influence how individuals judge information veracity.
+
+In one study, individuals judged misinformation as more likely to be true if it was attributed to sources that had previously published attitudinally congruent news 44 .
+
+Other research has found that Republican supporters of former US President Donald Trump were more likely to believe misinformation attributed to the previous President compared to misinformation presented without a source 45 .
+
+Another study revealed that participants were more likely trust information shared by elite individual sources they had previously deemed trustworthy compared to those they had deemed untrustworthy.
+
+Interestingly, informing them whether the article originated from a real or fake news outlet later had no impact on their trust ratings of the information 46 , a finding echoed by other research 47 .
+
+Indeed, although some research has found that source cues influence perceived veracity of (mis)information, other research has highlighted that simply emphasising news sources does not reduce misinformation susceptibility 27 .
+
+Furthermore, in a study manipulating both the political slant of true news content and source, the political slant of sources was not found to play a role in whether or not partisans judged headlines as true 48 .
+
+However, when investigating the impact of sources on susceptibility to non-partisan misinformation, recent research found that individuals were more susceptible to misinformation from US news outlets that shared their political identity, an effect driven by perceived source credibility 26 .
+
+However, being more likely to believe misinformation from real news sources that share one’s political identity may be based on past experience with those sources, as some news outlets have been shown to publish more misleading news than others 49 , 50 .
+
+This begs the question of whether people fall for misinformation attributed to similar sources simply because they prefer to get information from similar sources even if they are not credible.
+
+In this paper we examine whether source similarity effects exist even if people are presented with information indicating that the similar source lacks credibility.
+
+The present studies Across 5 experiments, we set out to examine to what extent and how the social context, including social cues and source cues, impacts misinformation susceptibility.
+
+In the first set of studies (studies 1a, 1b &amp; 2) we investigated whether and how social cues and perceived consensus impacts individual judgements of misinformation.
+
+Each of these studies aimed to test whether social cues increase individual susceptibility to misinformation (H1), and 1b and 2 tested whether such cues imply a wider social consensus in the belief that misinformation is reliable (H2).
+
+We further tested whether perceived consensus in the reliability of misinformation predicts (H3) and mediates (H4) the effect of social cues on the perceived reliability of misinformation.
+
+We pre-registered the hypotheses in study 2 ( https://osf.io/4yn7z?view_only=00dca2d0bcfc42bc9393c2f6c7090d41 ).
+
+The second set of studies (studies 3–4) set out to examine the causal and interactive impacts of source similarity and credibility, testing the main hypothesis that source similarity increases misinformation susceptibility (H5) and that both source similarity (H6) and credibility factors (H7) independently increase misinformation susceptibility, even for fictitious news sources.
+
+Of these studies, the second (study 4) was pre-registered ( https://osf.io/wk9ya/?view_only=62174d2be7d64adaa17814386bbc5e1c ).
+
+To broaden the generalisability of results, we use a wider set of stimuli that is broad in content, and in contrast to previous research, we use a deception-based definition of misinformation.
+
+That is, we define misinformation by whether or not the content makes use of deception techniques, rather than defining it as content that is blatantly false or from bogus sources.
+
+Although we tested hypotheses across multiple studies, we did not pool the data for any analyses.
+
+All data is available at on OSF 34 .
+
+Results Studies 1a, 1b &amp; 2 The purpose of studies 1a, 1b &amp; 2 was to test the impact of social cues on the perceived reliability of misinformation.
+
+Specifically, we investigate whether various social cues signal the beliefs of others (perceived consensus), and assess how these cues impact individual judgements.
+
+The structure of the three studies was similar.
+
+Participants were exposed to a series of false headlines and asked to make judgements regarding these.
+
+A full overview of headlines used in each study can be found in Supplementary Information Tables A – E .
+
+A description of how headlines were selected and/or developed is found in the Methods section.
+
+In each of the studies we experimentally manipulated the social cues surrounding the headlines.
+
+Study 1a tested whether the social cues of ‘likes’, ‘retweets’ &amp; ‘comment’ numbers impact misinformation susceptibility.
+
+Data was collected using an open access internet platform as part of a larger intervention experiment ( N = 7788, 58% between 18 and 29, 39% female, 85% completed at least some college, 48% left-leaning), and participants were assigned to one of three conditions: A ‘high’ condition, where the headlines appeared to have a high number of likes, retweets and comments, a ‘low’ condition, where these numbers were low, or a control with these cues cropped out.
+
+Study 1b tested whether the same social cues impacted perceptions of wider social consensus ( N = 628, M age = 37, 68% female, 50% university educated, 52% left-leaning).
+
+In study 2 ( N = 730, M age = 27, 46% female, 53% university educated, 64% left-leaning), data was collected via Prolific and tested the impact of implicit and explicit social cues on individual misinformation susceptibility and perceived consensus.
+
+We manipulated social cues across 5 conditions: Implicit consensus, manipulated through comments endorsing (i.e., indicating belief in) misinformation vs discrediting misinformation, explicit consensus manipulated through direct percentages of previous study participants endorsing (i.e., indicating belief in) vs discrediting misinformation, and a control condition.
+
+More specifically, implicit ‘endorsement’ was operationalised through comments: Participants were exposed to comments underneath each headline that implicitly indicated the commenters believed the headline to be true.
+
+That is, the comments did not directly say things like “ This is reliable! ” (as has been the case in previous research) 35 , but instead used other means to suggest they may find it reliable, e.g., through shock: “ As a new mum this is horrifying to read- what are we feeding our kids ?” or drawing conclusions based on the statement in the headline, e.g.: “ This is why babies need real breast milk which is always sterile, end of story ”.
+
+Similarly, implicit discrediting was operationalised through comments that implicitly suggested the commenters found the headline unreliable, e.g.: “ Terrifying? I heard it’s just a cough ”.
+
+See Fig.
+
+2 for an example of materials in studies 1a and 2 (implicit endorsement condition).
+
+Figure 2 Example of headlines used in studies 1a and 2.
+
+( A ) Study 1a example of item across social cue conditions: High (top), low (middle), control (bottom).
+
+( B ) Examples of item in comment endorsement condition in study 2.
+
+Note : We use the Aptamil image under fair use that allows the use of copyrighted material under certain circumstances, such as for criticism, commentary, news reporting, teaching, scholarship, and research.
+
+Full size image H1: Level of engagement and discrediting cues had no effect, but endorsement cues increased misinformation susceptibility To test whether social cues online impact perceived reliability of misinformation (H1), we collected data on the perceived reliability of misinformation across the different social cue conditions and conducted one-way ANOVAs.
+
+Average perceived reliability of all misinformation headlines was calculated separately for each study.
+
+In study 1a we find a significant effect by group ( F (2,7785) = 42.64, η 2 = 0.01, p &lt; 0.001), but contrary to our hypothesis, post-hoc tests revealed that perceived reliability of misinformation was lower in both the high ‘likes’ condition ( M = 2.68, SD = 1.36, p &lt; 0.001, d = − 0.28) and in the low ‘likes’ condition ( M = 2.76, SD = 1.34, p &lt; 0.0001, d = − 0.22) compared to the the control condition ( M = 3.07, SD = 1.64), but there was no significant difference between the high and low conditions ( p = 0.20, d = − 0.05).
+
+In study 1b the social cue manipulation was not significant in the main model ( F (2,625) = 2.58, η 2 = 0.01, p = 0.08), but the pattern was similar to study 1a, with reliability being lower in both the high likes ( M = 2.64, SD = 0.77, p = 0.15, d = − 0.18) and low likes ( M = 2.62, SD = 0.83, p = 0.10, d = − 0.20) than in the control condition ( M = 2.78, SD = 0.78).
+
+In study 2, as pre-registered, analyses were run with both the full sample and when excluding participants who did not pass the attention check.
+
+Analyses run with the full sample ( F (4,725) = 6.35, p &lt; 0.0001) show a significant main effect of social cues on perceived reliability.
+
+Planned contrasts showed that participants judged misleading headlines as more reliable when previous participant judgements endorsed the misinformation ( M = 2.83, SD = 1.23) compared to when they discredited it ( M = 2.23, SD = 1.01, p &lt; 0.001, d = 0.53).
+
+Participants also judged misleading headlines as more reliable when comments underneath endorsed the misinformation ( M = 2.48, SD = 1.13) compared to when they discredited it ( M = 2.30, SD = 1.10).
+
+This contrast was not significant in analyses run with the full sample ( p = 0.18, d = 0.16), but was significant when excluding those who did not pass the attention check ( M e ndorse = 2.60, SD endorse = 1.22, M discredit = 2.23, SD discredit = 0.99, p = 0.01, d = 0.34).
+
+Further post-hoc tests revealed that there were no significant differences between both discrediting and the control conditions ( p’ s &gt; 0.05), no significant differences between the comment endorsement and control ( p = 0.81), but a significant difference between the previous participant endorsement ( M = 2.83, SD = 1.23) and control condition ( M = 2.34, SD = 1.20, p &lt; 0.01, d = 0.43).
+
+After exclusions, there was however, a significant difference between the comment endorsement and control ( p = 0.03, d = 0.43).
+
+Figure 3 shows the influence of social cue conditions across the three studies.
+
+A full list of results for analyses run after excluding participants who failed the attention check can be found in Supplementary Table F .
+
+Figure 3 Studies 1a, 1b &amp; 2: Mean perceived reliability averaged across misinformation headlines by study.
+
+( A ) Likes, retweet &amp; comment numbers in study 1a.
+
+( B ) Likes, retweet &amp; comment numbers in study 1b.
+
+( C ) Previous participant judgements in study 2.
+
+( D ) Comments in study 2.
+
+Error bars show standard error of the mean.
+
+Full size image Across studies 1a, 1b and 2, we therefore only find partial support for H1.
+
+Level of engagement cues (e.g., high vs low ‘likes’) and discrediting cues had no effect on perceived reliability of misinformation, whereas endorsement cues increased belief.
+
+H2: Endorsement and discrediting cues imply wider social consensus in the belief that misinformation is reliable To test whether social cues imply a wider social consensus in the belief that misinformation is reliable (H2), we collected data on perceived consensus (study 1b &amp; 2) across the different social cue conditions and conducted one-way ANOVAs.
+
+Average perceived consensus for all misinformation headlines was calculated separately for each study.
+
+Results revealed that in study 1b, likes, retweet and comment numbers had no effect on perceived consensus ( F (2,624) = 1.01, p = 0.37).
+
+In study 2, however, social cues had a significant effect ( F (4,725) = 51.84, p &lt; 0.001).
+
+As specified in the pre-registration, we ran two contrasts.
+
+We first compared the comment endorsement and discrediting conditions, where perceived consensus judgements were significantly higher in the endorsement ( M = 54.82, SD = 19.14) compared to the discrediting condition ( M = 44.77, SD = 19.19, p &lt; 0.001, d = 0.52).
+
+We subsequently compared the previous participant endorsement and discrediting conditions, where perceived consensus was also significantly higher in the endorsement condit
+
+</CONTENT>

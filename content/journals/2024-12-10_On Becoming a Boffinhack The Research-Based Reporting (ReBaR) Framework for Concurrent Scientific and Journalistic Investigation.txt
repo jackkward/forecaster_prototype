@@ -1,0 +1,212 @@
+<TITLE>On Becoming a Boffinhack: The Research-Based Reporting (ReBaR) Framework for Concurrent Scientific and Journalistic Investigation</TITLE>
+<PUBLISHED_DATE>2024-12-10</PUBLISHED_DATE>
+<URL>https://journals.sagepub.com/doi/10.1177/10755470241301066</URL>
+<AUTHOR>Matthew D.  LaPlante</AUTHOR>
+
+<SUMMARY>
+This article introduces the Research-based Reporting (ReBaR) framework for concurrent scientific and journalistic investigation.
+-  The framework aims to bridge the gap between science and journalism by enabling scientists to adopt journalistic storytelling techniques and journalists to engage in scientific research.
+-  The ReBaR framework is illustrated through three case studies, demonstrating how this approach fosters symbiotic benefits in both scientific and journalistic processes.
+-  The framework encourages collaborative, transparent investigation that results in publications across peer-reviewed journals and lay publications.
+-  A key goal is to improve the accuracy and accessibility of scientific information through journalistic approaches.
+-  The article emphasizes the complementary nature of scientific and journalistic pursuits in the quest for truth and objectivity.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Described here through three recent experiences, the Research-based Reporting (ReBaR) framework for scientific storytelling is introduced as a model for concurrent journalistic and scientific investigation with publishing outcomes in peer-reviewed and lay press, and in which there are symbiotic benefits to both parts of the process.
+- Get full access to this article View all access and purchase options for this article.
+- Data availability statement Not applicable.
+- References Amici C.
+- M.
+- (2015).
+- Hidden iron: High tech devices in Roman imperial architecture.
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract Scientific and journalistic investigations are complementary pursuits, involving a search for truth through the collection and analysis of evidence, good-faith endeavors of objectivity, and a commitment to transparency and reproducibility.
+
+Yet scientists do not often embrace journalistic methods of storytelling, and journalists rarely engage in scientific research.
+
+Described here through three recent experiences, the Research-based Reporting (ReBaR) framework for scientific storytelling is introduced as a model for concurrent journalistic and scientific investigation with publishing outcomes in peer-reviewed and lay press, and in which there are symbiotic benefits to both parts of the process.
+
+Get full access to this article View all access and purchase options for this article.
+
+Data availability statement Not applicable.
+
+References Amici C.
+
+M.
+
+(2015).
+
+Hidden iron: High tech devices in Roman imperial architecture.
+
+In Proceedings of the 5th International Congress on Construction History (pp.
+
+63–70).
+
+CHSA.
+
+Bednarek M., Caple H.
+
+(2017).
+
+The discourse of news values: How news organizations create newsworthiness .
+
+Oxford University Press.
+
+Boesman J., Costera Meijer I.
+
+(2018).
+
+Nothing but the facts? Exploring the discursive space for storytelling and truth-seeking in journalism.
+
+Journalism Practice , 12(8), 997–1007.
+
+Brüggemann M., Lörcher I., Walter S.
+
+(2020).
+
+Post-normal science communication: Exploring the blurring boundaries of science and journalism.
+
+Journal of Science Communication , 19(3), A02.
+
+Cameron C., Lee H.
+
+Y., Anderson C.
+
+B., Trachtenberg J., Chang S.
+
+(2020).
+
+The role of scientific communication in predicting science identity and research career intention.
+
+PLOS ONE , 15(2), Article e0228197.
+
+de Jong J., Hansen J., Groenewegen P.
+
+(2019).
+
+Why do we need for timeliness of research in decision-making? European Journal of Public Health , 29(Suppl.
+
+4), ckz185–216.
+
+Ginosar A., Zimmerman I., Tal T.
+
+(2024).
+
+Peripheral science journalism: Scientists and journalists dancing on the same floor.
+
+Journalism Practice , 18(4), 918–937.
+
+Hartz J., Chappell R.
+
+(2005).
+
+Worlds apart how the distance between science and journalism threatens Americas future .
+
+First Amendment Center.
+
+LaPlante M., Dahal P., Wang S., Hakala K., Mukherjee A.
+
+(2024).
+
+A “nuclear bomb” or Just “a joke”? Groundwater models may help communicate nuanced risks to the Great Salt Lake.
+
+Water , 16(16), 2221.
+
+LaPlante M., Dalanhese L., Deng L., Wang S.
+
+(2024).
+
+East Pacific ENSO offers early predictive signals for harvest yields.
+
+Journal of Applied Meteorology and Climatology , 63(8), 909–919.
+
+LaPlante M., Deng L., Dalanhese L., Wang S.
+
+(2024).
+
+Ocean temperatures do not account for a record-setting winter in the US West.
+
+Atmosphere , 15(3), 284.
+
+Peters H.
+
+P.
+
+(2013).
+
+Gap between science and media revisited: Scientists as public communicators.
+
+Proceedings of the National Academy of Sciences, 110 (Suppl.
+
+3), 14102–14109.
+
+Stuivenvolt-Allen J., Simon Wang S.
+
+Y., LaPlante M.
+
+D., Yoon J.
+
+H.
+
+(2021).
+
+Three western Pacific typhoons strengthened fire weather in the recent northwest US conflagration.
+
+Geophysical Research Letters , 48(3), Article e2020GL091430.
+
+Tumilty E., Pennel C., Bohn K., Hallmark C.
+
+C., Croisant S.
+
+(2024).
+
+290 Are you trust-worthy: Trust-building activities in translational sciences.
+
+Journal of Clinical and Translational Science, 8 (Suppl.
+
+1), 89–89.
+
+Biographies Matthew D.
+
+LaPlante is a climate researcher, associate professor of journalism at Utah State University, and host of UnDisciplined on Utah Public Radio.
+
+LaPlante is the author of Superlative: The Biology of Extremes and the co-author of multiple books on the intersections of science and society.
+
+He holds a PhD in climate science from Utah State University, a master’s in online teaching from California State University East Bay, and a bachelor’s in liberal studies from Oregon State University.
+
+Cite article Cite article 
+ If you have citation software installed, you can download article citation data to the citation manager of your choice 
+ Information, rights and permissions Information Published In Article first published online : December 10, 2024 Keywords science communication science journalism research-based reporting translational science Rights and permissions © The Author(s) 2024.
+
+Request permissions for this article.
+
+Data availability statement Data is available for this article.
+
+View more information Authors Matthew D.
+
+LaPlante Notes Matthew D.
+
+LaPlante, Climate Scientist and Associate Professor of Journalism, Department of Journalism and Communication, Utah State University, 4805 Old Main, Logan, UT 84322-4805, USA.
+
+Email: matthew.laplante@usu.edu Metrics and citations Metrics 
+ 
+ Total views and downloads:
+44 * Article usage tracking started in December 2016 
+ 
+ Receive email alerts when this article is cited Web of Science: 0 Crossref: 0 
+ Get access Get access If you have access to journal content via a personal subscription, university, library, employer or society, select from the options below: I am signed in as: View my profile Sign out I can access personal subscriptions, purchases, paired institutional access and free tools such as favourite journals, email alerts and saved searches.
+
+Access journal content via a university, library or employer subscription.
+
+Alternatively, view purchase options below: 
+ Access journal content via a DeepDyve subscription or find out more about this option.
+
+
+ 
+ More More
+
+</CONTENT>

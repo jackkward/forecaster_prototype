@@ -1,0 +1,854 @@
+<TITLE>Sharing without clicking on news in social media</TITLE>
+<PUBLISHED_DATE>2024-11-19</PUBLISHED_DATE>
+<URL>https://www.nature.com/articles/s41562-024-02067-4?error=cookies_not_supported&code=02a0641b-0904-4e9a-a04d-9927120bc92a</URL>
+<AUTHOR>Chi, Guangqing</AUTHOR>
+
+<SUMMARY>
+This research paper examines the phenomenon of sharing news items on social media without clicking through to read the full article.
+-  Key studies cited analyze the impact of click-through behavior on perceived knowledge, attitudes, and willingness to discuss news topics.
+-  The research suggests that sharing without reading may lead to an illusion of knowledge and weaker attitudes toward the shared content, potentially impacting political learning.
+-  Specifically, some studies found a correlation between news "snacking" (sharing snippets without full engagement) and a decline in comprehension and knowledge retention.
+-  The analysis underscores the importance of understanding how social media sharing habits influence the consumption and processing of news.
+-  The article primarily presents a review of existing research findings, rather than presenting new original data.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Exposure to ideologically diverse news and opinion on Facebook.
+- Science 348 , 1130–1132 (2015).
+- Article   Guess, A.
+- M.
+- et al.
+- How do social media feed algorithms affect attitudes and behavior in an election campaign?
+
+</HIGHLIGHTS>
+<CONTENT>
+References Chen, S.
+
+&amp; Chaiken, S.
+
+in Dual-Process Theories in Social Psychology (eds Chaiken, S.
+
+&amp; Trope, Y.) 73–96 (The Guilford Press, 1999).
+
+Gabielkov, M., Ramachandran, A., Chaintreau, A.
+
+&amp; Legout, A.
+
+Social clicks: what and who gets read on Twitter? In Proc.
+
+2016 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Science (eds Eager, D.
+
+&amp; Williamson, C.) 179–192 (Association for Computing Machinery, 2016).
+
+Holmström, J.
+
+et al.
+
+Do we read what we share? Analyzing the click dynamic of news articles shared on Twitter.
+
+In Proc.
+
+2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (eds Spezzano, F.
+
+et al.) 420–425 (Association for Computing Machinery, 2019).
+
+Schäfer, S.
+
+Illusion of knowledge through Facebook news? Effects of snack news in a news feed on perceived knowledge, attitude strength, and willingness for discussions.
+
+Comput.
+
+Hum.
+
+Behav.
+
+103 , 1–12 (2020).
+
+Article 
+ 
+Google Scholar 
+ Ohme, J.
+
+&amp; Mothes, C.
+
+News snacking and political learning: changing opportunity structures of digital platform news use and political knowledge.
+
+J.
+
+Inf.
+
+Technol.
+
+Polit .
+
+1–15 (2023).
+
+Andrew, B.
+
+C.
+
+Media-generated shortcuts: do newspaper headlines present another roadblock for low-information rationality? Harv.
+
+Int.
+
+J.
+
+Press Polit.
+
+12 , 24–43 (2007).
+
+Article 
+ 
+Google Scholar 
+ Lee, N.
+
+Y.
+
+Headlines for summarizing news or attracting readers’ attention? Comparing news headlines in South Korean newspapers with The New York Times .
+
+Journalism 23 , 892–909 (2022).
+
+Article 
+ 
+Google Scholar 
+ Carcioppolo, N., Lun, D.
+
+&amp; McFarlane, S.
+
+J.
+
+Exaggerated and questioning clickbait headlines and their influence on media learning.
+
+J.
+
+Media Psychol.
+
+34 , 30–41 (2021).
+
+Article 
+ 
+Google Scholar 
+ Potthast, M.
+
+et al.
+
+Clickbait detection.
+
+In Advances in Information Retrieval.
+
+ECIR 2016.
+
+Lecture Notes in Computer Science Vol.
+
+9626 (eds Ferro, N., et al.) 810–817 (Springer International Publishing, 2016).
+
+Potthast, M.
+
+et al.
+
+Crowdsourcing a large corpus of clickbait on Twitter.
+
+In Proc.
+
+27th International Conference on Computational Linguistics (eds Bender, E.
+
+at al.) 1498–1507 (Association for Computational Linguistics, 2018).
+
+Schmitt, J.
+
+B., Debbelt, C.
+
+A.
+
+&amp; Schneider, F.
+
+M.
+
+Too much information? Predictors of information overload in the context of online news exposure.
+
+Inf.
+
+Commun.
+
+Soc.
+
+21 , 1151–1167 (2018).
+
+Article 
+ 
+Google Scholar 
+ Oeldorf-Hirsch, A.
+
+&amp; Sundar, S.
+
+S.
+
+Posting, commenting, and tagging: effects of sharing news stories on Facebook.
+
+Comput.
+
+Hum.
+
+Behav.
+
+44 , 240–249 (2015).
+
+Article 
+ 
+Google Scholar 
+ Lee, J.
+
+Y.
+
+&amp; Sundar, S.
+
+S.
+
+To Tweet or to Retweet? That is the question for health professionals on Twitter.
+
+Health Commun.
+
+28 , 509–524 (2013).
+
+Article 
+ PubMed 
+ 
+Google Scholar 
+ Wang, S., Chu, T.
+
+H.
+
+&amp; Huang, G.
+
+Do bandwagon cues affect credibility perceptions? A meta-analysis of the experimental evidence.
+
+Commun.
+
+Res.
+
+50 , 720–744 (2023).
+
+Article 
+ 
+Google Scholar 
+ Fu, W.
+
+W.
+
+&amp; Sim, C.
+
+C.
+
+Aggregate bandwagon effect on online videos’ viewership: value uncertainty, popularity cues, and heuristics.
+
+JASIST 62 , 2382–2395 (2011).
+
+Article 
+ 
+Google Scholar 
+ Kim, J.
+
+W.
+
+They liked and shared: effects of social media virality metrics on perceptions of message influence and behavioral intentions.
+
+Comput.
+
+Hum.
+
+Behav.
+
+84 , 153–161 (2018).
+
+Article 
+ 
+Google Scholar 
+ Mourão, R.
+
+R.
+
+&amp; Robertson, C.
+
+T.
+
+Fake news as discursive integration: an analysis of sites that publish false, misleading, hyperpartisan and sensational information.
+
+J.
+
+Stud.
+
+20 , 2077–2095 (2019).
+
+
+Google Scholar 
+ Molina, M.
+
+D.
+
+et al.
+
+Does clickbait actually attract more clicks? Three clickbait studies you must read.
+
+In Proc.
+
+2021 CHI Conference on Human Factors in Computing Systems (eds Barbosa, S.
+
+et al.) 1–19 (Association for Computing Machinery, 2021); https://doi.org/10.1145/3411764.3445753 Sude, D.
+
+&amp; Knobloch-Westerwick, S.
+
+In Knowledge Resistance in High-Choice Information Environm ents (eds Strömbäck, J.
+
+et al.) 88-105 (Routledge, 2022).
+
+Knobloch-Westerwick, S., Mothes, C.
+
+&amp; Polavin, N.
+
+Confirmation bias, ingroup bias, and negativity bias in selective exposure to political information.
+
+Commun.
+
+Res.
+
+47 , 104–124 (2020).
+
+Article 
+ 
+Google Scholar 
+ Ling, R.
+
+Confirmation bias in the era of mobile news consumption: the social and psychological dimensions.
+
+Digit.
+
+J.
+
+8 , 596–604 (2020).
+
+
+Google Scholar 
+ Ross, R.
+
+M., Rand, D.
+
+G.
+
+&amp; Pennycook, G.
+
+Beyond ‘fake news’: analytic thinking and the detection of false and hyperpartisan news headlines.
+
+Judgm.
+
+Decis.
+
+Mak.
+
+16 , 484–504 (2021).
+
+Article 
+ 
+Google Scholar 
+ Messing, S.
+
+&amp; Westwood, S.
+
+J.
+
+Selective exposure in the age of social media: endorsements trump partisan source affiliation when selecting news online.
+
+Commun.
+
+Res.
+
+41 , 1042–1063 (2014).
+
+Article 
+ 
+Google Scholar 
+ Ziemke, D.
+
+A.
+
+Selective exposure in a presidential campaign contingent on certainty and salience.
+
+Ann.
+
+Int.
+
+Commun.
+
+Assoc.
+
+4 , 497–511 (1980).
+
+
+Google Scholar 
+ González-Bailón, S.
+
+et al.
+
+Asymmetric ideological segregation in exposure to political news on Facebook.
+
+Science 381 , 392–398 (2023).
+
+Article 
+ PubMed 
+ 
+Google Scholar 
+ Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B.
+
+&amp; Lazer, D.
+
+Fake news on Twitter during the 2016 US presidential election.
+
+Science 363 , 374–378 (2019).
+
+Article 
+ CAS 
+ PubMed 
+ 
+Google Scholar 
+ Iyengar, S.
+
+&amp; Hahn, K.
+
+S.
+
+Red media, blue media: evidence of ideological selectivity in media use.
+
+J.
+
+Commun.
+
+59 , 19–39 (2009).
+
+Article 
+ 
+Google Scholar 
+ Hoffman, M.
+
+L.
+
+Some psychodynamic factors in compulsive conformity.
+
+J.
+
+Abnorm.
+
+Soc.
+
+Psychol.
+
+48 , 383–393 (1953).
+
+Article 
+ CAS 
+ 
+Google Scholar 
+ Tarr, H.
+
+&amp; Lorr, M.
+
+A comparison of right-wing authoritarianism, conformity and conservatism.
+
+Personal.
+
+Individ.
+
+Differ.
+
+12 , 307–311 (1991).
+
+Article 
+ 
+Google Scholar 
+ Molina, M.
+
+D., Wang, J., Sundar, S.
+
+S., Le, T.
+
+&amp; DiRusso, C.
+
+Reading, commenting and sharing of fake news: how online bandwagons and bots dictate user engagement.
+
+Commun.
+
+Res.
+
+50 , 667–694 (2023).
+
+Article 
+ 
+Google Scholar 
+ Messing, S.
+
+et al.
+
+Facebook privacy-protected full URLs data set [V10].
+
+Harvard Dataverse (2020).
+
+Buntain, C., Bonneau, R., Nagler, J.
+
+&amp; Tucker, J.
+
+A.
+
+Measuring the ideology of audiences for web links and domains using differentially private engagement data.
+
+Proc.
+
+Int.
+
+AAAI Conf.
+
+Web Soc.
+
+Media 17 , 72–83 (2023).
+
+Article 
+ 
+Google Scholar 
+ Robertson, R.
+
+E.
+
+et al.
+
+Auditing partisan audience bias within Google search.
+
+Proc.
+
+ACM Hum.-Computer Interact.
+
+2 , 1–22 (2018).
+
+Article 
+ 
+Google Scholar 
+ Hendriks, P.
+
+Why share knowledge? The influence of ICT on the motivation for knowledge sharing.
+
+Knowl.
+
+Process Manag.
+
+6 , 91–100 (1999).
+
+Article 
+ 
+Google Scholar 
+ van den Hooff, B.
+
+&amp; de Leeuw van Weenen, F.
+
+Committed to share: commitment and CMC use as antecedents of knowledge sharing.
+
+Knowl.
+
+Process Manag.
+
+11 , 13–24 (2004).
+
+Article 
+ 
+Google Scholar 
+ An, J., Quercia, D.
+
+&amp; Crowcroft, J.
+
+Fragmented social media: a look into selective exposure to political news.
+
+In Proc.
+
+22nd International Conference on World Wide Web 51–52 (Association for Computing Machinery, 2013); https://doi.org/10.1145/2487788.2487807 Morgan, J.
+
+S., Lampe, C.
+
+&amp; Shafiq, M.
+
+Z.
+
+Is news sharing on Twitter ideologically biased? In Proc.
+
+2013 Conference on Computer Supported Cooperative Work 887–896 (Association for Computing Machinery, 2013).
+
+Taber, C.
+
+S.
+
+&amp; Lodge, M.
+
+Motivated skepticism in the evaluation of political beliefs.
+
+Am.
+
+J.
+
+Political Sci.
+
+50 , 755–769 (2006).
+
+Article 
+ 
+Google Scholar 
+ Bakshy, E., Messing, S.
+
+&amp; Adamic, L.
+
+A.
+
+Exposure to ideologically diverse news and opinion on Facebook.
+
+Science 348 , 1130–1132 (2015).
+
+Article 
+ CAS 
+ PubMed 
+ 
+Google Scholar 
+ Guess, A.
+
+M.
+
+et al.
+
+How do social media feed algorithms affect attitudes and behavior in an election campaign? Science 381 , 398–404 (2023).
+
+Article 
+ CAS 
+ PubMed 
+ 
+Google Scholar 
+ Stroud, N.
+
+J.
+
+Polarization and partisan selective exposure.
+
+J.
+
+Commun.
+
+60 , 556–576 (2010).
+
+Article 
+ 
+Google Scholar 
+ Mok, L., Inzlicht, M.
+
+&amp; Anderson, A.
+
+Echo tunnels: polarized news sharing online runs narrow but deep.
+
+Proc.
+
+Int.
+
+AAAI Conf.
+
+Web Soc.
+
+Media 17 , 662–673 (2023).
+
+Article 
+ 
+Google Scholar 
+ Muise, D.
+
+et al.
+
+Quantifying partisan news diets in Web and TV audiences.
+
+Sci.
+
+Adv.
+
+8 , eabn0083 (2022).
+
+Article 
+ PubMed 
+ PubMed Central 
+ 
+Google Scholar 
+ Kim, K.
+
+J.
+
+&amp; Sundar, S.
+
+S.
+
+Mobile persuasion: can screen size and presentation mode make a difference to trust? Hum.
+
+Commun.
+
+Res.
+
+42 , 45–70 (2016).
+
+Article 
+ 
+Google Scholar 
+ Alasmari, T.
+
+The effect of screen size on students’ cognitive load in mobile learning.
+
+J.
+
+Educ.
+
+Teach.
+
+Learn.
+
+5 , 280–295 (2020).
+
+Article 
+ 
+Google Scholar 
+ Dunaway, J., Searles, K., Sui, M.
+
+&amp; Paul, N.
+
+News attention in a mobile era.
+
+J.
+
+Comput.
+
+Mediat.
+
+Commun.
+
+23 , 107–124 (2018).
+
+Article 
+ 
+Google Scholar 
+ Keib, K.
+
+et al.
+
+Living at the speed of mobile: how users evaluate social media news posts on smartphones.
+
+Commun.
+
+Res.
+
+49 , 1016–1032 (2021).
+
+Article 
+ 
+Google Scholar 
+ Liao, M., Wang, J., Chen, C.
+
+&amp; Sundar, S.
+
+S.
+
+Less vigilant in the mobile era? A comparison of information processing on mobile phones and personal computers.
+
+N.
+
+Media Soc.
+
+https://doi.org/10.1177/14614448231209475 (2023).
+
+Article 
+ 
+Google Scholar 
+ Ecker, U.
+
+K., Lewandowsky, S.
+
+&amp; Tang, D.
+
+T.
+
+Explicit warnings reduce but do not eliminate the continued influence of misinformation.
+
+Mem.
+
+Cogn.
+
+38 , 1087–1100 (2010).
+
+Article 
+ 
+Google Scholar 
+ Mena, P.
+
+Cleaning up social media: the effect of warning labels on likelihood of sharing false news on Facebook.
+
+Policy Internet 12 , 165–183 (2020).
+
+Article 
+ 
+Google Scholar 
+ Nekmat, E.
+
+Nudge effect of fact-check alerts: source influence and media skepticism on sharing of news misinformation in social media.
+
+Soc.
+
+Media Soc.
+
+6 , 2056305119897322 (2020).
+
+Article 
+ 
+Google Scholar 
+ Kifer, D., Messing, S., Roth, A., Thakurta, A.
+
+&amp; Zhang, D.
+
+Guidelines for implementing and auditing differentially private systems.
+
+Preprint at https://arxiv.org/abs/2002.04049v2 (2020).
+
+Facebook Open Research and Transparency.
+
+GitHub – facebookresearch/svinfer.
+
+GitHub https://github.com/facebookresearch/svinfer (2020).
+
+Evans, G.
+
+&amp; King, G.
+
+Statistically valid inferences from differentially private data releases, with application to the Facebook URLs dataset.
+
+Polit.
+
+Anal.
+
+31 , 1–21 (2023).
+
+Article 
+ 
+Google Scholar 
+ Barberá, P., Jost, J.
+
+T., Nagler, J., Tucker, J.
+
+A.
+
+&amp; Bonneau, R.
+
+Tweeting from left to right: Is online political communication more than an echo chamber? Psych.
+
+Sci.
+
+26 , 1531–1542 (2015).
+
+Article 
+ 
+Google Scholar 
+ Download references
+
+</CONTENT>

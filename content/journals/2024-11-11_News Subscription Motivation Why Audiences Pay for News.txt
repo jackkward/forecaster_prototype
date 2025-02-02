@@ -1,0 +1,884 @@
+<TITLE>News Subscription Motivation: Why Audiences Pay for News</TITLE>
+<PUBLISHED_DATE>2024-11-11</PUBLISHED_DATE>
+<URL>https://journals.sagepub.com/doi/10.1177/15226379241279644</URL>
+<AUTHOR>Esther  Thorson</AUTHOR>
+
+<SUMMARY>
+This research article introduces a new concept, "News Subscription Motivation," to explain why people pay for news subscriptions.
+-  Through mixed methods (interviews and surveys), researchers identified six key motivations: support for journalism, quality of journalism, paywall triggers, community connection, affordability, and content utility.
+-  A validated scale, the News Subscription Motivation Scale, was developed to measure these motivations.
+-  The study found statistically significant relationships between these motivations and the number and type of news subscriptions purchased (e.g., local vs.
+- national).
+-  Importantly, the findings offer a framework to understand and predict paywall success, which is crucial for news organizations facing declining advertising revenue.
+-  The research's implications are discussed in terms of both theory and practice, helping news organizations develop strategies to increase subscriptions.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis.
+- Practical Assessment, Research, and Evaluation , 10(1), Article 7.
+- Dawes J.
+- (2008).
+- Do data characteristics change according to the number of scale points used?
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract Abstract In the face of accelerated losses in advertising revenue, news organizations are increasingly interested in strategies to increase subscription sales.
+
+Previous studies have found several predictors of paywall success in obtaining and maintaining subscriptions, willingness to pay, and paying for news.
+
+But these factors have not been linked together into one clear conceptual framework.
+
+This monograph introduces a new construct, News Subscription Motivation , that theoretically links different predictors of paying for news.
+
+Mixed-method research was employed to conceptualize and operationalize this new construct.
+
+Results of in-depth interviews and online surveys revealed six underlying motivations that drive people to pay for news: support for journalism, journalism quality, triggering by the paywall, community attachment, affordability, and content utility.
+
+We conducted a confirmatory factor analysis to validate the News Subscription Motivation Scale and used multiple regressions to demonstrate statistically significant relationships between subscription motivations and both the number of news subscriptions people report paying for and the types of subscriptions people buy (local vs.
+
+national).
+
+We discuss the theoretical and practical implications of studying news subscription motivation.
+
+الملخص في مواجهة الخسائر المتسارعة في عائدات الإعلانات، تهتم المؤسسات الإخبارية حاليا وبشكل متزايد باستراتيجيات زيادة مبيعات الاشتراكات.
+
+وقد وجدت الدراسات السابقة العديد من المتنبئات لنجاح نظام حظر الأخبار عن غير المشتركين في الحصول على الاشتراكات من الجماهير والحفاظ عليها واستعدادهم للدفع مقابل الأخبار.
+
+لكن هذه العوامل لم يتم ربطها معًا في إطار مفاهيمي واحد وواضح.
+
+تقدم هذه الدراسة مفهوم جديد وهو دافع الاشتراك في الأخبار، والذي يربط نظريًا بين عدة متنبئات مختلفة تدفع الجماهير للدفع مقابل .الأخبار عن طريق المقابلات المتعمقة والاستطلاعات عبر الإنترنت، كشفت الدراسة عن ستة أسباب أساسية تحفز الناس إلى الدفع مقابل الأخبار وهم: دعم الصحافة، وجودة الصحافة، والتحفيز من خلال نظام حظر الاشتراك غير المدفوع، والارتباط بالمجتمع، والقدرة على تحمل التكاليف، وفائدة المحتوى.
+
+وأجرت الدراسة تحليل العوامل التأكيدية للتحقق من صحة مقياس دوافع الاشتراك في الأخبار، كما استخدمت تحليلات متعددة لإثبات العلاقات ذات الأهمية الإحصائية ما بين دوافع الاشتراك وكل من عدد اشتراكات الأخبار التي أبلغ الأشخاص عن دفعهم مقابلها وأنواع الاشتراكات التي يشتريها الأشخاص (محلية مقابل وطنية).
+
+وناقشت .الدراسة الآثار النظرية والعملية لدراسة دوافع الاشتراك في الأخبار 摘要 面对广告收入的加速损失，新闻机构越来越关注增加订阅销售的策略。先前的研究已经发现了付费墙在获得和维持订阅、付费意愿和为新闻付费方面成功的几个预测因素。但这些因素并没有被联系在一起从而形成一个清晰的概念框架。本专题论文介绍了一个新的概念——新闻订阅动机，该概念在理论上将不同的新闻付费预测因素联系起来。本研究采用混合方法来概念化和操作化这一新概念。深度访谈和在线调查的结果揭示了驱使人们为新闻付费的六个潜在动机：对新闻的支持、新闻质量、付费墙的触发、社区归属感、可负担性和内容实用性。我们进行了验证性因子分析以验证新闻订阅动机量表，并使用了多重回归来证明订阅动机与人们报告的支付的新闻订阅数量和人们购买的订阅类型（本地与全国）之间的统计显著关系。我们讨论了研究新闻订阅动机的理论和实践意义。 Résumé Face aux pertes accélérées de revenus publicitaires, les organismes de presse s’intéressent de plus en plus aux stratégies visant à augmenter les ventes d’abonnements.
+
+Des études antérieures ont identifié plusieurs prédicteurs du succès des “paywalls” pour obtenir et maintenir les abonnements, de la volonté de payer et le paiement pour les informations.
+
+Cependant, ces facteurs n’ont pas été liés ensemble dans un cadre conceptuel clair.
+
+Cet article introduit un nouveau concept, la Motivation à l’abonnement aux informations, qui relie théoriquement différents prédicteurs du paiement pour les informations.
+
+Une recherche par méthodes mixtes a été utilisée pour conceptualiser et opérationnaliser ce nouveau concept.
+
+Les résultats d’entretiens approfondis et de sondages en ligne ont révélé six motivations sous-jacentes qui incitent les gens à payer pour les informations: le soutien au journalisme, la qualité du journalisme, la notification du paywall, l’attachement collectif, le caractère financier abordable et l’utilité du contenu.
+
+Nous avons réalisé une analyze factorielle confirmatoire pour valider l’échelle de la Motivation à l’abonnement aux informations, et réalisé des régressions multiples pour démontrer des relations statistiquement significatives entre les motivations d’abonnement et à la fois le nombre d’abonnements aux informations que les personnes déclarent payer et les types d’abonnements qu’elles achètent (local vs.
+
+national).
+
+Nous discutons des implications théoriques et pratiques de l’étude de la motivation à l’abonnement aux informations.
+
+Абстракт В условиях стремительного сокращения доходов от рекламы новостные организации все больше интересуются стратегиями увеличения продаж подписки.
+
+Предыдущие исследования выявили несколько факторов успеха платного доступа в получении и поддержании подписки, готовности платить и платы за новости.
+
+Однако эти факторы не были объединены в единую четкую концептуальную схему.
+
+В данной монографии представлен новый конструкт «Мотивация подписки на новости», который теоретически связывает различные предикторы оплаты новостей.
+
+Для концептуализации и операционализации этой новой конструкции использовался смешанный метод исследования.
+
+Результаты глубинных интервью и онлайн-опросов выявили шесть базовых мотивов, которые побуждают людей платить за новости: поддержка журналистики, качество журналистики, запуск через платный доступ, привязанность к сообществу, доступность и полезность контента.
+
+Мы провели подтверждающий факторный анализ для проверки шкалы мотивации подписки на новости и использовали множественные регрессии, чтобы продемонстрировать статистически значимую связь между мотивацией подписки и количеством подписок на новости, которые люди оплачивают, и типами подписок (местные и национальные).
+
+Мы обсуждаем теоретические и практические последствия изучения мотивации подписки на новости.
+
+Resumen Ante las aceleradas pérdidas de ingresos por publicidad, las organizaciones de noticias están cada vez más interesadas en estrategias para aumentar las ventas de suscripciones.
+
+Estudios anteriores han encontrado varios predictores del éxito de los muros de pago en la obtención y mantenimiento de suscripciones, la disposición a pagar y el pago por noticias.
+
+Pero estos factores no han sido relacionados de manera conjunta en un marco conceptual claro.
+
+Esta monografía introduce un nuevo constructo, “ News Subscription Motivation ” (motivación de la suscripción a noticias), que vincula teóricamente diferentes predictores del pago por noticias.
+
+Se empleó una investigación de métodos mixtos para conceptualizar y operacionalizar este nuevo constructo.
+
+Los resultados de entrevistas en profundidad y encuestas en línea revelaron seis motivaciones subyacentes que impulsan a la gente a pagar por las noticias: el apoyo al periodismo, la calidad del periodismo, la activación por el muro de pago, el vínculo con la comunidad, la asequibilidad, y la utilidad del contenido.
+
+Realizamos un análisis factorial confirmatorio para validar la “ News Subscription Motivation Scale ” (escala de la motivación de la suscripción a noticias) y utilizamos regresiones múltiples para demostrar relaciones estadísticamente significativas entre las motivaciones de la suscripción y, tanto el número de suscripciones a noticias que la gente declara pagar, como los tipos de suscripciones que compran (locales vs.
+
+nacionales).
+
+Discutimos las implicaciones teóricas y prácticas del estudio de la motivación de la suscripción a noticias.
+
+Get full access to this article View all access and purchase options for this article.
+
+References Anderson C.
+
+(2009).
+
+Free: The future of a radical price .
+
+Random House Books.
+
+Anderson S.
+
+(2012).
+
+Advertising on the internet.
+
+In Peitz M., Waldfogel J.
+
+(Eds.), The Oxford handbook of the digital economy (pp.
+
+355–396).
+
+Oxford University Press.
+
+Appelman A., Sundar S.
+
+S.
+
+(2016).
+
+Measuring message credibility: Construction and validation of an exclusive scale.
+
+Journalism &amp; Mass Communication Quarterly , 93(1), 59–79.
+
+Archibald M.
+
+M., Ambagtsheer R.
+
+C., Casey M.
+
+G., Lawless M.
+
+(2019).
+
+Using zoom videoconferencing for qualitative data collection: Perceptions and experiences of researchers and participants.
+
+International Journal of Qualitative Methods, 18, Article 874596.
+
+Bakewell C., Mitchell V.
+
+W.
+
+(2003).
+
+Generation Y female consumer decision-making styles.
+
+International Journal of Retail &amp; Distribution Management , 31(2), 95–106.
+
+Barbopoulos I., Johansson L.
+
+O.
+
+(2016).
+
+A multi-dimensional approach to consumer motivation: Exploring economic, hedonic, and normative consumption goals.
+
+Journal of Consumer Marketing , 33(1), 75–84.
+
+Bayton J.
+
+A.
+
+(1958).
+
+Motivation, cognition, learning: Basic factors in consumer behavior.
+
+Journal of Marketing , 22(3), 282–289.
+
+Berger B., Matt C., Steininger D.
+
+M., Hess T.
+
+(2015).
+
+It is not just about competition with “free”: Differences between content formats in consumer preferences and willingness to pay.
+
+Journal of Management Information Systems , 32(3), 105–128.
+
+Boateng G.
+
+O., Neilands T.
+
+B., Frongillo E.
+
+A., Melgar-Quiñonez H.
+
+R., Young S.
+
+L.
+
+(2018).
+
+Best practices for developing and validating scales for health, social, and behavioral research: a primer.
+
+Frontiers in Public Health , 6, Article 149.
+
+Bomnüter U., Hansen N., Beuthner M., König U., Hennig-Thurau T.
+
+(2023).
+
+More important than ever before? Assessing readers’ willingness to pay for local news as a constituent for sustainable business models.
+
+Journal of Media Business Studies , 21(2), 109–132.
+
+Borchgrevink-Brækhus M., Moe H.
+
+(2023).
+
+The burden of subscribing: How young people experience digital news subscriptions.
+
+Journalism Studies , 24(8), 1069–1086.
+
+Britt S.
+
+H.
+
+(1950).
+
+The strategy of consumer motivation.
+
+Journal of Marketing , 14(5), 666–674.
+
+Carpenter S.
+
+(2018).
+
+Ten steps in scale development and reporting: A guide for researchers.
+
+Communication Methods and Measures , 12(1), 25–44.
+
+Carpenter S., Takahashi B., Lertpratchya A.
+
+P., Cunningham C.
+
+(2016).
+
+Greening the campus: A theoretical extension of the dialogic communication approach.
+
+International Journal of Sustainability in Higher Education , 17(4), 520–539.
+
+https://doi.org/10.1108/IJSHE-02-2015-0036 Chan J.
+
+K.
+
+C., Leung L.
+
+(2005).
+
+Lifestyles, reliance on traditional news media and online news adoption.
+
+New Media &amp; Society , 7(3), 357–382.
+
+Chen R., Thorson E., Lacy S.
+
+(2005).
+
+The impact of newsroom investment on newspaper revenues and profits: Small and medium newspapers, 1998–2002.
+
+Journalism &amp; Mass Communication Quarterly , 82(3), 516–532.
+
+Chen W., Thorson E.
+
+(2021).
+
+Perceived individual and societal values of news and paying for subscriptions.
+
+Journalism , 22(6), 1296–1316.
+
+Chyi H.
+
+I.
+
+(2012).
+
+Paying for what? How much? And why (not)? Predictors of paying intent for multiplatform newspapers.
+
+International Journal on Media Management , 14(3), 227–250.
+
+Chyi H.
+
+I., Lee A.
+
+M.
+
+(2013).
+
+Online news consumption: A structural model linking preference, use, and paying intent.
+
+Digital Journalism , 1(2), 194–211.
+
+Cohen J.
+
+(1988).
+
+The effect size.
+
+In Cohen J.
+
+(Ed.), Statistical power analysis for the behavioral sciences (pp.
+
+77–83).
+
+Routledge.
+
+Contractor S.
+
+H., Fox R.
+
+J.
+
+(2011).
+
+An investigation of the relationship between the number of response categories and scale sensitivity.
+
+Journal of Targeting, Measurement and Analysis for Marketing , 19(1), 23–35.
+
+Copeland L.
+
+(2014).
+
+Conceptualizing political consumerism: How citizenship norms differentiate boycotting from buycotting.
+
+Political Studies , 62, 172–186.
+
+Costello A.
+
+B., Osborne J.
+
+(2005).
+
+Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis.
+
+Practical Assessment, Research, and Evaluation , 10(1), Article 7.
+
+Dawes J.
+
+(2008).
+
+Do data characteristics change according to the number of scale points used? An experiment using 5-point, 7-point and 10-point scales.
+
+International Journal of Market Research , 50(1), 61–104.
+
+DeVellis R.
+
+F.
+
+(2016).
+
+Scale development: Theory and applications .
+
+Sage.
+
+Diamantopoulos A., Schlegelmilch B.
+
+B., Allpress C.
+
+(1990).
+
+Export marketing research in practice: A comparison of users and non-users.
+
+Journal of Marketing Management , 6(3), 257–273.
+
+Diddi A., LaRose R.
+
+(2006).
+
+Getting hooked on news: Uses and gratifications and the formation of news habits among college students in an Internet environment.
+
+Journal of Broadcasting &amp; Electronic Media , 50(2), 193–210.
+
+Dimmick J., Chen Y., Li Z.
+
+(2004).
+
+Competition between the Internet and traditional news media: The gratification-opportunities niche dimension.
+
+The Journal of Media Economics , 17(1), 19–33.
+
+Doyle G.
+
+(2013).
+
+Understanding media economics .
+
+Sage.
+
+Dykema J., Garbarski D., Wall I.
+
+F., Edwards D.
+
+F.
+
+(2019).
+
+Measuring trust in medical researchers: Adding insights from cognitive interviews to examine agree-disagree and construct-specific survey questions.
+
+Journal of Official Statistics , 35(2), 353–386.
+
+Fletcher R., Nielsen R.
+
+K.
+
+(2017).
+
+Are news audiences increasingly fragmented? A cross-national comparative analysis of cross-platform news audience fragmentation and duplication.
+
+Journal of Communication , 67(4), 476–498.
+
+Fornell C., Larcker D.
+
+F.
+
+(1981).
+
+Evaluating structural equation models with unobservable variables and measurement error.
+
+Journal of Marketing Research , 18(1), 39–50.
+
+Gantz W.
+
+(1981).
+
+The influence of researcher methods on television and newspaper news credibility evaluations.
+
+Journal of Broadcasting &amp; Electronic Media , 25(2), 155–169.
+
+Gaziano C., McGrath K.
+
+(1986).
+
+Measuring the concept of credibility.
+
+Journalism Quarterly , 63(3), 451–462.
+
+George L.
+
+M., Waldfogel J.
+
+(2006).
+
+The New York Times and the market for local newspapers.
+
+American Economic Review , 96(1), 435–447.
+
+Giesen L., Roeser A.
+
+(2020).
+
+Structuring a team-based approach to coding qualitative Data.
+
+International Journal of Qualitative Methods , 19, Article 968700.
+
+Goldfarb A., Tucker C.
+
+(2019).
+
+Digital economics.
+
+Journal of Economic Literature , 57(1), 3–43.
+
+Goyanes M.
+
+(2014a).
+
+An empirical study of factors that influence the willingness to pay for online news.
+
+Journalism Practice , 8(6), 742–757.
+
+Goyanes M.
+
+(2014b).
+
+News overload in Spain: The role of demographic characteristics, news interest, and consumer paying behavior.
+
+Profesional De La Información/information Professional , 23(6), 618–624.
+
+Goyanes M.
+
+(2015).
+
+The value of proximity: Examining the willingness to pay for online local news.
+
+International Journal of Communication , 9, 1505–1522.
+
+Goyanes M.
+
+(2020).
+
+Why do citizens pay for online political news and public affairs? Socio-psychological antecedents of local news paying behaviour.
+
+Journalism Studies , 21(4), 547–563.
+
+Goyanes M., Artero J.
+
+P., Zapata L.
+
+(2021).
+
+The effects of news authorship, exclusiveness and media type in readers’ paying intent for online news: An experimental study.
+
+Journalism , 22(7), 1720–1738.
+
+Goyanes M., Scheffauer R., Gil de, Zúñiga H.
+
+G.
+
+(2023).
+
+News distribution and sustainable journalism: Effects of social media news use and media skepticism on citizens’ paying behavior.
+
+Mass Communication and Society , 26(5), 878–901.
+
+Griskevicius V., Kenrick D.
+
+T.
+
+(2013).
+
+Fundamental motives: How evolutionary needs influence consumer behavior.
+
+Journal of Consumer Psychology , 23(3), 372–386.
+
+Groot Kormelink T.
+
+(2023).
+
+Why people don’t pay for news: A qualitative study.
+
+Journalism , 24(10), 2213–2231.
+
+Hair J.
+
+F., Black W.
+
+C., Babin B.
+
+J., Anderson R.
+
+E.
+
+(2009).
+
+Multivariate data analysis (7th ed.).
+
+Prentice-Hall.
+
+Hanson T.
+
+(2015).
+
+Comparing agreement and item-specific response scales: Results from an experiment.
+
+Social Research Practice , 1, 17–25.
+
+Hennink M., Kaiser B.
+
+N.
+
+(2022).
+
+Sample sizes for saturation in qualitative research: A systematic review of empirical tests.
+
+Social Science &amp; Medicine , 292, Article 114523.
+
+Henseler J., Ringle C.
+
+M., Sarstedt M.
+
+(2015).
+
+A new criterion for assessing discriminant validity in variance-based structural equation modeling.
+
+Journal of the Academy of Marketing Science , 43(1), 115–135.
+
+Höhne J.
+
+K., Lenzner T.
+
+(2018).
+
+New insights on the cognitive processing of agree/disagree and item-specific questions.
+
+Journal of Survey Statistics and Methodology , 6(3), 401–417.
+
+John E., Lee J.
+
+Y., Park S.
+
+(2024).
+
+The value of news: A gender gap in paying for news.
+
+Meida International Australia , 192(1), 69–81.
+
+Kamaruddin A.
+
+R., Mokhlis S.
+
+(2003).
+
+Consumer socialization, social structural factors and decision-making styles: A case study of adolescents in Malaysia.
+
+International Journal of Consumer Studies , 27(2), 145–156.
+
+Kammer A., Boeck M., Hansen J.
+
+V., Hauschildt L.
+
+J.
+
+H.
+
+(2015).
+
+The free-to-fee transition: Audiences’ attitudes toward paying for online news.
+
+Journal of Media Business Studies , 12(2), 107–120.
+
+Kang J.
+
+Y.
+
+M., Johnson K.
+
+K., Wu J.
+
+(2014).
+
+Consumer style inventory and intent to social shop online for apparel using social networking sites.
+
+Journal of Fashion Marketing and Management , 18, 301–320.
+
+Kanuri V.
+
+K., Mantrala M.
+
+K., Thorson E.
+
+(2017).
+
+Optimizing a menu of multiformat subscription plans for ad-supported media platforms.
+
+Journal of Marketing , 81(2), 45–63.
+
+Kim S., Eastin M.
+
+S.
+
+(2011).
+
+Hedonic tendencies and the online consumer: An investigation of the online shopping process.
+
+Journal of Internet Commerce , 10(1), 68–90.
+
+Kline R.
+
+(2013).
+
+Exploratory and confirmatory factor analysis.
+
+In Petscher Y., Schatschneider C., Compton D.
+
+L.
+
+(Eds.), Applied quantitative analysis in education and the social sciences (pp.
+
+183–217).
+
+Routledge.
+
+Knieps G., Bauer J.
+
+M.
+
+(2016).
+
+The industrial organization of the Internet.
+
+In Bauer J.
+
+M., Latzer M.
+
+(Eds.), Handbooks on the economics of the Internet (pp.
+
+23–54).
+
+Edward Elgar.
+
+Krabbe P.
+
+(2017).
+
+The measurement of health and health status: Concepts, methods and applications from a multidisciplinary perspective .
+
+Academic Press.
+
+Krans J.
+
+J., Picot A.
+
+(2016).
+
+Internet business strategies.
+
+In J.
+
+M.
+
+Bauer, M Latzer.
+
+(eds.), Handbook on the economics of the internet (pp.
+
+365–384).
+
+Edward Elgar.
+
+Kung F.
+
+Y., Kwok N., Brown D.
+
+J.
+
+(2018).
+
+Are attention check questions a threat to scale validity? Applied Psychology , 67(2), 264–283.
+
+Lacy S.
+
+(1989).
+
+A model of demand for news: Impact of competition on newspaper content.
+
+Journalism Quarterly , 66(1), 40–48.
+
+Lacy S.
+
+(2000).
+
+Commitment of financial resources as a measure of quality.
+
+In Measuring media content, quality and diversity: Approaches and issues in content research (pp.
+
+25–50).
+
+Turku School of Economics and Business Administration.
+
+Lacy S., Fico F.
+
+(1991).
+
+The link between newspaper content quality &amp; circulation.
+
+Newspaper Research Journal , 12(2), 46–57.
+
+Lacy S., Martin H.
+
+J.
+
+(2004).
+
+Competition, circulation and advertising.
+
+Newspaper Research Journal , 25(1), 18–39.
+
+Lacy S., Rosenstiel T.
+
+(2015).
+
+Defining and measuring quality journalism .
+
+Rutgers School of Communication and Information.
+
+Lacy S., Simon T.
+
+F.
+
+(1993).
+
+The economics and regulation of United States newspapers .
+
+Ablex Publishing Corporation.
+
+Lacy S., Stamm M., Martin H.
+
+(2014).
+
+Short-run decisions threaten papers' long-run viability.
+
+Newspaper Research Journal , 35(4), 6–20.
+
+Lam L.
+
+W.
+
+(2012).
+
+Impact of competitiveness on salespeople’s commitment and performance.
+
+Journal of Business Research , 65(9), 1328–1334.
+
+LaRose R.
+
+(2010).
+
+The problem of media habits.
+
+Communication Theory , 20(2), 194–222.
+
+Li Y., Thorson E.
+
+(2015).
+
+Increasing news content and diversity improve revenue.
+
+Newspaper Research Journal , 36(4), 382–398.
+
+Lysonski S., Durvasula S., Zotos Y.
+
+(1996).
+
+Consumer decision-making styles: A multi-country investigation.
+
+European Journal of Marketing , 30, 20–31.
+
+Mallalieu L., Nakamoto K.
+
+(2008).
+
+Understanding the role of consumer motivation and salesperson behavior in inducing positive cognitive and emotional responses during a sales encounter.
+
+Journal of Marketing Theory and Practice , 16(3), 183–198.
+
+Mardia K.
+
+V.
+
+(1970).
+
+Measures of multivariate skewness and kurtosis with applications.
+
+Biometrika , 57(3), 519–530.
+
+Marques I.
+
+C.
+
+D.
+
+S., Theiss L.
+
+M., Johnson C.
+
+Y., McLin E., Ruf B.
+
+A., Vickers S.
+
+M., Fouad M.
+
+M., Scarinci I.
+
+C., Chu D.
+
+I.
+
+(2020).
+
+Implementation of virtual focus groups for 
+
+</CONTENT>

@@ -1,0 +1,220 @@
+<TITLE>Escalating contest over South China Sea disrupts international cable system</TITLE>
+<PUBLISHED_DATE>2024-10-03</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/world/2024/10/03/south-china-sea-underwater-cables/</URL>
+<AUTHOR>Rebecca Tan</AUTHOR>
+
+<SUMMARY>
+The escalating South China Sea dispute is disrupting the repair and construction of vital undersea internet cables.
+-  China's increased control efforts are making it harder for companies to gain approval and operate in the area, leading to delays and increased costs for cable projects.
+-  This has led to some cable projects being rerouted, adding significant expense.
+-  U.S.
+- pressure is also affecting transpacific cable projects, forcing them to avoid the South China Sea.
+-  A recent incident highlights the escalating tensions, with a Chinese coast guard vessel confronting a repair ship within Vietnam's EEZ.
+-  This disruption threatens the efficient flow of global internet traffic, which heavily relies on the cables in the South China Sea.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- A recent incident, which was previously not disclosed, reveals China’s efforts to assert its dominance.
+- In April, a crew aboard a private subsea cable ship escorted by a Vietnamese naval vessel was carrying out a repair within Vietnam’s 200-mile exclusive economic zone (EEZ), hundreds of miles from the Chinese mainland, when they were confronted by a Chinese coast guard vessel.
+- The Chinese vessel came within one mile of the repair ship and demanded over radio to know the nature of the ship’s activities, according to executives at the cable company as well as photos of the encounter between the two vessels and text messages from the repair crew on the day of the incident, which were reviewed by The Washington Post.
+- After the Vietnamese naval ship withdrew several miles away, the Chinese ship spent a day circling the repair vessel, then left it, and the crew finished the job.
+- Company executives, who spoke on the condition of anonymity to protect business interests, said the encounter was the first time they were aware of this happening to a repair ship in the South China Sea.
+
+</HIGHLIGHTS>
+<CONTENT>
+SINGAPORE — Undersea cables below the South China Sea have long provided vital connectivity to countries in Southeast Asia as demand for internet service has surged.
+
+To maintain the extensive network of cables and develop new ones, private cable companies have for decades relied on being able to move freely through this waterway, despite conflicting claims over the sea by China and a half dozen other governments.
+
+But now, competition for control of the South China Sea is disrupting the repair and badly needed construction of subsea cables, raising costs and at times straining telecommunications, according to interviews with more than 30 people in the subsea cable industry and unpublished industry data.
+
+As China presses its claim over most of the strategic waterway, companies have found it harder to get approval from Beijing to operate there and riskier to do so without Chinese permission, said executives at cable companies, consultants and government regulators.
+
+Some cable repairs have been delayed months because of lags in Chinese permitting.
+
+At least two new cable projects are years overdue.
+
+China’s determination to consolidate control over the South China Sea has made the waterway a “wild card” for cable companies, said Kelvan Firman, chief executive of Indonesian company Super Sistem.
+
+“The problem is nobody knows how far they’ll go,” he said, referring to Chinese maritime forces.
+
+“Who wants to take that risk?” Increasingly, telecommunication companies are steering clear of the strategic waterway to avoid facing such challenges or getting ensnared in the wider dispute over cables between China and the West, in particular the United States, which has been stepping up pressure on companies and governments to avoid working with Chinese firms.
+
+As a result of concerted U.S.
+
+lobbying, three transpacific cable projects financed by American firms are being routed to avoid the South China Sea by traversing waters that border Indonesia and the Philippines.
+
+But such detours are longer, less direct and cost tens of millions of dollars more to develop, according to cable consultants.
+
+In the past four years, the U.S.
+
+government has blocked at least three cable projects that would have linked the United States to Hong Kong because of concerns that China could spy on or sabotage communications.
+
+Cable companies, including both American and Chinese firms, were forced to abandon thousands of miles of cable that had already been laid on the seafloor or soldered in factories.
+
+Many details about Chinese delays and harassment, U.S.
+
+pressure, and the steps companies are considering in response have not been previously reported.
+
+More than 99 percent of intercontinental telecommunications, which includes internet traffic, is carried by fiber-optic cables running along the bed of the world’s seas, according to TeleGeography, a research firm.
+
+At least 11 such cable systems with multiple strands lie below the South China Sea, and for decades, this network has been the most efficient way to connect Asia’s internet hubs — Singapore, Hong Kong, Japan — to one another and to the world.
+
+That now faces unprecedented challenges, companies say.
+
+A recent incident, which was previously not disclosed, reveals China’s efforts to assert its dominance.
+
+In April, a crew aboard a private subsea cable ship escorted by a Vietnamese naval vessel was carrying out a repair within Vietnam’s 200-mile exclusive economic zone (EEZ), hundreds of miles from the Chinese mainland, when they were confronted by a Chinese coast guard vessel.
+
+The Chinese vessel came within one mile of the repair ship and demanded over radio to know the nature of the ship’s activities, according to executives at the cable company as well as photos of the encounter between the two vessels and text messages from the repair crew on the day of the incident, which were reviewed by The Washington Post.
+
+After the Vietnamese naval ship withdrew several miles away, the Chinese ship spent a day circling the repair vessel, then left it, and the crew finished the job.
+
+Company executives, who spoke on the condition of anonymity to protect business interests, said the encounter was the first time they were aware of this happening to a repair ship in the South China Sea.
+
+“It was clear to us what it was,” said the company’s head of maintenance.
+
+“A show of strength.” Rising Chinese assertiveness China under President Xi Jinping has become increasingly bold in staking its claims over the South China Sea, rejecting those of six other governments that say the waterway belongs in part to them.
+
+The Chinese coast guard has used violent tactics to exert control, including by swarming and pounding foreign coast guard vessels with water cannons.
+
+Some cable ship owners said they’ve been considering an upgrade of insurance coverage for vessels deployed to the South China Sea.
+
+Other ship owners said they’ve been assessing safety protocols, including whether on occasion to sail with naval escorts or station armed guards aboard vessels.
+
+China’s Ministry of Defense, which is involved in providing cable permits, did not respond to inquiries for this story.
+
+Neither did China’s Ministry of Foreign Affairs, which typically fields inquiries from international media.
+
+At a news conference in December, Mao Ning, a Foreign Ministry spokesperson, rejected reports in the Financial Times and Nikkei that China had been restricting cable activity in the South China Sea.
+
+“The Chinese government,” she said, “has always taken a welcoming attitude and supported other countries and telecommunications companies in laying international submarine cables in waters under China’s jurisdiction.” Undersea cables around the world are vulnerable to a variety of threats, both man-made and natural.
+
+But cables under the South China Sea are more prone to damage than virtually anywhere else because the waterway is both a major shipping route and one of the world’s top fishing grounds, meaning vessels are constantly passing through with anchors and nets that catch on cables, according to the International Cable Protection Committee (ICPC), a nonprofit.
+
+At least one cable fault is reported in the waterway every few weeks, according to unpublished ICPC data that was shared with The Post.
+
+By comparison, in the waters between North and South America, where there’s a similar density of cables, breakages occur only once every few years.
+
+Under U.N.
+
+conventions, cable companies only require permission from a country to fix faults within its territorial waters, which extend 12 miles off the coast, not ones farther out in its 200-mile EEZ.
+
+But given the tensions in the South China Sea, many companies have started to ask for permission to enter EEZs.
+
+Where there are overlapping claims, companies often seek permits from multiple countries.
+
+China’s sweeping claims are delimited on maps with a looping 10-dash line.
+
+Although a U.N.
+
+court ruled in 2016 that this line has no basis in international law, many cable companies don’t dare to send vessels past it without Chinese authorization, said Howard Kidorf, managing partner at the telecommunications consultancy Pioneer Consulting.
+
+“It doesn’t matter if the waters don’t actually belong to them,” Kidorf said.
+
+“If China is acting like the 10-dash line is Chinese, it might as well be.” Damaged cables languish The problem is that getting permits from China has become onerous, contributing to dramatically longer waits for repairs in the South China Sea than elsewhere in the world, said executives at seven cable companies.
+
+It used to take less than 10 days to get permits from China; now it can take up to four months, executives said.
+
+Sometimes, applications are rejected on small technicalities or with little justification, executives said, forcing their companies to reapply.
+
+Information compiled by TeleGeography about repairs that have been publicly disclosed shows that since 2021, faults on several cable systems in the South China Sea have routinely taken more than two months to fix.
+
+The impact was clear last year when all five international subsea cables serving Vietnam were damaged around the same time.
+
+It took eight months to finish repairs, said internet providers, forcing Vietnam to route traffic through land-based cables and satellite networks with lower bandwidth, which slowed internet speeds in parts of the country to a crawl.
+
+Some cable consultants and executives suggest the changes in Chinese permitting are a response to recent U.S.
+
+government efforts to restrict Chinese involvement in international cable projects.
+
+Others attribute the delays to China’s sensitivities about foreign activities near its military outposts in the South China Sea.
+
+China has turned remote reefs and rocks in the South China Sea into military bases and probably doesn’t want foreign vessels approaching these outposts or disturbing the unmapped cables that serve them, said Mike Constable, a consultant and former chief executive officer of the Chinese cable supplier Huawei Marine, now rebranded as HMN Technologies.
+
+In previous decades, Constable said, companies might have addressed repair delays by routing even more cables through the South China Sea to provide redundancy.
+
+But several major investors are no longer willing to lay new cables here — not, he said, after they saw what happened to the cable system known as SJC2.
+
+A crucial project stalled Spanning 6,500 miles, the Southeast Asia-Japan 2 (SJC2) system was designed to enhance connectivity within Asia by linking 11 landing stations between Singapore and Japan.
+
+Financed by an international consortium that includes American and Chinese companies among others, it uses cable built by the Japanese company NEC.
+
+As of August, the project was nearly four years overdue.
+
+Delays of this length are extremely rare in the subsea sector, say consultants.
+
+Much of the holdup has been due to Chinese permitting, according to executives at two companies in the consortium who spoke on the condition of anonymity to protect business interests.
+
+Chinese agencies withheld permit approvals for years, citing concerns that the Japanese-made cables could include features allowing other governments to spy on communications, said the executives.
+
+A spokesperson for NEC said, “There is absolutely no espionage-related behavior in any of our business activities.” China granted key authorizations for the project in 2023, but by that point, new regulations had been passed in other countries, older permits had expired, and some of the cable’s technology had become outdated.
+
+The aim is to have the cable ready for service by the end of this year.
+
+The delays have proved very costly, one executive said, with companies in the consortium forced to retain contractors for longer than expected and reformulate debt payments.
+
+And because the work has dragged on, the company ASEAN Cableship, which was hired to lay the cable, hasn’t been able to take on some other projects, causing a significant loss in potential business, said chief executive Shiun Jye Too.
+
+At the same time that SJC2 has been stalled, two Chinese-led projects without American involvement have been proceeding and are on track to come online next year, according to public announcements.
+
+Both projects, which run through the South China Sea, are being built by China’s HMN Technologies.
+
+“We have not seen any issues” in Chinese permitting, said an executive at a Chinese telecom company involved in the projects.
+
+For many in the industry, the lesson is clear.
+
+“You have to work very closely with the Chinese government and acknowledge them as the primary seabed stakeholder,” said Oli Pope, a U.S.-based consultant.
+
+“That’s the only way.” Fears of spying and sabotage The initial U.S.
+
+government decision in 2020 to block a cable project linking the United States to Hong Kong over spying and sabotage concerns shocked telecom companies.
+
+Since then, Washington has only grown more convinced of the importance of subsea cables to national security and more concerned about their vulnerability, said Justin Sherman, chief executive of D.C.-based Global Cyber Strategies.
+
+This year, U.S.
+
+officials and executives have repeatedly met with representatives of the Vietnamese government to pressure them against working with Chinese cable companies.
+
+These lobbying efforts were first reported by Reuters .
+
+The U.S.
+
+government has highlighted the risks of Chinese espionage and linked potential American investment to “clean” networks with no Chinese involvement, say companies and consultants.
+
+The United States has specifically urged Vietnam, along with Taiwan and Japan, to invest in efforts that protect cables from espionage, said Anne Neuberger, deputy national security adviser for cyber and emerging technology, who met with Vietnam’s top leader last week.
+
+“China has a well-resourced and sophisticated cyberespionage program, so there’s a need to ensure that traffic is traveling in protected ways,” Neuberger said.
+
+A U.S.
+
+State Department spokesperson said Biden administration officials have been holding trainings in Vietnam where they “promote the use of trusted and proven vendors … while additionally encouraging undersea cable route diversity to avoid the contentious South China Sea.” Many in the subsea sector say they worry the U.S.
+
+government could go further, such as barring Chinese companies from repairing U.S.-owned cables, which would make operating in the South China Sea even more difficult.
+
+But pursuing routes that avoid the South China Sea altogether “trades problems for problems,” said Alan Mauldin, research director at TeleGeography.
+
+Bypassing that waterway requires more cable and more time to install.
+
+Some of the alternate routes run through shallower waters, which make the cables more prone to faults.
+
+And because there are few cables running these new routes, it would be difficult, when there are breakages, to shift traffic to other cables on the same pathways.
+
+A consortium of companies that excludes Chinese firms is planning a new cable that goes through the South China Sea just outside the waters claimed by China, according to three consultants with knowledge of the project.
+
+But this isn’t a long-term solution either, said Constable, the former Huawei Marine executive.
+
+Routing cables through the center of the South China Sea with a main trunk that branches off either side is still the most direct and efficient way to meet the booming demand for connectivity within Asia.
+
+This inevitably means operating in the waters that China seeks to dominate.
+
+There are no easy options for cable layers, said Constable.
+
+If the contest for control continues to escalate, he added, “I’m afraid things will only get more difficult.” Map by Laris Karklis.
+
+Pei-Lin Wu contributed to this report.
+
+Copy editing by Dorine Bethea.
+
+</CONTENT>

@@ -1,0 +1,128 @@
+<TITLE>Biden’s blocked US Steel deal carries big risks. Here are the top three.</TITLE>
+<PUBLISHED_DATE>2025-01-03</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/blogs/new-atlanticist/bidens-blocked-us-steel-deal-carries-big-risks-here-are-the-top-three/</URL>
+<AUTHOR>jcookson</AUTHOR>
+
+<SUMMARY>
+President Biden blocked Nippon Steel's acquisition of US Steel citing national security concerns.
+-  This is the ninth time a president has used the Committee on Foreign Investment in the United States (CFIUS) to block a foreign transaction, and the only instance involving a non-Chinese entity.
+-  The decision marks a significant expansion of CFIUS's interpretation of national security risks, potentially impacting future foreign investment in the US, particularly in critical supply chain sectors like steel.
+-  The author argues that the block carries risks of national security overreach, as the decision may lead to more frequent use of CFIUS, even against allies, for potentially unsubstantiated reasons.
+-  This case shows a potential shift in US economic policy, particularly toward friendshoring and scrutiny of foreign investment in strategic sectors.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- This decision, announced Friday, is monumental.
+- It marks only the ninth time that a president has used the Committee on Foreign Investment in the United States (CFIUS) to block a foreign transaction.
+- It is also the only time that CFIUS has been used to prevent a transaction that does not have Chinese ownership or influence ties.
+- * And it creates troubling risks to the United States’ global economic standing that could only worsen in the years to come.
+-   CFIUS, which is tasked with reviewing acquisitions of US businesses by foreign buyers for potential national security risks, used to be a sleepy and little-understood interagency body.
+
+</HIGHLIGHTS>
+<CONTENT>
+US President Joe Biden, in one of his last official acts, has blocked Nippon Steel’s proposed acquisition of US Steel on national security grounds.
+
+This decision, announced Friday, is monumental.
+
+It marks only the ninth time that a president has used the Committee on Foreign Investment in the United States (CFIUS) to block a foreign transaction.
+
+It is also the only time that CFIUS has been used to prevent a transaction that does not have Chinese ownership or influence ties.
+
+* And it creates troubling risks to the United States’ global economic standing that could only worsen in the years to come.
+
+
+ CFIUS, which is tasked with reviewing acquisitions of US businesses by foreign buyers for potential national security risks, used to be a sleepy and little-understood interagency body.
+
+Since 2018, however, CFIUS has developed a higher profile; Congress that year passed a substantial legislative update , and US policy toward Chinese economic engagement has hardened, first under President Donald Trump and then under Biden.
+
+Six out of the previous eight CFIUS prohibitions have happened since 2016, a surprising share given that the committee has existed for fifty years.
+
+
+ CFIUS reviews transactions to determine if they present fact-based national security risks and, if so, if these concerns could be addressed through mitigation terms.
+
+The committee can recommend that the president block the transaction if it finds a risk that cannot be mitigated.
+
+In this case, reporting suggests that the committee itself was split on its recommendation to Biden—meaning that the officials were not in agreement about whether there was an unmitigable national security risk.
+
+
+ I have previously written about the economic justification for Nippon Steel’s proposed acquisition and how a prohibition of the transaction would mark a substantial change in how CFIUS evaluates inward foreign investment.
+
+Here, I want to reflect on three implications of the Nippon Steel block that will likely have a major effect on US economic and security policy in the years to come.
+
+
+ The risk of national security overreach 
+ The US president only has the authority to block foreign acquisitions when CFIUS has determined the transaction to hold an unacceptable risk to national security.
+
+National security itself is not defined in statute but instead reflects case-by-case analysis by the committee.
+
+
+ In announcing his decision to block the Nippon acquisition, Biden suggested that foreign ownership of US Steel—even by a major treaty ally—itself presents an unacceptable and unmitigable national security risk because steel is a critical supply chain.
+
+This is a major expansion of how CFIUS has traditionally interpreted national security, and indeed runs counter to the Biden administration’s own September 2022 executive order that outlined which factors CFIUS should consider when undertaking national security reviews.
+
+
+ While that executive order did identify US domestic capabilities in critical supply chains as legitimate national security concerns, it also defined critical supply chains pursuant to Executive Order 14017 (America’s Supply Chains), which did not include steel.
+
+It also further specified that the committee should factor into such assessments of critical capabilities the availability of alternative suppliers and capabilities in partner and allied countries (such as Japan).
+
+
+ The decision to label Nippon’s proposed acquisition of US Steel as a national security concern directly contradicts the administration’s own articulation of national security assessments.
+
+This could open the door for increasingly dubious claims of national security concerns to justify interventions into transactions for broader economic competitiveness reasons or to favor domestic political allies.
+
+Concerns of national security overreach question the legitimacy of US government actions and could also lead to other countries engaging in similar reasoning to protect their own industries in ways that disadvantage US commercial interests.
+
+
+ The risk of politicization of national security tools 
+ These fears lead directly to a related problem.
+
+CFIUS was designed to depoliticize high-profile and controversial transactions.
+
+It was created to ensure that foreign investment could be stopped if it represented a real threat to national security but not if it simply offended the tastes or preferences of a politically powerful constituency.
+
+Limiting governmental intrusion into private actors’ commercial activities is fundamental to a market economy.
+
+But Biden’s public statements of opposition to this deal from the beginning, before any proper analysis was complete, suggest that his decision to block this deal was not carefully considered but rather made on political grounds.
+
+
+ It is much easier to politicize investment than depoliticize it.
+
+It is generally understood that Cleveland Cliffs—an Ohio-based steel company whose smaller bid for US Steel was turned down in favor of Nippon Steel’s more generous offer—was engaged in lobbying against this deal .
+
+What is to stop other firms from actively lobbying to stymie deals involving competitors in their industries in the future? Perhaps more concerning, what if a future president threatened to block a deal involving companies that he viewed to be insufficiently laudatory of his administration? Or companies that had not donated to his election campaign? Politicization of CFIUS—along with other economic tools related to national security—concentrates enormous power in the executive branch that could easily be misused.
+
+
+ The risk of knee-capping strategic competition with China 
+ Finally, as the chart below illustrates, it’s hard to fathom that the United States alone can counter Chinese global dominance in steel production.
+
+Chinese companies account for almost 60 percent of global steel production.
+
+US companies account for less than 6 percent.
+
+In matters of rebalancing global supply chains out of China, the United States needs partners and allies.
+
+
+ By labeling Nippon Steel as a national security threat rather than a national security asset, the United States makes it harder for its allies and partners to trust that it is a reliable partner.
+
+This will frustrate progress in developing more resilient supply chains around a range of critical items beyond steel, including critical minerals, electric vehicle batteries, semiconductors, and biotechnologies.
+
+
+ 
+ Sarah Bauerle Danzman is a nonresident senior fellow in the GeoEconomics Center’s Economic Statecraft Initiative.
+
+
+ Data visualizations provided by Sophia Busch.
+
+
+ Correction: This article was updated on January 10 to clarify that the Nippon steel case was the only time CFIUS has been used to prevent a transaction that does not have Chinese ownership or influence ties.
+
+A previous version incorrectly omitted the “influence” qualification.
+
+
+ Further reading 
+ Image: US President Joe Biden at the White House, Washington, DC, USA, 02 January 2025.
+
+EPA-EFE/WILL OLIVER/POOL
+
+</CONTENT>

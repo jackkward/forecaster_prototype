@@ -1,0 +1,35 @@
+<TITLE>The Post's View - The Washington Post</TITLE>
+<PUBLISHED_DATE>2025-01-14</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/opinions/the-posts-view/?itid=ai_top_editorial-board</URL>
+<AUTHOR>Editorial Board</AUTHOR>
+
+<SUMMARY>
+This Washington Post webpage describes the editorial board process.
+-  The board, composed of editors and writers, discusses and formulates the newspaper's opinion pieces.
+-  These editorials represent the collective view of the Post, based on internal discussion and consideration of previous positions.
+-  Key individuals on the board are listed.
+-  Importantly, news reporters and editors have no input into the editorial process.
+-  The editorials are distinct from news articles and are based on independent reporting.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Editorials represent the views of The Washington Post as an institution, as determined through discussion among members of the Editorial Board: Opinion Editor David Shipley and Deputy Opinion Editor Stephen Stromberg , as well as writers Mary Duenwald, Robert Gebelhoff , Megan McArdle , James Hohmann , Eduardo Porter and Keith B.
+- Richburg .
+- The board highlights issues it thinks are important and responds to news events, mindful of stands it has taken in previous editorials and principles that have animated Post Editorial Boards over time.
+- Articles in the news pages sometimes prompt ideas for editorials, but every editorial is based on original reporting.
+- News reporters and editors never contribute to Editorial Board discussions, and Editorial Board members don’t have any role in news coverage.
+
+</HIGHLIGHTS>
+<CONTENT>
+Editorials represent the views of The Washington Post as an institution, as determined through discussion among members of the Editorial Board: Opinion Editor David Shipley and Deputy Opinion Editor Stephen Stromberg , as well as writers Mary Duenwald, Robert Gebelhoff , Megan McArdle , James Hohmann , Eduardo Porter and Keith B.
+
+Richburg .
+
+The board highlights issues it thinks are important and responds to news events, mindful of stands it has taken in previous editorials and principles that have animated Post Editorial Boards over time.
+
+Articles in the news pages sometimes prompt ideas for editorials, but every editorial is based on original reporting.
+
+News reporters and editors never contribute to Editorial Board discussions, and Editorial Board members don’t have any role in news coverage.
+
+</CONTENT>

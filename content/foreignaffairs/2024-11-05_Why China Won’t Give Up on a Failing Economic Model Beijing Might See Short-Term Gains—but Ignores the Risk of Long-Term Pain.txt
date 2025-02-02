@@ -1,0 +1,185 @@
+<TITLE>Why China Won’t Give Up on a Failing Economic Model: Beijing Might See Short-Term Gains—but Ignores the Risk of Long-Term Pain</TITLE>
+<PUBLISHED_DATE>2024-11-05</PUBLISHED_DATE>
+<URL>https://www.foreignaffairs.com/china/why-china-wont-give-failing-economic-model</URL>
+<AUTHOR>Zongyuan Zoe Liu</AUTHOR>
+
+<SUMMARY>
+China's economy is in trouble, prompting a series of stimulus measures.
+-  These measures, while aiming to boost consumption, largely focus on state-directed investment rather than direct household support, reflecting a continued reliance on the old economic playbook.
+-  Weak domestic demand, stemming from a lack of consumer confidence and a slowdown in income growth, is a key problem.
+-  The author argues that China's current economic trajectory is unsustainable and that the stimulus plans, aimed primarily at restoring confidence among businesses, are unlikely to effectively address the underlying issues.
+-  The government's focus on boosting financial asset prices via quantitative easing, specifically targeting risky assets, is a short-term solution that ignores the long-term structural issues and risks of sustained economic pain.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- In late September, after months of missing post-pandemic growth targets, the Chinese government began rolling out a broad set of economic stimulus measures.
+- So far, these have included stock market support, monetary policy easing, the recapitalization of large state-owned banks, and some limited fiscal stimulus.
+- The total amount and specifics of the fiscal stimulus will be revealed after the U.S.
+- election, following the National People’s Congress Standing Committee meeting in early November, but Vice Finance Minister Liao Min has described it as “quite large scale.” By unveiling these measures, Beijing has finally acknowledged what the Chinese people and the world have known for some time: the Chinese economy is in deep trouble.
+- The “China Dream”—Chinese President Xi Jinping’s vision of doubling the size of the economy by 2035 and achieving broad-based prosperity—is slipping away.
+- But will the stimulus work?
+
+</HIGHLIGHTS>
+<CONTENT>
+In late September, after months of missing post-pandemic growth targets, the Chinese government began rolling out a broad set of economic stimulus measures.
+
+So far, these have included stock market support, monetary policy easing, the recapitalization of large state-owned banks, and some limited fiscal stimulus.
+
+The total amount and specifics of the fiscal stimulus will be revealed after the U.S.
+
+election, following the National People’s Congress Standing Committee meeting in early November, but Vice Finance Minister Liao Min has described it as “quite large scale.” By unveiling these measures, Beijing has finally acknowledged what the Chinese people and the world have known for some time: the Chinese economy is in deep trouble.
+
+The “China Dream”—Chinese President Xi Jinping’s vision of doubling the size of the economy by 2035 and achieving broad-based prosperity—is slipping away.
+
+But will the stimulus work? China’s most pressing short-term economic challenge is weak domestic demand, driven by a lack of consumer confidence.
+
+When Chinese consumers refuse to spend, they hoard cash, creating a savings glut that, coupled with government overinvestment in politically favored industries, exacerbates China’s most serious long-term structural issue: industrial overcapacity.
+
+As I argued in Foreign Affairs in August, the mutually reinforcing dynamics of flagging domestic demand and industrial overcapacity form an economic doom loop that China must escape to avoid stagnation.
+
+China’s leadership says the latest stimulus is meant to boost consumption.
+
+By largely excluding direct assistance to households as part of its stimulus plans, however, the government has demonstrated that it is still clinging to its old economic playbook of state-directed investment.
+
+At the heart of China’s demand problem is a crisis of confidence stemming from the anxieties of ordinary Chinese about their economic circumstances and future.
+
+In 2017, the year Xi began his second term and tightened his grip on the economy, urban households were enjoying the fruits of decades of strong growth, with disposable income doubling approximately every eight years.
+
+For young families today, those halcyon days are over.
+
+By 2024, average disposable income had increased by only 50 percent since 2017—a dramatic slowdown from the previous era—and the timeline to double it again has stretched to an estimated 15 years.
+
+This slowdown signifies a shift from the once unshakable expectations of economic opportunity to a new reality marked by tempered growth and mounting pressures.
+
+Reversing China’s current trajectory would require nothing short of a time machine, and the stimulus plans under discussion do not provide the kind of household-level financial support necessary to restore confidence in China’s future.
+
+UNRESOLVED WOES Beijing’s recent stimulus measures appear to be aimed primarily at restoring confidence among the country’s business elite.
+
+The People’s Bank of China is adopting a strategy akin to the Federal Reserve’s quantitative easing approach, focusing on financial asset prices in the hope of generating a wealth effect that will ripple through the broader economy.
+
+The PBOC has established two mechanisms, both designed to inject liquidity into markets and prop up prices for riskier financial assets such as stocks, corporate bonds, and exchange-traded funds.
+
+The first is a $70 billion government-run program that enables institutional investors—primarily the state-owned brokerages and insurance companies known as the “national team”—to purchase risky financial assets and subsequently exchange them for high-quality government bonds.
+
+These bonds can then be repledged as collateral for bank loans, effectively granting the national team access to inexpensive central bank financing to acquire assets and support prices.
+
+The PBOC implemented a similar program in 2015 to stabilize the stock market after prices dropped by more than 40 percent in just a few months.
+
+The second mechanism is a $42 billion refinancing program designed to extend loans to publicly listed companies, allowing them to use the proceeds to repurchase their shares on the stock market—essentially functioning as a dividend that boosts returns for stockholders.
+
+Chinese officials hope that this will provide continued fuel for a stock market rally; since mid-September stock prices have increased by about 25 percent.
+
+Despite these efforts, the PBOC’s quantitative easing with Chinese characteristics is unlikely to resolve China ’s larger economic woes, because it does relatively little to stimulate actual consumer demand.
+
+Among the limited direct support provided for households are new regulations that permit borrowers to refinance their mortgages, enabling them to take advantage of a recent half-percent reduction in the benchmark mortgage lending rate.
+
+This change is expected to save an estimated 50 million households a total of about $21 billion annually in lower interest payments.
+
+Additionally, local authorities have reduced the down payment required for purchasing a second home as part of efforts to eliminate excess inventory from the market and provide some support for housing prices.
+
+Given that housing accounts for about 70 percent of the assets of Chinese families and mortgages represent approximately 75 percent of household debt, any measures aimed at stabilizing home prices and decreasing financing costs are likely to strengthen household balance sheets.
+
+Establishing a floor under housing prices is a critical first step in restoring the confidence of Chinese consumers in their long-term financial outlook.
+
+To date, China’s top policymakers have been notably reluctant to even discuss direct cash transfers to ordinary consumers.
+
+This is likely because of the government’s limited policy experience in this area and a wariness on the part of economic officials in Beijing to signal any policy shift without explicit direction from Xi.
+
+Yet China’s financial infrastructure is well prepared to facilitate a direct household stimulus.
+
+Most payrolls and social security benefits are already linked to deposit accounts at state-owned commercial banks, making balance top-ups operationally straightforward.
+
+MY WAY OR THE HIGHWAY Xi is not averse to abrupt policy reversals, as shown by his sudden abandonment of the “zero COVID” policy in late 2022 and his shifting economic initiatives during his tenure.
+
+Yet one constant of his leadership has been his aversion to cash handouts, which, he has suggested, could entrench a welfare state.
+
+He has cautioned party members against “falling into the trap of ‘welfarism’ that feeds lazy people.” Xi’s rhetoric should not be misinterpreted as endorsing an ideology of rugged individualism in China.
+
+Rather, his top-down approach to governance privileges ideological unity over populist concessions and favors state-led investment over individual fiscal support.
+
+Xi has made it clear that his top priority is to transform China into a self-reliant global superpower.
+
+He aims to be the leader who definitively leaves China’s “century of humiliation”—a reference to the long era of China’s perceived subservience to Western powers—behind.
+
+In this context, the government’s current GDP growth target of around five percent and the stimulus package it has announced to help achieve it are merely means to an end.
+
+By contrast, a direct stimulus to individual households would shift spending power from the government to consumers, potentially leaving fewer resources for Xi’s grand ambitions—and giving him less control over the country’s overall direction.
+
+The government’s announcements regarding the stimulus package have deliberately emphasized rhetoric over substantial policy changes aimed at increasing consumption.
+
+This approach aligns with Xi’s goal of boosting confidence in the economy without diverting resources from the pursuit of Chinese self-sufficiency.
+
+The capital injected into the financial system to prop up stock prices and stabilize banks is likely to be redirected to the same strategic industries that are supposed to enable China to leapfrog the United States in technology and military capabilities.
+
+Xi’s stimulus package does not address China’s deeper structural issues.
+
+The “whole of nation” system for technology investment ensures that all large pools of capital can be mobilized to achieve breakthroughs in critical areas such as artificial intelligence, semiconductors, and aircraft engines.
+
+In contrast to a genuine consumption-boosting stimulus package, the current set of measures appears to have an ulterior motive: strengthening China’s ability to outcompete the West economically and militarily.
+
+As it stands, the policy direction articulated in the details of the stimulus package provides Western governments with little incentive to reconsider trade barriers or ease export controls on China.
+
+The potential scale of cash handouts to households is limited by the financially strained position of China’s local governments.
+
+Beijing has pledged to help by offering debt swaps to refinance the high-cost, short-term debt burdening many local administrations.
+
+Local budgets have been squeezed by reduced revenue from land sales because of the downturn in the real estate market, residual pandemic-related public health costs, and rising social welfare expenses linked to an aging population.
+
+For many local officials, achieving industrial advancement and ensuring supply chain security take precedence over stimulating consumer spending.
+
+If Beijing were to pursue direct cash payments to households, it would face the challenge of bypassing the local authorities, who might divert a portion of the funds.
+
+Direct transfers from the central government to local coffers risk misallocation or even outright embezzlement, limiting the practical effectiveness of household income transfers as a stimulus.
+
+Without exceptional oversight, these payments might reach households only in small amounts, trickling down like drips from a leaky faucet.
+
+A DIFFERENT CONFIDENCE GAME The recent stimulus package may indeed achieve Beijing’s short-term goals: a stock market rally with staying power, a stabilized housing market, a temporary lift in consumer confidence, and five percent GDP growth for 2024.
+
+It does not, however, address China’s deeper structural issues and is unlikely to make households spend more in the long term.
+
+The government appears unwilling to undertake the bold steps needed—such as direct income support to households—that could drive meaningful economic rebalancing.
+
+Instead, much of the latest stimulus seems aimed at shoring up the economy’s weakest points just enough to signal that the party has not abandoned its role as a good steward of the economy and remains committed to upholding its end of China’s social contract.
+
+Without stronger income growth, Chinese households will continue to save at stubbornly high rates.
+
+Even if the recent stimulus proves surprisingly effective, China’s demographic decline and growing geopolitical tensions with the West suggest that the country’s long-term economic outlook will remain uncertain.
+
+Since the pandemic-era lockdowns, China’s middle class has experienced persistent economic insecurity—a perception that may take years to shake.
+
+For the last four decades, China’s economy experienced perhaps the most extraordinary growth period in human history.
+
+In 1981, over 90 percent of China’s population lived in poverty as severe as in the world’s least developed regions.
+
+Today, over half the population is middle class, with a standard of living comparable to that of many developed nations.
+
+Yet in some ways, middle-class Chinese have never felt poorer.
+
+The sense of lagging behind their peers’ quality of life has increased, and opportunities for their children to achieve wealth and study abroad seem more out of reach.
+
+For the first time since China’s economic reforms, many households worry that tomorrow may not be better than today—not because of personal failures but because of forces beyond their control.
+
+Younger adults entering the workforce feel powerless, and growing numbers of them feel unable to start lucrative careers, with youth unemployment exceeding 17 percent.
+
+Young families face relentless pressure just to maintain their standard of living.
+
+Visits to Buddhist temples surged by over 300 percent last year, suggesting that more people are turning to superstitions for good luck to secure their futures.
+
+Increasingly, many Chinese seem to place more faith in temple offerings or amulets than in the party’s assurances of common prosperity.
+
+The next U.S.
+
+administration will face a China struggling with slowing economic growth, an uneasy middle class, and a leader who seems more committed to building a world-class military than a prosperous society.
+
+This complex situation calls for a China strategy that realistically assesses Xi’s capacities and limitations—not just his ambitions.
+
+Although ordinary Chinese citizens may have limited agency, collectively they can exert economic pressure on Beijing.
+
+By tightening their wallets and prioritizing savings, they effectively express a quiet but potent vote of no confidence in the country’s direction.
+
+If economic conditions in China continue to deteriorate, Xi could pivot suddenly, perhaps softening his antagonism toward the West.
+
+As it watches China’s stimulus play out and Beijing’s likely inability to fix the country’s underlying economic troubles, Washington should avoid becoming so fixated on the perceived China threat that it overlooks potential opportunities to redefine U.S.-Chinese relations in the future.
+
+</CONTENT>

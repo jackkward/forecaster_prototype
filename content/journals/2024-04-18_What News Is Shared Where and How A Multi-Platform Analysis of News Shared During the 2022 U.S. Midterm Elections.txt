@@ -1,0 +1,258 @@
+<TITLE>What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections</TITLE>
+<PUBLISHED_DATE>2024-04-18</PUBLISHED_DATE>
+<URL>https://journals.sagepub.com/doi/10.1177/20563051241245950</URL>
+<AUTHOR>Kathleen M.  Carley</AUTHOR>
+
+<SUMMARY>
+This study analyzed over 1.3 million social media posts about the 2022 U.S.
+- midterm elections across Facebook, Twitter, and Reddit to examine news sharing patterns.
+-  Key findings reveal that users tend to share Real and Local News sequentially across all platforms, and Real News and Low Credibility News sequentially.
+-  Real News posts generated the least engagement, while "Pink Slime" news, a type of low-credibility often partisan news, received the most engagement.
+-  Furthermore, the study discovered that automated bot users predominantly shared "Pink Slime" and Low Credibility News, while human users focused more on local community-related content.
+-  Importantly, the sharing of "Pink Slime" sites, automated local news reports, was politically divided.
+- This research highlights the varying levels of engagement with different news types and the role of automated accounts in sharing specific types of content online during political events.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- A total of 107.7 million Americans voted 36 governors, 35 senators, and all 435 voting seats in the House of Representatives were up for election ( Desilver, 2023 ).
+- Since the Presidency was not up for election, the regional elections took the spotlight and forefront of news coverage.
+- Through the analysis of URLs shared within each platform, we provide insights into the patterns of news sharing across platforms, types of news and the users that participate in the sharing activity.
+- We do so using a combination of statistical and network-based techniques.
+- In our study of multi-platform news journalism, we use the following research questions to guide our analysis: • RQ1: How do the three social media platforms (Facebook, Reddit, and Twitter) differ by news type shared?
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract News journalism has evolved from traditional print media to social media, with a large proportion of readers consuming their news via digital means.
+
+Through an analysis of over 1.3 million posts across three social media platforms (Facebook, Twitter, Reddit) pertaining to the 2022 U.S.
+
+Midterm Elections, this analysis examines the difference in sharing patterns for four types of news sites—Real News, Local News, Low Credibility News, and Pink Slime.
+
+Through Platform-Based Analysis, this study observes that users across all platforms share Real and Local News sequentially, and Real News and Low Credibility News sequentially.
+
+Through News Type-Based Analysis, this study establishes a Relative Engagement metric, demonstrating a widely varied engagement among the news types.
+
+Real News receive the least engagement (defined as the ratio of number of likes a post has vs.
+
+the number of followers of the page), while users engage with Pink Slime news the most.
+
+Furthermore, this study finds that the sharing of automated local news reporting sites (Pink Slime sites) are divided on political lines.
+
+Finally, through a User-Based Analysis, this study finds that automated bot users share a larger proportion of Pink Slime and Low Credibility News, while human users generally share content relating to local communities.
+
+Introduction Journalism is a key way of disseminating information, of broadcasting “news.” The Oxford Language dictionary refers to the term “news” as newly received and noteworthy information, mostly about recent and important events.
+
+The landscape of journalism is changing in the digital era.
+
+An increasing proportion of news are being written for and shared via social media as opposed to traditional print medium.
+
+In a 2021 survey by Pew Research Center, almost half (48%) of the adults in the United States agree that they regularly get news from social media platforms, with the largest proportion of news consumption coming from Twitter, Facebook, and Reddit ( Walker &amp; Masta, 2021 ).
+
+Within journalism, there are several types of news.
+
+Distinctly, there are four main types of news that are spread: Real News which are credible news, Local News which are credible news targeted at specific geographical communities, Low Credibility News which are misleading news, and Pink Slime News which are low-credibility, often partisan news disguised as a local publication to garner readership through local trust.
+
+Political journalism is highly scrutinized due to the advent of citizen journalism, where everyday users rather than professional journalists can post updates on social media platforms.
+
+This public participation has been observed in elections in the United States, Africa, and Asia ( Moyo, 2009 ; Ritonga &amp; Syahputra, 2019 ).
+
+The type and popularity of news shared can potentially alter election outcomes, with many past studies showing that mass media do have an effect on American politics ( Dunaway &amp; Graber, 2022 ), and the types of news shared can affect voting patterns ( Allcott &amp; Gentzkow, 2017 ).
+
+The proportion of professional news content was measured to hit its lowest point on Facebook and Twitter the day before the 2016 U.S.
+
+Presidential elections, and overpowered by junk news, many of which are shared by social media bots ( Howard et al., 2017 ), sharing similarities with other studies of the influence of fake news on Twitter during the same event ( Bovet &amp; Makse, 2019 ).
+
+The existing literature predominantly compares real and low credibility news dissemination, and more research is necessary in the analysis and comparison of other news types, such as local news and Pink Slime News.
+
+Over 1,000 of these types of news sites have appeared in the past 5 years and often contain algorithmically generated content that poses as real local news ( Bengani, 2019 ), which has maintained a high level of trust from the American public ( Gottfried &amp; Liedke, 2021 ).
+
+Some existing pieces of work on pink slime news outlets observe that these outlets flood the local media ecosystem ahead of the elections and highlight contentious political issues in an inflammatory manner ( Moore et al., 2023 ).
+
+Therefore, it is essential to include pink slime news sites and local news sites in the study of a political election.
+
+Such a study contrasts news targeting the local community (Local News and Pink Slime News) against news types targeted at broader audiences (i.e., Real News, Low-Credibility News).
+
+We build on previous work to extend examination of news type dissemination on social media toward local and pink slime news sites.
+
+Another aspect of news dissemination on social media is the use of automated agents or bots.
+
+Bots have been observed to spread low-credibility content on social media ( Shao et al., 2018 ), thereby influencing political outcomes ( Ferrara, 2020 ; Ng &amp; Carley, 2023c ).The spread of low credibility news by social media bots is very much of scrutiny within the computational social science community, as these automated users are an effective tool to manipulate social media narratives, and thereby the opinions of human users ( Shao et al., 2017 ).
+
+Much of the studies on bot users involve studies on the spread of Low Credibility News, and this study bridges this research gap to examine the bot activity in the spread of other types of news (i.e., Local News, Pink Slime News).
+
+This article analyzes news from the 2022 U.S.
+
+Midterm Elections from a multi-platform perspective.
+
+The United States held its Midterm elections on 8 November 2022.
+
+A total of 107.7 million Americans voted 36 governors, 35 senators, and all 435 voting seats in the House of Representatives were up for election ( Desilver, 2023 ).
+
+Since the Presidency was not up for election, the regional elections took the spotlight and forefront of news coverage.
+
+Through the analysis of URLs shared within each platform, we provide insights into the patterns of news sharing across platforms, types of news and the users that participate in the sharing activity.
+
+We do so using a combination of statistical and network-based techniques.
+
+In our study of multi-platform news journalism, we use the following research questions to guide our analysis: • RQ1: How do the three social media platforms (Facebook, Reddit, and Twitter) differ by news type shared? We answer this question using a Platform-Based Analysis approach, where we analyze the proportions of news types in the URLs shared across each platform, and a network analysis of the sequential transition of news type sharing by users within each platform.
+
+• RQ2: How do engagement of the different news types shared differ? We answer this question using a News Type-Based Analysis approach, where we define and compare a Relative Engagement metric for each post and compare the metric across each of the news types.
+
+• RQ3: How do classes of users differ in their news type sharing behavior? We answer this question using a User-Based Analysis approach, and examine the sharing of pink slime journalism news in correlation with other types of news.
+
+Here, we segregate users into two main groups—social media bots and humans, before analyzing their news type sharing patterns using network analysis, and analyze the user sharing patterns along political lines with network and statistical analysis.
+
+To analyze the sharing of the different types of news across social media platforms, we make use of user, content, and network analysis.
+
+Figure 1 presents a diagrammatic overview of our methodology.
+
+The analysis methodology is split into three blocks: Data Collection, Data Annotation, and Data Analysis.
+
+Figure 1 .
+
+Overview of analysis methodology.
+
+Open in viewer We study the three most popular social media platforms for news consumption: Facebook, Twitter, and Reddit.
+
+Specifically, we collect data from Facebook Pages, Reddit posts and comments, and Twitter Tweets.
+
+We also study four different news types: Local News, Real News, Pink Slime News, and Low Credibility News.
+
+Although we are primarily interested in Pink Slime journalism, past work has shown that the consumption patterns of Pink Slime News differ considerably from other types of news, especially Low Credibility News and Local News ( Moore et al., 2023 ).
+
+The study and discussion of Pink Slime News alongside the other three types of news provides context into the conceptualization of the similarities and distinctions of Pink Slime News.
+
+Contributions Our results show that across platforms, Reddit leads with the highest proportion of Real News, while Facebook leads with the highest proportion of Local News sites, and Twitter has the highest proportion of Pink Slime and Low Credibility News sites; Pink Slime sites gather the highest engagement and bots tend to share information of lower quality while humans lean toward sharing local content.
+
+Specifically, we make the following contributions: • Define news types across a scale of credibility and locality, and identify the prevalence of news types on each platform.
+
+Furthermore, we identify the likelihood of a user sharing a news type on the different platforms given their previous news types shared.
+
+• Introduce the measurement of relative engagement to Facebook Page engagement metrics and demonstrate its differences in the different news types.
+
+• Add to the understanding of the user behavior of individuals and groups sharing Pink Slime sites by comparing the news sharing habits of those users with the political ideology of the Pink Slime sites they shared.
+
+The structure of this article is as follows: we first provide a brief literature review of past research work on journalism, news dissemination on social media.
+
+Then we define the four journalistic news type along with an overview of our methodology.
+
+Next we describe our data collection and annotation procedures, before moving on to a description of our data analysis from three perspectives: platform-based analysis, news type-based analysis, and user-based analysis.
+
+We engage in a discussion section before providing the concluding remarks.
+
+Related Work News Sharing on Social Media News sharing on social media is largely focused on the differences in sharing patterns of news of different credibility.
+
+Rogers (2023) identified that through an analysis of multiple social media platforms “fake news” does not outperform mainstream news during any period of their study, but the proportion of user engagement with fake news to mainstream news stories is higher.
+
+In a digital landscape where there is competition for user attention, Facebook emerges as the dominating platform for news sharing in a study across multiple social media platforms ( Kalsnes &amp; Larsson, 2018 ).
+
+Past work on the analysis of types of news shared from Facebook measured through URL shares considered the sharing of types of news that include local and Pink Slime News, discovered that the Facebook news intervention system reduced visits to low-quality news outlets (or Pink Slime News), but also affected the number of views high-quality news (or real news) received ( Bandy &amp; Diakopoulos, 2023 ).
+
+Whereas this work measured the impact of Pink Slime News at the platform level, we extend this analysis toward a finer granularity of Facebook Pages level.
+
+Studying news types on social media also provides indication toward the ability of users to differentiate between real and misleading news.
+
+Previous research finds a positive relationship between age and political ideology in sharing low credibility news ( Guess et al., 2019 ; Hopp et al., 2020 ).
+
+However, Real News and Low Credibility News have been observed to exhibit similar spread patterns in a multi-platform dataset (across Twitter, Instagram, YouTube, Reddit, and Gab), potentially indicating that users are unable or unwilling to distinguish between credible and non-credible news ( Cinelli et al., 2020b ).
+
+Engagement of News Types Past work has showcased poor-quality and intentionally misleading information sources in the U.S.
+
+media sphere surrounding the 2016 U.S.
+
+elections, defined as “pink slime” and “junk” information, which focuses on garnering clicks through sensationalism rather than information dissemination through journalism ( Benkler et al., 2018 ).
+
+Other findings suggest that Pink Slime News sites are not spread on top political subreddits ( Burton &amp; Koehorst, 2020 ), but that smaller, neighborhood-oriented Facebook communities are more susceptible to sharing local low credibility news ( Mihailidis &amp; Foster, 2021 ).
+
+In particular, an analysis of user news consumption during the 2020 U.S.
+
+Presidential Election showed that Facebook disproportionally boosted Pink Slime News sites ( Bandy &amp; Diakopoulos, 2023 ).
+
+Concretely, the news consumption during the 2020 election measured that around 3.7% of American adults visited at least one Pink Slime site, with 17.7% of these sites coming from Facebook referrals ( Moore et al., 2023 ).
+
+During crisis events such as the 2020 Coronavirus pandemic, Local News receive the largest engagement, and the engagement increased as the reach of the coverage decreases, highlighting the importance of catering regional news for specific neighborhoods ( Le Quéré et al., 2022 ).
+
+Use of Bots for News Dissemination Another widely studied aspect of news sharing in social media is the usage of bots for news dissemination.
+
+Social bots have been identified to construct and amplify low credibility news on social media, especially on Twitter, thereby increasing the proportion and propagation of low credibility news on the platform ( Shao et al., 2017 ).
+
+The extent of robot journalism has also created “News Bots,” where journalists and bloggers automatically post recently published articles or breaking news, or algorithmically generate news articles and post them ( Lokot &amp; Diakopoulos, 2016 ; Moore et al., 2023 ; Stieglitz et al., 2017 ).
+
+Bots are active news promoters, readily updating the public with valuable public health information during the 2020 Coronavirus pandemic and referencing credible news outlets ( Al-Rawi &amp; Shukla, 2020 ).
+
+On the contrary, news bots also disseminate specific sets and genres of news to promote specific narratives that align with the diplomatic perspectives, such as Chinese geotagged news bots focused on surveillance aspect in the 2023 U.S.–China balloon incident ( Ng &amp; Carley, 2023b ).
+
+Several bot detection tools have been developed using supervised machine learning techniques to identify social bots, differentiating them from humans based on properties of their activity such as the temporal difference and activity of posts and type of posts ( Feng et al., 2022 ; Ng &amp; Carley, 2023a ).
+
+We extend past work on the study of social media bots from studying the real news/low credibility news duality toward studying multiple news types.
+
+Multi-Platform Studies of Social Media With regard to multi-platform work on social media, past work looking into vaccine-related information on Facebook, Reddit, and Twitter through keyword search and textual analysis found that low credibility news and fake health information were most prevalent on Twitter and least prevalent on Facebook ( Pulido et al., 2020 ).
+
+Work on the 2021 U.S.
+
+Capitol Riots which occurred as a protest toward the 2020 Presidential Election results showed that there are similar narratives but separate information dissemination chambers within Parler and Twitter ( Ng et al., 2022a ).
+
+The dissemination of Low Credibility News on Facebook, Twitter, and Reddit by Russia suggests that Reddit is used as a trial platform to identify messages that are optimal for distribution on other platforms ( Lukito, 2020 ).
+
+A user-based study of the same event inferred how social media users interact with each other across platforms through the use of URLs, identifying the users and types of URLs that facilitate multi-platform content diffusion ( Murdock et al., 2023 ).
+
+The identification of identical users across platforms uses friendship graph to calculate the match degree for candidate user pairs to extract the top-ranking user pairs as identical users ( Zhou et al., 2015 ).
+
+We build on techniques developed in these past multi-platform and elections work in extracting and analysis of URLs to analyze the news sharing behavior in the 2022 U.S.
+
+elections across three social media platforms.
+
+Types of Journalism News Here, we define the four key types of news that we study within this work.
+
+Studying the prevalence and interactions of these four types of news provides insight into a variety of news types that exist on social media platforms.
+
+With the evolving landscape of digital journalism, the news types are no longer falling into binary categories of credible versus fake news, but rather, exist on a plane of scope and credibility.
+
+In this article, we examine the four main types of news in this digital era: • Real News , which are credible news written by journalists who adhere to the journalistic code of ethics for gathering information and writing the articles ( Berkeley, 2023 ).
+
+Examples of Real News outlets are CNBC and WSJ.
+
+• Local News , which are news that are targeted to specific communities demarcated by geographical boundaries ( Stonbely et al., 2015 ).
+
+Example of Local News outlets are AZ Central and The Atlanta-Journal Constitution.
+
+• Pink Slime News that masks as local news, and often publish on partisan and inflammatory articles that serve special interests ( Moore et al., 2023 ).
+
+Examples of Pink Slime News outlets are The Arizona Sun Times and The Keystone Newsroom.
+
+• Low Credibility News , which are misleading news that can deceive readers or provide wrong information ( Ng &amp; Taeihagh, 2021 ; Shu et al., 2020 ).
+
+Examples of Low Credibility News outlets are Breitbart and LADbible.
+
+Figure 2 represents the relationship between each type of news in terms of scope and credibility.
+
+Real News and Local News are both credible news, which is defined as news articles that are written by journalists adhering to a code of ethics for information gathering and writing the articles.
+
+The difference lies in their focus: Real News has a national focus, thus presenting articles from a broader scope, while Local News focuses on specific geographical communities which they target.
+
+Pink Slime News and Low Credibility News are both non-credible news, colloquially termed as “fake news.” In a similar fashion, Low Credibility News have a more national scope and thus present a diverse set of articles and topics, while Pink Slime News have a regional scope, typically presenting political news related to a specific geolocation.
+
+Figure 2 .
+
+Relationship between each news type.
+
+Open in viewer Examples of each type of news headlines are presented in Table 1 .
+
+Each of these news types have their unique properties, and through our analysis, we provide insight into the propagation behavior and popularity of each of these news.
+
+Table 1 .
+
+Sample Headlines of the Top Shared News Stories in the Dataset by News Type.
+
+News type Examples Real News “Pro-Life” Herschel Walker Paid for Girlfriend’s Abortion Anderson Lee Aldrich: 5 Fast Facts You Need to Know Local News Editorial: Ron Johnson has no business being a Wisconsin senator any longer I’m a lifelong Republican but sometimes party loyalty asks too much.
+
+I’m voting for Mandela Barnes and Tony Evers Pink Slime Maricopa County Recorder Stephen Richer’s Founding of Partisan PAC Raises Ethical and Legal Questions of Possible Misconduct Kari Lake Thanks Liz Cheney for Being Her “Biggest Fundraiser Yet” Low Credibility News MAJEWSKI: I Am a Republican Who Lost on Tuesday.
+
+It Wasn’t Trump’s Fault.
+
+IT Was the Cowards in D.C.’s “McLeadership” IMPOSSIBLE: Despite Only 17% Democrat Turnout on Election Day—Katie Hobbs and Democrats are Winning Over 50% of Maricopa County Election Day Totals Open in viewer Data Collection and Annotation Data Collection Data pertaining to the U.S.
+
+2022 Midterm Elections were collected f
+
+</CONTENT>

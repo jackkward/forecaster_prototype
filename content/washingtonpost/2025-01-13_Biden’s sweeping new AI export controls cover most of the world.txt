@@ -1,0 +1,139 @@
+<TITLE>Biden’s sweeping new AI export controls cover most of the world</TITLE>
+<PUBLISHED_DATE>2025-01-13</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/technology/2025/01/13/ai-export-controls-chips-china/</URL>
+<AUTHOR>Gerrit De Vynck, Eva Dou</AUTHOR>
+
+<SUMMARY>
+The Biden administration implemented new export controls on AI-related technology, targeting computer chips and software.
+-  These restrictions limit sales of powerful GPUs to most countries, aiming to curb China's AI development.
+-  The controls also restrict the sharing of advanced AI models with non-allied nations.
+-  Critics argue these measures could hinder global AI advancement and potentially boost China's competitiveness.
+-  Commerce Secretary Raimondo defended the policy, emphasizing the US's need to maintain its AI leadership.
+-  The new rules represent a significant shift in US technology policy, reminiscent of Cold War-era approaches, and are expected to be part of broader efforts to protect US technological dominance.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Anticipation of the rules sparked debate inside the tech industry in recent weeks.
+- Some AI experts are unconvinced the United States can best retain its technological leadership by erecting high walls to keep innovations at home or in the hands of close allies.
+- Traditionally, tech firms have been allowed to aggressively pursue overseas sales to all buyers.
+- “This is definitely a departure from how we’ve thought about technology since the early ’90s and the growth of the internet,” said Peter Harrell, a former Biden administration economic official who is now a nonresident fellow at the Carnegie Endowment for International Peace.
+- “It is in many ways conceptually more consistent with the way we thought about the role of technologies … during the Cold War.” Semiconductor industry representatives criticized the new rules, saying they could in fact boost China’s chip industry and competitiveness in AI.
+
+</HIGHLIGHTS>
+<CONTENT>
+The Biden administration on Monday announced unprecedented new export controls on computer chips and other technology crucial to advanced artificial intelligence projects.
+
+The restrictions are intended to slow China’s development of AI and tighten U.S.
+
+government control over the fast-growing industry.
+
+The new policy imposes quotas on sales of powerful chips known as GPUs to most countries in the world, in an attempt to block Chinese efforts to circumvent earlier export controls imposed over the past two years.
+
+It also limits American companies from sharing the full technical details of the most advanced AI models, software that underpins tools like ChatGPT, to all but a handful of close U.S.
+
+allies.
+
+“The U.S.
+
+leads the world in AI now, both AI development and AI chip design, and it’s critical that we keep it that way,” Commerce Secretary Gina Raimondo said in a briefing with reporters ahead of Monday’s announcement.
+
+The controls will be implemented using the Commerce Department’s power to set export regulations.
+
+Beijing responded Tuesday by accusing the United States of weaponizing technology and export controls to “maliciously suppress China.” “To maintain its hegemony, the U.S.
+
+has started establishing hierarchies in the field of AI … with the fundamental aim of depriving developing countries, including China, of their right to technological advancement and development,” Foreign Ministry spokesman Guo Jiakun said in a press briefing.
+
+“This ‘obstructionist strategy’ runs counter to the shared interests of countries in promoting the positive development of AI and has sparked concerns about the U.S.
+
+initiating a ‘new technological Cold War,’” Guo told reporters.
+
+Anticipation of the rules sparked debate inside the tech industry in recent weeks.
+
+Some AI experts are unconvinced the United States can best retain its technological leadership by erecting high walls to keep innovations at home or in the hands of close allies.
+
+Traditionally, tech firms have been allowed to aggressively pursue overseas sales to all buyers.
+
+“This is definitely a departure from how we’ve thought about technology since the early ’90s and the growth of the internet,” said Peter Harrell, a former Biden administration economic official who is now a nonresident fellow at the Carnegie Endowment for International Peace.
+
+“It is in many ways conceptually more consistent with the way we thought about the role of technologies … during the Cold War.” Semiconductor industry representatives criticized the new rules, saying they could in fact boost China’s chip industry and competitiveness in AI.
+
+“The extreme ‘country cap’ policy will affect mainstream computers in countries around the world, doing nothing to promote national security but rather pushing the world to alternative technologies,” Ned Finkle, vice president of government affairs at Nvidia, which dominates the market for GPUs , said in a statement.
+
+The rules are among the final policy moves from the Biden administration before President-elect Donald Trump’s inauguration.
+
+Other measures aimed at preserving U.S.
+
+tech dominance are expected in the coming days, according to two people familiar with the matter, who spoke on the condition of anonymity to discuss unannounced policy plans.
+
+They include an executive order allowing construction of data centers and electrical power plants on federal lands, as previously reported by The Washington Post, and controls targeted at semiconductor factories that produce chips for Chinese customers.
+
+The U.S.
+
+and Chinese governments have each said AI will be central to future military and economic competition between the two superpowers.
+
+Some U.S.
+
+military experts argue that the nation should consider adopting any policy that can impede its chief geopolitical rival’s attempts to advance AI.
+
+“I think the White House views the next few years as all that we have before a very genuinely, transformational moment in AI, and it matters a lot that the United States gets there first,” said Gregory Allen, who previously worked on AI policy at the Pentagon and is now a director at the Center for Strategic and International Studies think tank.
+
+The Biden White House has admitted that China has managed to circumvent previous U.S.
+
+sanctions aimed at hobbling its development of advanced AI, in part by sourcing U.S.
+
+chips and other technology indirectly, via other countries.
+
+The new restrictions announced Monday sort the countries of the world into three tiers.
+
+Sales of the GPUs necessary for major AI projects and transfers of powerful AI software are unrestricted to close U.S.
+
+allies such as Britain, Japan and Taiwan.
+
+Exports of high-end AI chips and algorithms are barred completely for nations already blocked from U.S.
+
+arms sales, including Iran, Russia and Venezuela.
+
+Most of the world, including India, Brazil and some NATO members such as Poland, falls into a third category subject to intermediate export controls.
+
+Quotas will bar companies in those nations from importing more than 1,700 high-end GPUs each year without a license from the U.S.
+
+government, contingent on security checks.
+
+The cap is intended to allow most AI projects but prevent completion of large, GPU-stuffed data centers of the kind needed to develop powerful new AI models without U.S.
+
+approval.
+
+American companies will also have to obtain approval from the U.S.
+
+government to build large data centers in countries subject to the intermediate controls.
+
+In the briefing, Raimondo said the new policy is not intended to cut the world off from AI innovations and is tailored to restrict only overseas development of the most advanced AI technology.
+
+But the AI export rules have drawn criticism from some U.S.
+
+tech companies, who fear they will cause steep falls in their international sales.
+
+Oracle Executive Vice President Ken Glueck blasted the expected restrictions in a blog post last month as “dystopian,” warning that they might result in U.S.
+
+companies losing their global lead in cloud computing.
+
+He said in an interview ahead of Monday’s announcement that the administration’s aim to restrict technology from reaching China “certainly makes sense,” but he was concerned the rules would be unnecessarily restrictive.
+
+Spokespeople for OpenAI and Google declined to comment on the new policy.
+
+“We’re confident we can comply fully with this rule’s high security standards and meet the technology needs of countries and customers around the world that rely on us,” said Microsoft President Brad Smith.
+
+American cloud providers such as Microsoft and Google may gain an overseas advantage from the new export rules, because of the way U.S.
+
+companies will obtain approval to build new AI data centers via a different process than foreign firms.
+
+The new rules allow for a 120-day comment period, ensuring that the incoming Trump administration will have the final say on whether they take effect.
+
+Trump’s advisers and Cabinet picks include China hawks who may favor stricter rules, but the incoming president has indicated that he aims to be more accommodating to U.S.
+
+tech companies.
+
+Evan Halper and Vic Chiang contributed to this report.
+
+</CONTENT>

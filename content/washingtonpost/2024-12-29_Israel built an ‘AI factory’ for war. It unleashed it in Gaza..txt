@@ -1,0 +1,262 @@
+<TITLE>Israel built an ‘AI factory’ for war. It unleashed it in Gaza.</TITLE>
+<PUBLISHED_DATE>2024-12-29</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/technology/2024/12/29/ai-israel-war-gaza-idf/</URL>
+<AUTHOR>Elizabeth Dwoskin</AUTHOR>
+
+<SUMMARY>
+Israel deployed AI, codenamed Habsora, to rapidly identify targets during the Gaza war, significantly increasing the pace of attacks.
+-  This AI tool, part of a decade-long IDF initiative, generated hundreds of targets, enabling a continued assault despite dwindling initial targets.
+-  The article reveals internal debate within the IDF regarding the accuracy and potential for increased civilian casualties from using AI-generated intelligence.
+-  Critics argue the AI program accelerated the death toll, potentially lowering the threshold for acceptable civilian casualties, while the IDF denies these claims, emphasizing the tools' accuracy.
+-  The article highlights a broader shift in warfare, as AI becomes more integral in combat, raising ethical questions about its use.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The latter approach won out.
+- But the technologies, while widely recognized as promising, had limitations.
+- Sometimes the sheer volume of intercepts overwhelmed 8200’s analysts.
+- For example, Hamas operatives often used the word “batikh,” or watermelon, as code for a bomb, one of the people familiar with the efforts said.
+- But the system wasn’t smart enough to understand the difference between a conversation about an actual watermelon and a coded conversation among terrorists.
+
+</HIGHLIGHTS>
+<CONTENT>
+After the brutal Oct.
+
+7, 2023, attack by Hamas, the Israel Defense Forces deluged Gaza with bombs, drawing on a database painstakingly compiled through the years that detailed home addresses, tunnels and other infrastructure critical to the militant group.
+
+But then the target bank ran low.
+
+To maintain the war’s breakneck pace, the IDF turned to an elaborate artificial intelligence tool called Habsora — or “the Gospel” — which could quickly generate hundreds of additional targets.
+
+The use of AI to rapidly refill IDF’s target bank allowed the military to continue its campaign uninterrupted, according to two people familiar with the operation.
+
+It is an example of how the decade-long program to place advanced AI tools at the center of IDF’s intelligence operations has contributed to the violence of Israel’s 14-month war in Gaza.
+
+The IDF has broadcast the existence of these programs, which constitute what some experts consider the most advanced military AI initiative ever to be deployed.
+
+But a Washington Post investigation reveals previously unreported details of the inner workings of the machine-learning program, along with the secretive, decade-long history of its development.
+
+The investigation also reveals a fierce debate within the highest echelons of the military, starting years before Oct.
+
+7, about the quality of intelligence gathered by AI, whether the technologies’ recommendations garnered sufficient scrutiny, and if the focus on AI weakened the IDF’s intelligence capabilities.
+
+Some internal critics argue the AI program has been a behind-the-scenes force accelerating the death toll in Gaza, which has claimed 45,000 lives, more than half of whom were women and children, according to the Gaza Health Ministry.
+
+The Gaza Health Ministry does not differentiate between civilians and combatants.
+
+In a statement, the IDF said the ministry is controlled by Hamas and its data “is replete with inconsistencies and false determinations.” People familiar with the IDF’s practices, including soldiers who have served in the war, say Israel’s military has significantly expanded the number of acceptable civilian casualties from historic norms.
+
+Some argue this shift is enabled by automation, which has made it easier to speedily generate large quantities of targets, including of low-level militants who participated in the Oct.
+
+7 attacks .
+
+This report draws on interviews with more than a dozen people familiar with the systems, many of whom spoke on the condition of anonymity to discuss the details of top-secret national security topics, as well as documents obtained by The Post.
+
+“What’s happening in Gaza is a forerunner of a broader shift in how war is being fought,” said Steven Feldstein, senior fellow at the Carnegie Endowment, who researches the use of AI in war.
+
+He noted that the IDF appeared to have lowered its threshold for the acceptable civilian casualty rate during the Gaza war .
+
+“Combine that with the acceleration these systems offer — as well as the questions of accuracy — and the end result is a higher death count than was previously imagined in war.” The IDF said claims that its use of AI endangers lives are “off the mark.” “The more ability you have to compile pieces of information effectively, the more accurate the process is,” the IDF said in a statement to The Post.
+
+“If anything, these tools have minimized collateral damage and raised the accuracy of the human-led process.” The IDF requires an officer to sign off on any recommendations from its “big data processing” systems, according to an intelligence official who spoke on the condition of anonymity because Israel does not release division leaders’ names.
+
+The Gospel and other AI tools do not make decisions autonomously, the person added.
+
+The overhaul of the IDF’s vaunted signals intelligence division, known as Unit 8200, has intensified since 2020 under current leader Yossi Sariel, transforming the division’s work and intelligence-gathering practices.
+
+Sariel championed development of the Gospel, a machine-learning software built atop hundreds of predictive algorithms, which allows soldiers to briskly query a vast trove of data known within the military as “the pool.” Reviewing reams of data from intercepted communications, satellite footage and social networks, the algorithms spit out the coordinates of tunnels, rockets and other military targets.
+
+Recommendations that survive vetting by an intelligence analyst are placed in the target bank by a senior officer.
+
+Using the software’s image recognition, soldiers could unearth subtle patterns, including minuscule changes in years of satellite footage of Gaza suggesting that Hamas had buried a rocket launcher or dug a new tunnel on agricultural land, compressing a week’s worth of work into 30 minutes, a former military leader who worked on the systems said.
+
+Another machine-learning tool, called Lavender , uses a percentage score to predict how likely a Palestinian is to be a member of a militant group, allowing the IDF to quickly generate a large volume of potential human targets.
+
+Other algorithmic programs have names like Alchemist , Depth of Wisdom, Hunter and Flow, the latter of which allows soldiers to query various datasets and is previously unreported.
+
+Several of the division’s officers have long held concerns that the machine-learning technology, which sped decision-making, concealed underlying flaws.
+
+Reports delivered to senior leadership did not indicate how intelligence was derived — whether from human analysts or AI systems — making it difficult for officials to evaluate a finding, according to one former senior military official.
+
+An internal audit found some AI systems for processing the Arabic language had inaccuracies, failing to understand key slang words and phrases, according to the two former senior military leaders.
+
+The IDF’s machine-learning technology also predicts how many civilians might be affected by attacks, helping Israel comply with a key tenet of international law.
+
+In the Gaza war, estimates of how many civilians might be harmed in a bombing raid are derived through data-mining software, using image recognition tools to analyze drone footage alongside smartphones pinging cell towers to tally the number of civilians in an area, two of the people said.
+
+In 2014, the IDF’s acceptable civilian casualty ratio was one civilian for a high-level terrorist, said Tal Mimran, a former legal adviser to the IDF.
+
+In the Gaza war, the number has grown to about 15 civilians for one low-level Hamas member and “exponentially higher” for mid- and high-level members,” according to the Israeli human rights organization Breaking the Silence, citing numerous testimonies from IDF soldiers.
+
+The New York Times reported the number as 20 earlier this week.
+
+The IDF says its assessments of collateral damage adhere to the Law of Armed Conflict, which mandates nations differentiate between civilians and combatants and take precautions to protect lives.
+
+Some proponents of Israel’s use of the technology argue that aggressively deploying innovations such as AI is essential for the survival of a small country facing determined and powerful enemies.
+
+“Technological superiority is what keeps Israel safe,” said Blaise Misztal, vice president for policy at the Jewish Institute for National Security of America, who was briefed by the IDF’s intelligence division on its AI capabilities in 2021.
+
+“The faster Israel is able to identify enemy capabilities and take them off the battlefield, the shorter a war is going to be, and it will have fewer casualties.” In addition to concerns over the quality of AI-derived intelligence, the use of the technology has triggered a divisive paradigm shift within the IDF, usurping an intelligence culture that has historically prized individual reasoning for one that prioritized technological prowess, according to three of the people.
+
+8200 had long empowered low-level analysts to bypass their immediate bosses and issue direct warnings to senior commanders.
+
+Under the command of Sariel and other intelligence leaders, 8200 has restructured to emphasize engineers, cutting Arabic-language specialists, removing several leaders considered resistant to AI, and disbanding some groups not focused on data-mining technology, according to three of the people.
+
+By Oct.
+
+7, 60 percent of the unit’s employees were working in engineering and tech roles, twice as many as a decade earlier, according to one of the people.
+
+The IDF’s intelligence practices are under scrutiny.
+
+Genocide charges against Israel brought to The Hague by South Africa question whether crucial decisions about bombing targets in Gaza were made by software, an investigation that could hasten a global debate about the role of AI technology in warfare .
+
+And in Israel, Sariel said in September that he plans to step down from the IDF under increased questioning of the intelligence failures that led to the Oct.
+
+7 attack.
+
+Two former senior commanders said they believe the intense focus on AI was a significant reason Israel was caught off-guard that day.
+
+The department overemphasized technological findings and made it difficult for analysts to raise warnings to senior commanders.
+
+“This was an AI factory,” said one former military leader, speaking on the condition of anonymity to describe national security topics.
+
+“The man was replaced by the machine.” The ‘human bottleneck’ Sariel, through the IDF, declined requests for comment.
+
+He did not respond to requests for comment sent to his personal email.
+
+In 2019, two years before taking over as intelligence commander, Sariel spent a sabbatical year at the National Defense University, a Pentagon-funded institution in Washington that trains national security leaders from all over the world.
+
+A professor at NDU, who spoke to The Post on the condition of anonymity to describe a personal relationship, said he and Sariel shared a radical vision of AI in the battlefield, arguing that Israel should blaze ahead of more cautious U.S.
+
+allies.
+
+“Yossi was in this world of, ‘This thing is moving fast, faster than anybody realizes.
+
+And we better get everybody on board,’” the professor said.
+
+A book Sariel wrote during the sabbatical and published under a pen name lays out a vision for infusing national security establishments with automation.
+
+In “The Human-Machine Team: How to Create Synergy Between Human and Artificial Intelligence,” Sariel describes how the actions of lone-wolf terrorists could be predicted in advance by unleashing algorithms to analyze phone locations, social media posts, drone footage and intercepted private communications.
+
+In Sariel’s expansive vision, AI would touch all aspects of defense, in both peacetime and war.
+
+By using AI surveillance technologies, Israel’s borders would become “smart borders.” By collecting digital trails, armies could build advanced “target banks” with names, locations and behavior patterns of thousands of suspects.
+
+These technologies could replace 80 percent of intelligence analysts who specialize in foreign languages in just five years, he concluded.
+
+Sariel returned to Israel brimming with plans to bring his ideas to fruition.
+
+In summer 2020, he was appointed by Aviv Kohavi, then the army’s chief of staff and a huge proponent of AI tools, to take over the 8200 unit, the IDF’s largest and most prestigious division.
+
+Former commanders huddled to share their worries about the “religious attitude toward AI” developing in the unit under Sariel’s tenure, two people said.
+
+Kohavi declined to comment.
+
+When Sariel officially became commander, in February 2021, 8200 had been experimenting with data science for more than seven years, five former military leaders said, contending with an explosion of digital communications that provided a gold mine for national security agencies.
+
+The elite unit had developed a reputation for collecting an array of DMs, private messages, emails, call logs and other online breadcrumbs using in-house cyber technologies considered the best in the world.
+
+But 8200’s cyber experts needed ways to make sense of the data they’d harvested.
+
+After communication failures during the 2006 war against Hezbollah in Lebanon, the Israeli military recalculated its strategy for sharing information and data.
+
+At the time, intelligence units typically didn’t share information with soldiers on the battlefield, said Ben Caspit, an Israeli columnist for Al-Monitor, who is writing a book about the 8200 unit.
+
+To prevent such silos, the Mossad, Israel’s spy agency, and 8200 developed a database — “the pool” — to house all military intelligence in one repository.
+
+As a “big data” boom got underway in Silicon Valley, Israeli engineers had begun to experiment with off-the-shelf data mining tools that could translate and analyze Arabic and Farsi.
+
+The unit’s leaders debated whether to contract with experts, such as the Silicon Valley data-mining firm Palantir, or build their own software.
+
+The latter approach won out.
+
+But the technologies, while widely recognized as promising, had limitations.
+
+Sometimes the sheer volume of intercepts overwhelmed 8200’s analysts.
+
+For example, Hamas operatives often used the word “batikh,” or watermelon, as code for a bomb, one of the people familiar with the efforts said.
+
+But the system wasn’t smart enough to understand the difference between a conversation about an actual watermelon and a coded conversation among terrorists.
+
+“If you pick up a thousand conversations a day, do I really want to hear about every watermelon in Gaza?” the person said.
+
+As he moved into senior leadership, Sariel sped up the data-mining efforts.
+
+He championed a broad reorganization that divided intelligence efforts into what the commanders referred to as “AI factories” located in a newly created “targets center” at the Nevatim Airbase in the south of Israel.
+
+Each division designed hundreds of purpose-built algorithms and machine-learning technologies, sharing software predictions across the intelligence chain of command.
+
+The military invested in new cloud technologies that processed algorithms quickly, in preparation for an anticipated conflict with Hezbollah on Israel’s northern border.
+
+An app called Hunter allowed soldiers on the battlefield to directly access information.
+
+It built another mobile app called Z-Tube where IDF soldiers in battle could review live video of areas that they were about to enter, and another called Map It, which provided real-time estimates of potential civilian casualties in a specific area that had been evacuated.
+
+8200 had long maintained a target bank: a list of precise GPS coordinates of Hamas and Hezbollah infrastructure and human targets, geolocated to a specific tunnel or apartment building floor.
+
+Maintaining the target bank was labor-intensive.
+
+Analysts were required to confirm their findings with at least two independent sources and to refresh the information continuously, according to three people familiar with the program.
+
+Before officially entering the bank, a proposed target had to be “validated” by a senior officer and a military lawyer to ensure it would comply with international law, five people said.
+
+Intelligence leaders, led by Sariel, believed machine learning could dramatically speed up that painstaking process, said two of the people.
+
+“It took the IDI [intelligence directorate] years to achieve a bank of those kinds of targets, but what happens if you trained AI to imitate the work of the targeting officer?” said another former military official familiar with the new target formation process.
+
+The effort involved collecting billions of signals from sensors placed on drones, F-35 aircraft and subterranean seismic monitors, as well as from intercepted communications.
+
+These were paired with databases that housed phone numbers, social media profiles, known contacts, chat groups and internal documents.
+
+The information was fed into software that could read patterns and make predictions about who and what could be targeted.
+
+An image recognition algorithm was trained to search thousands of satellite photographs to identify a specific type of fabric that Hamas militants used to conceal digging for a buried rocket.
+
+The tools compressed a week of work into 30 minutes, the former military officer said.
+
+“They really did believe with all the sensors they had all around and above Gaza, I won’t say total informational awareness, but that they had a very good picture of what was happening inside,” said Misztal, who leads an organization focused on security cooperation between the United States and Israel.
+
+He noted that the military emphasized its rigorous systems for checking targeting recommendations during his 2021 briefing.
+
+Lavender, an algorithmic program developed in 2020, pored over data to produce lists of potential Hamas and Islamic Jihad militants, giving each person a score estimating their likelihood to be a member, three people familiar with the systems told The Post.
+
+Factors that could raise a person’s score included being in a WhatsApp group with a known militant, switching addresses and phone numbers frequently or being named in Hamas files, the people said.
+
+Lavender’s existence and details about its scoring system were first reported by +972, an Israeli-Palestinian news site.
+
+Estimates from the various algorithms fed into the umbrella system, Gospel, which could be queried by intelligence analysts.
+
+Some of the department’s leaders worried about the accuracy of these algorithms.
+
+One audit of a language-processing technology revealed that the software prediction was not as accurate as a human officer would have been, according to two of the people.
+
+Others worried that predictions from the software were being given too much weight.
+
+Typically, the research division would produce daily intelligence reports for senior commanders to review potential targets.
+
+But though an individual analyst could double-click to see the information that led to the prediction, senior commanders were not informed whether a recommendation was derived through an algorithm or through human sourcing.
+
+“Everything was treated as the same,” another former senior official said.
+
+“I’m not even sure the person preparing the report knew the difference between the pieces of information.” Two former senior military leaders told The Post the emphasis on technology eroded 8200’s “culture of warning,” where even low-level analysts could easily brief top commanders about concerns.
+
+This shift, they added, is a significant reason Israel was surprised by the Oct.
+
+7 attack: An experienced female analyst who had surfaced Hamas’s battlefield plans for breaking into Israel’s borders was unable to get a meeting with the unit’s top commanders in time.
+
+“The bottom line is, you can’t replace the guy who screams, ‘Listen, this is dangerous,’” with all the advanced AI technologies in the world,” said Caspit, the Israeli journalist who has interviewed every living 8200 commander for his book.
+
+“This was the hubris that infected the entire unit.” In 2023, the army’s just-retired chief of staff, Kohavi, bragged to a media outlet that the new AI systems gave the IDF a sophisticated real-time intelligence apparatus “akin to the movie ‘The Matrix.’” Before the Gospel, analysts could produce 50 new targets in Gaza per year to put into the target bank.
+
+“Once the machine was activated,” he said, it generated 100 targets per day.
+
+In his book, Sariel argued that AI would be especially useful in wartime, when it could speed up target formation and “blast open” the “human bottleneck” that slowed everything down.
+
+In June 2021, Israel had its first chance to unleash the new algorithm-powered target bank.
+
+As an 11-day war broke out between Israel and Hamas, the IDF used data science to hit 450 targets, including a Hamas squad missile commander and one of the group’s antitank missile units, according to a talk an 8200 commander gave at Tel Aviv University.
+
+Senior leaders seized the moment as a promotional opportunity to discu
+
+</CONTENT>

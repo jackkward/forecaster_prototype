@@ -1,0 +1,105 @@
+<TITLE>American Journal of Political Science | MPSA Journal | Wiley Online Library</TITLE>
+<PUBLISHED_DATE>2024-09-27</PUBLISHED_DATE>
+<URL>https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12907?campaign=wolearlyview</URL>
+<AUTHOR>Thiemo Fetzer</AUTHOR>
+
+<SUMMARY>
+This article examines how battlefield casualties and media coverage influence public support for ending foreign interventions.
+-  Researchers analyzed survey data from nine countries involved in the International Security Assistance Force in Afghanistan.
+-  They found a correlation between casualties and increased media coverage, which, in turn, led to greater public demand for withdrawal.
+-  Interestingly, sporting events occurring near the time of casualties decreased media coverage and lessened the effect of casualties on war-termination support.
+-  The study highlights the significant role media plays in shaping public opinion about foreign military interventions.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- To identify the effect of troop fatalities, we leverage the timing of survey collection across respondents from nine members of the International Security Assistance Force in Afghanistan.
+- Quasi-experimental evidence demonstrates that battlefield casualties increase the news coverage of Afghanistan and the public demand for withdrawal.
+- Evidence from a survey experiment replicates the main results.
+- To shed light on the media mechanism, we leverage a news pressure design and find that major sporting matches occurring around the time of battlefield casualties drive down subsequent coverage, and significantly weaken the effect of casualties on support for war termination.
+- These results highlight the role that media play in shaping public support for foreign military interventions.
+- 
+
+</HIGHLIGHTS>
+<CONTENT>
+ARTICLE 
+ Losing on the home front? Battlefield casualties, media, and public support for foreign interventions 
+ , 
+ Thiemo Fetzer 
+ Department of Economics, University of Warwick, Coventry, UK 
+ Department of Economics, University of Bonn, Bonn, Germany Search for more papers by this author Pedro C.
+
+L.
+
+Souza , 
+ Pedro C.
+
+L.
+
+Souza 
+ Department of Economics, Queen Mary University of London, London, UK Search for more papers by this author Oliver Vanden Eynde , 
+ Corresponding Author 
+ Oliver Vanden Eynde 
+ 
+ o.vandeneynde@psemail.eu 
+ 
+ Paris School of Economics and CNRS, Paris, France 
+ Correspondence 
+ Oliver Vanden Eynde, Paris School of Economics and CNRS, 48 Boulevard, Jourdan, 75014 Paris, France.
+
+
+ Email: o.vandeneynde@psemail.eu Search for more papers by this author Austin L.
+
+Wright , 
+ Austin L.
+
+Wright 
+ Harris School of Public Policy, University of Chicago, Chicago, Illinois, USA Search for more papers by this author 
+ First published: 27 September 2024 
+ 
+ 
+ Verification Materials : The materials required to verify the computational reproducibility of the results, procedures and analyses in this article are available on the American Journal of Political Science Dataverse within the Harvard Dataverse Network, at: https://doi.org/10.7910/DVN/JIVKHE .
+
+
+ 
+ 
+ Abstract 
+ How domestic constituents respond to signals of weakness in foreign wars remains an important question in international relations.
+
+This paper studies the impact of battlefield casualties and media coverage on public demand for war termination.
+
+To identify the effect of troop fatalities, we leverage the timing of survey collection across respondents from nine members of the International Security Assistance Force in Afghanistan.
+
+Quasi-experimental evidence demonstrates that battlefield casualties increase the news coverage of Afghanistan and the public demand for withdrawal.
+
+Evidence from a survey experiment replicates the main results.
+
+To shed light on the media mechanism, we leverage a news pressure design and find that major sporting matches occurring around the time of battlefield casualties drive down subsequent coverage, and significantly weaken the effect of casualties on support for war termination.
+
+These results highlight the role that media play in shaping public support for foreign military interventions.
+
+
+ 
+ 
+ REFERENCES 
+ 
+ 
+ 
+ 
+ 
+ References Related Information 
+ Recommended Pain Following Battlefield Injury and Evacuation: A Survey of 110 Casualties from the Wars in Iraq and Afghanistan Chester C.
+
+Buckenmaier MD, Col.
+
+, Christine Rupprecht RN, MSN , Geselle McKnight CRNA, MSN , Brian McMillan DO, Maj.
+
+, Ronald L.
+
+White MD, Maj.
+
+, Rollin M.
+
+Gallagher MD, MPH , Rosemary Polomano PhD, RN, FAAN ,
+
+</CONTENT>

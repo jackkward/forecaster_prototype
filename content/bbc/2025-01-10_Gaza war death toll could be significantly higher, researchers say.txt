@@ -1,0 +1,74 @@
+<TITLE>Gaza war death toll could be significantly higher, researchers say</TITLE>
+<PUBLISHED_DATE>2025-01-10</PUBLISHED_DATE>
+<URL>https://www.bbc.com/news/articles/cqjvl4klzweo</URL>
+<AUTHOR>Raffi Berg</AUTHOR>
+
+<SUMMARY>
+Research published in The Lancet suggests the Palestinian death toll in the Gaza war is significantly higher than the Hamas-run health ministry's reported figures.
+-  A UK-led study, analyzing data from the ministry, surveys, and obituaries, estimated a death toll of 64,260 Palestinians from traumatic injury by June 30, 2024, implying a 41% under-reporting.
+-  This estimate, using a "capture-recapture" statistical method, falls between 55,298 and 78,525, compared to the ministry's reported 37,877 deaths.
+-  The study also found a disproportionate number of women, children, and the elderly among the casualties.
+-  The Israeli embassy disputes the study's methodology, stating Gaza data is unreliable.
+-  The UN, however, uses the health ministry's figures, and Israel asserts that Hamas's figures are untrustworthy.
+-  Access to Gaza for independent verification is severely limited.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Israel says Hamas's figures cannot be trusted.
+- In August, the Israel Defense Forces (IDF) said it had "eliminated over 17,000 terrorists", though it is unclear how it arrived at this figure.
+- The IDF insists it only targets combatants and tries to avoid or minimise civilian casualties.
+- Israel is not allowing international journalists from media organisations, including the BBC, independent access to Gaza, making it difficult to verify the facts on the ground.
+- The team behind the latest study used a statistical method called "capture-recapture", a technique which has been used to evaluate deaths in other conflicts.
+
+</HIGHLIGHTS>
+<CONTENT>
+The Palestinian death toll from the war in Gaza could be substantially higher than official figures reported by the Hamas-run health ministry, research published in The Lancet medical journal suggests.
+
+The UK-led study covered the first nine months of the war , which began when Hamas gunmen attacked Israel on 7 October 2023.
+
+It used data from the ministry, an online survey of relatives reporting fatalities, and obituaries.
+
+It estimated that up until 30 June 2024, 64,260 Palestinians died from traumatic injury, meaning an under-reporting of deaths by 41%.
+
+The Israeli embassy in the UK said "any information that derives from Gaza cannot be trusted" and served Hamas.
+
+The UN treats the health ministry's figures as reliable.
+
+The ministry's figures do not distinguish between combatants and civilians, but a recent report by the UN said the majority of verified victims over a six month period were women and children.
+
+Israel says Hamas's figures cannot be trusted.
+
+In August, the Israel Defense Forces (IDF) said it had "eliminated over 17,000 terrorists", though it is unclear how it arrived at this figure.
+
+The IDF insists it only targets combatants and tries to avoid or minimise civilian casualties.
+
+Israel is not allowing international journalists from media organisations, including the BBC, independent access to Gaza, making it difficult to verify the facts on the ground.
+
+The team behind the latest study used a statistical method called "capture-recapture", a technique which has been used to evaluate deaths in other conflicts.
+
+Researchers from the London School of Hygiene &amp; Tropical Medicine looked at how many people turned up repeatedly in different attempts to count deaths.
+
+The level of overlap between those lists suggested that the number of deaths directly caused by traumatic injury in the conflict could be significantly higher than hospital figures published by the Ministry of Health.
+
+Gaza's health ministry issues updated death tolls from the war daily.
+
+It compiles the figures from deaths recorded in hospitals, deaths reported by family members, and deaths from "reliable media reports".
+
+The report in The Lancet estimated a death toll between 55,298–78,525 people, compared to 37,877 reported by the health ministry.
+
+The report's figures could be meaningfully higher or lower depending on the technical details of the analysis.
+
+For example, identifying deaths by "traumatic injury" in each set of data could be tricky.
+
+Getting it wrong could push the study's estimates higher or lower.
+
+The research also said 59% of those killed for whom data on sex and age was available were women, children and the elderly.
+
+The war in Gaza was triggered by Hamas's attack in which about 1,200 people were killed and 251 others taken back to Gaza as hostages.
+
+Israel launched a massive military offensive on Gaza in response.
+
+The health ministry says 46,006 people, most of them civilians, have been killed by the Israeli campaign.
+
+</CONTENT>

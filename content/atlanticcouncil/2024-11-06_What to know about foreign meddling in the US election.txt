@@ -1,0 +1,116 @@
+<TITLE>What to know about foreign meddling in the US election</TITLE>
+<PUBLISHED_DATE>2024-11-06</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/content-series/fastthinking/what-to-know-about-foreign-meddling-in-the-us-election/</URL>
+<AUTHOR>dhojnacki</AUTHOR>
+
+<SUMMARY>
+Foreign interference in the 2024 US election is extensive, surpassing previous efforts in scale and sophistication.
+-  Russia is identified as the most active threat, with China and Iran also involved in attempts to influence the election.
+-  These efforts include hacking and leaks targeting presidential campaigns, and Russian interference tactics are being countered by US government agencies.
+-  The scale of these interference attempts is significant, and US officials are actively working to neutralize them.
+-  This year's election interference demonstrates increased sophistication compared to previous elections.
+-  The US government is taking a proactive approach to counter foreign meddling, with agencies taking the largest ever pre-election actions to combat influence efforts.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Russia, China, Iran, and other bad actors sought to interfere in the run-up to today’s US elections, according to research by the Atlantic Council’s Digital Forensic Research Lab (DFRLab), which has been monitoring online trends along with statements by governments, private companies, and civil society in its Foreign Interference Attribution Tracker .
+- As DFRLab experts detail below, this year’s malign efforts in many ways surpass previous influence campaigns in sophistication and scope, if not in impact—and they are expected to continue well after the polls close.
+-   Emerson T.
+- Brooking ( @etbrooking ): Director of strategy and resident senior fellow at the DFRLab   Dina Sadek ( @DinaMSadek ): Resident fellow at the DFRLab   Graham Brookie ( @GrahamBrookie ): Atlantic Council vice president for technology programs and strategy, and senior director of the DFRLab 
+
+</HIGHLIGHTS>
+<CONTENT>
+GET UP TO SPEED 
+ 
+ 
+ The target is you, voter.
+
+Russia, China, Iran, and other bad actors sought to interfere in the run-up to today’s US elections, according to research by the Atlantic Council’s Digital Forensic Research Lab (DFRLab), which has been monitoring online trends along with statements by governments, private companies, and civil society in its Foreign Interference Attribution Tracker .
+
+As DFRLab experts detail below, this year’s malign efforts in many ways surpass previous influence campaigns in sophistication and scope, if not in impact—and they are expected to continue well after the polls close.
+
+
+ 
+ 
+ TODAY’S EXPERT REACTION BROUGHT TO YOU BY 
+ 
+ 
+ 
+ Emerson T.
+
+Brooking ( @etbrooking ): Director of strategy and resident senior fellow at the DFRLab 
+ Dina Sadek ( @DinaMSadek ): Resident fellow at the DFRLab 
+ Graham Brookie ( @GrahamBrookie ): Atlantic Council vice president for technology programs and strategy, and senior director of the DFRLab 
+ Kenton Thibaut ( @kentonthibaut ): Senior resident China fellow at the DFRLab 
+ 
+ Tipping the scale 
+ 
+ “By sheer volume, foreign interference in the 2024 US election has already surpassed the scale of adversarial operations in both 2016 and 2020,” Emerson says.
+
+
+ Dina notes that each US adversary played to its strengths.
+
+For example, Iran and China “attempted to breach presidential campaigns in hack-and-leak operations that raise concerns about their cyber capabilities during and after the elections,” she tells us.
+
+
+ At the same time, the United States is more prepared than it was in previous election cycles.
+
+Russian efforts in 2016 “made foreign interference a vivid fear for millions of Americans,” Emerson notes.
+
+“Eight years later, the US government is denouncing and neutralizing these efforts, sometimes in real time.” 
+ In fact, Graham tells us, “the combined actions by the US departments of Justice, Treasury, and State against two known Russian interference efforts was the largest proactive government action taken against election influence efforts before an election.” 
+ 
+ 
+ Subscribe to Fast Thinking email alerts 
+ 
+ Sign up to receive rapid insight in your inbox from Atlantic Council experts on global events as they unfold.
+
+
+ 
+ 
+ 
+ Doppelgangers and down-ballot races 
+ 
+ US officials this week called Russia “the most active threat,” and it’s easy to understand why.
+
+Emerson notes Russia’s “ ten-million-dollar effort to infiltrate and influence far-right American media,” alongside the “Doppelganger” network , which has spread “tens of thousands of false stories and staged videos intended to undermine election integrity in the swing states of Pennsylvania, Georgia, and Arizona.” Increasingly desperate, Russian actors have even sought to shut down individual polling places with fake bomb threats, he adds.
+
+
+ Meanwhile, China has focused on “ down-ballot races instead of the presidential election to target specific anti-China politicians,” Kenton explains.
+
+Using fake American personas and generative artificial intelligence, China-linked operations have appeared across more than fifty platforms.
+
+Perhaps surprisingly, Kenton adds, “attributed campaigns appeared sparingly” on the Chinese-owned platform TikTok and far more often on Facebook and X.
+
+
+ 
+ Faith, fakes, and falsehoods 
+ 
+ “The primary aim is to erode Americans’ faith in democratic institutions and heighten chaos and social division,” Kenton explains, and thus to undermine the ability of the US government to function so it will have less bandwidth to contain adversarial powers.
+
+
+ “Some of the fake and already debunked narratives and footage circulating before the elections will likely continue to be amplified by foreign threat actors well after November 5,” Dina predicts .
+
+Expect to see activity around the submission of certificates of ascertainment on December 11, the December 17 meeting of the electors to formally cast their votes, and through inauguration day on January 20.
+
+
+ And in a post-election period where the results will likely be contested, Graham thinks there’s a “high likelihood” that foreign actors will “cross a serious threshold” from pre-election attempts to broadly influence American public opinion in service of their geopolitical interests to “direct interference” by trying to mobilize Americans to engage in protests or even violence.
+
+
+ Nevertheless, Graham points out that the high volume of foreign-influence efforts observed during this year’s election cycle so far does not appear to have had a significant impact in terms of changing Americans’ opinions or behavior .
+
+
+ The consequences of foreign disinformation, Emerson adds, should be assessed against “the far more viral, sophisticated, and dangerous election-day falsehoods that Americans spread among themselves.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ Further reading 
+ Image: A person votes in the 2024 US presidential election on Election Day at Pasteur Elementary School in Detroit, Michigan, on November 5, 2024.
+
+REUTERS/Emily Elconin.
+
+</CONTENT>

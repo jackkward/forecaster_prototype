@@ -1,0 +1,156 @@
+<TITLE>A firehose of antisemitic disinformation from China is pointing at two Republican legislators</TITLE>
+<PUBLISHED_DATE>2024-10-10</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/technology/2024/10/10/us-elections-china-influence-x/</URL>
+<AUTHOR>Jeremy B. Merrill, Aaron Schaffer, Naomi Nix</AUTHOR>
+
+<SUMMARY>
+China is using social media accounts, part of its "Spamouflage" influence operation, to spread antisemitic disinformation targeting U.S.
+- politicians, particularly Rep.
+- Barry Moore.
+-  The operation, active since 2017, has shifted its strategy from broad promotion of the CCP to focusing on specific, divisive U.S.
+- political issues, including the 2024 election.
+-  The accounts are becoming more sophisticated, creating realistic fake accounts to spread hate speech and conspiracy theories, including claims that Moore won his primary due to a "Jewish consortium."  The article highlights a concerning rise in antisemitic content online, potentially connected to the Israel-Gaza conflict, and China's increased involvement in American politics.
+-  This tactic has become more aggressive in the lead-up to the 2024 election.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Some accounts use English names, while others use Chinese ones.
+- Several feature young women in their profile pictures.
+- Moore won a tight primary earlier this year, but his seat is not considered competitive by the Cook Political Report.
+- “China has made it clear they will use every weapon in their arsenal, including offensive cyber capabilities, to try to destroy democracy across the world,” Moore said in a statement.
+- While officials say China’s down-ballot efforts are a relatively recent development, the practice dates to as early as the 2022 midterm elections.
+
+</HIGHLIGHTS>
+<CONTENT>
+China is increasingly targeting downballot elections in America, according to a Washington Post analysis and senior U.S.
+
+intelligence officials, using fake accounts on social media to spread divisive and sometimes explicitly antisemitic claims and conspiracy theories about politicians — part of an effort to inflame tensions in the country just one month before the 2024 election .
+
+One covert influence operation has focused on Rep.
+
+Barry Moore (R-Ala.), who is running to retain his House seat.
+
+A China-linked account on X called Moore “a Jewish dog” and claimed he won his primary because of “the bloody Jewish consortium,” among other derogatory tropes, according to a Post analysis of thousands of posts on X, of which about 75 concerned Moore.
+
+Moore, who recently backed new sanctions on Chinese officials, is not Jewish.
+
+The accounts are part of Spamouflage , China’s largest known covert influence operation, which often uses prolific distribution techniques to spread Chinese Communist Party talking points across the internet.
+
+Active since at least 2017, the network has posted on more than 40 internet platforms, according to the digital forensics research group Graphika.
+
+But the recent campaigns illustrate a shift in China’s strategy, as it seeks to actively influence political discourse in the United States.
+
+Once focused on promoting positive narratives about the CCP, Chinese propaganda campaigns are increasingly weighing in on local and national elections and posting about hot-button U.S.
+
+political issues, such as police violence, Black Lives Matter and immigration, experts said.
+
+We are “seeing this effort [from China] to go viral and drill down into locally relevant issues,” said Kenton Thibaut, a senior resident China fellow at the Atlantic Council’s Digital Forensic Research Lab.
+
+“It’s like trying to go from a birdshot approach to a narrowly tailored sniper approach.” Spamouflage’s tactics have also grown more sophisticated, according to researchers.
+
+The operation has become more aggressive ahead of the 2024 election by using highly realistic fake accounts that mimic U.S.
+
+citizens, Jack Stubbs, chief intelligence officer at Graphika, said in an interview.
+
+“What we’ve seen now is [an] attempt to create a believable persona that misleads people about who the account is,” he said.
+
+“And that has been combined with this increased aggression in terms of the type of content that they’re seeding or amplifying as well.” The Spamouflage accounts analyzed by The Post are increasingly posting about the Israel-Gaza war , and spread divisive and sometimes hateful rhetoric about Jews on X in July and August, furthering the rise in antisemitic content on social media since Hamas’s Oct.
+
+7, 2023, attack on Israel.
+
+“Shouldn’t we be against the Jews?” an account in the network wrote on July 24, one of more than 230 posts on X from the Spamouflage-linked accounts since July 1 mentioning Jews.
+
+The Post analyzed more than 19,000 posts on X from Spamouflage-linked accounts from Jan.
+
+1, 2023, through Oct.
+
+7, 2024, using data provided by the National Conference on Citizenship, a civic nonprofit organization.
+
+The Post identified the accounts from a variety of sources including the U.S.
+
+Justice Department, the Atlantic Council’s Digital Forensics Research Lab and the Institute for Strategic Dialogue think tank.
+
+This year, China has tried to influence “tens” of down-ballot races, using social media accounts and online influencers to spread propaganda, a senior intelligence official said, speaking on the condition of anonymity under ground rules set by the Office of the Director of National Intelligence for a Monday briefing with reporters.
+
+The officials warned that China’s efforts to influence lower-level races appear to be motivated by U.S.
+
+support for Taiwan, as the threat of a potential Chinese invasion intensifies.
+
+Foreign propaganda flourished on X after owner Elon Musk drastically cut teams that focus on policy issues and fighting disinformation, The Post has reported .
+
+In early or mid-September, a handful of accounts from the network tracked by The Post were removed by X for rules violations, but many more remained up.
+
+“Our Safety team remains alert to any attempt to manipulate the platform by bad actors and networks.
+
+We have a robust policy in place to prevent platform spam and manipulation, and we routinely take down accounts engaged in this type of behavior,” said Michael Abboud, an X spokesman.
+
+X suspended the two accounts that posted tweets quoted in this story after The Post requested comment.
+
+One of the accounts frequently posted about Moore.
+
+Posts on X from the Spamouflage network grew from less than 60,000 views per week late last year to 300,000 views per week — an increase of five times, according to The Post analysis.
+
+By contrast, Musk’s interview with Republican presidential nominee Donald Trump in August got 275 million views, and many posts on the platform routinely get more views and engagement than the Spamouflage posts.
+
+About 15 percent of the Spamouflage network’s posts on X about Jews referenced Moore, who has supported numerous efforts to impose new sanctions on Chinese officials.
+
+“What made Barry Moore win? It was the bloody Jewish consortium! Just because he supported the evil Israel,” one account wrote.
+
+Some accounts use English names, while others use Chinese ones.
+
+Several feature young women in their profile pictures.
+
+Moore won a tight primary earlier this year, but his seat is not considered competitive by the Cook Political Report.
+
+“China has made it clear they will use every weapon in their arsenal, including offensive cyber capabilities, to try to destroy democracy across the world,” Moore said in a statement.
+
+While officials say China’s down-ballot efforts are a relatively recent development, the practice dates to as early as the 2022 midterm elections.
+
+In 2022, China sought to influence “a handful of midterm races involving members of both U.S.
+
+political parties,” according to a report from the National Intelligence Council, a research arm of the Office of the Director of National Intelligence.
+
+On Election Day during the 2022 midterms, Spamouflage-linked accounts flooded Twitter with low-quality memes and tweets focused on Sen.
+
+Marco Rubio (R-Fla.), a well-known China hawk, according to an analysis from Darren Linvill, a social media researcher and co-director of the Watt Family Innovation Center Media Forensics Hub at Clemson University.
+
+This year, a Spamouflage-linked account also posted a custom-made video on X featuring a 2011 Washington Post article describing how Rubio had embellished part of his family’s history.
+
+The post garnered at least 8,885 views.
+
+“He’s always been very critical of China,” Linvill said.
+
+“China talks about the things that matter to China.” Rubio declined to comment.
+
+Although about 6 percent of the network’s posts on X were about U.S.
+
+presidential candidates, they did not appear to favor any party.
+
+The network amplified false claims that Trump had been assassinated and that President Joe Biden was secretly dead.
+
+Both men are, in fact, still alive.
+
+One post on X from mid-August included pictures of both Trump and Democratic presidential nominee Kamala Harris , and asked: “Is this the worst choice ever presented to the American people?” “They’re [throwing] a lot of spaghetti [at the wall] and occasionally a piece of it sticks,” said Stubbs, the chief intelligence officer at Graphika.
+
+“But the odd piece of spaghetti sticking to the wall doesn’t feel like a recipe for long-term success or impact.” Joseph Menn contributed to this report.
+
+Methodology : The Washington Post identified 140 X accounts in the Spamouflage network using data provided by the National Conference on Citizenship through Oct.
+
+7, 2024.
+
+Fourteen of these accounts are originators that mostly post original content, 118 are primarily retweeters and the remainder do both, according to a Post analysis following a methodology similar to one used by DFRLab .
+
+The Post established this network starting from a single seed account that has been identified by the Institute for Strategic Dialogue as part of the Spamouflage network — and which has tweeted identical content to an account linked to China’s Ministry of Public Security by the U.S.
+
+Justice Department, as reported by The Post on Feb.
+
+16.
+
+We looked for other accounts that regularly retweeted this account (at least five times), and then identified other accounts that were repeatedly retweeted by the same parties.
+
+By iterating over this retweet-network process twice, we identified accounts that were active re-promoters of each other and which were already on a suspected Spamouflage list.
+
+While an account retweeting another account isn’t generally a sign that two accounts are linked, in this case, researchers think it’s a very strong sign because the underlying tweets get few views or interactions.
+
+</CONTENT>

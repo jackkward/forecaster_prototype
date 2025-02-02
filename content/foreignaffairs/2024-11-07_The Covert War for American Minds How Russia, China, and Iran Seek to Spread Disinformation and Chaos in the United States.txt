@@ -1,0 +1,256 @@
+<TITLE>The Covert War for American Minds: How Russia, China, and Iran Seek to Spread Disinformation and Chaos in the United States</TITLE>
+<PUBLISHED_DATE>2024-11-07</PUBLISHED_DATE>
+<URL>https://www.foreignaffairs.com/united-states/covert-war-american-minds</URL>
+<AUTHOR>David R. Shedd and Ivana Stradner</AUTHOR>
+
+<SUMMARY>
+The article details how Russia, China, and Iran are actively spreading disinformation and attempting to undermine U.S.
+- democracy, particularly during election cycles.
+-  Recent actions, including the Justice Department's charges against RT employees, highlight the ongoing threat.
+-  These foreign actors use social media platforms to amplify domestic divisions and spread inflammatory content, often employing disinformation campaigns and bot farms.
+-  The article argues that the U.S.
+- needs to better coordinate its response, working with social media companies to counter these efforts while protecting free speech.
+-  Russia, in particular, is aiming to deepen political polarization in the U.S.
+- to undermine American dominance and re-establish itself globally.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- These activities are long term by nature, with the intent of seeding chaos, discontent, and suspicion within a target population over an extended period.
+- No single message can swing an election in favor of one presidential candidate or another.
+- Rather, it is the cumulative effect of influence operations that yields results in shifting people’s views on a particular issue or person.
+- Washington should understand that information operations are a form of protracted conflict between adversaries, in which combatants can in swift succession experience both success and failure.
+- Since 2016, the United States has taken some significant steps to protect the U.S.
+- information space.
+
+</HIGHLIGHTS>
+<CONTENT>
+In September 2024, the U.S.
+
+Justice Department charged two employees of RT, a Russian state media company, in connection with the transfer of $10 million to a Tennessee-based media startup.
+
+U.S.
+
+officials accused these individuals of money laundering and failing to register as foreign agents, but their case revealed a wider threat: the continued efforts of Russia and other U.S.
+
+adversaries to poison the information environment in the United States.
+
+Prior presidential election cycles in 2016 and 2020 saw similar attempts by Russia and other actors to introduce disinformation into the media diets of Americans.
+
+This year has been no different.
+
+With the unwitting involvement of notable right-wing influencers and commentators, the company in Tennessee produced and published English-language videos on social media platforms, such as TikTok and YouTube, that promoted views in line with Moscow’s “interest in amplifying U.S.
+
+domestic divisions,” according to the Justice Department’s indictment.
+
+Russian influence operations, as well as those advanced by China and Iran, pose a major threat to American democracy.
+
+According to the Office of the Director of National Intelligence, foreign powers may not be trying to “attack the integrity of voting systems,” but they are using disinformation to “undermine trust in the integrity of the election and election processes, as well as to further exacerbate divisions among Americans.” Even though Russia’s election interference in 2016 attracted a great deal of public opprobrium in the United States, the Kremlin and other autocratic governments still seek to influence how Americans think and perceive the world.
+
+The United States has reacted only tepidly to adversaries’ attempts to shape the hearts and minds of American voters.
+
+It cannot afford to be so timid.
+
+It needs to better align agencies and departments in dealing with the threat of foreign influence operations, and it must find ways to coordinate with social media companies and other private actors in curbing the disinformation that spreads on their platforms.
+
+It should stand up for the right to free speech at home while not allowing that right to be abused by malicious actors.
+
+And it should spread its own narratives in rival countries, giving authoritarian adversaries a dose of their own medicine.
+
+IN THE CROSS HAIRS With the meteoric growth of social media platforms in the past two decades, governments have found new channels through which they can spread their messages and undermine their opponents.
+
+Russia famously sought to influence the 2016 U.S.
+
+presidential election.
+
+According to a declassified 2017 U.S.
+
+intelligence report, Russian operatives tried to undermine both the Democrats and the Republicans by releasing information obtained through hacking and by flooding social media feeds with inflammatory content.
+
+This year’s election is also in the Kremlin’s cross hairs.
+
+According to a July report released by the Office of the Director of National Intelligence, Russia is the “predominant threat to U.S.
+
+elections” and “is working to better hide its hand.” Russian President Vladimir Putin believes that by deepening polarization and fractiousness in the United States, he can erode American dominance and reestablish Russia as a global power.
+
+In pursuit of that goal, Russian operatives have spread incendiary messages on social media about hot-button issues in American politics, including abortion, the right to own guns, immigration, and U.S.
+
+support for Ukraine.
+
+Russian bot farms are using artificial intelligence to impersonate Americans and spread disinformation and incendiary opinions.
+
+The Kremlin has also launched smear campaigns about the presidential candidate Vice President Kamala Harris , manipulated videos to denigrate her, and pushed narratives that cast doubt on the integrity of U.S.
+
+elections, such as a video that falsely shows a person tearing up ballots in Pennsylvania.
+
+Moscow’s barrage on American social media now also includes paid advertisements, fake profiles that promote AI-generated content, and links to websites that impersonate legitimate media to spread Russia-friendly narratives.
+
+Putin wants to deepen polarization in the United States to erode American global dominance.
+
+These efforts should come as no surprise.
+
+Russia has long conceived of information as a weapon.
+
+It believes that it is in an information war with the West and that, according to an essay published in the Russian Ministry of Defense’s journal Military Thought , “in the ongoing revolution in information technologies, information and psychological warfare will largely lay the groundwork for victory.” Russian military strategists want to use “massive psychological manipulation of the population to destabilize the state and society” of their adversaries.
+
+Russia is far from alone in using such methods to spread confusion and division in the United States.
+
+U.S.
+
+intelligence officials have warned that Iran has attempted to influence U.S.
+
+elections.
+
+Tehran, like Moscow, seeks to foment unrest among Americans, with the larger aim of undermining American global hegemony.
+
+Whereas Russia prefers former President Donald Trump , Iran prefers Harris, according to U.S.
+
+intelligence officials.
+
+Earlier this year, Iranian hackers allegedly managed to steal and then leak files from the Trump campaign to U.S.
+
+President Joe Biden’s reelection campaign and media outlets (none of which have published the information).
+
+According to Microsoft, an Iranian hacking group has also spread messages on social media in support of boycotting the U.S.
+
+presidential election as a form of protest against the war in Gaza.
+
+In February, the Office of the Director of National Intelligence also warned that China has stepped up its online information operations, aiming to “sow doubts about U.S.
+
+leadership, undermine democracy, and extend Beijing’s influence.” Through social media, Chinese actors have focused on down-ballot races, attempting to attack Republicans who are generally more critical of China.
+
+Another particularly prolific Chinese influence operation known as Spamouflage has used concocted American users on social media to sow dissatisfaction with the presidential election overall.
+
+These users have criticized both candidates and posted on contentious topics such as reproductive rights and U.S.
+
+support for Israel.
+
+SOWING CHAOS What may seem like just a hodgepodge of posts on social media actually has tremendous power.
+
+The goal of influence operations is to engineer a shift in enemy decision-making by shaping the views of the citizenry.
+
+It is difficult to measure the full effects of influence operations while they are underway, or even after they end.
+
+These activities are long term by nature, with the intent of seeding chaos, discontent, and suspicion within a target population over an extended period.
+
+No single message can swing an election in favor of one presidential candidate or another.
+
+Rather, it is the cumulative effect of influence operations that yields results in shifting people’s views on a particular issue or person.
+
+Washington should understand that information operations are a form of protracted conflict between adversaries, in which combatants can in swift succession experience both success and failure.
+
+Since 2016, the United States has taken some significant steps to protect the U.S.
+
+information space.
+
+For instance, U.S.
+
+Cyber Command has targeted Russian trolls and hackers to stop them from threatening U.S.
+
+elections .
+
+U.S.
+
+intelligence officials have continually exposed foreign influence operations in recent years and the U.S.
+
+government has sanctioned individuals and media outlets involved in malign activities.
+
+These measures may be steps in the right direction, but they are not enough.
+
+The U.S.
+
+government’s response to foreign influence operations is often disjointed and insufficiently agile.
+
+Washington views these activities as principally a matter to be dealt with by law enforcement agencies.
+
+In truth, this attack on the public life of the country requires a much more comprehensive and decisive response from the administration.
+
+As a first step, government bureaucracies can better coordinate to counter foreign influence operations.
+
+The National Security Council needs to design a whole-of-government action plan to expose election interference by U.S.
+
+adversaries and outline specific countermeasures.
+
+The national security adviser should designate an executive committee of representatives from key U.S.
+
+departments and agencies to oversee a government-wide task force on the matter.
+
+The secretary of the Department of Homeland Security should require that the Cybersecurity and Infrastructure Security Agency, a body under DHS purview, review and declassify material about information warfare as it is being conducted by U.S.
+
+adversaries.
+
+The declassified information would be shared with the appropriate U.S.
+
+state and local officials.
+
+In addition, the president should issue an executive order instructing all departments and agencies to establish internal task forces to identify potential foreign malicious information campaigns aimed at undermining their work.
+
+The office in the Department of Defense that focuses on what the military calls “perception management,” its efforts to combat disinformation, should also be given additional resources and powers.
+
+Watching the entrepreneur Elon Musk interview Trump, New York City, August 2024 Adam Gray / Reuters But the government will not be able to rein in foreign disinformation on its own; it will need to establish a joint working group composed of top-level government and social media platform leaders.
+
+The group should identify how social media platforms with global reach can help counter information operations that undermine democratic institutions, beginning with U.S.
+
+national elections.
+
+The U.S.
+
+government needs to expose how its adversaries leverage free speech in the United States to promote disinformation aimed at undermining American democracy.
+
+This is not the kind of political coordination that occurred during the COVID-19 pandemic, in which the executive branch used its power to press social media companies such as Meta to stifle questions about the origins of the virus.
+
+Instead, this is about persuading U.S.
+
+technology companies to join the battle against known adversaries.
+
+One of the greatest challenges in fighting an information war has been, and will remain, the First Amendment, which guarantees the right to free speech.
+
+Although it allows American citizens to express themselves freely, it also makes American democracy vulnerable to the machinations of autocracies and other bad actors.
+
+After the Justice Department charged the two RT employees in September, Moscow disingenuously accused the United States of declaring a “war on freedom of speech.” The Chinese Foreign Ministry likewise blamed the United States for suppressing free speech by trying to ban the popular Chinese social media app TikTok.
+
+At home, too, the U.S.
+
+government faces pressure that might make it harder to combat the spread of destabilizing narratives by autocracies.
+
+The Global Engagement Center, an agency within the U.S.
+
+State Department, is tasked with fighting foreign influence operations.
+
+Its congressional authorization is set to expire in December.
+
+Republican lawmakers have accused the center of surveilling and censoring Americans.
+
+At a time when foreign actors are engaged in a very real information war against the United States, Congress should pass a new authorization and extend the center’s mandate.
+
+Washington should not suppress domestic free speech, but it is essential to sanction and ban those malign foreign actors who use information as a weapon to undermine the United States.
+
+Both Democrats and Republicans should resist growing polarization and division and treat election interference as a bipartisan issue.
+
+The United States should not just fend off foreign adversaries by publicly exposing their actions; it should go on the offensive.
+
+During the Cold War, the United States tried to win the hearts and minds of people under Soviet rule through music, modern art, and literature.
+
+It also launched channels and networks, such as Radio Free Europe and Radio Liberty, that helped reach behind the Iron Curtain and remind people there of the freedoms inherent in the American dream.
+
+To safeguard U.S.
+
+national security, Washington should again launch influence operations of its own.
+
+Just as its foes try to do, it should seek to exploit sensitive issues and overwhelm security apparatuses with a barrage of pervasive and relentless messaging.
+
+This will effectively force foreign intelligence and security services to use their resources to contend with pressures at home rather than conduct offensive operations against the United States.
+
+China, Iran, and Russia have declared war on American democracy.
+
+They’re doing a good job of mounting their attacks while Washington has not done enough to defend the country’s information space.
+
+Without a credible deterrence policy, these enemies will keep seeking to undermine the United States.
+
+U.S.
+
+leaders can no longer allow foreign adversaries to eat away at the fabric of American constitutional democracy.
+
+The information war is here, whether they like it or not.
+
+</CONTENT>

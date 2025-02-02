@@ -1,0 +1,266 @@
+<TITLE>The War in Ukraine: The Deterrent Effect of Weaponized Interdependence | Nationalities Papers | Cambridge Core</TITLE>
+<PUBLISHED_DATE>2025-01-17</PUBLISHED_DATE>
+<URL>https://www.cambridge.org/core/journals/nationalities-papers/article/war-in-ukraine-the-deterrent-effect-of-weaponized-interdependence/E4F18CC87644B3DDAF0B38D17CE2B5B7</URL>
+<AUTHOR>Tatsiana Kulakevich* Affiliation: University of South Florida, Tampa, USA</AUTHOR>
+
+<SUMMARY>
+This article analyzes Russia's invasion of Ukraine, focusing on Putin's calculations despite Western threats of sanctions.
+-  The author argues that Putin believed the West would be reluctant to significantly disrupt established economic systems and wouldn't impose substantial costs on Russia for a successful blitzkrieg.
+-  The article contrasts the West's response to previous Russian aggression with its actions in Ukraine, highlighting the substantial increase in military support sent to Ukraine.
+-  The research employs an extended deterrence game analysis to understand the interactions among Russia, Ukraine, and the West.
+-  Key to the analysis is the interplay between economic interdependence and anticipated conflict escalation.
+- Ultimately, the article questions whether economic interdependence acted as a deterrent to the invasion.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The war in Ukraine provides a great demonstration of how an aggressor could plan a short-term offensive regardless of the awareness that the long-term war would result in high costs in both economic and political spheres.
+- Understanding the aggressor’s beliefs, preconceptions, and ability to deter a third party is important because it suggests the limits of economic interdependence to the effectiveness of deterrence.
+-   The remainder of the study is organized as follows.
+- In section one, I develop a theory building from the past literature.
+- Section two utilizes an extended deterrence game analysis to examine how Russia, Ukraine, and the West interacted in decision-making, taking into account the reactions and choices of the other players.
+
+</HIGHLIGHTS>
+<CONTENT>
+Abstract This article examines Putin’s expectations prior to Russia’s full-scale invasion of Ukraine and seeks to answer the following question: Why did Russia invade Ukraine regardless of the West’s threats of severe economic penalties raising the cost of an attack? I argue that the confidence in Vladimir Putin to invade Ukraine, despite his awareness that the stakes could go well beyond the borders of Ukraine and increase the cost of war for the Kremlin, was based on Putin’s calculations that the West would be reluctant to change or substantially displace established rich-get-richer economic structures and would not apply high costs on the Kremlin for military aggression against Ukraine in case of a successful blitzkrieg campaign.
+
+By utilizing an extended deterrence game analysis, the article demonstrates how Russia, Ukraine, and the West interacted in decision-making, taking into account the reactions and choices of the other players, and adds to the current body of knowledge by introducing an expanded approach to deterrence strategy based on economic interdependence and the scale of the anticipated conflict.
+
+
+ Introduction 
+ Putin launched the invasion of Ukraine despite his full awareness that the West promised to respond by imposing severe economic sanctions and substantially reinforcing the eastern flank of the North Atlantic Treaty Organization (NATO).
+
+The West had dragged its feet before imposing any costs on Russia in its previous military offensives in Georgia in 2008, or Ukraine in 2014.
+
+However, in stark contrast to the way the West handled previous Russian military aggressions, the transatlantic partners stood shoulder to shoulder, sending some of their most advanced anti-tank and anti-aircraft weapons systems to the Ukrainians.
+
+Putin’s invasion raises a question about the Kremlin’s strategy while preparing for the war with Ukraine.
+
+
+ This article examines Putin’s calculations prior to this latest offensive and seeks to answer the following question: Why did Russia invade Ukraine regardless of the West’s threats of severe economic penalties raising the cost of an attack? 
+ A large body of scholarship on deterrence captures various conceptual distinctions of deterrence—general versus immediate (Quackenbush Reference Quackenbush 2011 ), direct versus extended (Mazarr Reference Mazarr 2018 ), narrow versus broad (Mazarr Reference Mazarr 2018 ), denial versus punishment (Noll, Bojang, and Rietjens Reference Noll, Bojans, Rietjens, Osinga, Sweijs, Osinga and Sweijs 2021 ), nuclear versus conventional (Wirtz Reference Wirtz 2018 ), classical versus perfect (Zagare and Kilgour Reference Zagare and Kilgour 2000 ), unilateral versus mutual (Zagare Reference Zagare 1987 )—and agrees that effective deterrence requires the shaping of the perceptions of an adversary to see if the alternatives to aggression are more attractive than war.
+
+An important development in deterrence theory has been to model deterrence situations by targeting strategic interactions of more than two actors in extended deterrence.
+
+The argument of extended deterrence states that a third party can successfully deter an aggressive state from attacking (Fearon 1994; Smith Reference Smith 1996 ).
+
+But the logic also works in reverse: an attacker can directly impact the third party’s resolve to fight by increasing the costs of intervention if the aggressor’s goals are modest enough (Werner Reference Werner 2000 ; Quackenbush Reference Quackenbush 2011 ).
+
+
+ Another strand of the literature focuses on theories of economic interdependence and conflict.
+
+The argument is that trade and other forms of economic exchange promote peace by increasing economic opportunity costs (Weede Reference Weede 2004 ; Gartzke Reference Gartzke 2007 ).
+
+This argument has been debunked numerous times.
+
+For example, Albert Hirschman’s ( Reference Hirschman 1945 /1980) book claims that asymmetrical dependence of small powers on great powers can give the latter great leverage over the former.
+
+Other criticisms include reversed causality; it is peace that creates the conditions under which trade can develop (Blainey Reference Blainey 1988 ).
+
+Overall, the findings suggest that trade tends to reduce the probability of war (Russet and Oneal Reference Russett and Oneal 2001 ), but there are many instances when trade continues between warring parties (Barbieri and Levy Reference Barbieri and Levy 1999 ).
+
+Levy and Thompson ( Reference Levy and Thompson 2010 ) suggest separating dyadic and systemic relations between the states and argue that economic interdependence may help to reduce the probability of war between the aggressor and the third party, but may also increase the probability of war between the aggressor and the target.
+
+
+ In this article, I combine the two perspectives outlined above and add the time frame component for war as an influencing factor in the decision-making process.
+
+I argue that economic interdependence between the aggressor and the third party can free up the aggressor to attack the target because of anticipation that the third party would choose to preserve economic gain over punishing the aggressor.
+
+However, this deterrent effect only opens a short window for the aggressor to reach its goals and keep the third party at bay without activating the counterforces reducing the economic dependency regardless of the high costs of doing so.
+
+More specifically, I argue that the confidence in Vladimir Putin to invade Ukraine, despite his awareness that the stakes could go well beyond the borders of Ukraine and increase the cost of war for the Kremlin, was based on Putin’s calculations that the West would be reluctant to change or substantially displace established rich-get-richer economic structures and would not apply high costs on the Kremlin for military aggression against Ukraine in case of a successful blitzkrieg campaign.
+
+
+ This research adds to the current body of knowledge by introducing an expanded approach to deterrence strategy.
+
+It proposes the utilization of economic interdependence and the assessment of the potential conflict’s magnitude as key factors in enhancing deterrence efforts.
+
+The war in Ukraine provides a great demonstration of how an aggressor could plan a short-term offensive regardless of the awareness that the long-term war would result in high costs in both economic and political spheres.
+
+Understanding the aggressor’s beliefs, preconceptions, and ability to deter a third party is important because it suggests the limits of economic interdependence to the effectiveness of deterrence.
+
+
+ The remainder of the study is organized as follows.
+
+In section one, I develop a theory building from the past literature.
+
+Section two utilizes an extended deterrence game analysis to examine how Russia, Ukraine, and the West interacted in decision-making, taking into account the reactions and choices of the other players.
+
+Section three covers the nature of economic interdependence between Russia and the West, and uncovers the weaknesses of each party that could be weaponized by the aggressor state.
+
+Section four focuses on the deterrent effect of economic interdependence by examining the West’s reactions to Russia’s offensive politics for the past two decades.
+
+I conclude by discussing how my findings enhance general knowledge in the areas of international affairs, global economic networks, and security studies.
+
+
+ 
+ Theory 
+ The theory is built on the principles of extended deterrence.
+
+Consider a scenario involving three states: a potential attacker, a potential target, and a potential third-party defender.
+
+The attacker must decide whether or not to launch an attack on the target, while the target needs to decide whether to resist or not.
+
+The third-party defender has to determine whether to provide assistance if the target is attacked.
+
+The decision of the aggressor is influenced by both the resolve and the capability of the third-party defender to come to the target’s aid.
+
+If the threat of the third party to intervene is credible enough, the attacker will be deterred.
+
+If the aggressor incorrectly estimates the third party’s credibility, the war becomes multilateral because the third party follows on its threat to retaliate (Fearon Reference Fearon 1995 ; Smith Reference Smith 1996 ).
+
+According to Gartner and Siverson ( Reference Gartner and Siverson 1996 ), potential aggressors tend to lose multilateral wars if they make “mistakes” by incorrectly anticipating the determination of the third party to intervene on behalf of the target and only engage in the conflicts in which they predict a high probability of success.
+
+
+ In this instance, not only do expectations about the third party’s actions influence the attacker, but the attacker’s actions influence the third party.
+
+According to Werner ( Reference Werner 2000 ), if the third party’s willingness to intervene is not unconditional, then the aggressor has the ability to manipulate the level of threat to weaken the third party’s motivation to prevent an aggressive state from attacking a target, even when the third party expresses concern.
+
+In other words, the attacker can “neutralize” the third party from getting involved in the conflict on behalf of the target.
+
+
+ I show how economic interdependence provides an explanation of how an attacker can keep an interested third party at bay using economic ties.
+
+Farrell and Newman ( Reference Farrell, Newman and Drezner 2021 ) offer an insight that interdependence is not just a constraining effect on the likelihood of war, but can push actors to use trade and finance as coercive tools to get their way without war.
+
+According to their logic, once established, economic network structures are hard to challenge because of the potential costs of changing or substantially displacing existing network structures.
+
+As a result, interdependence generates power imbalances among states creating the potential to weaponize networks to exploit the vulnerabilities of disadvantaged states.
+
+According to this logic, by establishing economic dependency, an aggressor can forestall the involvement of the third party in the conflict by making it more costly for the third party to displace the established economic structures than intervening on behalf of the target state.
+
+
+ I also add another component—the scale of the anticipated conflict between an attacker and the target when the third party is being deterred from intervening on behalf of the target with economic dependency on the aggressor state.
+
+Following Hirschman’s ( Reference Hirschman 1978 ) argument, a country whose trade or investment is dominated will, at some point, try to loosen its dependence by cutting or diversifying its ties.
+
+This implies that the deterrent effect created by economic interdependence is not indefinite.
+
+Because of the tendency of the third party to reduce the existing economic asymmetry triggered by economic or political considerations, the deterrent effect is only effective for a short bilateral conflict because, otherwise, the third party will start activating the counterforces, reducing the economic dependency and increasing the likelihood to intervene on behalf of the target.
+
+This happens because of the costs the third party starts incurring politically and economically by being tied to an aggressor state.
+
+Also, the third party receives an opportunity to widen the room for maneuvering due to a disparity of attention that favors the third party, allowing it to transform an asymmetric relation into a relation of reduced asymmetry.
+
+
+ I explore just such a possibility in the next section by devising a game theoretic model that enables me to explore the conditions under which the attacker is able to undermine the third party’s resolve and the conditions under which deterrence fails because an attacker fails to preserve the costs forestalling the third party’s resolve to intervene on behalf of the target.
+
+
+ 
+ Russia’s Calculations in the Extended Deterrence Game 
+ The game explores a general pattern across a whole set of cases to examine the war in Ukraine.
+
+The players are attacker A , target T , and a third-party defender D.
+
+I focus solely on the strategic interaction between an attacker and the third-party defender.
+
+In this game, A chooses whether to attack and the third party D chooses whether to intervene on behalf of the target T.
+
+This is because the expectation is that the immediate target, T , always fights back if attacked.
+
+Pre-war polls in Ukraine showed that 57.5% Footnote 
+ 1 of Ukrainians were ready to offer armed resistance or expressed a readiness to resist by participating in civil resistance to defend their country against a Russian invasion.
+
+Also, five days before Russia launched the war against Ukraine, Ukrainian president Volodymyr Zelenskiy stated that Ukraine’s resolve was to defend itself, with or without Western partners (“Zelenskiy Says” 2022 ).
+
+Since the target’s decision does not change, this player is not an integral part of the game calculation (see Figure 1 ).
+
+
+ 
+ Figure 1.
+
+Illustrative Extended Deterrence Game 
+ 
+ The payoffs in the game are presented without uncertainties because Russia knew of the West’s response to its decision to invade Ukraine.
+
+Being presented with Russia’s demands to roll back from Eastern Europe, NATO faced an escalation dilemma in the form of a choice between credibly threatening Russia with painful consequences for jeopardizing NATO membership or compelling Russia to reverse its behavior of threatening Ukraine, with all the risks and costs of doing so.
+
+NATO’s public declarations that it would be protecting its allies left Ukraine at Russia’s mercy (Roth Reference Roth 2021 ).
+
+These declarations came out amidst the West’s warnings of potential sanctions against Russia in case of military aggression against Ukraine (Garland Reference Garland 2022 ).
+
+
+ Sanctions, while a form of intervention, are generally viewed as a lower-cost, lower-risk course of action between diplomacy and war, and have been the defining feature of the West’s response to many geopolitical challenges and countries, including North Korea, Iran, Venezuela, and many others.
+
+In addition, sanctions have been the go-to tool when the West wanted to “do something” about Russia, and most of the penalties over the past decade have been economically minor and ineffective at changing Russian policy (Fishman and Miller Reference Fishman and Miller 2022 ).
+
+When it comes to sanctioning Russia, Putin was aware that, in the past, the West faced a recurring challenge: the most impactful sanctions would be economically costly to the West.
+
+The option for the West to completely ignore Russia’s actions was an unlikely scenario as it would have demonstrated the lack of interest by the West in Russia’s violation of international norms of behavior, potentially exposing the West to economic and political risks, and encouraging Russia to proceed with its plans without incurring any costs.
+
+
+ Since the aggressor and the third-party defender know each other’s preferences, there are three outcomes of the game.
+
+One could observe the status quo with the payoff (0;0) for A and D , where the first component reflects A ’s payoff and the second reflects D ’s payoff.
+
+The status quo scenario was unacceptable for the Russian government.
+
+If Russia had chosen the outcome of not invading Ukraine, in its perception, it would have lost political influence over Ukraine.
+
+According to Putin, “true sovereignty of Ukraine is possible only in partnership with Russia” (Putin Reference Putin 2021 ).
+
+
+ The remaining two scenarios are bilateral war: (1) if A chooses to attack and D chooses not to physically intervene but imposes sanctions, and (2) multilateral war if A attacks and D physically intervenes on behalf of the target.
+
+If the war remains bilateral, the players’ expected payoffs are (pb*x-Ab; pb*(-x)-Db) , where pb represents the attacker’s probability of victory in a bilateral war, x denotes the magnitude of the proposed change, Ab and Db represent the costs for fighting a bilateral war for A and D respectively.
+
+If the war becomes multilateral, the payoffs are (pm*x-Am; pm*(-x)-Dm) , where pm represents the attacker’s probability of victory in a multilateral war, Am and Dm are the costs for fighting a multilateral war for A and D respectively.
+
+
+ The A ’s utility increases with x, while D ’s utility decreases with x.
+
+The players’ expected payoffs show that the type of war might impact their decisions.
+
+The probability of A ’s victory is greater in bilateral than in multilateral war: pb&gt;pm.
+
+The costs of war for both the attacker and the third party are greater in a multilateral war than in a bilateral war: Am&gt;Ab; Dm&gt;Db.
+
+The consequences to an attacker from the third party ensure that he always prefers to fight a bilateral war.
+
+The third party bears the costs of Dm in multilateral war.
+
+The greater the costs, the greater the desire to avoid those costs if possible.
+
+In the case of the war in Ukraine, NATO’s public declarations that it would not physically intervene on behalf of Ukraine decreased the probability of the multilateral war scenario.
+
+
+ Instead, knowing that the West would impose sanctions, the Russian government made the decision to invade Ukraine.
+
+Expert predictions varied, based on calculating the risks for Russia.
+
+Many viewed full-scale invasion as unlikely as Russia didn’t have enough force to conquer and control all of Ukraine, while the benefits of such an endeavor would be damaged by its costs.
+
+Putin, however, viewed the costs differently, by banking on Kyiv to fall quickly.
+
+Numerous interviews with Russian captives, which had been circulating on Ukrainian social media, provide evidence of the assumption in Moscow that the “special military operation” in Ukraine would be fast and successful.
+
+The videos suggest that Russian soldiers were given food and fuel supplies for only two or three days (Harding Reference Harding 2022 ).
+
+The Ukrainian army found (in Irpin, a suburb of Kyiv) warehouses with Russian parade uniforms suggesting that the invading army planned to organize a large parade in Kyiv to celebrate their victory in Ukraine.
+
+
+ Putin’s resolve to invade Ukraine based on the expectations of a fast military campaign has an interesting implication: the impact of the scale of the bilateral conflict on the third party’s resolve to provide more support or intervene on behalf of the target.
+
+The length of the conflict is in the eye of the beholder and not some absolute quality.
+
+The costs for a short bilateral war are smaller than for a long bilateral war with the respective expected payoffs (pbS*x-AbS; pbS*(-x)-DbS) and (pbL*x-AbL; pbL*(-x)-DbL).
+
+In these utilities, pb represents the attacker’s probability of victory in a bilateral war; x denotes the magnitude of the proposed change, AbS, AbL , and DbS; and DbL represents the costs for fighting a bilateral war for A and D respectively in a short and in a long bilateral war.
+
+
+ The third party strengthens its support for the target if its expected utility for the stronger support exceeds its expected utility for the initial reaction to the conflict between the aggressor and the target: pbL*(-x)-DbL&gt;pbS*(-x)-DbS.
+
+Rearranging terms imply that D strengthens its support for the target if x &gt; DbL-DbS/pbS-pbL.
+
+If the stakes of the short bilateral war are low enough, then the costs of stronger support to the target outweigh the third party’s desire to influence the outcome.
+
+
+ The attacker knows that if he chooses to attack, his maximum expected utility from the war is pb*x-Ab.
+
+An aggressor chooses to attack the target only if pb*x-Ab &gt;0, but the attacker will also prefer pbS*x-AbS over pbL*x-AbL and may not be prepared to endure pbL*x-AbL , even if it is smaller than the cost of a multilateral war: pm*x-Am.
+
+We can observe just such a scenario in Ukraine.
+
+Ukraine managed to avoid a fast defeat and the West made the decision to provide financial and military support to Ukrain
+
+</CONTENT>

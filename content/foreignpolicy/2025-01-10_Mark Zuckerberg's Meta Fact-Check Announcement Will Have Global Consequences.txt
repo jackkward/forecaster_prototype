@@ -1,0 +1,168 @@
+<TITLE>Mark Zuckerberg's Meta Fact-Check Announcement Will Have Global Consequences</TITLE>
+<PUBLISHED_DATE>2025-01-10</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2025/01/10/mark-zuckerberg-meta-fact-check-hate-speech-trump/</URL>
+<AUTHOR>Rishi Iyengar</AUTHOR>
+
+<SUMMARY>
+Mark Zuckerberg announced changes to Meta's content moderation policies, primarily reducing restrictions on topics like immigration and gender, and lowering the threshold for content removal.
+-  This includes removing fact-checkers in the US and replacing them with a user-based "community notes" system, mirroring Elon Musk's approach on X (formerly Twitter).
+-  The changes are intended to prioritize free expression, potentially affecting Meta's 3+ billion users globally.
+-  Critics worry about the spread of harmful misinformation and the impact on vulnerable populations, especially given the extensive global fact-checking program funded by Meta.
+-  Meta's spokesperson declined to comment on the future of fact-checking in other countries.
+-  This policy shift may signal a broader trend of political alignment by Meta, potentially affecting content moderation worldwide.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- “Media attempting to provide clearly-sourced and fact-driven independent journalism find themselves in the eye of the storm.”   Meta did not immediately respond to Foreign Policy ’s request for comment on the note.
+-   The past consequences of Meta’s misinformation missteps have been far broader and more harmful outside the West.
+- Facebook acknowledged in 2018 that it had not been doing enough to prevent the platform from being used to foment ethnic violence in Myanmar, and it has been accused of fueling violence in several other countries, including Ethiopia , India , and Sri Lanka .
+-   While the loss of independent fact-checkers in those countries would be a major blow, experts and advocates are more worried about another part of Zuckerberg’s announcement: the pullback of restrictions on hateful content that will apply to all its global users.
+- 
+
+</HIGHLIGHTS>
+<CONTENT>
+Earlier this week, the day after Donald Trump’s 2024 U.S.
+
+presidential election win was formally certified by the Senate, Meta CEO Mark Zuckerberg made a headline-grabbing announcement.
+
+
+ In a five-minute video posted on Meta’s social media platforms Facebook and Instagram, Zuckerberg announced changes to how those platforms would regulate content—primarily, that they would do less of it.
+
+
+ Meta will “get rid of a bunch of restrictions on topics like immigration and gender” while also lowering the threshold for its automated systems to take down potentially harmful content, Zuckerberg said.
+
+Accompanying changes to Meta’s hateful conduct policies say that this includes allowing “ allegations of mental illness or abnormality when based on gender or sexual orientation.” 
+ Meta will also “get rid of fact-checkers” in the United States and replace them with a “community notes” system where users call out misinformation themselves—similar to the one deployed by Elon Musk on the website formerly known as Twitter, which he took over in 2022 and renamed X the following year.
+
+
+ “It’s time to get back to our roots around free expression on Facebook and Instagram,” Zuckerberg said.
+
+
+ The announcement appeared aimed at an audience of one: the incoming U.S.
+
+president.
+
+Zuckerberg decried “censorship” by governments and legacy media—seemingly referencing one of Trump’s most frequent complaints —and added that “the recent elections feel like a cultural tipping point toward once again prioritizing speech.” 
+ Meta’s tendency to tweak its policies according to which party is in power in Washington is not strictly a new phenomenon, said Katie Harbath, a former public policy director for the company who led Facebook’s global election integrity efforts.
+
+“This seems to be a trend line for [Zuckerberg]; after the last three major elections now, he’s done major recalibrations of how the company approaches content,” Harbath, the founder and CEO of tech policy consultancy Anchor Change, told Foreign Policy .
+
+“At the end of the day, this isn’t about speech—this is about business.” 
+ It is less clear what these policy changes mean for Meta’s 3 billion-plus users around the world, including in many countries where its platforms—such as Instagram, Facebook, and WhatsApp—are the primary avenues of information and communication online.
+
+For now, the fact-checking closures will only apply to the United States, and a company spokesperson declined to comment on whether it plans to widen them to the rest of its fact-checking partners around the world.
+
+
+ But the announcement is deeply worrying to those fact-checkers as well as digital rights advocates and experts, who fear rampant harmful disinformation and possible chilling effects for vulnerable online populations around the world.
+
+
+ 
+ Meta’s global fact-checking program is extensive , comprising independent organizations in more than 100 countries and territories—including geopolitical hot spots such as Ukraine, Taiwan, and Palestine—as well as operating in more than 60 languages.
+
+Many of those fact-checkers are concerned that the cuts could soon come for them, particularly affecting those who rely on Meta’s funding and support.
+
+
+ “Most of the fact-checking community was growing and making a living because of Meta’s third-party program, and most of us are small in size.” said Summer Chen, the former editor in chief of the Taiwan FactCheck Center, Meta’s first Taiwanese partner.
+
+Chen helmed the center for five years and worked closely with Meta and other global partners before leaving a year ago to start her own organization called FactLink.
+
+
+ Chen specifically touted the collective efforts by Meta’s global coalition—convened by the Poynter Institute’s International Fact-Checking Network, or IFCN—to combat disinformation around the COVID-19 pandemic and the Russia-Ukraine war.
+
+
+ “We formed a global disinformation line of defense,” she said.
+
+Between X’s pullback from global content moderation investments since Musk took over the platform and Meta’s announcement this week, “that very precious global line of defense and the fact-checking community will face a challenge for survival,” she added.
+
+
+ Lupa, an agency that serves as a Meta fact-checking partner in misinformation hot spot Brazil , expressed similar fears.
+
+
+ “ We fear that Meta has taken a step in the wrong direction, driven by political alignment in the U.S.
+
+and the pursuit of even greater profits,” the organization said in a statement .
+
+“Retreats like this in initiatives against misinformation are dangerous and pose a risk to access to quality information based on facts, data, and scientific evidence.” 
+ An open letter to Zuckerberg published by IFCN on Thursday—which has already been signed by dozens of global fact-checking organizations—warned of dire consequences if Meta ’ s partnerships around the globe are similarly canceled.
+
+“ Some of these countries are highly vulnerable to misinformation that spurs political instability , election interference , mob violence and even genocide , ” the letter said.
+
+“ If Meta decides to stop the program worldwide, it is almost certain to result in real-world harm in many places.
+
+” 
+ Larger partners also appeared outraged at Meta’s decision, including the French news agency Agence France-Presse (AFP), whose fact-checking arm is one of the biggest Meta partners.
+
+
+ “AFP was given 15 minutes warning ahead of Meta’s announcement that it planned to end its fact-checking project in the United States,” wrote Phil Chetwynd, the agency’s global news director, in a note on AFP’s internal website that was obtained by Foreign Policy .
+
+Chetwynd and an AFP spokesperson confirmed that the note is authentic.
+
+
+ Meta had previously assured AFP in a formal letter that all of the agency’s fact-checking projects with Meta would continue until at least 2026, Chetwynd added, slamming Zuckerberg’s “highly-political and inaccurate statement equating fact-checking with censorship.” 
+ Chetwynd wrote that Meta has not yet clarified its plans for fact-checking projects outside the United States, adding that AFP management has a meeting with Meta in the coming days to discuss next steps.
+
+
+ “The decision comes against a background of growing populist and authoritarian attacks on the media around the world and an explosion of misinformation and disinformation on platforms such as X, Tik Tok and Facebook,” Chetwynd wrote.
+
+“Media attempting to provide clearly-sourced and fact-driven independent journalism find themselves in the eye of the storm.” 
+ Meta did not immediately respond to Foreign Policy ’s request for comment on the note.
+
+
+ 
+ The past consequences of Meta’s misinformation missteps have been far broader and more harmful outside the West.
+
+Facebook acknowledged in 2018 that it had not been doing enough to prevent the platform from being used to foment ethnic violence in Myanmar, and it has been accused of fueling violence in several other countries, including Ethiopia , India , and Sri Lanka .
+
+
+ While the loss of independent fact-checkers in those countries would be a major blow, experts and advocates are more worried about another part of Zuckerberg’s announcement: the pullback of restrictions on hateful content that will apply to all its global users.
+
+
+ “Those changes, in my view, are pretty disastrous,” said Kate Ruane, the director of the Washington, D.C.-based Center for Democracy and Technology’s Free Expression Project.
+
+“I don’t think Meta can credibly claim that it’s protecting free speech while making changes to its policies that silence entire communities,” Ruane added.
+
+
+ The company has clashed with governments around the world on both sides of the free speech debate, with countries such as Turkey and India frequently demanding its platforms to take down content that those governments find objectionable, as part of a broader attempt to silence critics and curb free speech.
+
+
+ Experts fear that authoritarian governments that are often purveyors of disinformation themselves and use social media laws to crack down on dissent could be emboldened by more lax speech policies from Meta.
+
+
+ “If I thought the cop was no longer on the beat, I would think that I could do a lot more of that,” Ruane said.
+
+
+ Meta has also been subject to immense scrutiny in the European Union, whose Digital Services Act—enacted in 2023—imposes certain content moderation requirements on large platforms.
+
+An EU official told reporters in a briefing on Thursday that Meta’s fact-checking changes will not affect the EU but that its updated hate speech policies will, adding that the company has submitted two “critical impact risk assessments” that the EU continues to evaluate.
+
+
+ In his Tuesday announcement, Zuckerberg dropped a big hint about how he would approach potential conflicts with governments around the world: by hitching his company more firmly to U.S.
+
+geopolitical clout.
+
+
+ “We’re going to work with President Trump to push back on governments around the world that are going after American companies and pushing to censor more,” he said, specifically calling out Europe, China, and Latin America.
+
+“The only way that we can push back on this global trend is with the support of the U.S.
+
+government.” 
+ The Meta CEO also took a swipe at the Biden administration’s policies over the past four years, saying that it has itself indulged in censorship.
+
+“By going after us and other American companies, it has emboldened other governments to go even further,” he said.
+
+“But now we have the opportunity to restore free expression, and I am excited to take it.” 
+ (The White House did not immediately respond to Foreign Policy ’s request for comment, but a spokesperson said in an August statement in response to similar accusations by Zuckerberg that “ tech companies and other private actors should take into account the effects their actions have on the American people, while making independent choices about the information they present.”) 
+ That could set up some complicated dynamics for Meta’s business around the world, said Harbath, the company’s former director of public policy for global elections.
+
+“We were kind of already on that path because of the different regulations that you were seeing in places,” she said.
+
+“Does this put that into even more stark contrast? Potentially, yes, but also I think it’s worth remembering with many other leaders around the globe also being more conservative or right-leaning … they may welcome that a bit more.” 
+ At the same time, Meta’s reliance on Trump for geopolitical air cover could backfire.
+
+
+ “I think that’s what they want to signal [to other countries],” Harbath said.
+
+“The question is: Will Trump actually stick by their side? Because Trump is going to do what’s best for Trump.”
+
+</CONTENT>

@@ -1,0 +1,68 @@
+<TITLE>Political content on Instagram and Threads ramped up</TITLE>
+<PUBLISHED_DATE>2025-01-09</PUBLISHED_DATE>
+<URL>https://www.bbc.com/news/articles/clyjyd0297go</URL>
+<AUTHOR>Liv McMahon</AUTHOR>
+
+<SUMMARY>
+Meta, the parent company of Instagram and Threads, is increasing the visibility of political content on both platforms.
+-  This change, introduced in the US this week, is a reversal of previous policy and aims to foster "free expression."  Meta argues users have requested more political content, contradicting previous statements by CEO Adam Mosseri.
+-  Critics, however, warn of the potential for increased disinformation and hate speech, particularly targeting marginalized groups.
+-  The shift in policy comes amidst concerns about the rise of political discourse on social media platforms and the potential return of former US president Donald Trump to the White House.
+-  The move could attract rivals and impact existing users.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The change will be introduced in the US this week before being expanded globally soon after.
+- It represents a U-turn from the head of the two platforms, Adam Mosseri, who had previously said he was not in favour of them promoting posts about politics and news.
+- Explaining the change, he suggested users had "asked to be shown more" of such content.
+- But Drew Benvie, chief executive of social media consultancy Battenhall, questioned whether that was accurate, saying the attraction of Instagram and Threads is that they were "safe spaces" free of the "turbulent developments" seen on platforms such as X.
+- The real motivation was the "changing political winds" in the US, he said, where Donald Trump will shortly return to the White House.
+
+</HIGHLIGHTS>
+<CONTENT>
+Threads and Instagram users will be shown more political content from people they do not follow, parent company Meta has announced.
+
+The firm says its part of its reorientation towards "free expression" - a move that saw it ditch fact checkers on Tuesday.
+
+The change will be introduced in the US this week before being expanded globally soon after.
+
+It represents a U-turn from the head of the two platforms, Adam Mosseri, who had previously said he was not in favour of them promoting posts about politics and news.
+
+Explaining the change, he suggested users had "asked to be shown more" of such content.
+
+But Drew Benvie, chief executive of social media consultancy Battenhall, questioned whether that was accurate, saying the attraction of Instagram and Threads is that they were "safe spaces" free of the "turbulent developments" seen on platforms such as X.
+
+The real motivation was the "changing political winds" in the US, he said, where Donald Trump will shortly return to the White House.
+
+He predicted it could drive people towards rivals such as Bluesky, but said she also worried about the impact on those who stayed on Meta platforms.
+
+This week's changes "will open up the potential for vast amounts of disinformation to spread at speed across a user base of over 2 billion," he warned.
+
+In 2023, Mr Mosseri said Threads and Instagram should focus on "amazing communities" such as "sports, music and fashion." "Any incremental engagement or revenue they might drive is not at all worth the scrutiny, negativity (let's be honest), or integrity risks that come along with them," he wrote in a Threads post at the time .
+
+But in a fresh post on the platform he has now explained why that stance was being abandoned, saying it had "proven impractical to draw a red line around what is and is not political content" - and users have asked to be shown more, not less, of it.
+
+Mr Mosseri said Instagram - which Meta acquired for $1bn in 2012 - was founded upon the values of creativity and "giving anybody a voice".
+
+"My hope is that this focus on free speech is going to help us do even a bit better along that path," he said in an Instagram video.
+
+There has been considerable criticism of the changes Meta has already announced, with concerns expressed about the impact on minority groups.
+
+Some users have also reacted to these latest changes on Threads and Instagram with dismay.
+
+"Well, time to delete the Threads app.
+
+It was nice while it lasted," said one Threads user responding to Mr Mosseri's posts.
+
+On Instagram - where Mr Mosseri said accounts focused on politics now "don't have to worry about becoming non-recommendable" to other users - some users praised the move as "a good step towards the freedom on the platform".
+
+Many have also, however, expressed concern about the effect that increasing content recommendations about social issues and politics could have on amplifying misinformation and hate speech.
+
+Brooke Erin Duffy, an associate professor in communication at Cornell University, said there would be "winners and losers" of Meta's content moderation changes.
+
+"Marginalised creators, including women, people of colour, and the LGBTQ+ community are likely to face increased harms with fewer mechanisms of recourse," she told BBC News.
+
+"At the same time, we may see a rise in content created by far-right or ideologically extreme influencers given the relaxed policies on hate speech."
+
+</CONTENT>

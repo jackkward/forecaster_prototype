@@ -1,0 +1,209 @@
+<TITLE>Finding China's Data Under Xi Is Harder, Not Impossible</TITLE>
+<PUBLISHED_DATE>2024-11-04</PUBLISHED_DATE>
+<URL>https://foreignpolicy.com/2024/11/04/china-research-data-statistics-censorship-ccp-xi-jinping/</URL>
+<AUTHOR>Jeremy Wallace</AUTHOR>
+
+<SUMMARY>
+Since Xi Jinping's rise to power in 2013, China has become significantly less transparent, with access to information and data declining.
+-  Geopolitical tensions have increased the difficulty of understanding China, making it easier to portray it as a "bogeyman" and justify protectionist policies.
+-  Researchers face challenges due to restrictions on travel, speech, and the arbitrary detention of foreign nationals.
+-  The quality and availability of data, including key economic indicators, have deteriorated.
+-  Even high-ranking officials can be punished for criticizing policy decisions, further discouraging open communication.
+-  This makes it harder for outsiders to accurately assess the situation in China.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Indeed, thousands of different data series that had been regularly published are no longer available today, leaving analysts to navigate in the dark.
+- Multiple foreign consulting firms have also been shuttered , making the work of due diligence necessary for investment or purchasing decisions measurably harder.
+-   When the new national security law was released in 2020, discussions about its implications were chilling for observers, Chinese and foreign.
+- A particularly concerning discourse arose suggesting that citizens should be careful for “spies that look like us” led many Chinese researchers at foreign institutions to back out of plans out of an abundance of caution for themselves and those they would work with.
+-   Why is China harder to understand today?
+
+</HIGHLIGHTS>
+<CONTENT>
+In the early 1980s, the Chinese leadership promised that the country was going through a period of “reform and opening up.” Gathering information in China was never transparent or without risks, but people were increasingly willing to speak up, and archives and government data slowly became more available.
+
+
+ But since 2013, when President Xi Jinping took control, that opening has gone into reverse—a process accelerated by the COVID-19 pandemic.
+
+Yet, while observing China has become increasingly difficult, information and resources are out there to use to do good, careful work and analysis—if you know where to look.
+
+
+ Rising geopolitical tensions heighten the stakes of misunderstanding China and the rewards for those willing to profess certainties about its circumstances and their implications.
+
+Today, a murkily defined China makes for a convenient bogeyman, a justification for protectionist policies and military buildups .
+
+
+ The dangers and costs of trying to understand China on the ground have grown.
+
+International researchers are mindful of the chilling case of the “two Michaels”—Canadian citizens Michael Kovrig and Michael Spavor—who were arbitrarily detained (although eventually charged with alleged espionage) for nearly three years.
+
+Following crackdowns on speech both on and offline, speaking freely—especially to foreigners—has become far more risky for Chinese people.
+
+Travel restrictions, COVID-19 quarantines, and reduced international flights have made physical access to the country dear, and some regions, such as Tibet and Xinjiang, are particularly inaccessible.
+
+
+ Even if you make it to China, the quality of what data you can find is declining as the information environment tightens and interlocutors stay tight-lipped.
+
+Anecdotally , members of the press report that foreign journalists are a far rarer sight in China today than a decade ago.
+
+The China office of the New York Times is based in Seoul rather than Beijing or even Hong Kong, where political freedom has been crushed under draconian new laws passed in 2020.
+
+
+ When even high-officials such as Zhu Hengpeng —a leading economist at the state-run Chinese Academy of Social Sciences—can be purged for criticizing policy decisions, local cadres, bureaucrats, and domestic reporters are understandably reluctant to give observers unvarnished perspectives about what is really happening and where things might be headed.
+
+
+ Economics, once protected by its relatively technical nature, is no longer a safe haven from the tightening political controls and the general atmosphere of securitization.
+
+Key economic data indicators such as youth unemployment numbers have vanished from public view, as the reality that they depicted was incompatible with the official narrative.
+
+Indeed, thousands of different data series that had been regularly published are no longer available today, leaving analysts to navigate in the dark.
+
+Multiple foreign consulting firms have also been shuttered , making the work of due diligence necessary for investment or purchasing decisions measurably harder.
+
+
+ When the new national security law was released in 2020, discussions about its implications were chilling for observers, Chinese and foreign.
+
+A particularly concerning discourse arose suggesting that citizens should be careful for “spies that look like us” led many Chinese researchers at foreign institutions to back out of plans out of an abundance of caution for themselves and those they would work with.
+
+
+ Why is China harder to understand today? Where did these trends come from? 
+ The policies and politics that had powered China’s economic engine since the 1970s were already sputtering a decade ago.
+
+Focusing politics on just a few numbers—such as GDP growth—produced excellent performance on these measures, but it overlooked several problems that came to plague Chinese society: most notably, corruption, pollution, and debt.
+
+
+ These problems accumulating in the regime’s blind spots led Xi to take drastic action.
+
+His neopolitical turn—aggressive anti-corruption campaigns, reassertion of party authority, and personalization of power—is an attempt to fix the problems of the prior system as well as a hedge against what will likely end up being China’s inability to do so.
+
+
+ Instead of economics and economic statistics ruling everything, politics once again holds the reins.
+
+Rather than allowing openness, transparency, and neoliberal markets, the party-state has gripped the country tighter.
+
+These changes made China less dependent on foreign investment and people throughout society less likely to communicate with the outside world , which makes the country’s twists and turns ever harder for foreigners to parse.
+
+
+ But we can parse them—and we need to do this.
+
+China is a country of 1.4 billion people.
+
+It has the world’s second-largest economy.
+
+It’s simultaneously the overwhelming world leader in carbon emissions and the dominant player in the key green energy technologies that promise to decarbonize the planet.
+
+Writing off a sixth of humanity as living under a governance that is impenetrable to analysis is a disaster.
+
+
+ It’s also unnecessary.
+
+It might be trickier than before, but it’s still possible to gather information on China—even if it’s sometimes frustratingly limited or incomplete.
+
+
+ But even worse is impugning the contradictory signals coming out of the country and assuming that Beijing is a simple adversary or friend rather than trying to understand China as a complex network of individuals and institutions, with mixed intentions and a convoluted political economy.
+
+
+ The Chinese political system is constantly throwing off huge amounts of information about itself, its priorities, and its concerns.
+
+Policy documents , speeches , and the extensive planning apparatus are all out there, and even some details from high-level Chinese Communist Party meetings are made available.
+
+
+ Here, though, it is important to not overinterpret a single phrase without understanding the rhetorical context and history.
+
+The great Alice Miller, a longtime watcher of Chinese elite politics, emphasized that the systematic study of such texts required “comprehensiveness and precision,” “large files and long memories,” and “interpretive judgment and experience.” 
+ The Chinese state collects an immense amount of data, much of which is available online.
+
+You can go to https://www.stats.gov.cn/ right now and peruse or download hundreds of different time series capable of illuminating areas of China’s economy.
+
+There’s monthly data on retail sales and housing prices for 70 different cities, profits at large industrial enterprises, and value added in key commodities and products.
+
+And there’s census data, including not just the population census (the most recent being that of 2020, which was the nation’s seventh), but also economic and agricultural censuses as well.
+
+Plus, the National Bureau of Statistics also publishes an annual statistical yearbook.
+
+
+ Other ministries have loads more data—urban unemployment, medical insurance, fiscal revenues and expenditures, tax revenue, land use, air quality, forest coverage, electricity consumption, foreign direct investment and trade data, vehicle registrations and traffic accidents, and more.
+
+Local governments do the same thing, and there are data companies—such as CEIC and Wind Financial Terminal—that will help serve them all to you on a platter.
+
+(Albeit, for a hefty price.) 
+ To be sure, this data should be ingested with an appropriate amount of salt.
+
+Sometimes official statistics are indeed wildly implausible.
+
+China’s official COVID-19 death numbers, for instance, are orders of magnitude off from what most informed outside analysts believe happened to the country after quickly jettisoning its zero-COVID policies in late 2022.
+
+Further corroborating evidence of the scale of tragedy in China is not difficult to find.
+
+
+ Usually, wide distortions tend to come out of local governments , and the central government has tried to crack down on these problems repeatedly with a variety of institutional tools, including yet another revision to the national statistics law this year.
+
+However, the more common situation is that the political system seems to continue to incentivize subtly overstating growth statistics, especially sensitive data at sensitive moments, as it did a decade ago, when I first published on this topic, which a series of papers have similarly documented .
+
+
+ An alternative to official government data is to go directly to the markets.
+
+Chinese markets document trillions of dollars of transactions each day.
+
+And there’s a large ecosystem of financial market media happy to supply you with a multiplicity of angles to ruminate on for nearly every one of them.
+
+
+ More broadly, the Chinese media ecosystem produces an incredible amount of content, which can be used to help understand shifting trends in attitudes, behaviors, and beliefs of people.
+
+And yes, censorship and propaganda are endemic.
+
+Yet even the practices of censorship tend to leave traces in ways that point to items that someone, at some point, feared could be particularly threatening focal points.
+
+
+ Those traces can be flipped by researchers to highlight precisely what censors attempted to hide.
+
+China Digital Times has a long-running feature, Ministry of Truth , documenting items that the censorious authorities wish to send into the memory hole.
+
+Similarly, journalists at BuzzFeed used data on blurred maps to help identify detention facilities in Xinjiang.
+
+
+ OK, let’s say that you (or your bosses) are skeptical.
+
+You want to trust official data, but you’d like to verify it somehow against some external source.
+
+In that case, consider satellite imagery.
+
+
+ Satellites can show all manner of physical activity—people erecting detention camps in Xinjiang, deploying solar panels in Inner Mongolia, constructing bridges in Guizhou, bulldozing migrant housing in Beijing, and offloading coal in Guangdong.
+
+The growth of crops can be assessed as well as the commercial patterns of ships and containers.
+
+Even something as politically sensitive as a nuclear submarine sinking can be inferred from remote imagery from space.
+
+
+ These are not only hypothetically useful resources.
+
+Earlier in September, I attended the American Political Science Association’s annual meeting, which for the past seven years has also served as the location of a miniconference on Chinese politics.
+
+Research papers presented there used the resources that I’ve noted above—and more—to make inferences about political, economic, and social trends in China.
+
+
+ Procurement documents and contracts, corporate registrations and annual reports, social media posts, and street view data were all scraped, screened, cleaned, and merged with other information to help tease out shifting patterns of attitudes, behavior, and structures in China.
+
+
+ Petitions from citizens posted on local leaders’ message boards numbering in the millions can serve as a cornucopia of citizen’s complaints with their interactions with the cities and towns in which they reside.
+
+Celebrity profiles and job ads both—in very different ways—give insights into what Chinese citizens are looking for online, which sectors of the economy are thriving, what conversations are most energetically being discussed, and what questions of mundane or national politics are being asked.
+
+
+ I suppose that some may find these kinds of analyses frustrating.
+
+If one views Chinese politics solely as the wants and desires of one man, then what benefit can come from finding out what average Chinese citizens in Zouping or Ordos or Shenzhen are complaining about online? Clearly, Xi’s preferences matter deeply for the trajectory of Chinese politics on a host of dimensions, but one man does not govern China.
+
+Xi cannot stop scammers from ripping off the elderly in Shanghai, keep delivery companies from underpaying their drivers in Chongqing, or even make sure that military recruits hit their targets in practice during basic training.
+
+
+ There are all manner of complicated institutions and complex practices that make up Chinese politics.
+
+There are people who spend every minute of their working life tracking Xi’s every movement for evidence of changes in his health or how those closest to him view the dear leader, but there is a wealth of information to help demystify China—and it’s available to all.
+
+We should and do study what we can.
+
+</CONTENT>

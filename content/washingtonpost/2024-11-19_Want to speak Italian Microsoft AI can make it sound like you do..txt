@@ -1,0 +1,89 @@
+<TITLE>Want to speak Italian? Microsoft AI can make it sound like you do.</TITLE>
+<PUBLISHED_DATE>2024-11-19</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/business/2024/11/19/ai-voice-translator-microsoft-language-meetings/</URL>
+<AUTHOR>Danielle Abril</AUTHOR>
+
+<SUMMARY>
+Microsoft's new AI interpreter in Microsoft Teams simulates speaker voices and provides near-real-time interpretation in nine languages (Chinese, English, French, German, Italian, Japanese, Korean, Portuguese, and Spanish).
+-  The feature, expected to be more widely available in 2025 for Microsoft 365 Copilot users, aims to democratize access to interpreters, as human interpreters can be expensive.
+-  Users must consent to voice simulation, and can choose to disable it.
+-  The interpreter is not perfect, but Microsoft plans to offer transcriptions in the original language alongside the interpreted version.
+-  This AI feature is part of Microsoft's broader investment in generative AI, joining similar efforts from Google, Salesforce, and Zoom.
+-  The technology raises concerns about accuracy, bias, and potential misuse.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The initial nine languages the interpreter will support are Chinese (Mandarin), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil) and Spanish.
+- Microsoft expects to add more languages in the future.
+- In the past year, the use of voice simulators has been on the rise.
+- New York Mayor Eric Adams used an AI simulator to make prerecorded calls promoting local events to residents in several different languages, including Spanish and Mandarin, none of which he fluently speaks.
+- But the technology also has been used to help people who have lost their voice, like people suffering from amyotrophic lateral sclerosis (ALS), be able to speak again.
+
+</HIGHLIGHTS>
+<CONTENT>
+Artificial intelligence has already proved that it can sound like a human, impersonate individuals and even produce recordings of someone speaking different languages.
+
+Now, a new feature from Microsoft will allow video meeting attendees to hear speakers “talk” in a different language with help from AI.
+
+Microsoft unveiled Tuesday a new AI interpreter that can simulate speaker voices and offer near-real-time voice interpretation in nine languages on Microsoft Teams, the company’s communications platform.
+
+The feature is being tested by a limited group of users and is expected to be more broadly available in 2025 for accounts with a Microsoft 365 Copilot license.
+
+The announcement comes as Microsoft continues to beef up its generative AI capabilities across its suite of workplace and consumer products under Copilot.
+
+It joins an industry-wide push to invest billions in the technology .
+
+Companies including Google, Salesforce and Zoom have also recently pushed new AI products , suggesting that technology will help people be more productive and creative, and that some functions and businesses may be more scalable as a result.
+
+But concerns about the tech persist, as generative AI also has the potential to introduce errors or biases; use other people’s ideas, content or art; and create security risks or misinformation like deepfakes.
+
+Nicole Herskowitz, corporate vice president of productivity and collaboration for Copilot, said the new feature in Teams aims to democratize access to interpreters.
+
+It can be expensive to hire a human interpreter for everyday functions such as meetings.
+
+Some companies “don’t even have the option of an interpreter,” she said.
+
+“I look at this as a way to have a high-quality translation experience.” That said, like most AI and computer interpretations, the interpreter in Teams may not be 100 percent accurate, Herskowitz admitted.
+
+Microsoft said users will soon have the ability to enable Teams’ multi-language transcription service, which will provide the content of the meeting in the language that was originally spoken alongside the interpreted version.
+
+A demonstration of how the new AI interpreter will simulate the speaker's voice and offer near-real-time translation.
+
+(Video: Microsoft) How it works Users must provide consent via a notification during the meeting or switch their privacy settings for the interpreter to use voice simulation during the meeting.
+
+They can also opt out of voice replication by disabling it in settings for the interpreter to use a default interpretation voice instead.
+
+The initial nine languages the interpreter will support are Chinese (Mandarin), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil) and Spanish.
+
+Microsoft expects to add more languages in the future.
+
+In the past year, the use of voice simulators has been on the rise.
+
+New York Mayor Eric Adams used an AI simulator to make prerecorded calls promoting local events to residents in several different languages, including Spanish and Mandarin, none of which he fluently speaks.
+
+But the technology also has been used to help people who have lost their voice, like people suffering from amyotrophic lateral sclerosis (ALS), be able to speak again.
+
+Big meeting providers have offered interpretation services for years, but they have not used voice simulators.
+
+Zoom, for example, announced its interpretation feature in 2022, which allows hosts to bring their own live language interpreters into the meeting and create audio channels for the interpreted languages.
+
+In 2022, it also announced captions that interpret in real time available in 35 languages.
+
+Google added similar captions in 2022.
+
+It supports five different languages on Workspace accounts and 69 with a Gemini for Workspace add-on.
+
+Webex debuted its feature for human interpreters and live-interpretation captions in 2021.
+
+Microsoft also announced Copilot Actions, a feature that allows users to create automated tasks that repeat as often as a user needs for things such as weekly summaries of client interactions or daily updates from managers for meeting prep.
+
+The feature is being privately tested.
+
+Microsoft also announced the ability for users to create custom AI bots that base their answers on a specific set of files.
+
+So, for example, a person can share a custom-made AI bot with their team that answers all questions about a particular client based on the documents saved about that client.
+
+The feature is now generally available.
+
+</CONTENT>

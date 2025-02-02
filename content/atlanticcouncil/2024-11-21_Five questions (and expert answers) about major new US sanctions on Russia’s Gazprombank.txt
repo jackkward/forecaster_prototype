@@ -1,0 +1,125 @@
+<TITLE>Five questions (and expert answers) about major new US sanctions on Russia’s Gazprombank</TITLE>
+<PUBLISHED_DATE>2024-11-21</PUBLISHED_DATE>
+<URL>https://www.atlanticcouncil.org/blogs/new-atlanticist/five-questions-and-expert-answers-about-major-new-us-sanctions-on-russias-gazprombank/</URL>
+<AUTHOR>dmalloy</AUTHOR>
+
+<SUMMARY>
+The US Treasury Department sanctioned Russia's Gazprombank, the largest unsanctioned bank, and 118 other entities.
+-  This action, part of a broader sanctions campaign against Russia, targets the Russian financial system and is aligned with Western allies.
+-  The sanctions are designed to pressure Russia's war effort by restricting payments and transactions, including those related to Russian oil sales.
+-  While not a full financial embargo, this move significantly impacts the Russian banking system, potentially affecting other countries doing business with Russia.
+-  Experts highlight the sanctions' logical progression from earlier measures and their connection to broader US policy toward the ongoing war in Ukraine.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- The Office of Foreign Assets Control (OFAC, the branch of Treasury that administers financial sanctions) also issued a warning that noted the sanctions risks related to association with Russia’s System for Transfer of Financial Messages (SPFS, a sort of Russian parallel to the SWIFT international banking messaging system).
+-   — Daniel Fried is the Weiser family distinguished fellow at the Atlantic Council and a former US State Department coordinator for sanctions policy.
+-   Today’s Treasury action targeting Gazprombank brings the United States’ sanctions regime in line with Western allies including the United Kingdom, Australia, Canada, and New Zealand, which previously designated the financial institution.
+- While this action does not target the oil and gas industry directly, it will impact payments and transactions related to the sale of Russian oil .
+- Gazprombank has been on OFAC’s radar for a long time, but the United States was reluctant to add the bank to the Specially Designated Nationals (SDN) list out of concern that designating the bank would send oil prices soaring.
+- 
+
+</HIGHLIGHTS>
+<CONTENT>
+The vise is tightening.
+
+The US Treasury Department today announced sanctions on Russia’s Gazprombank—which Russia uses to pay soldiers, among other things—as part of a barrage of economic measures targeting its war effort.
+
+The announcement comes as the Biden administration has fast-tracked aid to Ukraine and loosened its restrictions on how Ukraine responds to Russia’s war of aggression.
+
+To decipher these moves, we turned to some of our top sanctions experts to reveal what’s behind the decision and what to expect next.
+
+
+ 1.
+
+What exactly did the United States just do? 
+ The United States today advanced its pressure on the Russian financial system, imposing full blocking sanctions against 118 entities and individuals, including Gazprombank—the largest bank not previously sanctioned—and fifty other banks.
+
+The Office of Foreign Assets Control (OFAC, the branch of Treasury that administers financial sanctions) also issued a warning that noted the sanctions risks related to association with Russia’s System for Transfer of Financial Messages (SPFS, a sort of Russian parallel to the SWIFT international banking messaging system).
+
+
+ — Daniel Fried is the Weiser family distinguished fellow at the Atlantic Council and a former US State Department coordinator for sanctions policy.
+
+
+ Today’s Treasury action targeting Gazprombank brings the United States’ sanctions regime in line with Western allies including the United Kingdom, Australia, Canada, and New Zealand, which previously designated the financial institution.
+
+While this action does not target the oil and gas industry directly, it will impact payments and transactions related to the sale of Russian oil .
+
+Gazprombank has been on OFAC’s radar for a long time, but the United States was reluctant to add the bank to the Specially Designated Nationals (SDN) list out of concern that designating the bank would send oil prices soaring.
+
+
+ — Kimberly Donovan is the director of the Economic Statecraft Initiative at the Atlantic Council’s GeoEconomics Center.
+
+She previously served in the federal government for fifteen years, most recently as the acting associate director of the Treasury Department Financial Crimes Enforcement Network’s Intelligence Division.
+
+
+ 2.
+
+How does it fit in with the US sanctions approach since February 2022? 
+ These steps are a logical extension of the US financial sanctions imposed since Russia’s first invasion of Ukraine in 2014 and intensified after its full invasion in 2022.
+
+It is not a full financial embargo against the Russian banking system (that some, myself included, had recommended) but is getting close to that.
+
+
+ —Daniel Fried 
+ 3.
+
+How does this action fit into a broader Biden strategy on the war as he prepares to leave office? 
+ The Biden administration in its final weeks is rushing to impose additional sanctions in parallel with steps it is taking to send additional military equipment to Ukraine, such as anti-personnel land mines, and remove barriers to Ukraine’s use of that equipment, as it did earlier this week by lifting restrictions on Ukraine’s use of Army Tactical Missile Systems (ATACMS).
+
+
+ —Daniel Fried 
+ 4.
+
+What does this mean for other countries that do business with Russia? 
+ It is important to note that the authority used to sanction Gazprombank (Executive Order 14024) carries the risk of secondary sanctions.
+
+This means any foreign financial institution doing business with Gazprombank may find themselves at risk of being sanctioned by the US government.
+
+Today’s action will likely send shock waves across the financial sector as well as the oil and gas industry as financial institutions and oil importers and exporters review and consider the new sanctions landscape and how much risk they’re willing to take on to continue buying cheap oil from Russia.
+
+
+ —Kimberly Donovan 
+ 5.
+
+What impact will this have on Russia’s ability to wage the war? 
+ The financial sanctions announced today will impose additional restraints (“friction”) on the Russian economy.
+
+The sanctions on Gazprombank and other Russian banks could complicate sales of Russian oil, possibly forcing the Russians to resort to weaker currencies (not the dollar, euro, or pound) or even to barter arrangements.
+
+But they are unlikely by themselves to constitute a crippling blow against the Russian economy.
+
+If today’s sanctions were the final such moves by the Biden administration, I would regard them as insufficient given the gravity of Russia’s ongoing war and Russia’s ongoing attacks on Ukrainian civilians and advances in some areas.
+
+Happily, I have heard that these are not the administration’s final sanctions against Russia.
+
+Bottom line: stay tuned.
+
+
+ —Daniel Fried 
+ Further reading 
+ 
+ 
+ 
+ 
+ Thu, Sep 8, 2022 
+ Russia Sanctions Database 
+ 
+ Econographics 
+ By 
+ 
+ 
+ 
+The Atlantic Council’s Russia Sanctions Database tracks the level of coordination among Western allies in sanctioning Russian entities, individuals, vessels, and aircraft, and shows where gaps still remain.
+
+
+ 
+ 
+ Image: Gazprombank Bank signboard seen during the St.
+
+Petersburg International Gas Forum, which is taking place at the Expoforum.
+
+(Photo by Maksim Konstantinov / SOPA Images)
+
+</CONTENT>

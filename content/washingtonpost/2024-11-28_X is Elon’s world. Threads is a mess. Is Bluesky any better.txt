@@ -1,0 +1,147 @@
+<TITLE>X is Elon’s world. Threads is a mess. Is Bluesky any better?</TITLE>
+<PUBLISHED_DATE>2024-11-28</PUBLISHED_DATE>
+<URL>https://www.washingtonpost.com/style/of-interest/2024/11/28/what-is-better-bluesky-twitter-x-threads/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzMzMzc0ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM0NzU3MTk5LCJpYXQiOjE3MzMzNzQ4MDAsImp0aSI6ImQ0MzQyZWIxLTRlMzctNGY3OC04MTkzLTAzNDgxOWMzODI2MCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zdHlsZS9vZi1pbnRlcmVzdC8yMDI0LzExLzI4L3doYXQtaXMtYmV0dGVyLWJsdWVza3ktdHdpdHRlci14LXRocmVhZHMvIn0.C5fbZiyiuqcrSzWRy00-XxKckAKdwtEdmxd1UfX55KU&itid=gfta</URL>
+<AUTHOR>Maura Judkis</AUTHOR>
+
+<SUMMARY>
+Bluesky, a social media platform, saw a significant user increase after Elon Musk's takeover of X (formerly Twitter).
+-  Many users, dubbed "Twitter Quitters," migrated to Bluesky due to concerns over X's alignment with Musk's political views and perceived decline in moderation.
+-  Musk's ownership of X has allegedly prioritized right-wing voices and decreased moderation efforts, impacting the platform's user experience.
+-  Bluesky's launch, initially invitation-only, aims to provide a different social media environment.
+-  While similar to X in functionality, Bluesky avoids a paid verification system.
+-  Ultimately, the article highlights the user exodus from X and the potential of Bluesky to offer an alternative social media space.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Those entries are officially called posts, though some have taken to calling them “skeets” — a portmanteau of sky and tweets, though that word has an alternate, vulgar definition, which is part of the joke for people who use it.
+- The site also has a function called “starter packs,” user-generated topical lists of other users, which people can follow en masse.
+- It’s helped build up users’ followings rather quickly, and many new Blueskiers post about how much more engagement their posts get here, as compared to X or Threads, and how nice and earnest people were in the replies.
+- (Maybe a little too earnest for some X-fried, sardonic brains: “sorry I’m being such a hater but the vibe on bluesky rn is people who say ‘notorious RBG,’” posted one X user.
+- ) In fact, a scan of many November conversations on Bluesky seemed to often be about how great Bluesky was.
+
+</HIGHLIGHTS>
+<CONTENT>
+The day after the election, many people started to talk about moving to a better place.
+
+A place where liberals could thrive and speak freely without fear.
+
+A place where people were just nicer .
+
+Canada? No, they were talking about the social media site Bluesky, which nearly doubled its user base in the past month, exceeding 20 million users total.
+
+Underneath the leadership of Elon Musk, X (formerly Twitter) had become MAGA World.
+
+So people left with the digital equivalent of only the clothes on their back — abandoning their followings, taking only their usernames — and decided to make a new life on Bluesky.
+
+If that sounds dramatic, well, for many of them, it was.
+
+And they did not hesitate to post about it.
+
+People declared themselves “Twitter Quitters” or “#Ex-X.” “I spent yrs building up my Twitter account to have a large &amp; engaged following,” posted one user, mournfully, as though she had to abandon a chest of the family’s heirlooms in the Old Country.
+
+Still, they were happy to have escaped the ravages of the culture war over there.
+
+They began their journey to this new, promised land, not yet colonized by trolls and incels and bitcoin miners.
+
+Even just the name seemed to hint at a utopia.
+
+Blue skies.
+
+Fresh air.
+
+Here they were, with brand-new accounts and big first-day-of-school vibes and bios featuring lines like: “Guess I’m here now.” “Giving this a try!” “Twitter refugee.” “Here to make friends and spread happiness.” “Starting fresh here.
+
+Love it!” “It’s just kind of feel-good.
+
+No more doomscrolling,” says Jenn Takahashi, a San Francisco publicist and early adopter of the site.
+
+“I really do think that this is the death of Twitter.” That’s an event she’s been tracking.
+
+Takahashi is the person behind Best of Dying Twitter, an account that pokes fun at Musk and chronicles what she sees as the site’s missteps since his takeover.
+
+She started the account on X, but she’s already exceeded her follower count with the same handle on Bluesky.
+
+Since buying the site in 2022, Musk has elevated right-wing voices and decreased moderation for hate speech .
+
+Once he boosted and barnacled himself to Donald Trump, participating in X, for some people, felt like endorsing Musk’s worldview.
+
+People are “making decisions about what kind of communication infrastructure they’re going to use based on the political preferences of the owner of those platforms” and how those preferences are built into the platform’s design, says Joan Donovan, a Boston University media professor and founder of the Critical Internet Studies Institute.
+
+“In a way, to adopt X is to also adopt Musk’s political positions.” Even at its peak, Twitter never had the pull of Instagram or Facebook, whose user base vastly outnumbers it .
+
+But it did have an addictive quality that kept its superusers highly engaged: A 2019 Pew study found that 80 percent of all tweets came from only 10 percent of the site’s users.
+
+Bluesky, which launched as a Twitter research initiative in 2019 and became an independent company in 2021, was invitation-only until it opened to the public this past February.
+
+Its functionality is similar to X — post short, quippy thoughts and images for the whole world to see! — and it gives users options to view feeds that are personally curated or algorithmically driven.
+
+Unlike X, it does not offer a paid option to verify one’s profile and boost posts’ reach.
+
+That similarity to pre-Musk Twitter is what seems to have given it the edge over other competitors.
+
+Mastodon is too complicated .
+
+Threads, owned by Meta, throttles political speech and seems to boost strange tales of woe, leading Substacker Max Read to call it “ The gas-leak social network ” because “Everyone on the platform, including you, seems to be suffering some kind of minor brain damage.” (Posts that popped up on this reporter’s recent log-in to Threads included a post from a total stranger commemorating the 14th anniversary of their leg amputation, and another stranger inquiring what the human equivalent of dog food would be, because they were sick of cooking every single day.) “The only reason I go on Threads really is to post, ‘Hey, just a reminder, I’m on Bluesky,’” Takahashi says.
+
+“My whole algorithm I think is just, unfortunately for Threads, it’s all people saying, ‘Hey Bluesky is way better.’” A quick Bluesky primer: Content has a 300-character limit.
+
+Those entries are officially called posts, though some have taken to calling them “skeets” — a portmanteau of sky and tweets, though that word has an alternate, vulgar definition, which is part of the joke for people who use it.
+
+The site also has a function called “starter packs,” user-generated topical lists of other users, which people can follow en masse.
+
+It’s helped build up users’ followings rather quickly, and many new Blueskiers post about how much more engagement their posts get here, as compared to X or Threads, and how nice and earnest people were in the replies.
+
+(Maybe a little too earnest for some X-fried, sardonic brains: “sorry I’m being such a hater but the vibe on bluesky rn is people who say ‘notorious RBG,’” posted one X user.) In fact, a scan of many November conversations on Bluesky seemed to often be about how great Bluesky was.
+
+And how Blueskiers had to do whatever they could to keep it that way.
+
+The tipping point for Nichole Martino was when she saw a poll on X that asked users whether they would rather vote for Vice President Kamala Harris or Hitler.
+
+“And Hitler won, by 90 percent,” says the 35-year-old stay-at-home mom, a former daily X user who posted frequently about liberal politics.
+
+“It scared me.” She joined Bluesky after the election “and honestly, I wish I had known about it sooner,” she says.
+
+“Everyone is so educated.
+
+Everyone talks to each other like we’re people.” The problem, she says, is figuring out how to protect that vibe and the people who cultivate it.
+
+Once liberals began to depart for Bluesky, the accounts that exist to antagonize them began to migrate, too.
+
+How do Blueskiers keep this walled garden tidy? Martino and many others have been posting screenshots of accounts that they believe joined Bluesky to be trolls, urging people to block them.
+
+“I have to find every mean person that’s on here and make sure that all nice people know there’s a meanie in our midst,” Martino says.
+
+“I definitely think that we can keep that out if that’s what we continue to want.
+
+” “The openness of these platforms is the thing that eventually becomes what’s exploited,” Donovan says.
+
+“Whenever a social media company does scale, there are lots of trade-offs.
+
+And one of them is the capacity for communities to protect themselves from either surveillance or disruptive others.” Bluesky can’t be an online utopia forever.
+
+Where attention goes, commercial interests follow.
+
+The bitcoin scammers have already started.
+
+Brands and politicians are following.
+
+Bluesky is currently funded through venture capital and is exploring a subscription model for the site, which is currently free to use.
+
+Donovan cites internet scholar Cory Doctorow’s theory of “enshittification,” the slow decline of social media sites as they promote commercial interests over user experience.
+
+“With those incentives also come much broader challenges to the — you could call them vibes, but just the ability for communities to talk to one another,” says Donovan.
+
+The criticism is that because it lacks a diverse political spectrum of voices, Bluesky will become — or already is — an echo chamber.
+
+But as Rep.
+
+Alexandria Ocasio-Cortez (D-New York), an early adopter of the site, posted on Bluesky: “An echo chamber just won a presidential election.” Donovan has a better analogy.
+
+“I have often thought about social media as much more akin to a fast-food restaurant at 2 a.m.,” she says.
+
+“You’re going to be able to get away with a lot of things.
+
+But if the manager catches you, you’re out.”
+
+</CONTENT>

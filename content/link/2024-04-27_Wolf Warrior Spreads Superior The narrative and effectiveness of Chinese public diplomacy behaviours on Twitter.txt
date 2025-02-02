@@ -1,0 +1,260 @@
+<TITLE>Wolf Warrior Spreads Superior: The narrative and effectiveness of Chinese public diplomacy behaviours on Twitter</TITLE>
+<PUBLISHED_DATE>2024-04-27</PUBLISHED_DATE>
+<URL>https://link.springer.com/article/10.1007/s11366-024-09889-z?error=cookies_not_supported&code=2b31db57-a54d-4c09-ae5a-44184850d564</URL>
+<AUTHOR>Qin, Qian</AUTHOR>
+
+<SUMMARY>
+This academic article analyzes China's public diplomacy efforts on Twitter from 2010-2021.
+-  Following Xi Jinping's 2013 call for "telling China's stories well," Chinese diplomats and embassies significantly increased their Twitter presence.
+-  The number of tweets posted weekly rose sharply, particularly after 2015.
+-  While many accounts simply shared government information, some diplomats became more assertive, sometimes engaging in confrontations with foreign politicians, like when Foreign Ministry Spokesperson Zhao Lijian challenged Susan Rice.
+-  The study examined 482,119 tweets from 20 influential accounts, highlighting the evolving nature of China's online public diplomacy strategies.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- Hua Chunying is currently the one with the highest ranking (Director).
+- She once emphasized the significance of the role of Twitter communication in China's public policy by commenting that the Chinese diplomats are speaking in a "truthful, objective and impartial manner" on Twitter and other platforms to fight against "the dark and ugly world of disinformation" [ 44 ].
+- The Chinese government has been relatively silent on the achievement of its public diplomacy activities on Twitter or the increasing spread of wolf-warrior messages by its diplomats and state-affiliated media.
+- Therefore, this article aims at studying the effect of “wolf-warrior diplomacy” on audience engagement on Twitter, with an extended and comprehensive investigation on other critical features.
+- The article is structured into five sections.
+
+</HIGHLIGHTS>
+<CONTENT>
+Introduction In 2013, Xi Jinping pioneered the concept of "telling China's stories well" (jianghao zhongguo gushi) at a national conference on the work of publicity and ideology [ 100 ], one year after he took office as the president of China.
+
+The concept soon dominated China's overseas communication and public diplomacy strategies.
+
+Accordingly, the Chinese government, as well as the media, pursued to improve their international communication capability to present a "true, multi-dimensional and panoramic" (zhenshi liti quanmian) view of China to the overseas audience [ 101 ].
+
+As part of this trend, more and more senior diplomats, embassies, and significant state-affiliated media started to actively spread their opinions on the new virtual battleground – Twitter.
+
+Twitter is an Internet service where users communicate through "tweets," quick and frequent real-time messages [ 90 ].
+
+It is one of the most popular social media platforms, making it an important communication channel for government organizations worldwide [ 21 ].
+
+In recent years, with the development of the concept of public diplomacy in the digital era, Twitter has been increasingly employed by many countries as a more interactive tool for engaging the foreign public compared with traditional channels [ 12 , 25 , 33 ].
+
+Despite the popularity of Twitter, China did not formally march into this battlefield until 2013.
+
+That year, most accounts held by Chinese diplomats and embassies were registered.
+
+But China gained momentum to conquer this battlefield swiftly, for which Chinese diplomats actively gave their voice on Twitter to reach out to the international community and "tell China's stories well." This research retrieved 482,119 tweets posted by the 20 most influential official accounts in 2010–2021.
+
+As shown in Fig.
+
+1 , the number of tweets posted per week has significantly increased since 2013, particularly in 2015, when Xi Jinping used the term "telling China's stories well" more frequently in his speeches [ 81 ].
+
+Fig.
+
+1 Number of tweets posted per week changing with time Full size image While most Chinese embassies simply share the official information linked to their website, some diplomats are more active in playing a personal role in defending the policies made by the Chinese government.
+
+Some even air their views in a relatively aggressive way, which sometimes results in confrontation with foreign politicians.
+
+The trend has been captured by media and academia outside China since 2019, when Zhao Lijian, a Foreign Ministry Spokesperson, challenged Susan Rice on Twitter, the former United States national security adviser [ 70 ].
+
+“You are such a disgrace, too.
+
+And shockingly ignorant, too.
+
+I am based in Islamabad.
+
+Truth hurts.
+
+I am simply telling the truth,” Zhao fired back at Rice on Monday.
+
+“To label someone who speak the truth that you don’t want to hear a racist, is disgraceful &amp; disgusting.” (@zlj517, tweeted on 15 July 2019) Since then, Zhao Lijian and his colleagues have been labelled as “wolf-warrior diplomats Footnote 1 ” by overseas media and Chinese netizens [ 62 , 87 , 105 ].
+
+Wolf-warrior is a term coined from the record-breaking Chinese action movie series Wolf Warrior in which a Chinese special forces soldier fights with foreign mercenaries and protects Chinese civilians overseas.
+
+As the highest-grossing film in China until 2021, the Rambo-style action adventure catered to China's growing nationalist ambitions, along with anti-Wesr sentiment [ 11 , 75 ].
+
+It indicates a shift from the vague and evasive diplomatic parlance since Deng Xiaoping initiated the principle of "keeping a low profile" (taoguang yanghui) in the 1990s to the aggressive and emotional rhetoric in Xi's era [ 17 , 84 ].The authors notice that wolf-warrior diplomacy is sometimes perceived as China's assertive diplomatic approach, but the term is refined to refer to China's vigorous and even offensive behavior in public diplomacy and international communication.
+
+For the Chinese government, the primary goals of international communication, including the use of Twitter, are to eventually "have a greater voice on the world stage" and "foster a favorable external environment in terms of public opinion" [ 93 ].
+
+The goals are typical pursuits of governments in public diplomacy strategies, which are, in general, designed to influence the perceptions of others and to promote the legitimacy of respective governments' actions [ 66 ].
+
+While Twitter diplomacy is never used as an official term by the Chinese government, Hua Chunying, Foreign Ministry Spokesperson.
+
+There are usually three or four Foreign Ministry Spokespersons.
+
+Hua Chunying is currently the one with the highest ranking (Director).
+
+She once emphasized the significance of the role of Twitter communication in China's public policy by commenting that the Chinese diplomats are speaking in a "truthful, objective and impartial manner" on Twitter and other platforms to fight against "the dark and ugly world of disinformation" [ 44 ].
+
+The Chinese government has been relatively silent on the achievement of its public diplomacy activities on Twitter or the increasing spread of wolf-warrior messages by its diplomats and state-affiliated media.
+
+Therefore, this article aims at studying the effect of “wolf-warrior diplomacy” on audience engagement on Twitter, with an extended and comprehensive investigation on other critical features.
+
+The article is structured into five sections.
+
+The second section offers an in-depth review of existing academic work in relevant fields, encompassing the emerging phenomenon of Twitter diplomacy, the evolution of public diplomacy, China's Twitter strategies, and the information dissemination methodologies underpinning this research.
+
+The third section provides a detailed explanation of the research methodology and the data sources utilized.
+
+By introducing "user" as an independent variable in the negative binomial model, the methodology allows for the minimization of differences among specific accounts.
+
+This sets the stage for the "Findings" section, where the authors present the key results of our analyses and the primary interpretation.
+
+Finally, the concluding section encapsulates the implications of our research findings and assesses the validity of the initial hypotheses.
+
+Literature Review In this section, the authors explore the transformation of diplomacy from its traditional form, focusing on the rise of Twitter diplomacy.
+
+Further, the impacts on contemporary public diplomacy featured with social media are examined.
+
+Special attention is given to China's wolf-warrior diplomacy on Twitter and the implications for information dissemination and audience engagement.
+
+By analyzing these aspects, the review aims to provide a comprehensive understanding of the changing landscape of diplomacy in the age of social media, providing an academic background for the research questions.
+
+The authors also propose three hypotheses accordingly, as shown in Fig.
+
+2 .
+
+Fig.
+
+2 Mind map of the literature review Full size image The shift from traditional forms to public diplomacy Hierarchy, secrecy, and one-way communication with the public have been the principles of traditional diplomacy for centuries [ 8 , 9 ].
+
+In the past, diplomatic efforts primarily revolved around face-to-face negotiations, closed-door meetings, and official communiqués.
+
+However, the last century witnessed a vast expansion of technical possibilities when all major powers launched their programs to win support from their citizens and the rest of the world through communication technologies [ 26 , 31 ].
+
+Tracts and sermons were replaced by telegraphs and mass media, and the interaction between diplomats and foreign citizens had reached a new level [ 6 , 17 , 84 ].
+
+With the ability to directly influence foreign publics and even potentially instigate changes in their governments, the activities to persuade diplomats have become less attractive.
+
+The twenty-first century is marked by the rise of Twitter as a social media platform that has shaped international diplomacy from cagey doors to public interaction to advance their varied political and diplomatic strategies [ 12 , 25 , 33 ].
+
+Politicians and scholars have long noticed the novelty and power of Twitter in government agencies' communication strategies, especially in domestic politics [ 36 , 96 , 98 ].
+
+Previous research indicates that Twitter is a relatively formal platform for engaging with the public [ 38 ].
+
+With the popularisation of Twitter, leaders of governments can converse with cyber citizens of their own and other countries [ 40 ].
+
+In addition, world leaders use Twitter as a digital platform to promote their political agenda [ 15 ].
+
+Twitter offers faster, more global, and more interactive communication than traditional channels like radio, T.V., and print news.
+
+As a result, the concept of Twitter diplomacy, or "twiplomacy", emerged, referring to the use of Twitter by heads of state, diplomats, and governmental organizations to facilitate public diplomacy.
+
+Twitter diplomacy is prevalent as it enables two-way communication and straightforward dialogue between nations and their foreign populations, even among nations without formal diplomatic ties.
+
+Twitter itself is also evolving as a platform to accommodate political communications.
+
+Twitter has transformed secret diplomacy into public diplomacy, empowering political leaders, international organization heads, and diplomats to engage with target audiences more efficiently and even initiate debates on relevant issues [ 20 , 71 ].
+
+Twitter diplomacy allows leaders to develop new foreign policy initiatives by garnering widespread public appeal and directly involving foreign publics.
+
+Even though some people might post aggressively or offensively when commenting on politics, Twitter remains a valuable platform for fostering relationships among cyber citizens, independent of their leadership [ 91 ].
+
+By simply retweeting, cyber citizens can participate in policy debates and facilitate the spread of the ideas of diplomats, as retweeting can suggest endorsement and raise the visibility of the original content [ 79 , 94 ].
+
+Heine and Turcotte distinguished three levels of the use of Twitter by diplomats: (i) Basic: convey official information such as speeches and press releases; (ii) Intermediate: more personalized information recommending recent articles in the press; and (iii) Advanced: participate fully in the political debates, and even sometimes actively pursue the polemical subjects [ 41 ].
+
+While most of the tweets posted by Chinese diplomats are plain propaganda, which is the basic level, the tweets of wolf-warrior diplomats might be at a higher level of Twitter use.
+
+The features of public diplomacy in the social media era Public diplomacy refers to how diplomats, governments, individuals, and groups directly or indirectly impact public attitudes, which can further influence other governments and their foreign policy choices [ 82 ].
+
+Similarly, Manheim concludes that public diplomacy explains and speaks for governmental policy and represents a nation before foreign publics [ 60 ].
+
+According to his findings, strategic public diplomacy refers to government-public communication.
+
+Public diplomacy is also termed 'people's diplomacy,' which includes government-induced efforts to communicate with foreign publics directly as official attempts to win "the hearts and minds of people around the world"[ 36 , 57 ].
+
+In this sense, Joseph Nye points out that public diplomacy is a critical instrument of soft power [ 67 ].
+
+With the rise of social media, the features and dynamics of public diplomacy have transformed significantly.
+
+In the social media era, public diplomacy is no longer a one-way communication process but an interactive and participatory practice that engages diverse audiences on multiple levels.
+
+For academia, public diplomacy has been of growing interest in fields such as communications, public affairs, public relations, and place branding in recent years [ 24 ].
+
+The real-time nature of social media enables diplomats to respond quickly to international events and crises, creating new demands for openness, transparency, real-time communication, and public engagement in diplomatic activities [ 50 ].
+
+Government entities of nations such as Pakistan and India engage actively on social media platforms, even though their interactions are predominantly confined to their citizens [ 46 ].
+
+Also, many social media accounts are held by individual diplomats rather than embassies or agencies, making the information disseminated relatively personalized and sometimes informal [ 61 , 80 ].
+
+In summary, the intersection of public diplomacy and social media has created a new landscape for diplomatic engagement.
+
+Public diplomacy creates an environment that enables the successful conduct of traditional diplomatic activities and impacts domestic public opinion and politics in other countries.
+
+However, the understanding of digital diplomacy's implementation on Twitter, the online engagement involving embassies and ambassadors, and the extent to which disseminated information correspond with the interests of their respective stakeholder groups remains limited, particularly in the realm of quantitative empirical research [ 86 ].
+
+The prevalence of negative emotions and confrontational communication styles in social media content significantly reshaped public diplomacy.
+
+It underscores the need for a nuanced understanding of the impact of such communication strategies on the potential consequences of diplomatic engagement.
+
+The authors' research will contribute to the broader scholarly conversation on international relations and public diplomacy.
+
+China’s wolf-warrior diplomacy on Twitter China's public diplomacy strategies have evolved along with the development of social media.
+
+The Chinese government employed public diplomacy tools in the 2000s to project a more positive image of China, i.e., a "trustworthy, cooperative, peace-loving, developing country that takes good care of its enormous population" [ 27 ].
+
+In 2004, China's Ministry of Foreign Affairs and Trade created a Public Diplomacy Division within the Information Department, accompanied by a series of costly public diplomacy programs such as Confucius Institutes, promotional videos in New York's Times Square, and multi-language television broadcasts [ 76 ].
+
+However, in the era of Xi Jinping, aggressive and emotional rhetoric had increasingly supplanted the ambiguous and elusive diplomatic language that was prevalent since the 1990s, when Deng Xiaoping introduced the principle of "keeping a low profile" (tagging yang hui) [ 17 , 84 ].
+
+The term "wolf-warrior diplomacy," used by mainstream foreign media and academia, emerged gradually [ 42 , 62 , 97 , 105 ].
+
+While the term "wolf-warrior diplomacy" is sometimes refers to aggressive and assertive communications or even physical actions of China's officials, in this paper, the authors use a more constrained and practical definition, i.e., the use of offensive language in China's public diplomacy, particularly on Twitter [ 29 , 62 , 87 ].
+
+Chinese public diplomacy shifted from evading controversy [ 64 ] and using cooperative rhetoric [ 28 ] to coercive and confrontational diplomacy to combat criticism and pursue superiority in the international hierarchy.
+
+Moreover, a confrontational policy can assist the Chinese government in realizing its ambition to thwart foreign governments' efforts to gain "discourse power" in global politics, potentially paving the way for an alternative to the current US-led international order in the long run [ 34 ].
+
+Wolf warrior diplomacy constitutes part of the new foreign policy strategy termed Xi Jinping's "Major Country Diplomacy" (daguowaijiao), which involves the pursuit of more active participation in world affairs, showing power instead of hiding and taking harder on the Western world on ideological grounds [ 83 ].
+
+Chinese current hawkish rhetoric and aggressive diplomatic push resemble wolf warrior diplomacy adopted in 2017 and are more in line with “Xi Jinping Thinking” on diplomacy [ 42 ].
+
+This shift in policy changed Chinese diplomats' tone, which turned out to be more direct and argumentative [ 97 ].
+
+Chinese officials regard wolf-warrior diplomacy as an "essential" riposte to Western diplomats over social media.
+
+The use of the Twitter account in late 2020 by Zhao won vigorous applause from Chinese nationalists within the country, while Wuheqilin's Sina Weibo account, a Chinese self-styled wolf-warrior artist, doubled his followers to 1.24 million [ 18 ].
+
+Although Chinese diplomats are tweeting in English and Twitter is blocked by the Great Firewall in China, which indicates that the target audience would likely be foreign nationals, Chinese people are enthusiastically translating the tweets and foreigners' responses into Chinese and sharing them on social media in China.
+
+A shift from traditional public diplomacy to wolf-warrior diplomacy helps arouse pride in the Chinese nation, which could motivate diplomats to continue using the strategies.
+
+Also, as discussed in the following sections, the wolf-warrior communication strategy enhances the effectiveness of information dissemination and audience engagement.
+
+Information dissemination and influential factors It is essential to explore how information spreads on social media platforms such as Twitter to understand the impact of Chinese Twitter diplomacy.
+
+Information dissemination is influenced by user preferences and recommendation algorithms, which can amplify specific messages and reduce the visibility of others [ 45 ].
+
+Research has shown that a vast majority of sharing behaviors on social media can lead to significant dissemination of information [ 54 ].
+
+Another study found that a small number of users who share information online can significantly influence the spread of information, including fake news and political content [ 37 ].
+
+This is particularly relevant for Chinese Twitter diplomacy, as retweets, a form of audience engagement, can significantly influence the reach and impact of official messages.
+
+Thus, the authors choose the number of retweets as the research indicator.
+
+Therefore, understanding the effects of retweet behavior and the factors that influence it is crucial for effective Chinese Twitter diplomacy.
+
+From the psychological perspective, the negativity bias theory provides a controversial explanation for how emotions influence information dissemination.
+
+The negativity bias theory indicates that people share negative expressions over social media networks because negative emotions can arouse readers [ 56 ].
+
+Moreover, negative words in a message commonly show distinctiveness and novelty compared to positive words [ 43 ].
+
+Previous studies have employed text-mining technology to extract textual features for various purposes [ 89 ].
+
+With natural language processing techniques advancements, researchers can use a broader range of methods to uncover factors influencing audience engagement [ 58 ].
+
+Emotions have been a focal point of many studies, with some researchers exploring whether positive or negative emotions can expand the readership of information, yielding controversial outcomes [ 10 , 32 , 56 ].
+
+Other researchers have focused on the impact of personal attitudes.
+
+They calculate the average of topic emotions from the sentiment score of each essay to obtain personal attitudes, which have been verified as a critical factor in explaining information dissemination and news diffusion [ 68 ].
+
+Text features are also crucial in improving text visibility.
+
+Hashtags, for example, have revolutionised how social media users search and classify information, attracting a wide range of users [ 16 ].
+
+In addition to examining emotions and hashtags, researchers have also analyzed the role of information volume in text.
+
+However, accurately measuring the quantity of information in a news article or te
+
+</CONTENT>

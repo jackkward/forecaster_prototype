@@ -1,0 +1,364 @@
+<TITLE>Journalism, media, and technology trends and predictions 2025</TITLE>
+<PUBLISHED_DATE>2025-01-09</PUBLISHED_DATE>
+<URL>https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2025</URL>
+<AUTHOR>Nic Newman Federica Cherubini 9th January 2025</AUTHOR>
+
+<SUMMARY>
+The 2025 journalism landscape faces significant challenges, including increased political attacks, economic headwinds, and AI-driven content disrupting traditional search traffic.
+-  A survey of 326 digital leaders reveals low confidence in journalism's future (41%), though confidence in business prospects is higher (56%).
+-  Publishers are concerned about declining search engine referrals, especially with AI-generated summaries, and are shifting resources to video platforms (e.g., YouTube, TikTok) and AI platforms (e.g., ChatGPT) to combat this.
+-  Despite the uncertainty, some publishers are optimistic about potential traffic boosts from a possible second Trump presidency, but re-engaging audiences and attracting new ones are major goals.
+-  A key takeaway is the growing shift in media consumption towards alternative sources and AI-generated content, and the need for traditional news organizations to adapt.
+
+
+</SUMMARY>
+<HIGHLIGHTS>
+- All these automated news services raise existential questions for journalists and news publishers about their role in this new ecosystem.
+- If people can access summaries of the best content for free, why would they click on to publisher websites.
+- Will any money offered by platforms last? And will it compensate for the loss of traffic?   Then there is the issue of equity.
+
+</HIGHLIGHTS>
+<CONTENT>
+News organisations are braced for multiple challenges in 2025 that will likely include further attacks from hostile politicians, continued economic headwinds, and battles to protect intellectual property in the face of rapacious AI-driven platforms.
+
+Changes to search, in particular, will become a major grievance for a news industry that has already lost social traffic and fears a further decline in visibility as AI interfaces start to generate ‘story like’ answers to news queries.
+
+The US election also highlighted the growing power of an alternative news ecosystem that includes partisan personalities and creators that often operate outside journalistic norms, and some say have now eclipsed the mainstream media in terms of both influence and trust.
+
+
+ Despite these difficulties many traditional news organisations remain optimistic about the year ahead – if not about journalism itself.
+
+Uncertain times tend to be good for business and the prospect of ‘Trump unleashed’ 1 could lead to a surge in web traffic and even in subscriptions.
+
+But this is by no means guaranteed.
+
+One key challenge will be to re-engage audiences that have fallen out of the habit of consuming news over recent years and to find ways of attracting the next generation.
+
+Many publishers will be looking to dramatically upscale the quality of their own websites, create more personalised news experiences, and invest further in audio and video.
+
+With consumer expectations moving at a rapid pace, embracing change while staying true to core journalistic values will be the key balancing trick for the year ahead.
+
+
+ How media leaders view the year ahead 
+ These are the main findings from our industry survey, drawn from a strategic sample of 326 digital leaders from 51 countries and territories.
+
+
+ 
+ Just four in ten (41%) of our sample of editors, CEOs, and digital executives say they are confident about the prospects for journalism in the year ahead, with one in six (17%) expressing low confidence.
+
+Stated concerns relate to political polarisation, a rise in attacks on the press, and media capture – all of which in combination are seen as significant threats to journalism’s ability to operate freely.
+
+
+ More positively, just over half (56%) say they are confident about their own business prospects, a significant jump on last year’s figure.
+
+Many publishers expect traffic boosts amid the expected chaos of a second Trump presidency, others report continuing growth in online subscriptions, while others still think that the rapid growth of unreliable AI-generated content could bring audiences back to trusted media.
+
+
+ Meanwhile, around three-quarters (74%) of our survey respondents say they are worried about a potential decline in referral traffic from search engines this year.
+
+Data sourced for this report from analytics provider Chartbeat shows that aggregate traffic to hundreds of news sites from Google search remains stable for now but publishers fear the extension of AI-generated summaries to important news stories.
+
+This comes after big falls in referral traffic to news sites from Facebook (67%) and Twitter (50%) over the last two years.
+
+2 
+ In response to these trends, publishers will be putting more effort this year into building relationships with AI platforms (+56 net score 3 ) such as ChatGPT and Perplexity, both of which have been courting high-quality content in return for citations and/or money.
+
+With consumer attention switching to video, more publisher effort is also being planned for YouTube (+52) and TikTok (+48) – despite a possible ban in the United States early in 2025 – as well as Instagram (+43).
+
+
+ By contrast, publisher sentiment towards X/Twitter (-68 net score) has worsened this year following the politicisation of the network under Elon Musk.
+
+The Guardian , Dagens Nyheter , and La Vanguardia are amongst those to have stopped posting on the platform, with Bluesky (+38) a key beneficiary.
+
+Google Discover (+27) is becoming a more important – if volatile – traffic source that has become critical to many news businesses over the last year.
+
+Our survey finds publishers ambivalent but also realistic about their dependence on platforms overall, with a similar proportion looking to cut ties (31%) as strengthen them (31%).
+
+Most of the rest (36%), are planning to maintain ties at existing levels.
+
+
+ On the business side, almost four in ten (36%) of our commercial publishers expect licensing income from tech and AI companies to be a significant revenue stream – twice as many as last year.
+
+But the amount and structure of any deals remain a point of contention.
+
+The majority of our survey respondents (72%) said they would prefer to see collective deals that benefited the whole industry rather than each company negotiating in their self-interest (19%), which is mostly what has been happening.
+
+A further 6% say they would rather not enter into any deals.
+
+
+ More widely, subscription and membership remain the biggest revenue focus (77%) for publishers, ahead of both display (69%) and native advertising (59%).
+
+The majority are now relying on three or four different revenue streams, including events (48%), affiliate revenue (29%), donations (19%), and related businesses (15%).
+
+
+ With subscription growth slowing, new product development is set to be a more important priority in the year ahead.
+
+More than a quarter of our publisher respondents say they are actively thinking about or planning to launch new products around games (29%) or education (26%) with one-fifth (20%) looking to launch an international or foreign language version.
+
+Many of these new products are likely to be bundled into ‘all-access’ subscriptions in a bid to reduce churn.
+
+At the same time more than four in ten (42%) say they’ll be looking to launch or trial a ‘youth’ product this year.
+
+
+ Meanwhile news organisations’ use of AI technologies continues to increase across all categories, with back-end automation (60%) considered very important by publisher respondents, many of whom have rolled out AI toolkits to support new workflows this year.
+
+The vast majority (87%) say that newsrooms are being fully or somewhat transformed by Gen AI, with just 13% saying not so much or not at all.
+
+
+ Audience-facing uses of AI are likely to proliferate in 2025 with publishers leaning into format personalisation as a way of increasing engagement.
+
+In our survey the majority said they would be actively exploring features that turn text articles into audio (75%), provide AI summaries at the top of stories (70%), or translate news articles into different languages (65%).
+
+Over half (56%) of respondents said they would be looking into AI chatbots and search interfaces.
+
+Not all these experiments will make it into full production but the direction of travel is clear.
+
+
+ More widely, respondents expect to see tech platforms developing and promoting their AI agents this year – many coming with improved conversational interfaces.
+
+OpenAI’s ChatGPT now comes with advanced voice features and both Siri and Alexa are getting an upgrade.
+
+Around one-fifth (20%) think these interfaces will be the ‘next big thing’, with half (51%) expecting more of a ‘slow burn’ impact.
+
+
+ Publishers are in two minds about whether the trends towards influencers and creators is good or bad for journalism.
+
+Around a quarter (27%) take a negative view, worrying that institutional news reporting could get squeezed out, but others (28%) are more positive, feeling that there is much that news organisations can learn in terms of storytelling creativity and building communities.
+
+
+ Linked to the above, some publishers worry about losing their editorial stars in a more personality-led ecosystem.
+
+But a bigger concern is around attracting and retaining talent in product and design (38%), data-science (52%), and engineering (55%) at a time when new product development is becoming more important than ever.
+
+
+ 
+ 
+ Words and phrases we could be hearing more of in 2025… 
+ 
+ AI Slop 
+[/ ai slɔp /’] noun 
+ Def: Sometimes also simply slop.
+
+Low-quality media – including writing and images – made using Generative AI technologies.
+
+Widely used in newspaper headlines warning of dangers of slop compared to the value of journalism.
+
+
+ Agentic 
+[/əˈd͡ʒɛn.tɪk/] adjective 
+Def: Able to express agency on one’s own behalf or that of another.
+
+Will increasingly be used this year in the context of Gen AI agents that exercise control by anticipating our needs.
+
+
+ Brain Rot 
+[/ˈbrein rɔt /] noun 
+Def: Supposed deterioration of a person’s mental or intellectual state, as the result of overconsumption of material (esp.
+
+online) considered to be trivial or unchallenging.
+
+Oxford University Press word of 2024.
+
+
+ Influencer 
+[/influɛncɛr’] noun 
+Def: A person who is able to influence consumption, lifestyle or political preferences of online audiences by creating engaging content on social media.
+
+Often used disparagingly by journalists in the context of news.
+
+
+ 
+ 
+ The remainder of this report is divided into nine themes or chapters with a discussion of each followed by some more specific predictions about what might happen in 2025.
+
+Listen to this AI generated podcast made using NotebookLM which covers findings from the report.
+
+
+ 
+ 
+ 
+ 1.
+
+Journalism embattled but unbowed 
+ While many publishers have confidence in their own news organisations, this year’s survey shows an alarming decline in confidence in journalism in just a few short years.
+
+Only four in ten (41%) say they are confident, down 19pp from the figure in our 2022 poll.
+
+The proportion that says they are not confident has risen from 10% to 17% over the same period.
+
+
+ 
+It’s not difficult to see why this is happening.
+
+Across the world – and especially in societies that have become increasingly polarised – prominent politicians have been attacking or looking to undermine independent journalists, scrutinising their actions with threats, lawsuits, or worse.
+
+In a growing number of countries existing or new legislation, including national-security type laws, is being used to make it harder or more dangerous for journalists to operate.
+
+
+ There is a growing trend in Latin America to pass ‘foreign agent’ types of laws that mirror initiatives from Hungary or Russia.
+
+The goal is to crack down on civil society that exposes corruption, reports about organised crime and defends human rights or the environment 
+ Jazmín Acuña, Co-founder and Editorial Director, El Surtidor, Paraguay 
+ But it is not just direct attacks.
+
+Politicians are increasingly finding ways to bypass the media entirely.
+
+In the recent US election, the two main candidates Donald Trump and Kamala Harris largely avoided mainstream news outlets, preferring to use their own channels or talk with alternative sources such as podcasters or YouTubers.
+
+In Trump’s case, key messages were then amplified by a network of social media outriders.
+
+4 ‘The Trump victory has confirmed the media influence in the public is deteriorating rapidly, even more than we thought,’ says Emilio Doménech, CEO of Watif in Spain.
+
+
+ 
+ Donald Trump’s appearance on Joe Rogan’s podcast and Kamala Harris’s on Alex Cooper’s Call Her Daddy have highlighted the declining influence of traditional TV channels 
+ 
+ These tactics have proved particularly effective at engaging those who rarely access (and have low trust in) the established media – and not just in the United States.
+
+Calin Georgescu rose from near obscurity to top the poll in the first round of the Romanian presidential election, fuelled by a combination of populist, anti-establishment rhetoric and a hugely successful social media campaign, principally via TikTok.
+
+5 His account showed him horse riding, vigorously exercising, and attending church, and he largely avoided media set pieces such as TV debates.
+
+Accusations of foreign (Russian) interference means that the elections will now be rerun but it is far from clear that the result was not a reflection of the popular mood.
+
+
+ Of course, the undermining of the news media doesn’t just come from politicians: ‘You are the media now’, said Elon Musk, suggesting that posts on his social media platform are now as credible as content from traditional news outlets.
+
+With mainstream media hampered by low trust and difficult economics, this chorus of criticism could prove hard to counter this year.
+
+
+ The populist/authoritarian headwinds are considerable.
+
+They are having a significant impact on both our journalism and our business.
+
+We are dependent on the health of our clients and many of our clients are facing significant political and economic pressures.
+
+
+ Phil Chetwynd, Global News Director AFP, France 
+ Around 2,500 jobs were lost in 2024 in major markets according to Press Gazette , following around 8,000 the previous year.
+
+The Wall Street Journal , the Guardian , Daily Mail , Vox, Axios, and the Daily Maverick are just some of the brands affected.
+
+
+ Television news faces a year of downsizing around the world as audience attention shifts to streaming platforms.
+
+In the United States CNN is braced for hundreds of layoffs and has lost around a third of its audience since the election.
+
+Public broadcasters are also struggling to attract audiences for traditional news shows and many also face attacks from mostly right-wing politicians and ‘defund’ pressure groups.
+
+In Switzerland public broadcaster SRG SSR is facing another referendum which threatens to cuts its funding in half.
+
+The BBC is amongst those to have cut staff and key news programmes in 2024.
+
+
+ The lack of funding and financial resources for quality, independent journalism … weighs heavily on my mind.
+
+I see no signs that this downward trend will improve in the coming year.
+
+It’s disheartening to witness such a critical pillar of democracy struggle at a time when its presence and integrity are more needed than ever.
+
+
+ Daniel Bramon Batlle, 3Cat, Spain 
+ Despite this, over half of our survey respondents (56%), many of whom represent richer subscription-based publishers in Northern Europe or the United States, remain confident about their business prospects despite the tough economic and political outlook.
+
+
+ 
+Sentiment amongst publishers, overall, remains defiant, with a strong belief that at times of uncertainty independent journalism will be more important than ever.
+
+Persuading audiences of that in an increasingly hostile and polarised environment will be the key challenge for the year ahead.
+
+
+ What may happen this year 
+ 
+ Trump steps up attacks on the news media: Donald Trump has threatened to cancel broadcast licences of TV networks over ‘unfair’ coverage and to jail journalists who refuse to reveal sources.
+
+These threats may not be carried out, but the rhetoric could have a chilling effect on media coverage.
+
+Trump is likely to restrict access for mainstream journalists, potentially even in the White House briefing room, and cosy up further to supportive ‘alternative’ media.
+
+Federal funding to public broadcasters will be likely be cut along with that for non-profits engaged in fact-checking, which Trump considers to be censorship.
+
+
+ News media get less confrontational: Expect to see a different approach this time round, with less media outrage about Trump’s lies and more coverage of the impact of his policies.
+
+The non-endorsement of Kamala Harris by the Washington Post may also be a sign that some owners may not be willing to put their wider commercial interests in the firing line over the next four years, despite a wave of cancellations from digital subscribers and the resignation of prominent columnists.
+
+6 
+ Trump playbook replayed elsewhere: Populist politicians around the world have taken note and are busy building and incentivising alternative networks to amplify their messages through digital channels.
+
+Expect claims of foreign interference (as in Romania, Germany) to become an increasing focus for security services, with more pressure on platforms at election time.
+
+
+ 
+ 2.
+
+Disruption of search poses existential challenge 
+ In last year’s report we showed how referral traffic to publishers from Facebook had collapsed as the network pulled back from news and invested instead in more ‘joyful’ creator content.
+
+Traffic from X also fell significantly as Elon Musk made the network less publisher-friendly.
+
+But now publishers are worried that search traffic may be next to fall as the big players integrate AI-generated summaries that could further reduce exposure to news links.
+
+
+ Data from the analytics company Chartbeat from almost 2,000 news sites, sourced for this report, give a good overview of the impact of platform changes.
+
+Aggregate Facebook traffic to news and media properties has declined by two-thirds (67%) in the last two years and traffic from X is down by a half (50%).
+
+However, there does not yet appear to be any decline in aggregate traffic from Google Search, despite reports to the contrary by some individual publishers.
+
+7 At the same time, Google Discover, a set of personalised news links that are shown via the Chrome browser on mobile devices and via the Google app, has grown significantly over the last year (+12%) and delivers more combined traffic than organic search.
+
+
+ 
+Google was initially cautious in its rollout of its ‘AI overview’ feature (real-time answers to specific questions) after an early version suggested using non-toxic glue to make cheese stick to pizza.
+
+So far, queries around important news stories have been largely excluded but publishers worry that this will change, turning multiple blue traffic-generating links into a smaller number of ‘citations’.
+
+Google argues that links within AI overviews deliver more click-throughs than in a traditional web listing, though there may be fewer links visible overall.
+
+But new competition is on the way in the form of OpenAI’s Search GPT and Perplexity.
+
+These AI disrupters will feel less constrained than Google as they combine the power of foundational LLMs (Large Language Models) with real-time indexes of information to significantly improve the search experience.
+
+
+ ChatGPT Search, launched at the end of 2024, gives a sense of where the new landscape may be headed.
+
+It draws its results from a range of sources with whom OpenAI has been doing deals.
+
+These include a licensing arrangement reportedly worth around $250m over five years with News Corp, which owns brands such as the Wall Street Journal , the New York Post , The Times , and the Sun .
+
+8 Reuters, the AP, Financial Times , and Le Monde have also agreed significant deals.
+
+In this example a query about Syria brings back not a ‘snippet’ but an aggregated story with citations at the end of each paragraph.
+
+
+ 
+ Towards the bottom of the article, there is a box containing more conventional blue links.
+
+In this arrangement, publishers that have signed deals get preferential treatment.
+
+At the same time, the platform (OpenAI) benefits from credible information that has been checked by journalists.
+
+
+ 
+ OpenAI’s approach to try to do deals with a small number of premium publishers is being mirrored by Apple and Amazon (for its Alexa platform).
+
+By contrast, Google has so far chosen not to pay specifically for AI overviews, while X has updated its terms of service to allow content posted to its platform to be used without explicit consent or compensation.
+
+Other key players such as Perplexity and ProRata, which will be launching its own search engine Gist.ai in early 2025, are offering revenue share options for publishers.
+
+
+ But these new-style aggregations are not going to stop with search queries.
+
+Perplexity recently added a ‘For You’ page, a constantly updating personalised news service.
+
+An automated elections results hub was created for the US elections that was hard to distinguish from those on the websites of major news sites.
+
+
+ Particle is a mobile app that offers real-time summaries of multiple stories in a personalised interface.
+
+Links to the originating stories are shown, but below the fold.
+
+Grok Stories, now available for free on X, is another automated news service dra
+
+</CONTENT>
