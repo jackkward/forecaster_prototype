@@ -1,5 +1,4 @@
 import os
-import json
 import re
 import logging
 from pathlib import Path
@@ -27,7 +26,7 @@ class BatchDecisions(BaseModel):
     decisions: List[str]
 
 class ClaudeQuestioner:
-    def __init__(self, api_key: str, model: str = "claude-3-sonnet-20240229"):
+    def __init__(self, api_key: str, model: str = "claude-3-5-sonnet-20241022"):
         """
         Initialize the questioner with an Anthropic API key.
         """
@@ -80,18 +79,19 @@ class ClaudeQuestioner:
             text = Path(file_path).read_text(encoding="utf-8")
             content_match = re.search(r"<CONTENT>(.*?)</CONTENT>", text, re.DOTALL)
             if content_match:
-                return content_match.group(1).strip()
+                return ' '.join(content_match.group(1))
+                # return content_match.group(1).strip()
             else:
                 logging.warning("No <CONTENT> tags found in %s", file_path)
         except Exception as e:
             logging.error("Error reading full content from %s: %s", file_path, e)
         return ""
 
-    def _filter_relevant_articles_human_like(self, question: str, cache: List[dict], batch_size: int = 5) -> List[str]:
+    def _filter_relevant_articles_human_like(self, question: str, cache: List[dict], batch_size: int = 10) -> List[tuple]:
         """
         Process the cache of article summaries in batches.
         For each batch, ask the LLM (via OpenAI's structured outputs API) to decide whether each summary is relevant.
-        The expected output is a JSON object with a single key 'decisions', whose value is a list of "yes"/"no" strings.
+        Returns a list of tuples containing (file_path, relevance_decision).
         """
         relevant_files = []
         for i in range(0, len(cache), batch_size):
@@ -103,9 +103,9 @@ class ClaudeQuestioner:
                 f"You are reviewing article summaries to decide if the full article might help answer the question:",
                 f"\"{question}\"",
                 "",
-                "For each summary below, respond with only 'yes' or 'no' in a JSON object.",
+                "For each summary below, respond with only 'highly relevant', 'relevant', or 'not relevant' in a JSON object.",
                 "Your output must be valid JSON, following this schema:",
-                '{"decisions": [ "yes", "no", ... ]}',
+                '{"decisions": [ "highly relevant", "relevant", "not relevant"]}',
                 "",
                 "Summaries:",
             ]
@@ -131,14 +131,31 @@ class ClaudeQuestioner:
                 
                 for decision, item in zip(decisions, batch):
                     logging.debug(f"Summary: {item['summary'][:100]}... -> Decision: {decision}")
-                    if decision == "yes":
+                    if decision in ["highly relevant", "relevant"]:
                         logging.info(f"Selected article: {Path(item['file_path']).name} (Decision: {decision})")
-                        relevant_files.append(item["file_path"])
+                        relevant_files.append((item["file_path"], decision))
             except Exception as e:
                 logging.error("Error during batch relevance evaluation: %s", e)
         logging.info("Filtered down to %d relevant articles using human-like evaluation.", len(relevant_files))
         return relevant_files
 
+    def get_token_count(self, messages: list) -> int:
+        """
+        Use Anthropic's token counter to count tokens for the current system prompt and conversation.
+        """
+        try:
+            token_response = self.anthropic_client.messages.count_tokens(
+                model=self.model,
+                system=self.system_prompt,
+                messages=messages
+            )
+            token_count = token_response.input_tokens
+            logging.info("Current token count: %d", token_count)
+            return token_count
+        except Exception as e:
+            logging.warning("Could not count tokens: %s", e)
+            return 0
+    
     def load_context(self, scenario_name: str, question: str = "") -> None:
         """
         Load context from a directory of articles. Optionally filter for relevant articles using a question.
@@ -157,41 +174,23 @@ class ClaudeQuestioner:
             relevant_files = self._filter_relevant_articles_human_like(question, cache)
         else:
             logging.info("No question provided; using all available articles.")
-            relevant_files = [item["file_path"] for item in cache]
+            relevant_files = [(item["file_path"], "included") for item in cache]
 
         if not relevant_files:
             raise ValueError("No relevant articles found for the given question.")
 
         context_parts = []
-        for file in relevant_files:
-            content = self._load_full_content(file)
+        for file_path, decision in relevant_files:
+            content = self._load_full_content(file_path)
             if content:
-                file_stem = Path(file).stem
-                context_parts.append(f"=== {file_stem} ===\n{content}")
-                logging.info("Loaded content from %s (%d characters)", file, len(content))
+                file_stem = Path(file_path).stem
+                context_parts.append(f"=== {file_stem} (Relevance: {decision}) ===\n{content}")
+                logging.info("Loaded content from %s (%d characters)", file_path, len(content))
             else:
-                logging.warning("Skipping %s due to empty content.", file)
+                logging.warning("Skipping %s due to empty content.", file_path)
 
         self.context = "\n\n".join(context_parts)
-        logging.info("Final context loaded from %d files (total length %d characters)",
-                     len(context_parts), len(self.context))
-
-    def get_token_count(self, messages: list) -> int:
-        """
-        Use Anthropic's token counter to count tokens for the current system prompt and conversation.
-        """
-        try:
-            token_response = self.anthropic_client.messages.count_tokens(
-                model=self.model,
-                system=self.system_prompt,
-                messages=messages
-            )
-            token_count = token_response.input_tokens
-            logging.info("Current token count: %d", token_count)
-            return token_count
-        except Exception as e:
-            logging.warning("Could not count tokens: %s", e)
-            return 0
+        logging.info("Final context loaded from %d files)", len(context_parts))
 
     def ask_question(self, question: str) -> str:
         """
@@ -224,10 +223,11 @@ class ClaudeQuestioner:
         try:
             response = self.anthropic_client.messages.create(
                 model=self.model,
-                max_tokens=4096,
-                temperature=0,
+                max_tokens=8000,
+                temperature=0.2,
                 system=self.system_prompt,
-                messages=self.conversation_history
+                messages=self.conversation_history,
+                extra_headers={"anthropic-beta": "max-tokens-3-5-sonnet-2024-07-15"}
             )
             answer = response.content[0].text
             logging.info("Received answer (first 100 chars): %s", answer[:100])
@@ -247,8 +247,8 @@ class ClaudeQuestioner:
             self.conversation_history = []  # Reset history for each question.
             answer = self.ask_question(question)
             qa_pairs.append((question, answer))
-            # Uncomment the following sleep if needed to avoid rate limiting.
-            # sleep(120)
+            if len(questions) > 1: # Avoid rate limiting
+                sleep(120)
         return qa_pairs
 
 def save_results(scenario_name: str, results: str) -> None:
@@ -275,7 +275,7 @@ def main():
         raise ValueError("Please set the OPENAI_API_KEY environment variable.")
 
     # Define scenario and questions file.
-    scenario_name = "syria_general"
+    scenario_name = "taiwan"
     questions_file = Path(f"scenario_eval/{scenario_name}/questions.txt")
     if not questions_file.exists():
         raise FileNotFoundError(f"Questions file not found: {questions_file}")
